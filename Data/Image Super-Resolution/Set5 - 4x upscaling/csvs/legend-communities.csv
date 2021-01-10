@@ -1,0 +1,37 @@
+number,name
+1,"('Harbin Institute of Technology', 4)&('Tsinghua University', 3)&('Graz University of Technology', 2)&(""Xi'an Jiaotong University"", 1)&('Sun Yat-sen University', 1)&('Hong Kong Polytechnic University', 1)"
+2,"('University of Illinois at Urbana–Champaign', 9)&('IBM', 2)&('Huazhong University of Science and Technology', 1)"
+3,"('Twitter', 11)&('Imperial College London', 1)"
+4,"('The Chinese University of Hong Kong', 5)&('Chinese Academy of Sciences', 4)&('Harbin Institute of Technology', 1)&('Microsoft', 1)"
+5,
+6,"('Sichuan University', 6)&('University of California, Santa Barbara', 1)&('University of British Columbia', 1)&('Incheon National University', 1)"
+7,"('Northeastern University', 6)&('University of Rochester', 1)&('Huaqiao University', 1)"
+8,"('Seoul National University', 8)"
+9,"('Xidian University', 5)"
+10,"('Yonsei University', 6)"
+11,"('Nanjing University of Science and Technology', 5)"
+12,"('Tsinghua University', 3)&('Tencent', 1)"
+13,"('Hong Kong Polytechnic University', 5)"
+14,"('Peking University', 3)&('Chinese Academy of Sciences', 1)&('Dalian University of Technology', 1)"
+15,"('Tsinghua University', 4)&('China Three Gorges University', 1)"
+16,"('University of Florida', 4)"
+17,"('The Chinese University of Hong Kong', 3)&('University of Toronto', 1)&('Adobe Systems', 1)"
+18,"('Toyota Technological Institute', 1)"
+19,"('Max Planck Society', 4)"
+20,"('Harbin Institute of Technology', 4)"
+21,
+22,"('Hong Kong Polytechnic University', 2)&('Guangdong University of Technology', 1)&('Shenzhen University', 1)"
+23,"('University of Bern', 3)&('University of Maryland, College Park', 1)"
+24,
+25,"('Ajou University', 3)"
+26,"('Wuhan University', 1)"
+27,
+28,"('Weizmann Institute of Science', 2)"
+29,"('ETH Zurich', 3)"
+30,"('Technion – Israel Institute of Technology', 2)&('University of California, Santa Cruz', 1)"
+31,"('University of Ontario Institute of Technology', 3)"
+32,"('Stanford University', 3)"
+33,"('Wuhan University', 2)"
+34,
+35,
+36,"('Technische Universität Darmstadt', 2)"

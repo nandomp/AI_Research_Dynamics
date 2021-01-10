@@ -1,0 +1,471 @@
+"author","community"
+"Dmytro Mishkin",63
+"Jiri Matas",63
+"Pau Rodríguez",8
+"Josep M. Gonfaus",8
+"Guillem Cucurull",8
+"F. Xavier Roca",8
+"Francesc Xavier Roca i Marvà",8
+"Jordi Pérez González",8
+"Jordi Gonzàlez",8
+"Irwan Bello",1
+"Barret Zoph",1
+"Quoc V. Le",1
+"Ashish Vaswani",1
+"Jonathon Shlens",1
+"Romain Lopez",28
+"Jeffrey Regier",28
+"Michael I. Jordan",28
+"Nir Yosef",28
+"Ekin D. Cubuk",1
+"Barret Zoph",1
+"Dandelion Mane",1
+"Vijay K. Vasudevan",1
+"Quoc V. Le",1
+"Pavel Izmailov",13
+"Dmitrii Podoprikhin",13
+"D. A. Podoprikhin",13
+"Timur Garipov",13
+"Dmitry Vetrov",13
+"Andrew Gordon Wilson",13
+"Pavel Izmailov",13
+"Dmitrii Podoprikhin",13
+"D. A. Podoprikhin",13
+"Timur Garipov",13
+"Dmitry Vetrov",13
+"Andrew Gordon Wilson",13
+"Jia-Ren Chang",58
+"Yong-Sheng Chen",58
+"Alexander Kolesnikov",4
+"Lucas Beyer",4
+"Xiaohua Zhai",4
+"Joan Puigcerver",4
+"Jessica Yung",4
+"Sylvain Gelly",4
+"Neil Houlsby",4
+"Alexander Kolesnikov",4
+"Lucas Beyer",4
+"Xiaohua Zhai",4
+"Joan Puigcerver",4
+"Jessica Yung",4
+"Sylvain Gelly",4
+"Neil Houlsby",4
+"Shreyank N Gowda",49
+"Shreyank N. Gowda",49
+"Chun Yuan",49
+"Zhibin Liao",62
+"Gustavo Carneiro",62
+"Sangdoo Yun",12
+"Dongyoon Han",12
+"Sanghyuk Chun",12
+"Seong Joon Oh",12
+"Youngjoon Yoo",12
+"Junsuk Choe",12
+"Jianlong Chang",22
+"Lingfeng Wang",22
+"Gaofeng Meng",22
+"Shiming Xiang",22
+"Chunhong Pan",22
+"Dan Hendrycks",56
+"Mantas Mazeika",56
+"Thomas G. Dietterich",56
+"Dan Hendrycks",56
+"Mantas Mazeika",56
+"Thomas G. Dietterich",56
+"Jia-Ren Chang",58
+"Yong-Sheng Chen",58
+"Jianlong Wu",6
+"Keyu Long",6
+"Fei Wang",6
+"Chen Qian",6
+"Cheng Li",6
+"Zhouchen Lin",6
+"Hongbin Zha",6
+"Seungryul Baek",54
+"Kwang In Kim",54
+"Tae-Kyun Kim",54
+"Lars Hertel",38
+"Erhardt Barth",38
+"Thomas Käster",38
+"Thomas Martinetz",38
+"Gao Huang",17
+"Yu Sun",17
+"Zhuang Liu",17
+"Daniel Sedra",17
+"Kilian Q. Weinberger",17
+"Yang Li",25
+"Chunxiao Fan",25
+"Yong Li",25
+"Qiong Wu",25
+"Yue Ming",25
+"Chen-Yu Lee",26
+"Saining Xie",26
+"Patrick W. Gallagher",26
+"Zhengyou Zhang",26
+"Zhuowen Tu",26
+"Gao Huang",17
+"Zhuang Liu",17
+"Laurens van der Maaten",17
+"Kilian Q. Weinberger",17
+"Gao Huang",17
+"Zhuang Liu",17
+"Laurens van der Maaten",17
+"Kilian Q. Weinberger",17
+"zhongzhan huang",35
+"Senwei Liang",35
+"Mingfu Liang",35
+"Haizhao Yang",35
+"Nitish Srivastava",64
+"Ruslan Salakhutdinov",64
+"Mingxing Tan",1
+"Quoc V. Le",1
+"Bing Xu",40
+"Naiyan Wang",40
+"Tianqi Chen",40
+"Mu Li",40
+"Xiao Wang",32
+"Daisuke Kihara",32
+"Jiebo Luo",32
+"Guo-Jun Qi",32
+"Yinhao Zhu",61
+"Nicholas Zabaras",61
+"Djork-Arné Clevert",53
+"Thomas Unterthiner",53
+"Sepp Hochreiter",53
+"Sungbin Lim",23
+"Ildoo Kim",23
+"Taesup Kim",23
+"Chiheon Kim",23
+"Sungwoong Kim",23
+"Ethan Harris",14
+"Antonia Marcu",14
+"Matthew Painter",14
+"Mahesan Niranjan",14
+"Adam Prügel-Bennett",14
+"Jonathon S. Hare",14
+"Benjamin Graham",67
+"Chen-Yu Lee",26
+"Patrick W. Gallagher",26
+"Zhuowen Tu",26
+"Yanping Huang",1
+"Youlong Cheng",1
+"Ankur Bapna",1
+"Orhan Firat",1
+"Mia Xu Chen",1
+"Dehao Chen",1
+"HyoukJoong Lee",1
+"Jiquan Ngiam",1
+"Quoc V. Le",1
+"Yonghui Wu",1
+"Zhifeng Chen",1
+"Jianlong Fu",51
+"Heliang Zheng",51
+"Tao Mei",51
+"Zhicheng Yan",9
+"Hao Zhang",9
+"Robinson Piramuthu",9
+"Vignesh Jagadeesh",9
+"Dennis DeCoste",9
+"Wei Di",9
+"Yizhou Yu",9
+"Qianli Liao",55
+"Joel Z. Leibo",55
+"Tomaso Poggio",55
+"Kaiming He",34
+"Xiangyu Zhang",34
+"Shaoqing Ren",34
+"Jian Sun",34
+"Jost Tobias Springenberg",39
+"Martin Riedmiller",39
+"Vladimir Macko",41
+"Charles Weill",41
+"Hanna Mazzawi",41
+"Javier Gonzalvo",41
+"Jianwei Yang",48
+"Devi Parikh",48
+"Dhruv Batra",48
+"Esteban Real",1
+"Sherry Moore",1
+"Andrew Selle",1
+"Saurabh Saxena",1
+"Yutaka Leon Suematsu",1
+"Jie Tan",1
+"Quoc V. Le",1
+"Alexey Kurakin",1
+"Xiaowei Zhou",44
+"Ivor W. Tsang",44
+"Jie Yin",44
+"Xiaowei Zhou",44
+"Ivor W. Tsang",44
+"Jie Yin",44
+"Forest Agostinelli",36
+"Matthew D. Hoffman",36
+"Peter Sadowski",36
+"Pierre Baldi",36
+"Yaodong Yu",21
+"Kwan Ho Ryan Chan",21
+"Chong You",21
+"Chaobing Song",21
+"Yi Ma",21
+"Pedro Savarese",42
+"Leonardo O. Mazza",42
+"Daniel R. Figueiredo",42
+"Pedro Savarese",42
+"Michael Maire",42
+"Seyyed Hossein HasanPour",16
+"Mohammad Rouhani",16
+"Mohammad Hossein Rouhani",16
+"Mohsen Fayyaz",16
+"Mohammad Sabokrou",16
+"Vikas Verma",2
+"Alex Lamb",2
+"Christopher Beckham",2
+"Amir Abbas Najafi",2
+"Amir Najafi",2
+"Ioannis Mitliagkas",2
+"David Lopez-Paz",2
+"Yoshua Bengio",2
+"Ian Goodfellow",2
+"David Warde-Farley",2
+"Mehdi Mirza",2
+"Aaron Courville",2
+"Yoshua Bengio",2
+"Diganta Misra",68
+"David Berthelot",2
+"Nicholas Carlini",2
+"Ian Goodfellow",2
+"Nicolas Papernot",2
+"Avital Oliver",2
+"Colin Raffel",2
+"Hongyi Zhang",2
+"Moustapha Cisse",2
+"Yann N. Dauphin",2
+"David Lopez-Paz",2
+"Zhichao Lu",45
+"Kalyanmoy Deb",45
+"Vishnu Naresh Boddeti",45
+"Zhichao Lu",45
+"Kalyanmoy Deb",45
+"Vishnu Naresh Boddeti",45
+"Ming Liu",10
+"Liang Luo",10
+"Jacob Nelson",10
+"Luis Ceze",10
+"Arvind Krishnamurthy",10
+"Kishore Atreya",10
+"Kishore Badari Atreya",10
+"Xuanyi Dong",66
+"Yi Yang",66
+"Catherine Wong",4
+"Neil Houlsby",4
+"Yifeng Lu",4
+"Andrea Gesmundo",4
+"Catherine Wong",4
+"Neil Houlsby",4
+"Yifeng Lu",4
+"Andrea Gesmundo",4
+"Catherine Wong",4
+"Neil Houlsby",4
+"Yifeng Lu",4
+"Andrea Gesmundo",4
+"Catherine Wong",4
+"Neil Houlsby",4
+"Yifeng Lu",4
+"Andrea Gesmundo",4
+"Catherine Wong",4
+"Neil Houlsby",4
+"Yifeng Lu",4
+"Andrea Gesmundo",4
+"Catherine Wong",4
+"Neil Houlsby",4
+"Yifeng Lu",4
+"Andrea Gesmundo",4
+"Catherine Wong",4
+"Neil Houlsby",4
+"Yifeng Lu",4
+"Andrea Gesmundo",4
+"Catherine Wong",4
+"Neil Houlsby",4
+"Yifeng Lu",4
+"Andrea Gesmundo",4
+"Zhibin Liao",62
+"Gustavo Carneiro",62
+"Aristotelis-Angelos Papadopoulos",43
+"Mohammad Reza Rajati",43
+"Nazim Shaikh",43
+"Jiamian Wang",43
+"Janghyun Kim",31
+"Jang Hyun Kim",31
+"Wonho Choo",31
+"Hyun Oh Song",31
+"Yaowei Zheng",52
+"Richong Zhang",52
+"Yongyi Mao",52
+"Shanghua Gao",15
+"Ming-Ming Cheng",15
+"Kai Zhao",15
+"Xin-Yu Zhang",15
+"Ming-Hsuan Yang",15
+"Philip H. S. Torr",15
+"Ekin D. Cubuk",1
+"Barret Zoph",1
+"Dandelion Mane",1
+"Vijay K. Vasudevan",1
+"Quoc V. Le",1
+"Daniel Haase",60
+"Manuel Amthor",60
+"Jasper Snoek",5
+"Oren Rippel",5
+"Kevin Swersky",5
+"Ryan Kiros",5
+"Nadathur Satish",5
+"Narayanan Sundaram",5
+"Md. Mostofa Ali Patwary",5
+"Prabhat",5
+"Ryan P. Adams",5
+"Wouter Van Gansbeke",20
+"Simon Vandenhende",20
+"Stamatios Georgoulis",20
+"Marc Proesmans",20
+"Luc Van Gool",20
+"Wouter Van Gansbeke",20
+"Simon Vandenhende",20
+"Stamatios Georgoulis",20
+"Marc Proesmans",20
+"Luc Van Gool",20
+"Ngoc-Trung Tran",11
+"Viet-Hung Tran",11
+"Bao-Ngoc Nguyen",11
+"Ngoc-Bao Nguyen",11
+"Linxiao Yang",11
+"Ngai-Man Cheung",11
+"Pierre Foret",29
+"Ariel Kleiner",29
+"Hossein Mobahi",29
+"Behnam Neyshabur",29
+"Pierre Foret",29
+"Ariel Kleiner",29
+"Hossein Mobahi",29
+"Behnam Neyshabur",29
+"Mark D. McDonnell",24
+"Hesham Mostafa",24
+"Runchun Wang",24
+"A. van Schaik",24
+"André van Schaik",24
+"Benjamin Graham",67
+"Oren Rippel",5
+"Jasper Snoek",5
+"Ryan P. Adams",5
+"H M Dipu Kabir",7
+"Moloud Abdar",7
+"Seyed Mohammad Jafar Jalali",7
+"Abbas Khosravi",7
+"Amir F. Atiya",7
+"Saeid Nahavandi",7
+"Dipti Srinivasan",7
+"H M Dipu Kabir",7
+"Moloud Abdar",7
+"Seyed Mohammad Jafar Jalali",7
+"Abbas Khosravi",7
+"Amir F. Atiya",7
+"Saeid Nahavandi",7
+"Dipti Srinivasan",7
+"Jianbo Dong",3
+"Zheng Cao",3
+"Tao Zhang",3
+"Jianxi Ye",3
+"Shaochuang Wang",3
+"Fei Feng",3
+"Li Zhao",3
+"Xiaoyong Liu",3
+"Liuyihan Song",3
+"Liwei Peng",3
+"Pan Pan",3
+"Yuan Xie",3
+"Jianbo Dong",3
+"Zheng Cao",3
+"Tao Zhang",3
+"Jianxi Ye",3
+"Shaochuang Wang",3
+"Fei Feng",3
+"Li Zhao",3
+"Xiaoyong Liu",3
+"Liuyihan Song",3
+"Liwei Peng",3
+"Pan Pan",3
+"Yuan Xie",3
+"Jianbo Dong",3
+"Zheng Cao",3
+"Tao Zhang",3
+"Jianxi Ye",3
+"Shaochuang Wang",3
+"Fei Feng",3
+"Li Zhao",3
+"Xiaoyong Liu",3
+"Liuyihan Song",3
+"Liwei Peng",3
+"Pan Pan",3
+"Yuan Xie",3
+"Jianbo Dong",3
+"Zheng Cao",3
+"Tao Zhang",3
+"Jianxi Ye",3
+"Shaochuang Wang",3
+"Fei Feng",3
+"Li Zhao",3
+"Xiaoyong Liu",3
+"Liuyihan Song",3
+"Liwei Peng",3
+"Pan Pan",3
+"Yuan Xie",3
+"Jie Hu",50
+"Li Shen",50
+"Gang Sun",50
+"Junbo Jake Zhao",18
+"Michael Mathieu",18
+"Ross Goroshin",18
+"Yann LeCun",18
+"Yahia Saeed Assiri",69
+"Matthew D. Zeiler",65
+"Rob Fergus",65
+"Jost Tobias Springenberg",39
+"Alexey Dosovitskiy",39
+"Thomas Brox",39
+"Martin Riedmiller",39
+"Seyyed Hossein HasanPour",16
+"Mohammad Rouhani",16
+"Mohammad Hossein Rouhani",16
+"Mohsen Fayyaz",16
+"Mohammad Sabokrou",16
+"Ehsan Adeli",16
+"James M Murray",59
+"James M. Murray",59
+"Rupesh Kumar Srivastava",37
+"Klaus Greff",37
+"Juergen Schmidhuber",37
+"Jürgen Schmidhuber",37
+"Tal Ridnik",30
+"Hussam Lawen",30
+"Asaf Noy",30
+"Itamar Friedman",30
+"Mingming Gong",19
+"Yanwu Xu",19
+"Chunyuan Li",19
+"Kun Zhang",19
+"Kayhan Batmanghelich",19
+"X.-C. Zhang",18
+"Xiang Zhang",18
+"Yann LeCun",18
+"Jose Carranza-Rojas",27
+"Saul Calderon-Ramirez",27
+"Adán Mora-Fallas",27
+"Michael Granados-Menani",27
+"Jordina Torrents-Barrena",27
+"Junyuan Xie",46
+"Ross Girshick",46
+"Ali Farhadi",46
+"Alec Radford",47
+"Luke Metz",47
+"Soumith Chintala",47
+"Sergey Zagoruyko",57
+"Nikos Komodakis",57

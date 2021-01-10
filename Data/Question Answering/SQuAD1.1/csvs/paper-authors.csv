@@ -1,0 +1,467 @@
+"title","authors","affiliations","paper_date","metric","year"
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Ikuya Yamada","",2020-10-02,"95.4",2020
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Akari Asai","University of Washington",2020-10-02,"95.4",2020
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Hiroyuki Shindo","Nara Institute of Science and Technology",2020-10-02,"95.4",2020
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Hideaki Takeda","National Institute of Informatics",2020-10-02,"95.4",2020
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Yuji Matsumoto","Nara Institute of Science and Technology",2020-10-02,"95.4",2020
+"@@@XLNet (single model)","","",NA,"95.080",NA
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Zhilin Yang","Carnegie Mellon University",2019-06-19,"95.080",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Zihang Dai","Carnegie Mellon University",2019-06-19,"95.080",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Yiming Yang","Carnegie Mellon University",2019-06-19,"95.080",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Jaime G. Carbonell","Carnegie Mellon University",2019-06-19,"95.080",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Ruslan Salakhutdinov","Carnegie Mellon University",2019-06-19,"95.080",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Quoc V. Le","Google",2019-06-19,"95.080",2019
+"@@@XLNET-123++ (single model)","","",NA,"94.903",NA
+"@@@XLNET-123+ (single model)","","",NA,"94.859",NA
+"@@@XLNET-123 (single model)","","",NA,"94.930",NA
+"@@@Unnamed submission by NMC","","",NA,"94.584",NA
+"@@@BERTSP (single model)","","",NA,"94.584",NA
+"@@@SpanBERT (single model)","","",NA,"94.635",NA
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT (single model)","Mandar Joshi","University of Washington",2019-07-24,"94.6",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT (single model)","Danqi Chen","Princeton University",2019-07-24,"94.6",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT (single model)","Yinhan Liu","Facebook",2019-07-24,"94.6",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT (single model)","Daniel S. Weld","University of Washington",2019-07-24,"94.6",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT (single model)","Luke Zettlemoyer","University of Washington",2019-07-24,"94.6",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT (single model)","Omer Levy","Facebook",2019-07-24,"94.6",2019
+"@@@BERT+WWM+MT (single model)","","",NA,"94.393",NA
+"@@@Tuned BERT-1seq Large Cased (single model)","","",NA,"93.294",NA
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (ensemble)","Jacob Devlin","Google",2018-10-11,"93.16",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (ensemble)","Ming-Wei Chang","Google",2018-10-11,"93.16",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (ensemble)","Kenton Lee","Google",2018-10-11,"93.16",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (ensemble)","Kristina Toutanova","Google",2018-10-11,"93.16",2018
+"@@@ATB (single model)","","",NA,"92.641",NA
+"@@@Tuned BERT Large Cased (single model)","","",NA,"92.617",NA
+"@@@BERT+MT (single model)","","",NA,"92.645",NA
+"@@@Knowledge-enhanced BERT (single model)","","",NA,"92.425",NA
+"@@@KT-NET (single model)","","",NA,"92.425",NA
+"@@@ST_bl","","",NA,"91.976",NA
+"@@@nlnet (ensemble)","","",NA,"91.202",NA
+"@@@EL-BERT (single model)","","",NA,"91.807",NA
+"@@@BISAN (single model)","","",NA,"91.756",NA
+"@@@BERT+Sparse-Transformer","","",NA,"91.623",NA
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (single model)","Jacob Devlin","Google",2018-10-11,"91.835",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (single model)","Ming-Wei Chang","Google",2018-10-11,"91.835",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (single model)","Kenton Lee","Google",2018-10-11,"91.835",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (single model)","Kristina Toutanova","Google",2018-10-11,"91.835",2018
+"@@@DPN (single model)","","",NA,"92.019",NA
+"@@@BERT-uncased (single model)","","",NA,"91.932",NA
+"@@@WD (single model)","","",NA,"90.561",NA
+"@@@Original BERT Large Cased (single model)","","",NA,"91.281",NA
+"@@@MARS (ensemble)","","",NA,"89.796",NA
+"@@@WD1 (single model)","","",NA,"90.429",NA
+"@@@nlnet (single model)","","",NA,"90.133",NA
+"@@@Common-sense Governed BERT-123 (single model)","","",NA,"91.074",NA
+"@@@Reinforced Mnemonic Reader + A2D (ensemble model)","","",NA,"88.764",NA
+"@@@QANet (ensemble)","","",NA,"89.045",NA
+"@@@r-net+ (ensemble)","","",NA,"88.493",NA
+"@@@Hybrid AoA Reader (ensemble)","","",NA,"89.281",NA
+"@@@QANet (single)","","",NA,"89.306",NA
+"@@@SLQA+ (ensemble)","","",NA,"88.607",NA
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (ensemble model)","Minghao Hu","National University of Defense Technology",2017-05-08,"88.533",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (ensemble model)","Peng Yuxing","National University of Defense Technology",2017-05-08,"88.533",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (ensemble model)","Yuxing Peng","National University of Defense Technology",2017-05-08,"88.533",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (ensemble model)","Zhen Huang","National University of Defense Technology",2017-05-08,"88.533",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (ensemble model)","Xipeng Qiu","Fudan University",2017-05-08,"88.533",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (ensemble model)","Furu Wei","Microsoft",2017-05-08,"88.533",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (ensemble model)","Ming Zhou","Microsoft",2017-05-08,"88.533",2017
+"@@@r-net (ensemble)","","",NA,"88.126",NA
+"@@@BERT (single model)","","",NA,"88.947",NA
+"@@@AttentionReader+ (ensemble)","","",NA,"88.163",NA
+"@@@MMIPN","","",NA,"88.948",NA
+"@@@KACTEIL-MRC(GF-Net+) (ensemble)","","",NA,"87.557",NA
+"@@@Reinforced Mnemonic Reader + A2D + DA (single model)","","",NA,"88.122",NA
+"@@@ARSG-BERT (single model)","","",NA,"88.909",NA
+"@@@BERT-COMPOUND-DSS (single model)","","",NA,"87.999",NA
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (ensemble)","Matthew E. Peters","Allen Institute for Artificial Intelligence",2018-02-15,"87.432",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (ensemble)","Mark Neumann","Allen Institute for Artificial Intelligence",2018-02-15,"87.432",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (ensemble)","Mohit Iyyer","Allen Institute for Artificial Intelligence",2018-02-15,"87.432",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (ensemble)","Matt Gardner","Allen Institute for Artificial Intelligence",2018-02-15,"87.432",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (ensemble)","Christopher Clark","University of Washington",2018-02-15,"87.432",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (ensemble)","Kenton Lee","University of Washington",2018-02-15,"87.432",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (ensemble)","Luke Zettlemoyer","University of Washington",2018-02-15,"87.432",2018
+"@@@BiDAF + Self Attention + ELMo (ensemble)","","",NA,"87.432",NA
+"@@@QANet (single model)","","",NA,"87.773",NA
+"@@@BERT-COMPOUND (single model)","","",NA,"87.758",NA
+"@@@AVIQA+ (ensemble)","","",NA,"87.311",NA
+"@@@Reinforced Mnemonic Reader + A2D (single model)","","",NA,"87.454",NA
+"@@@SLQA+","","",NA,"87.021",NA
+"@@@{EAZI} (ensemble)","","",NA,"86.912",NA
+"@@@EAZI+ (ensemble)","","",NA,"86.912",NA
+"@@@DNET (ensemble)","","",NA,"86.721",NA
+"@@@Hybrid AoA Reader (single model)","","",NA,"87.288",NA
+"@@@BiDAF + Self Attention + ELMo + A2D (single model)","","",NA,"86.711",NA
+"@@@r-net+ (single model)","","",NA,"86.536",NA
+"@@@batch (single model)","","",NA,"88.263",NA
+"A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension@@@MAMCN+ (single model)","Seunghak Yu","Samsung",2018-07-01,"86.727",2018
+"A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension@@@MAMCN+ (single model)","Sathish Reddy Indurthi","Samsung",2018-07-01,"86.727",2018
+"A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension@@@MAMCN+ (single model)","Seohyun Back","Samsung",2018-07-01,"86.727",2018
+"A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension@@@MAMCN+ (single model)","Haejun Lee","",2018-07-01,"86.727",2018
+"@@@MAMCN+ (single model)","","",NA,"86.727",NA
+"Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (ensemble model)","Xiaodong Liu","Microsoft",2017-12-10,"86.496",2017
+"Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (ensemble model)","Yelong Shen","Microsoft",2017-12-10,"86.496",2017
+"Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (ensemble model)","Kevin Duh","Johns Hopkins University",2017-12-10,"86.496",2017
+"Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (ensemble model)","Jianfeng Gao","Microsoft",2017-12-10,"86.496",2017
+"@@@BERT-INDEPENDENT-DSS-FILTERED (single model)","","",NA,"87.374",NA
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (single model)","Minghao Hu","National University of Defense Technology",2017-05-08,"86.654",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (single model)","Peng Yuxing","National University of Defense Technology",2017-05-08,"86.654",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (single model)","Yuxing Peng","National University of Defense Technology",2017-05-08,"86.654",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (single model)","Zhen Huang","National University of Defense Technology",2017-05-08,"86.654",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (single model)","Xipeng Qiu","Fudan University",2017-05-08,"86.654",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (single model)","Furu Wei","Microsoft",2017-05-08,"86.654",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (single model)","Ming Zhou","Microsoft",2017-05-08,"86.654",2017
+"@@@SLQA+ (single model)","","",NA,"86.590",NA
+"@@@Interactive AoA Reader+ (ensemble)","","",NA,"86.450",NA
+"@@@MIR-MRC(F-Net) (single model)","","",NA,"86.288",NA
+"@@@KACTEIL-MRC(GF-Net+Distillation) (single model)","","",NA,"86.288",NA
+"@@@MDReader","","",NA,"86.006",NA
+"FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension@@@FusionNet (ensemble)","","",2017-11-16,"86.016",2017
+"DCN+: Mixed Objective and Deep Residual Coattention for Question Answering@@@DCN+ (ensemble)","Caiming Xiong","Salesforce.com",2017-10-31,"85.996",2017
+"DCN+: Mixed Objective and Deep Residual Coattention for Question Answering@@@DCN+ (ensemble)","Victor Zhong","Salesforce.com",2017-10-31,"85.996",2017
+"DCN+: Mixed Objective and Deep Residual Coattention for Question Answering@@@DCN+ (ensemble)","Richard Socher","Salesforce.com",2017-10-31,"85.996",2017
+"@@@KACTEIL-MRC(GF-Net+) (single model)","","",NA,"85.780",NA
+"@@@BERT-INDEPENDENT (single model)","","",NA,"86.663",NA
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (single model)","Matthew E. Peters","Allen Institute for Artificial Intelligence",2018-02-15,"85.833",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (single model)","Mark Neumann","Allen Institute for Artificial Intelligence",2018-02-15,"85.833",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (single model)","Mohit Iyyer","Allen Institute for Artificial Intelligence",2018-02-15,"85.833",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (single model)","Matt Gardner","Allen Institute for Artificial Intelligence",2018-02-15,"85.833",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (single model)","Christopher Clark","University of Washington",2018-02-15,"85.833",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (single model)","Kenton Lee","University of Washington",2018-02-15,"85.833",2018
+"Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (single model)","Luke Zettlemoyer","University of Washington",2018-02-15,"85.833",2018
+"@@@BiDAF + Self Attention + ELMo (single model)","","",NA,"85.833",NA
+"@@@aviqa (ensemble)","","",NA,"85.469",NA
+"@@@KakaoNet (single model)","","",NA,"85.724",NA
+"@@@SLQA(ensemble)","","",NA,"85.682",NA
+"@@@SLQA (ensemble)","","",NA,"85.682",NA
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN  (single model)","Boyuan Pan","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN  (single model)","Hao Li","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN  (single model)","Zhou Zhao","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN  (single model)","Bin Cao","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN  (single model)","Deng Cai","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN  (single model)","Xiaofei He","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (single model)","Boyuan Pan","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (single model)","Hao Li","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (single model)","Zhou Zhao","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (single model)","Bin Cao","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (single model)","Deng Cai","",2017-07-28,"85.344",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (single model)","Xiaofei He","",2017-07-28,"85.344",2017
+"@@@BiDAF++ with pair2vec (single model)","","",NA,"85.535",NA
+"@@@MDReader0","","",NA,"85.543",NA
+"@@@test","","",NA,"85.348",NA
+"@@@Interactive AoA Reader (ensemble)","","",NA,"85.297",NA
+"@@@DNET (single model)","","",NA,"84.905",NA
+"Contextualized Word Representations for Reading Comprehension@@@RaSoR + TR + LM (single model)","Shimi Salant","",2017-12-10,"84.163",2017
+"Contextualized Word Representations for Reading Comprehension@@@RaSoR + TR + LM (single model)","Jonathan Berant","Tel Aviv University",2017-12-10,"84.163",2017
+"@@@BiDAF++ (single model)","","",NA,"84.858",NA
+"@@@AttentionReader+ (single)","","",NA,"84.925",NA
+"@@@Jenga (ensemble)","","",NA,"84.466",NA
+"@@@{gqa} (single model)","","",NA,"83.931",NA
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (ensemble)","Rui Liu","",2017-10-28,"84.630",2017
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (ensemble)","Wei Wei","Carnegie Mellon University",2017-10-28,"84.630",2017
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (ensemble)","Weiguang Mao","",2017-10-28,"84.630",2017
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (ensemble)","Maria Chikina","",2017-10-28,"84.630",2017
+"@@@MARS (single model)","","",NA,"84.739",NA
+"Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (single model)","Xiaodong Liu","Microsoft",2017-12-10,"84.396",2017
+"Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (single model)","Yelong Shen","Microsoft",2017-12-10,"84.396",2017
+"Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (single model)","Kevin Duh","Johns Hopkins University",2017-12-10,"84.396",2017
+"Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (single model)","Jianfeng Gao","Microsoft",2017-12-10,"84.396",2017
+"@@@VS^3-NET (single model)","","",NA,"84.491",NA
+"@@@r-net (single model)","","",NA,"84.265",NA
+"Gated Self-Matching Networks for Reading Comprehension and Question Answering@@@r-net (single model)","Wenhui Wang","Peking University",2017-07-01,"84.265",2017
+"Gated Self-Matching Networks for Reading Comprehension and Question Answering@@@r-net (single model)","Nan Yang","Microsoft",2017-07-01,"84.265",2017
+"Gated Self-Matching Networks for Reading Comprehension and Question Answering@@@r-net (single model)","Furu Wei","Microsoft",2017-07-01,"84.265",2017
+"Gated Self-Matching Networks for Reading Comprehension and Question Answering@@@r-net (single model)","Baobao Chang","Peking University",2017-07-01,"84.265",2017
+"Gated Self-Matching Networks for Reading Comprehension and Question Answering@@@r-net (single model)","Ming Zhou","Microsoft",2017-07-01,"84.265",2017
+"@@@FRC (single model)","","",NA,"84.599",NA
+"QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension@@@QANet + data augmentation ×3","Adams Wei Yu","Carnegie Mellon University",2018-04-23,"84.6",2018
+"QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension@@@QANet + data augmentation ×3","David Dohan","Google",2018-04-23,"84.6",2018
+"QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension@@@QANet + data augmentation ×3","Minh-Thang Luong","Google",2018-04-23,"84.6",2018
+"QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension@@@QANet + data augmentation ×3","Rui Zhao","Google",2018-04-23,"84.6",2018
+"QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension@@@QANet + data augmentation ×3","Kai Chen","Google",2018-04-23,"84.6",2018
+"QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension@@@QANet + data augmentation ×3","Mohammad Norouzi","Google",2018-04-23,"84.6",2018
+"QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension@@@QANet + data augmentation ×3","Quoc V. Le","Google",2018-04-23,"84.6",2018
+"@@@Conductor-net (ensemble)","","",NA,"83.991",NA
+"Explicit Utilization of General Knowledge in Machine Reading Comprehension@@@KAR (single model)","Chao Wang","",2018-09-10,"83.538",2018
+"Explicit Utilization of General Knowledge in Machine Reading Comprehension@@@KAR (single model)","Hui Jiang","York University",2018-09-10,"83.538",2018
+"@@@smarnet (ensemble)","","",NA,"83.475",NA
+"FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension@@@FusionNet (single model)","Hsin-Yuan Huang","Microsoft",2017-11-16,"83.900",2017
+"FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension@@@FusionNet (single model)","Chenguang Zhu","Microsoft",2017-11-16,"83.900",2017
+"FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension@@@FusionNet (single model)","Yelong Shen","Microsoft",2017-11-16,"83.900",2017
+"FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension@@@FusionNet (single model)","Weizhu Chen","Microsoft",2017-11-16,"83.900",2017
+"@@@AVIQA-v2 (single model)","","",NA,"83.305",NA
+"@@@Interactive AoA Reader+ (single model)","","",NA,"83.843",NA
+"Contextualized Word Representations for Reading Comprehension@@@RaSoR + TR (single model)","Shimi Salant","",2017-12-10,"83.261",2017
+"Contextualized Word Representations for Reading Comprehension@@@RaSoR + TR (single model)","Jonathan Berant","Tel Aviv University",2017-12-10,"83.261",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (ensemble)","Boyuan Pan","",2017-07-28,"82.658",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (ensemble)","Hao Li","",2017-07-28,"82.658",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (ensemble)","Zhou Zhao","",2017-07-28,"82.658",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (ensemble)","Bin Cao","",2017-07-28,"82.658",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (ensemble)","Deng Cai","",2017-07-28,"82.658",2017
+"MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (ensemble)","Xiaofei He","",2017-07-28,"82.658",2017
+"@@@Mixed model (ensemble)","","",NA,"82.769",NA
+"@@@two-attention-self-attention (ensemble)","","",NA,"82.716",NA
+"@@@Kbs (single model)","","",NA,"83.405",NA
+"ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (ensemble)","Yelong Shen","Microsoft",2016-09-17,"82.552",2016
+"ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (ensemble)","Po-Sen Huang","Microsoft",2016-09-17,"82.552",2016
+"ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (ensemble)","Jianfeng Gao","Microsoft",2016-09-17,"82.552",2016
+"ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (ensemble)","Weizhu Chen","Microsoft",2016-09-17,"82.552",2016
+"DCN+: Mixed Objective and Deep Residual Coattention for Question Answering@@@DCN+ (single model)","Caiming Xiong","Salesforce.com",2017-10-31,"82.806",2017
+"DCN+: Mixed Objective and Deep Residual Coattention for Question Answering@@@DCN+ (single model)","Victor Zhong","Salesforce.com",2017-10-31,"82.806",2017
+"DCN+: Mixed Objective and Deep Residual Coattention for Question Answering@@@DCN+ (single model)","Richard Socher","Salesforce.com",2017-10-31,"82.806",2017
+"@@@eeAttNet (single model)","","",NA,"82.501",NA
+"@@@SLQA (single model)","","",NA,"82.815",NA
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single model)","Rui Liu","",2017-10-28,"82.742",2017
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single model)","Wei Wei","Carnegie Mellon University",2017-10-28,"82.742",2017
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single model)","Weiguang Mao","",2017-10-28,"82.742",2017
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single model)","Maria Chikina","",2017-10-28,"82.742",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (ensemble)","Minghao Hu","National University of Defense Technology",2017-05-08,"82.371",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (ensemble)","Peng Yuxing","National University of Defense Technology",2017-05-08,"82.371",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (ensemble)","Yuxing Peng","National University of Defense Technology",2017-05-08,"82.371",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (ensemble)","Zhen Huang","National University of Defense Technology",2017-05-08,"82.371",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (ensemble)","Xipeng Qiu","Fudan University",2017-05-08,"82.371",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (ensemble)","Furu Wei","Microsoft",2017-05-08,"82.371",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (ensemble)","Ming Zhou","Microsoft",2017-05-08,"82.371",2017
+"@@@S^3-Net (ensemble)","","",NA,"82.342",NA
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (ensemble model)","Rui Liu","Beihang University",2017-03-02,"81.761",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (ensemble model)","Junjie Hu","Carnegie Mellon University",2017-03-02,"81.761",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (ensemble model)","Wei Wei","Carnegie Mellon University",2017-03-02,"81.761",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (ensemble model)","Zi Yang","Carnegie Mellon University",2017-03-02,"81.761",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (ensemble model)","Eric Nyberg","Carnegie Mellon University",2017-03-02,"81.761",2017
+"@@@SSAE (ensemble)","","",NA,"81.665",NA
+"Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (ensemble)","Zhiguo Wang","",2016-12-13,"81.257",2016
+"Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (ensemble)","Haitao Mi","",2016-12-13,"81.257",2016
+"Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (ensemble)","Wael Hamza","",2016-12-13,"81.257",2016
+"Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (ensemble)","Radu Florian","",2016-12-13,"81.257",2016
+"Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (ensemble)","Minjoon Seo","University of Washington",2016-11-05,"81.525",2016
+"Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (ensemble)","Aniruddha Kembhavi","Allen Institute for Artificial Intelligence",2016-11-05,"81.525",2016
+"Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (ensemble)","Ali Farhadi","Allen Institute for Artificial Intelligence",2016-11-05,"81.525",2016
+"Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (ensemble)","Hannaneh Hajishirzi","University of Washington",2016-11-05,"81.525",2016
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (ensemble)","Rui Liu","Beihang University",2017-03-02,"81.530",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (ensemble)","Junjie Hu","Carnegie Mellon University",2017-03-02,"81.530",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (ensemble)","Wei Wei","Carnegie Mellon University",2017-03-02,"81.530",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (ensemble)","Zi Yang","Carnegie Mellon University",2017-03-02,"81.530",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (ensemble)","Eric Nyberg","Carnegie Mellon University",2017-03-02,"81.530",2017
+"@@@Interactive AoA Reader (single model)","","",NA,"81.931",NA
+"@@@Jenga (single model)","","",NA,"81.754",NA
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single)","Rui Liu","",2017-10-28,"81.933",2017
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single)","Wei Wei","Carnegie Mellon University",2017-10-28,"81.933",2017
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single)","Weiguang Mao","",2017-10-28,"81.933",2017
+"Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single)","Maria Chikina","",2017-10-28,"81.933",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (ensemble)","Junbei Zhang","",2017-03-14,"81.517",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (ensemble)","Xiaodan Zhu","",2017-03-14,"81.517",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (ensemble)","Qian Chen","",2017-03-14,"81.517",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (ensemble)","Li-Rong Dai","",2017-03-14,"81.517",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (ensemble)","Si Wei","",2017-03-14,"81.517",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (ensemble)","Hui Jiang","",2017-03-14,"81.517",2017
+"@@@T-gating (ensemble)","","",NA,"81.001",NA
+"@@@two-attention-self-attention (single model)","","",NA,"81.011",NA
+"@@@Conductor-net (single)","","",NA,"81.415",NA
+"@@@AVIQA (single model)","","",NA,"80.550",NA
+"Simple and Effective Multi-Paragraph Reading Comprehension@@@BiDAF + Self Attention (single model)","Christopher Clark","University of Washington",2017-10-29,"81.048",2017
+"Simple and Effective Multi-Paragraph Reading Comprehension@@@BiDAF + Self Attention (single model)","Matt Gardner","Carnegie Mellon University",2017-10-29,"81.048",2017
+"@@@S^3-Net (single model)","","",NA,"81.023",NA
+"@@@QFASE","","",NA,"79.989",NA
+"@@@attention+self-attention (single model)","","",NA,"80.462",NA
+"Dynamic Coattention Networks For Question Answering@@@Dynamic Coattention Networks (ensemble)","Caiming Xiong","Salesforce.com",2016-11-05,"80.383",2016
+"Dynamic Coattention Networks For Question Answering@@@Dynamic Coattention Networks (ensemble)","Victor Zhong","Salesforce.com",2016-11-05,"80.383",2016
+"Dynamic Coattention Networks For Question Answering@@@Dynamic Coattention Networks (ensemble)","Richard Socher","Salesforce.com",2016-11-05,"80.383",2016
+"Smarnet: Teaching Machines to Read and Comprehend Like Human@@@smarnet (single model)","Zheqian Chen","",2017-10-08,"80.160",2017
+"Smarnet: Teaching Machines to Read and Comprehend Like Human@@@smarnet (single model)","Rongqin Yang","",2017-10-08,"80.160",2017
+"Smarnet: Teaching Machines to Read and Comprehend Like Human@@@smarnet (single model)","Bin Cao","",2017-10-08,"80.160",2017
+"Smarnet: Teaching Machines to Read and Comprehend Like Human@@@smarnet (single model)","Zhou Zhao","",2017-10-08,"80.160",2017
+"Smarnet: Teaching Machines to Read and Comprehend Like Human@@@smarnet (single model)","Deng Cai","",2017-10-08,"80.160",2017
+"Smarnet: Teaching Machines to Read and Comprehend Like Human@@@smarnet (single model)","Xiaofei He","",2017-10-08,"80.160",2017
+"Simple Recurrent Units for Highly Parallelizable Recurrence@@@SRU","Tao Lei","Massachusetts Institute of Technology",2017-09-08,"80.2",2017
+"Simple Recurrent Units for Highly Parallelizable Recurrence@@@SRU","Yu Zhang","Massachusetts Institute of Technology",2017-09-08,"80.2",2017
+"Simple Recurrent Units for Highly Parallelizable Recurrence@@@SRU","Sida I. Wang","Stanford University",2017-09-08,"80.2",2017
+"Simple Recurrent Units for Highly Parallelizable Recurrence@@@SRU","Hui Dai","",2017-09-08,"80.2",2017
+"Simple Recurrent Units for Highly Parallelizable Recurrence@@@SRU","Yoav Artzi","Cornell University",2017-09-08,"80.2",2017
+"@@@AttReader (single)","","",NA,"79.725",NA
+"Learned in Translation: Contextualized Word Vectors@@@DCN + Char + CoVe","Bryan McCann","Salesforce.com",2017-08-01,"79.9",2017
+"Learned in Translation: Contextualized Word Vectors@@@DCN + Char + CoVe","James Bradbury","Salesforce.com",2017-08-01,"79.9",2017
+"Learned in Translation: Contextualized Word Vectors@@@DCN + Char + CoVe","Caiming Xiong","Salesforce.com",2017-08-01,"79.9",2017
+"Learned in Translation: Contextualized Word Vectors@@@DCN + Char + CoVe","Richard Socher","Salesforce.com",2017-08-01,"79.9",2017
+"@@@M-NET (single)","","",NA,"79.835",NA
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (single model)","Minghao Hu","National University of Defense Technology",2017-05-08,"80.146",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (single model)","Peng Yuxing","National University of Defense Technology",2017-05-08,"80.146",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (single model)","Yuxing Peng","National University of Defense Technology",2017-05-08,"80.146",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (single model)","Zhen Huang","National University of Defense Technology",2017-05-08,"80.146",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (single model)","Xipeng Qiu","Fudan University",2017-05-08,"80.146",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (single model)","Furu Wei","Microsoft",2017-05-08,"80.146",2017
+"Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (single model)","Ming Zhou","Microsoft",2017-05-08,"80.146",2017
+"@@@MAMCN (single model)","","",NA,"79.939",NA
+"Making Neural QA as Simple as Possible but not Simpler@@@FastQAExt","Dirk Weissenborn","German Research Centre for Artificial Intelligence",2017-03-14,"78.857",2017
+"Making Neural QA as Simple as Possible but not Simpler@@@FastQAExt","Georg Wiese","",2017-03-14,"78.857",2017
+"Making Neural QA as Simple as Possible but not Simpler@@@FastQAExt","Laura Seiffe","",2017-03-14,"78.857",2017
+"Learning Recurrent Span Representations for Extractive Question Answering@@@RaSoR (single model)","Kenton Lee","University of Washington",2016-11-04,"78.741",2016
+"Learning Recurrent Span Representations for Extractive Question Answering@@@RaSoR (single model)","Tom Kwiatkowksi","Google",2016-11-04,"78.741",2016
+"Learning Recurrent Span Representations for Extractive Question Answering@@@RaSoR (single model)","Shimi Salant","",2016-11-04,"78.741",2016
+"Learning Recurrent Span Representations for Extractive Question Answering@@@RaSoR (single model)","Ankur P. Parikh","Google",2016-11-04,"78.741",2016
+"Learning Recurrent Span Representations for Extractive Question Answering@@@RaSoR (single model)","Tom Kwiatkowski","",2016-11-04,"78.741",2016
+"Learning Recurrent Span Representations for Extractive Question Answering@@@RaSoR (single model)","Dipanjan Das","Google",2016-11-04,"78.741",2016
+"Learning Recurrent Span Representations for Extractive Question Answering@@@RaSoR (single model)","Jonathan Berant","",2016-11-04,"78.741",2016
+"Reading Wikipedia to Answer Open-Domain Questions@@@Document Reader (single model)","Danqi Chen","Stanford University",2017-03-31,"79.353",2017
+"Reading Wikipedia to Answer Open-Domain Questions@@@Document Reader (single model)","Adam Fisch","Facebook",2017-03-31,"79.353",2017
+"Reading Wikipedia to Answer Open-Domain Questions@@@Document Reader (single model)","Jason Weston","Facebook",2017-03-31,"79.353",2017
+"Reading Wikipedia to Answer Open-Domain Questions@@@Document Reader (single model)","Antoine Bordes","Facebook",2017-03-31,"79.353",2017
+"Ruminating Reader: Reasoning with Gated Multi-Hop Attention@@@Ruminating Reader (single model)","Yichen Gong","",2017-04-24,"79.456",2017
+"Ruminating Reader: Reasoning with Gated Multi-Hop Attention@@@Ruminating Reader (single model)","Samuel R. Bowman","Google",2017-04-24,"79.456",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (single model)","Junbei Zhang","",2017-03-14,"79.821",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (single model)","Xiaodan Zhu","",2017-03-14,"79.821",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (single model)","Qian Chen","",2017-03-14,"79.821",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (single model)","Li-Rong Dai","",2017-03-14,"79.821",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (single model)","Si Wei","",2017-03-14,"79.821",2017
+"Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (single model)","Hui Jiang","",2017-03-14,"79.821",2017
+"ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (single model)","Yelong Shen","Microsoft",2016-09-17,"79.364",2016
+"ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (single model)","Po-Sen Huang","Microsoft",2016-09-17,"79.364",2016
+"ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (single model)","Jianfeng Gao","Microsoft",2016-09-17,"79.364",2016
+"ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (single model)","Weizhu Chen","Microsoft",2016-09-17,"79.364",2016
+"Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (single model)","Zhiguo Wang","",2016-12-13,"78.784",2016
+"Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (single model)","Haitao Mi","",2016-12-13,"78.784",2016
+"Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (single model)","Wael Hamza","",2016-12-13,"78.784",2016
+"Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (single model)","Radu Florian","",2016-12-13,"78.784",2016
+"@@@SimpleBaseline (single model)","","",NA,"78.236",NA
+"@@@SSR-BiDAF","","",NA,"78.358",NA
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (single model)","Rui Liu","Beihang University",2017-03-02,"77.971",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (single model)","Junjie Hu","Carnegie Mellon University",2017-03-02,"77.971",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (single model)","Wei Wei","Carnegie Mellon University",2017-03-02,"77.971",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (single model)","Zi Yang","Carnegie Mellon University",2017-03-02,"77.971",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (single model)","Eric Nyberg","Carnegie Mellon University",2017-03-02,"77.971",2017
+"Making Neural QA as Simple as Possible but not Simpler@@@FastQA","Dirk Weissenborn","German Research Centre for Artificial Intelligence",2017-03-14,"77.070",2017
+"Making Neural QA as Simple as Possible but not Simpler@@@FastQA","Georg Wiese","",2017-03-14,"77.070",2017
+"Making Neural QA as Simple as Possible but not Simpler@@@FastQA","Laura Seiffe","",2017-03-14,"77.070",2017
+"@@@PQMN (single model)","","",NA,"77.783",NA
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (single model)","Rui Liu","Beihang University",2017-03-02,"77.527",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (single model)","Junjie Hu","Carnegie Mellon University",2017-03-02,"77.527",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (single model)","Wei Wei","Carnegie Mellon University",2017-03-02,"77.527",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (single model)","Zi Yang","Carnegie Mellon University",2017-03-02,"77.527",2017
+"Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (single model)","Eric Nyberg","Carnegie Mellon University",2017-03-02,"77.527",2017
+"@@@T-gating (single model)","","",NA,"77.569",NA
+"Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (single model)","Minjoon Seo","University of Washington",2016-11-05,"77.323",2016
+"Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (single model)","Aniruddha Kembhavi","Allen Institute for Artificial Intelligence",2016-11-05,"77.323",2016
+"Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (single model)","Ali Farhadi","Allen Institute for Artificial Intelligence",2016-11-05,"77.323",2016
+"Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (single model)","Hannaneh Hajishirzi","University of Washington",2016-11-05,"77.323",2016
+"Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Ans-Ptr (Boundary) (ensemble)","Shuohang Wang","Singapore Management University",2016-08-29,"77.022",2016
+"Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Ans-Ptr (Boundary) (ensemble)","Jing Jiang","Singapore Management University",2016-08-29,"77.022",2016
+"A Fully Attention-Based Information Retriever@@@FABIR","Alvaro H. C. Correia","",2018-10-22,"77.605",2018
+"A Fully Attention-Based Information Retriever@@@FABIR","H. C. Alvaro Correia","University of São Paulo",2018-10-22,"77.605",2018
+"A Fully Attention-Based Information Retriever@@@FABIR","L. M. Jorge Silva","University of São Paulo",2018-10-22,"77.605",2018
+"A Fully Attention-Based Information Retriever@@@FABIR","C. Thiago de Martins","University of São Paulo",2018-10-22,"77.605",2018
+"A Fully Attention-Based Information Retriever@@@FABIR","G. Fabio Cozman","University of São Paulo",2018-10-22,"77.605",2018
+"A Fully Attention-Based Information Retriever@@@FABIR","Fabio Gagliardi Cozman","University of São Paulo",2018-10-22,"77.605",2018
+"@@@AllenNLP BiDAF (single model)","","",NA,"77.151",NA
+"@@@BIDAF-COMPOUND-DSS (single model)","","",NA,"76.429",NA
+"@@@Iterative Co-attention Network","","",NA,"76.786",NA
+"@@@newtest","","",NA,"75.787",NA
+"@@@BIDAF-INDEPENDENT-DSS (single model)","","",NA,"76.349",NA
+"Dynamic Coattention Networks For Question Answering@@@Dynamic Coattention Networks (single model)","Caiming Xiong","Salesforce.com",2016-11-05,"75.896",2016
+"Dynamic Coattention Networks For Question Answering@@@Dynamic Coattention Networks (single model)","Victor Zhong","Salesforce.com",2016-11-05,"75.896",2016
+"Dynamic Coattention Networks For Question Answering@@@Dynamic Coattention Networks (single model)","Richard Socher","Salesforce.com",2016-11-05,"75.896",2016
+"@@@BIDAF-COMPOUND (single model)","","",NA,"74.555",NA
+"@@@BIDAF-INDEPENDENT (single model)","","",NA,"74.594",NA
+"Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Bi-Ans-Ptr (Boundary)","Shuohang Wang","Singapore Management University",2016-08-29,"73.743",2016
+"Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Bi-Ans-Ptr (Boundary)","Jing Jiang","Singapore Management University",2016-08-29,"73.743",2016
+"@@@Unnamed submission by ravioncodalab","","",NA,"73.921",NA
+"Learning to Compute Word Embeddings On the Fly@@@OTF dict+spelling (single)","Dzmitry Bahdanau","",2017-06-01,"73.056",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF dict+spelling (single)","Tom Bosc","",2017-06-01,"73.056",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF dict+spelling (single)","Stanislaw Jastrzebski","",2017-06-01,"73.056",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF dict+spelling (single)","Edward Grefenstette","Google",2017-06-01,"73.056",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF dict+spelling (single)","Pascal Vincent","Université de Montréal",2017-06-01,"73.056",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF dict+spelling (single)","Yoshua Bengio","",2017-06-01,"73.056",2017
+"@@@Attentive CNN context with LSTM","","",NA,"73.463",NA
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling (single)","Dzmitry Bahdanau","",2017-06-01,"72.016",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling (single)","Tom Bosc","",2017-06-01,"72.016",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling (single)","Stanislaw Jastrzebski","",2017-06-01,"72.016",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling (single)","Edward Grefenstette","Google",2017-06-01,"72.016",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling (single)","Pascal Vincent","Université de Montréal",2017-06-01,"72.016",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling (single)","Yoshua Bengio","",2017-06-01,"72.016",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling+lemma (single)","Dzmitry Bahdanau","",2017-06-01,"71.968",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling+lemma (single)","Tom Bosc","",2017-06-01,"71.968",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling+lemma (single)","Stanislaw Jastrzebski","",2017-06-01,"71.968",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling+lemma (single)","Edward Grefenstette","Google",2017-06-01,"71.968",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling+lemma (single)","Pascal Vincent","Université de Montréal",2017-06-01,"71.968",2017
+"Learning to Compute Word Embeddings On the Fly@@@OTF spelling+lemma (single)","Yoshua Bengio","",2017-06-01,"71.968",2017
+"End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension@@@Dynamic Chunk Reader","Yang Yu","IBM",2016-10-31,"70.956",2016
+"End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension@@@Dynamic Chunk Reader","Wei Zhang","IBM",2016-10-31,"70.956",2016
+"End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension@@@Dynamic Chunk Reader","Bowen Zhou","IBM",2016-10-31,"70.956",2016
+"End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension@@@Dynamic Chunk Reader","Kazi Saidul Hasan","IBM",2016-10-31,"70.956",2016
+"End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension@@@Dynamic Chunk Reader","Mo Yu","IBM",2016-10-31,"70.956",2016
+"End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension@@@Dynamic Chunk Reader","Bing Xiang","IBM",2016-10-31,"70.956",2016
+"Words or Characters? Fine-grained Gating for Reading Comprehension@@@Fine-Grained Gating","Zhilin Yang","Carnegie Mellon University",2016-11-06,"73.327",2016
+"Words or Characters? Fine-grained Gating for Reading Comprehension@@@Fine-Grained Gating","Bhuwan Dhingra","Carnegie Mellon University",2016-11-06,"73.327",2016
+"Words or Characters? Fine-grained Gating for Reading Comprehension@@@Fine-Grained Gating","Ye Yuan","",2016-11-06,"73.327",2016
+"Words or Characters? Fine-grained Gating for Reading Comprehension@@@Fine-Grained Gating","Junjie Hu","Carnegie Mellon University",2016-11-06,"73.327",2016
+"Words or Characters? Fine-grained Gating for Reading Comprehension@@@Fine-Grained Gating","William W. Cohen","Carnegie Mellon University",2016-11-06,"73.327",2016
+"Words or Characters? Fine-grained Gating for Reading Comprehension@@@Fine-Grained Gating","Ruslan Salakhutdinov","Carnegie Mellon University",2016-11-06,"73.327",2016
+"@@@RQA+IDR (single model)","","",NA,"71.389",NA
+"Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Ans-Ptr (Boundary)","Shuohang Wang","Singapore Management University",2016-08-29,"70.695",2016
+"Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Ans-Ptr (Boundary)","Jing Jiang","Singapore Management University",2016-08-29,"70.695",2016
+"@@@Unnamed submission by Will_Wu","","",NA,"69.436",NA
+"@@@RQA (single model)","","",NA,"65.467",NA
+"Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Ans-Ptr (Sentence)","Shuohang Wang","Singapore Management University",2016-08-29,"67.748",2016
+"Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Ans-Ptr (Sentence)","Jing Jiang","Singapore Management University",2016-08-29,"67.748",2016
+"@@@UQA (single model)","","",NA,"64.036",NA
+"@@@Unnamed submission by jinhyuklee","","",NA,"62.780",NA
+"@@@Unnamed submission by minjoon","","",NA,"62.757",NA
+"Adaptation of Deep Bidirectional Multilingual Transformers for Russian Language@@@RuBERT","Yuri Kuratov","Moscow Institute of Physics and Technology",2019-05-17,"84.6",2019
+"Adaptation of Deep Bidirectional Multilingual Transformers for Russian Language@@@RuBERT","Mikhail Arkhipov","",2019-05-17,"84.6",2019
+"Pay Attention when Required@@@PAR BERT Base","Swetha Mandava","Nvidia",2020-09-09,"not available",2020
+"Pay Attention when Required@@@PAR BERT Base","Szymon Migacz","Nvidia",2020-09-09,"not available",2020
+"Pay Attention when Required@@@PAR BERT Base","Alex Fit Florea","Nvidia",2020-09-09,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (large-scale text corpora)","Dongling Xiao","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (large-scale text corpora)","Han Zhang","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (large-scale text corpora)","Li Yukun","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (large-scale text corpora)","Yu Sun","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (large-scale text corpora)","Hao Tian","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (large-scale text corpora)","Hua Wu","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (large-scale text corpora)","Haifeng Wang","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (beam size=5)","Dongling Xiao","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (beam size=5)","Han Zhang","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (beam size=5)","Li Yukun","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (beam size=5)","Yu Sun","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (beam size=5)","Hao Tian","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (beam size=5)","Hua Wu","Baidu",2020-01-26,"not available",2020
+"ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (beam size=5)","Haifeng Wang","Baidu",2020-01-26,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Hangbo Bao","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Li Dong","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Furu Wei","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Wenhui Wang","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Nan Yang","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Xiaodong Liu","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Yu Wang","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Songhao Piao","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Jianfeng Gao","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Ming Zhou","",2020-02-28,"not available",2020
+"UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2","Hsiao-Wuen Hon","",2020-02-28,"not available",2020
+"ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training@@@ProphetNet","Yu Yan","",2020-01-13,"not available",2020
+"ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training@@@ProphetNet","Weizhen Qi","",2020-01-13,"not available",2020
+"ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training@@@ProphetNet","Yeyun Gong","",2020-01-13,"not available",2020
+"ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training@@@ProphetNet","Dayiheng Liu","",2020-01-13,"not available",2020
+"ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training@@@ProphetNet","Nan Duan","",2020-01-13,"not available",2020
+"ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training@@@ProphetNet","Jiusheng Chen","",2020-01-13,"not available",2020
+"ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training@@@ProphetNet","Ruofei Zhang","",2020-01-13,"not available",2020
+"ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training@@@ProphetNet","Ming Zhou","",2020-01-13,"not available",2020
+"Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM","Li Dong","Microsoft",2019-05-08,"not available",2019
+"Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM","Nan Yang","Microsoft",2019-05-08,"not available",2019
+"Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM","Wenhui Wang","Microsoft",2019-05-08,"not available",2019
+"Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM","Furu Wei","Microsoft",2019-05-08,"not available",2019
+"Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM","Xiaodong Liu","Microsoft",2019-05-08,"not available",2019
+"Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM","Yu Wang","Microsoft",2019-05-08,"not available",2019
+"Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM","Jianfeng Gao","Microsoft",2019-05-08,"not available",2019
+"Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM","Ming Zhou","Microsoft",2019-05-08,"not available",2019
+"Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM","Hsiao-Wuen Hon","Microsoft",2019-05-08,"not available",2019
+"Mixture Content Selection for Diverse Sequence Generation@@@Selector & NQG++","Jaemin Cho","",2019-09-04,"not available",2019
+"Mixture Content Selection for Diverse Sequence Generation@@@Selector & NQG++","Minjoon Seo","Korea University",2019-09-04,"not available",2019
+"Mixture Content Selection for Diverse Sequence Generation@@@Selector & NQG++","Hannaneh Hajishirzi","University of Washington",2019-09-04,"not available",2019
+"Leveraging Context Information for Natural Question Generation@@@MPQG","Linfeng Song","University of Rochester",2018-06-01,"not available",2018
+"Leveraging Context Information for Natural Question Generation@@@MPQG","Zhiguo Wang","IBM",2018-06-01,"not available",2018
+"Leveraging Context Information for Natural Question Generation@@@MPQG","Wael Hamza","Amazon.com",2018-06-01,"not available",2018
+"Leveraging Context Information for Natural Question Generation@@@MPQG","Yue Zhang","Singapore University of Technology and Design",2018-06-01,"not available",2018
+"Leveraging Context Information for Natural Question Generation@@@MPQG","Daniel Gildea","University of Rochester",2018-06-01,"not available",2018
+"Evaluating Rewards for Question Generation Models@@@RNN +attn +copy","Tom Hosking","University College London",2019-02-28,"not available",2019
+"Evaluating Rewards for Question Generation Models@@@RNN +attn +copy","Sebastian Riedel","Facebook",2019-02-28,"not available",2019
+"Neural Question Generation from Text: A Preliminary Study@@@NQG++","Qingyu Zhou","Harbin Institute of Technology",2017-04-06,"not available",2017
+"Neural Question Generation from Text: A Preliminary Study@@@NQG++","Nan Yang","Microsoft",2017-04-06,"not available",2017
+"Neural Question Generation from Text: A Preliminary Study@@@NQG++","Furu Wei","Microsoft",2017-04-06,"not available",2017
+"Neural Question Generation from Text: A Preliminary Study@@@NQG++","Chuanqi Tan","Beihang University",2017-04-06,"not available",2017
+"Neural Question Generation from Text: A Preliminary Study@@@NQG++","Hangbo Bao","Harbin Institute of Technology",2017-04-06,"not available",2017
+"Neural Question Generation from Text: A Preliminary Study@@@NQG++","Ming Zhou","Microsoft",2017-04-06,"not available",2017

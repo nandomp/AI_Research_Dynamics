@@ -1,0 +1,105 @@
+number,name
+1,"('Université de Montréal', 8)&('Carnegie Mellon University', 5)&('Google', 4)&('Facebook', 3)&('École Polytechnique de Montréal', 2)&('Sharif University of Technology', 2)&('Stanford University', 1)&('Microsoft', 1)&('Jewish General Hospital', 1)&('Aalto University', 1)&('Massachusetts Institute of Technology', 1)"
+2,"('Google', 9)&('University of California, Berkeley', 8)&('University of Toronto', 7)&('OpenAI', 2)&('Facebook', 2)&('Carnegie Mellon University', 1)&('University of Bremen', 1)&('Canadian Institute for Advanced Research', 1)&('Lawrence Livermore National Laboratory', 1)&('Université de Montréal', 1)"
+3,"('Google', 14)&('Johannes Kepler University of Linz', 6)&('University of Freiburg', 4)&('Massachusetts Institute of Technology', 1)&('University of California, Los Angeles', 1)"
+4,"('Google', 20)"
+5,"('Shanghai Jiao Tong University', 4)&('Massachusetts Institute of Technology', 2)&('East China Normal University', 1)"
+6,"('Google', 10)&('University of California, Berkeley', 3)&('Ghent University', 2)&('Microsoft', 1)"
+7,"('D-Wave Systems', 4)&('Nvidia', 2)&('University of Illinois at Urbana–Champaign', 2)&('University of Chicago', 1)"
+8,"('Tsinghua University', 5)&('Xiaomi', 3)"
+9,"('Carnegie Mellon University', 4)&('National Research University – Higher School of Economics', 3)&('Cornell University', 2)&('Moscow State University', 1)&('Salesforce.com', 1)"
+10,"('Alibaba Group', 12)"
+11,"('University of California, San Diego', 3)&('Microsoft', 1)"
+12,"('University of Oxford', 6)&('Baidu', 1)&('Stanford University', 1)"
+13,"('Shanghai Jiao Tong University', 3)&('Huawei', 2)&('Tongji University', 1)"
+14,"('Intel', 3)&('University of Toronto', 3)&('Massachusetts Institute of Technology', 1)&('Lawrence Berkeley National Laboratory', 1)&('Université de Sherbrooke', 1)&('Harvard University', 1)"
+15,"('Dalle Molle Institute for Artificial Intelligence Research', 10)"
+16,"('ShanghaiTech University', 2)&('University of Macau', 1)&('MediaTek', 1)&('Tsinghua University', 1)&('Agency for Science, Technology and Research', 1)"
+17,"('Naver Corporation', 3)&('KAIST', 3)&('Yonsei University', 1)"
+18,"('Singapore University of Technology and Design', 4)&('University of Electronic Science and Technology of China', 1)"
+19,"('Massachusetts Institute of Technology', 7)"
+20,"('King Abdullah University of Science and Technology', 4)&('Leibniz University of Hanover', 1)&('Intel', 1)"
+21,"('Peking University', 3)&('Chinese Academy of Sciences', 1)&('SenseTime', 1)"
+22,
+23,"('University of Washington', 4)&('Microsoft', 1)"
+24,"('Imperial College London', 5)&('National and Kapodistrian University of Athens', 1)"
+25,"('University of Canberra', 2)&('Australian National University', 1)"
+26,"('University of Southampton', 6)"
+27,
+28,"('Cornell University', 4)&('Tsinghua University', 1)&('Facebook', 1)"
+29,"('New York University', 2)"
+30,"('Cornell University', 2)&('Princeton University', 1)&('Carnegie Mellon University', 1)&('Google', 1)&('Baidu', 1)"
+31,"('University of Sydney', 3)&('University of South Australia', 2)&('University of California, San Diego', 1)"
+32,"('Télécom ParisTech', 1)"
+33,"('University of California, Merced', 3)&('Peking University', 2)"
+34,
+35,"('Chinese Academy of Sciences', 5)"
+36,
+37,"('Beijing University of Posts and Telecommunications', 5)"
+38,"('Stanford University', 5)"
+39,"('University of Virginia', 5)"
+40,"('University of Illinois at Urbana–Champaign', 5)"
+41,"('University of California, Berkeley', 3)&('University of Illinois at Urbana–Champaign', 1)&('Oregon State University', 1)"
+42,"('Tsinghua University', 4)&('Microsoft', 1)"
+43,"('Texas A&M University', 2)&('Huazhong University of Science and Technology', 1)&('IBM', 1)"
+44,"('Google', 3)&('University of Michigan', 1)"
+45,"('Ritsumeikan University', 1)&('National Institute of Informatics', 1)&('Kyoto University', 1)"
+46,"('University College London', 1)&('Imperial College London', 1)"
+47,
+48,"('Nvidia', 4)"
+49,"('Virginia Tech', 3)&('Facebook', 1)"
+50,"('Technical University of Denmark', 2)&('Delhi Technological University', 1)"
+51,"('University of Pittsburgh', 3)&('Xidian University', 1)"
+52,"('University of California, Berkeley', 4)"
+53,"('Google', 4)"
+54,
+55,"('Nanjing University of Science and Technology', 2)&('Tsinghua University', 1)&('Nanjing University', 1)"
+56,"('Federal University of Rio de Janeiro', 2)&('University of Chicago', 1)"
+57,"('Microsoft', 4)"
+58,"('University of California, Irvine', 2)&('Adobe Systems', 1)&('University of Michigan', 1)"
+59,
+60,
+61,"('China University of Geosciences', 4)"
+62,"('University of Southern California', 4)"
+63,"('Google', 2)&('Heriot-Watt University', 1)"
+64,"('RMIT University', 1)&('University of Melbourne', 1)&('Australian National University', 1)"
+65,"('Stanford University', 1)&('IBM', 1)"
+66,
+67,"('Stanford University', 3)"
+68,
+69,"('Michigan State University', 3)"
+70,"('University of Technology, Sydney', 3)"
+71,"('University of Washington', 2)&('Facebook', 1)"
+72,"('Trinity College, Dublin', 3)"
+73,"('University of Oxford', 1)"
+74,
+75,
+76,"('Sun Yat-sen University', 2)&('University of California, Los Angeles', 1)"
+77,"('École Polytechnique Fédérale de Lausanne', 3)"
+78,
+79,"('University of Oxford', 2)"
+80,"('Massachusetts Institute of Technology', 3)"
+81,"('University of the Witwatersrand', 3)"
+82,
+83,"('Tel Aviv University', 1)"
+84,"('Saarland University', 2)"
+85,"('Bosch', 2)"
+86,"('OpenAI', 1)&('Google', 1)"
+87,"('Adobe Systems', 1)"
+88,"('Mitsubishi Electric Research Laboratories', 2)"
+89,"('University of Tübingen', 2)"
+90,"('University of Coimbra', 2)"
+91,
+92,"('Columbia University', 2)"
+93,
+94,"('University of Washington', 1)"
+95,"('University of Notre Dame', 2)"
+96,"('Czech Technical University in Prague', 2)"
+97,"('University of Adelaide', 2)"
+98,"('New York University', 2)"
+99,"('Louisiana State University', 2)"
+100,
+101,
+102,"('University of Warwick', 1)"
+103,"('Pace University', 1)"
+104,

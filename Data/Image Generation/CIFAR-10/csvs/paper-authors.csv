@@ -1,0 +1,994 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (8 blocks/resolution)","Antoine Liutkus","",2020-11-26,"2.2",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (8 blocks/resolution)","Umut Simsekli","Télécom ParisTech",2020-11-26,"2.2",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (8 blocks/resolution)","Szymon Majewski","",2020-11-26,"2.2",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (8 blocks/resolution)","Alain Durmus","",2020-11-26,"2.2",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (8 blocks/resolution)","Fabian-Robert Stöter","",2020-11-26,"2.2",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (4 blocks/resolution) ","Antoine Liutkus","",2020-11-26,"2.38",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (4 blocks/resolution) ","Umut Simsekli","Télécom ParisTech",2020-11-26,"2.38",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (4 blocks/resolution) ","Szymon Majewski","",2020-11-26,"2.38",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (4 blocks/resolution) ","Alain Durmus","",2020-11-26,"2.38",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (4 blocks/resolution) ","Fabian-Robert Stöter","",2020-11-26,"2.38",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ (4 blocks/resolution)","Antoine Liutkus","",2020-11-26,"2.45",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ (4 blocks/resolution)","Umut Simsekli","Télécom ParisTech",2020-11-26,"2.45",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ (4 blocks/resolution)","Szymon Majewski","",2020-11-26,"2.45",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ (4 blocks/resolution)","Alain Durmus","",2020-11-26,"2.45",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ (4 blocks/resolution)","Fabian-Robert Stöter","",2020-11-26,"2.45",2020
+"Denoising Diffusion Probabilistic Models@@@Denoising Diffusion","Jonathan Ho","University of California, Berkeley",2020-06-19,"3.17",2020
+"Denoising Diffusion Probabilistic Models@@@Denoising Diffusion","Ajay Jain","University of California, Berkeley",2020-06-19,"3.17",2020
+"Denoising Diffusion Probabilistic Models@@@Denoising Diffusion","Pieter Abbeel","University of California, Berkeley",2020-06-19,"3.17",2020
+"Adversarial score matching and improved sampling for image generation@@@DSM-ALS","Alexia Jolicoeur-Martineau","",2020-09-11,"3.65",2020
+"Adversarial score matching and improved sampling for image generation@@@DSM-ALS","Remi Piche-Taillefer","",2020-09-11,"3.65",2020
+"Adversarial score matching and improved sampling for image generation@@@DSM-ALS","Remi Tachet des Combes","",2020-09-11,"3.65",2020
+"Adversarial score matching and improved sampling for image generation@@@DSM-ALS","Ioannis Mitliagkas","",2020-09-11,"3.65",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM (probability flow)","Antoine Liutkus","",2020-11-26,"3.77",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM (probability flow)","Umut Simsekli","Télécom ParisTech",2020-11-26,"3.77",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM (probability flow)","Szymon Majewski","",2020-11-26,"3.77",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM (probability flow)","Alain Durmus","",2020-11-26,"3.77",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM (probability flow)","Fabian-Robert Stöter","",2020-11-26,"3.77",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM cont. (probability flow)","Antoine Liutkus","",2020-11-26,"4.02",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM cont. (probability flow)","Umut Simsekli","Télécom ParisTech",2020-11-26,"4.02",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM cont. (probability flow)","Szymon Majewski","",2020-11-26,"4.02",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM cont. (probability flow)","Alain Durmus","",2020-11-26,"4.02",2020
+"Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM cont. (probability flow)","Fabian-Robert Stöter","",2020-11-26,"4.02",2020
+"Lessons Learned from the Training of GANs on Artificial Datasets@@@MIX-BigGAN","Shichang Tang","",2020-07-13,"8.17",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-CR-BigGAN","Shengyu Zhao","",2020-06-18,"8.49",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-CR-BigGAN","Zhijian Liu","",2020-06-18,"8.49",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-CR-BigGAN","Ji Lin","",2020-06-18,"8.49",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-CR-BigGAN","Jun-Yan Zhu","",2020-06-18,"8.49",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-CR-BigGAN","Song Han","",2020-06-18,"8.49",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-BigGAN","Shengyu Zhao","",2020-06-18,"8.7",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-BigGAN","Zhijian Liu","",2020-06-18,"8.7",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-BigGAN","Ji Lin","",2020-06-18,"8.7",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-BigGAN","Jun-Yan Zhu","",2020-06-18,"8.7",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-BigGAN","Song Han","",2020-06-18,"8.7",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-StyleGAN2","Shengyu Zhao","",2020-06-18,"9.89",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-StyleGAN2","Zhijian Liu","",2020-06-18,"9.89",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-StyleGAN2","Ji Lin","",2020-06-18,"9.89",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-StyleGAN2","Jun-Yan Zhu","",2020-06-18,"9.89",2020
+"Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-StyleGAN2","Song Han","",2020-06-18,"9.89",2020
+"Improving GAN Training with Probability Ratio Clipping and Sample Reweighting@@@PPOGAN","Yue Wu","",2020-06-12,"10.7",2020
+"Improving GAN Training with Probability Ratio Clipping and Sample Reweighting@@@PPOGAN","Pan Zhou","Salesforce.com",2020-06-12,"10.7",2020
+"Improving GAN Training with Probability Ratio Clipping and Sample Reweighting@@@PPOGAN","Andrew Gordon Wilson","",2020-06-12,"10.7",2020
+"Improving GAN Training with Probability Ratio Clipping and Sample Reweighting@@@PPOGAN","Eric P. Xing","",2020-06-12,"10.7",2020
+"Improving GAN Training with Probability Ratio Clipping and Sample Reweighting@@@PPOGAN","Zhiting Hu","",2020-06-12,"10.7",2020
+"Improved Techniques for Training Score-Based Generative Models@@@NCSNv2","Yang Song","Stanford University",2020-06-16,"10.87",2020
+"Improved Techniques for Training Score-Based Generative Models@@@NCSNv2","Stefano Ermon","Stanford University",2020-06-16,"10.87",2020
+"Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search@@@E2GAN","Yuan Tian","",2020-07-17,"11.26",2020
+"Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search@@@E2GAN","Qin Wang","",2020-07-17,"11.26",2020
+"Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search@@@E2GAN","Zhiwu Huang","",2020-07-17,"11.26",2020
+"Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search@@@E2GAN","Wen Li","",2020-07-17,"11.26",2020
+"Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search@@@E2GAN","Dengxin Dai","",2020-07-17,"11.26",2020
+"Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search@@@E2GAN","Minghao Yang","",2020-07-17,"11.26",2020
+"Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search@@@E2GAN","Jun Wang","",2020-07-17,"11.26",2020
+"Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search@@@E2GAN","Olga Fink","",2020-07-17,"11.26",2020
+"Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game@@@MSGAN","Ngoc-Trung Tran","Singapore University of Technology and Design",2019-11-16,"11.40",2019
+"Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game@@@MSGAN","Viet-Hung Tran","Singapore University of Technology and Design",2019-11-16,"11.40",2019
+"Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game@@@MSGAN","Bao-Ngoc Nguyen","",2019-11-16,"11.40",2019
+"Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game@@@MSGAN","Ngoc-Bao Nguyen","",2019-11-16,"11.40",2019
+"Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game@@@MSGAN","Linxiao Yang","University of Electronic Science and Technology of China",2019-11-16,"11.40",2019
+"Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game@@@MSGAN","Ngai-Man Cheung","Singapore University of Technology and Design",2019-11-16,"11.40",2019
+"DEGAS: Differentiable Efficient Generator Search@@@DEGAS","Sivan Doveh","Tel Aviv University",2019-12-02,"12.01",2019
+"DEGAS: Differentiable Efficient Generator Search@@@DEGAS","Raja Giryes","",2019-12-02,"12.01",2019
+"VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/ persistent chain","Zhisheng Xiao","University of Chicago",2020-10-01,"12.19",2020
+"VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/ persistent chain","Karsten Kreis","Nvidia",2020-10-01,"12.19",2020
+"VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/ persistent chain","Jan Kautz","Nvidia",2020-10-01,"12.19",2020
+"VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/ persistent chain","Arash Vahdat","Nvidia",2020-10-01,"12.19",2020
+"VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/o persistent chain","Zhisheng Xiao","University of Chicago",2020-10-01,"12.26",2020
+"VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/o persistent chain","Karsten Kreis","Nvidia",2020-10-01,"12.26",2020
+"VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/o persistent chain","Jan Kautz","Nvidia",2020-10-01,"12.26",2020
+"VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/o persistent chain","Arash Vahdat","Nvidia",2020-10-01,"12.26",2020
+"AutoGAN: Neural Architecture Search for Generative Adversarial Networks@@@AutoGAN","Xinyu Gong","Texas A&M University",2019-08-11,"12.42",2019
+"AutoGAN: Neural Architecture Search for Generative Adversarial Networks@@@AutoGAN","Shiyu Chang","IBM",2019-08-11,"12.42",2019
+"AutoGAN: Neural Architecture Search for Generative Adversarial Networks@@@AutoGAN","Yifan Jiang","Huazhong University of Science and Technology",2019-08-11,"12.42",2019
+"AutoGAN: Neural Architecture Search for Generative Adversarial Networks@@@AutoGAN","Zhangyang Wang","Texas A&M University",2019-08-11,"12.42",2019
+"Adversarial Lipschitz Regularization@@@WGAN-ALP","Matthias Hein","Saarland University",2019-07-12,"12.96",2019
+"Adversarial Lipschitz Regularization@@@WGAN-ALP","Maksym Andriushchenko","Saarland University",2019-07-12,"12.96",2019
+"Denoising Diffusion Probabilistic Models@@@DDPM (L)","Jonathan Ho","University of California, Berkeley",2020-06-19,"13.51",2020
+"Denoising Diffusion Probabilistic Models@@@DDPM (L)","Ajay Jain","University of California, Berkeley",2020-06-19,"13.51",2020
+"Denoising Diffusion Probabilistic Models@@@DDPM (L)","Pieter Abbeel","University of California, Berkeley",2020-06-19,"13.51",2020
+"Consistency Regularization for Generative Adversarial Networks@@@CR-GAN (ResNet)","Han Zhang","Google",2019-10-26,"14.56",2019
+"Consistency Regularization for Generative Adversarial Networks@@@CR-GAN (ResNet)","Zizhao Zhang","Google",2019-10-26,"14.56",2019
+"Consistency Regularization for Generative Adversarial Networks@@@CR-GAN (ResNet)","Augustus Odena","Google",2019-10-26,"14.56",2019
+"Consistency Regularization for Generative Adversarial Networks@@@CR-GAN (ResNet)","Honglak Lee","University of Michigan",2019-10-26,"14.56",2019
+"Large Scale GAN Training for High Fidelity Natural Image Synthesis@@@BigGAN","Andrew Brock","Heriot-Watt University",2018-09-28,"14.73",2018
+"Large Scale GAN Training for High Fidelity Natural Image Synthesis@@@BigGAN","Jeff Donahue","Google",2018-09-28,"14.73",2018
+"Large Scale GAN Training for High Fidelity Natural Image Synthesis@@@BigGAN","Karen Simonyan","Google",2018-09-28,"14.73",2018
+"Self-Supervised GANs via Auxiliary Rotation Loss@@@SS-GAN (sBN)","Ting Chen","University of California, Los Angeles",2018-11-27,"15.65",2018
+"Self-Supervised GANs via Auxiliary Rotation Loss@@@SS-GAN (sBN)","Xiaohua Zhai","Google",2018-11-27,"15.65",2018
+"Self-Supervised GANs via Auxiliary Rotation Loss@@@SS-GAN (sBN)","Marvin Ritter","Google",2018-11-27,"15.65",2018
+"Self-Supervised GANs via Auxiliary Rotation Loss@@@SS-GAN (sBN)","Mario Lucic","Google",2018-11-27,"15.65",2018
+"Self-Supervised GANs via Auxiliary Rotation Loss@@@SS-GAN (sBN)","Neil Houlsby","Google",2018-11-27,"15.65",2018
+"Progressive Augmentation of GANs@@@PA-GAN","Dan Zhang","Bosch",2019-01-29,"16.1",2019
+"Progressive Augmentation of GANs@@@PA-GAN","Anna Khoreva","Bosch",2019-01-29,"16.1",2019
+"Improving MMD-GAN Training with Repulsive Loss Function@@@MMD-GAN-rep","Wei Wang","University of Melbourne",2018-12-24,"16.21",2018
+"Improving MMD-GAN Training with Repulsive Loss Function@@@MMD-GAN-rep","Yuan Sun","RMIT University",2018-12-24,"16.21",2018
+"Improving MMD-GAN Training with Repulsive Loss Function@@@MMD-GAN-rep","Saman K. Halgamuge","Australian National University",2018-12-24,"16.21",2018
+"$<U+03A0>-$nets: Deep Polynomial Neural Networks@@@Pi-net","Grigorios G. Chrysos","Imperial College London",2020-03-08,"16.79",2020
+"$<U+03A0>-$nets: Deep Polynomial Neural Networks@@@Pi-net","Stylianos Moschoglou","Imperial College London",2020-03-08,"16.79",2020
+"$<U+03A0>-$nets: Deep Polynomial Neural Networks@@@Pi-net","Giorgos Bouritsas","Imperial College London",2020-03-08,"16.79",2020
+"$<U+03A0>-$nets: Deep Polynomial Neural Networks@@@Pi-net","Yannis Panagakis","National and Kapodistrian University of Athens",2020-03-08,"16.79",2020
+"$<U+03A0>-$nets: Deep Polynomial Neural Networks@@@Pi-net","Jiankang Deng","Imperial College London",2020-03-08,"16.79",2020
+"$<U+03A0>-$nets: Deep Polynomial Neural Networks@@@Pi-net","Stefanos Zafeiriou","Imperial College London",2020-03-08,"16.79",2020
+"Dist-GAN: An Improved GAN using Distance Constraints@@@Dist-GAN","Ngoc-Trung Tran","Singapore University of Technology and Design",2018-03-23,"17.61",2018
+"Dist-GAN: An Improved GAN using Distance Constraints@@@Dist-GAN","Tuan-Anh Bui","Singapore University of Technology and Design",2018-03-23,"17.61",2018
+"Dist-GAN: An Improved GAN using Distance Constraints@@@Dist-GAN","Ngai-Man Cheung","Singapore University of Technology and Design",2018-03-23,"17.61",2018
+"Dual Contradistinctive Generative Autoencoder@@@DC-VAE","Xiaodan Liang","Carnegie Mellon University",2020-11-19,"17.9",2020
+"Dual Contradistinctive Generative Autoencoder@@@DC-VAE","Lisa Lee","Carnegie Mellon University",2020-11-19,"17.9",2020
+"Dual Contradistinctive Generative Autoencoder@@@DC-VAE","Wei Dai","Carnegie Mellon University",2020-11-19,"17.9",2020
+"Dual Contradistinctive Generative Autoencoder@@@DC-VAE","Eric P. Xing","Carnegie Mellon University",2020-11-19,"17.9",2020
+"Stable Rank Normalization for Improved Generalization in Neural Networks and GANs@@@SRN-GANs","Amartya Sanyal","University of Oxford",2019-06-11,"19.83",2019
+"Stable Rank Normalization for Improved Generalization in Neural Networks and GANs@@@SRN-GANs","Philip H. S. Torr","University of Oxford",2019-06-11,"19.83",2019
+"Stable Rank Normalization for Improved Generalization in Neural Networks and GANs@@@SRN-GANs","Puneet K. Dokania","University of Oxford",2019-06-11,"19.83",2019
+"Spectral Normalization for Generative Adversarial Networks@@@SN-GANs","Takeru Miyato","Kyoto University",2018-02-16,"21.7",2018
+"Spectral Normalization for Generative Adversarial Networks@@@SN-GANs","Toshiki Kataoka","",2018-02-16,"21.7",2018
+"Spectral Normalization for Generative Adversarial Networks@@@SN-GANs","Masanori Koyama","Ritsumeikan University",2018-02-16,"21.7",2018
+"Spectral Normalization for Generative Adversarial Networks@@@SN-GANs","Yuichi Yoshida","National Institute of Informatics",2018-02-16,"21.7",2018
+"NCP-VAE: Variational Autoencoders with Noise Contrastive Priors@@@NCP-VAE","Jyoti Aneja","University of Illinois at Urbana–Champaign",2020-10-06,"24.08",2020
+"NCP-VAE: Variational Autoencoders with Noise Contrastive Priors@@@NCP-VAE","Alexander G. Schwing","University of Illinois at Urbana–Champaign",2020-10-06,"24.08",2020
+"NCP-VAE: Variational Autoencoders with Noise Contrastive Priors@@@NCP-VAE","Jan Kautz","Nvidia",2020-10-06,"24.08",2020
+"NCP-VAE: Variational Autoencoders with Noise Contrastive Priors@@@NCP-VAE","Arash Vahdat","Nvidia",2020-10-06,"24.08",2020
+"GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium@@@WGAN-GP + TT Update Rule","Martin Heusel","Johannes Kepler University of Linz",2017-06-26,"24.8",2017
+"GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium@@@WGAN-GP + TT Update Rule","Hubert Ramsauer","Johannes Kepler University of Linz",2017-06-26,"24.8",2017
+"GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium@@@WGAN-GP + TT Update Rule","Thomas Unterthiner","Johannes Kepler University of Linz",2017-06-26,"24.8",2017
+"GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium@@@WGAN-GP + TT Update Rule","Bernhard Nessler","Johannes Kepler University of Linz",2017-06-26,"24.8",2017
+"GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium@@@WGAN-GP + TT Update Rule","Sepp Hochreiter","Johannes Kepler University of Linz",2017-06-26,"24.8",2017
+"On gradient regularizers for MMD GANs@@@SN-SMMDGAN","Michael Arbel","University College London",2018-05-29,"25.0",2018
+"On gradient regularizers for MMD GANs@@@SN-SMMDGAN","Dougal J. Sutherland","",2018-05-29,"25.0",2018
+"On gradient regularizers for MMD GANs@@@SN-SMMDGAN","Mikolaj Binkowski","Imperial College London",2018-05-29,"25.0",2018
+"On gradient regularizers for MMD GANs@@@SN-SMMDGAN","Arthur Gretton","",2018-05-29,"25.0",2018
+"Generative Modeling by Estimating Gradients of the Data Distribution@@@NCSN","Yang Song","Stanford University",2019-07-12,"25.32",2019
+"Generative Modeling by Estimating Gradients of the Data Distribution@@@NCSN","Stefano Ermon","Stanford University",2019-07-12,"25.32",2019
+"The relativistic discriminator: a key element missing from standard GAN@@@RSGAN-GP","Alexia Jolicoeur-Martineau","Jewish General Hospital",2018-07-02,"25.60",2018
+"Gradient penalty from a maximum margin perspective@@@HingeGAN","Saharon Rosset","IBM",2019-10-15,"27.12",2019
+"Gradient penalty from a maximum margin perspective@@@HingeGAN","Ji Zhu","",2019-10-15,"27.12",2019
+"Gradient penalty from a maximum margin perspective@@@HingeGAN","Trevor Hastie","Stanford University",2019-10-15,"27.12",2019
+"First Order Generative Adversarial Networks@@@FOGAN","Calvin Seward","",2018-02-13,"27.4",2018
+"First Order Generative Adversarial Networks@@@FOGAN","Thomas Unterthiner","Johannes Kepler University of Linz",2018-02-13,"27.4",2018
+"First Order Generative Adversarial Networks@@@FOGAN","Urs Bergmann","",2018-02-13,"27.4",2018
+"First Order Generative Adversarial Networks@@@FOGAN","Nikolay Jetchev","",2018-02-13,"27.4",2018
+"First Order Generative Adversarial Networks@@@FOGAN","Sepp Hochreiter","",2018-02-13,"27.4",2018
+"Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis@@@MSGAN","Qi Mao","Peking University",2019-03-13,"28.73",2019
+"Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis@@@MSGAN","Hsin-Ying Lee","University of California, Merced",2019-03-13,"28.73",2019
+"Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis@@@MSGAN","Hung-Yu Tseng","University of California, Merced",2019-03-13,"28.73",2019
+"Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis@@@MSGAN","Siwei Ma","Peking University",2019-03-13,"28.73",2019
+"Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis@@@MSGAN","Ming-Hsuan Yang","University of California, Merced",2019-03-13,"28.73",2019
+"Improved Training of Wasserstein GANs@@@WGAN-GP","Ishaan Gulrajani","Google",2017-03-31,"29.3",2017
+"Improved Training of Wasserstein GANs@@@WGAN-GP","Faruk Ahmed","",2017-03-31,"29.3",2017
+"Improved Training of Wasserstein GANs@@@WGAN-GP","Martin Arjovsky","Courant Institute of Mathematical Sciences",2017-03-31,"29.3",2017
+"Improved Training of Wasserstein GANs@@@WGAN-GP","Vincent Dumoulin","",2017-03-31,"29.3",2017
+"Improved Training of Wasserstein GANs@@@WGAN-GP","Aaron Courville","Canadian Institute for Advanced Research",2017-03-31,"29.3",2017
+"Generative Latent Flow@@@GLF+perceptual loss (ours)","Diederik P. Kingma","Google",2019-05-24,"44.6",2019
+"Generative Latent Flow@@@GLF+perceptual loss (ours)","Prafulla Dhariwal","OpenAI",2019-05-24,"44.6",2019
+"Residual Flows for Invertible Generative Modeling@@@Residual Flow","Tian Qi Chen","University of Toronto",2019-06-06,"46.37",2019
+"Residual Flows for Invertible Generative Modeling@@@Residual Flow","Ricky T. Q. Chen","University of Toronto",2019-06-06,"46.37",2019
+"Residual Flows for Invertible Generative Modeling@@@Residual Flow","Jens Behrmann","University of Bremen",2019-06-06,"46.37",2019
+"Residual Flows for Invertible Generative Modeling@@@Residual Flow","David Duvenaud","University of Toronto",2019-06-06,"46.37",2019
+"Residual Flows for Invertible Generative Modeling@@@Residual Flow","Joern-Henrik Jacobsen","",2019-06-06,"46.37",2019
+"Residual Flows for Invertible Generative Modeling@@@Residual Flow","Jörn-Henrik Jacobsen","University of Toronto",2019-06-06,"46.37",2019
+"Prescribed Generative Adversarial Networks@@@PresGAN","Adji B. Dieng","",2019-10-09,"52.202",2019
+"Prescribed Generative Adversarial Networks@@@PresGAN","Francisco J. R. Ruiz","",2019-10-09,"52.202",2019
+"Prescribed Generative Adversarial Networks@@@PresGAN","David M. Blei","",2019-10-09,"52.202",2019
+"Prescribed Generative Adversarial Networks@@@PresGAN","Michalis K. Titsias","",2019-10-09,"52.202",2019
+"Progressive Growing of GANs for Improved Quality, Stability, and Variation@@@PGGAN","Tero Karras","Nvidia",2017-10-27,"not available",2017
+"Progressive Growing of GANs for Improved Quality, Stability, and Variation@@@PGGAN","Timo Aila","Nvidia",2017-10-27,"not available",2017
+"Progressive Growing of GANs for Improved Quality, Stability, and Variation@@@PGGAN","Samuli Laine","Nvidia",2017-10-27,"not available",2017
+"Progressive Growing of GANs for Improved Quality, Stability, and Variation@@@PGGAN","Jaakko Lehtinen","Nvidia",2017-10-27,"not available",2017
+"Understanding and Stabilizing GANs' Training Dynamics with Control Theory@@@CLC-GAN","Kun Xu","",2019-09-29,"not available",2019
+"Understanding and Stabilizing GANs' Training Dynamics with Control Theory@@@CLC-GAN","Chongxuan Li","",2019-09-29,"not available",2019
+"Understanding and Stabilizing GANs' Training Dynamics with Control Theory@@@CLC-GAN","Huanshu Wei","Tsinghua University",2019-09-29,"not available",2019
+"Understanding and Stabilizing GANs' Training Dynamics with Control Theory@@@CLC-GAN","Jun Zhu","Tsinghua University",2019-09-29,"not available",2019
+"Understanding and Stabilizing GANs' Training Dynamics with Control Theory@@@CLC-GAN","Bo Zhang","",2019-09-29,"not available",2019
+"MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks@@@MSG-ProGAN","Animesh Karnewar","",2019-03-14,"not available",2019
+"MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks@@@MSG-ProGAN","Oliver Wang","Adobe Systems",2019-03-14,"not available",2019
+"Class-Splitting Generative Adversarial Networks@@@Splitting GAN","Guillermo L. Grinblat","",2017-09-21,"not available",2017
+"Class-Splitting Generative Adversarial Networks@@@Splitting GAN","Lucas C. Uzal","",2017-09-21,"not available",2017
+"Class-Splitting Generative Adversarial Networks@@@Splitting GAN","Pablo M. Granitto","",2017-09-21,"not available",2017
+"Image Synthesis with a Single (Robust) Classifier@@@Single Classifier","Shibani Santurkar","Massachusetts Institute of Technology",2019-06-06,"not available",2019
+"Image Synthesis with a Single (Robust) Classifier@@@Single Classifier","Andrew Ilyas","Massachusetts Institute of Technology",2019-06-06,"not available",2019
+"Image Synthesis with a Single (Robust) Classifier@@@Single Classifier","Dimitris Tsipras","Massachusetts Institute of Technology",2019-06-06,"not available",2019
+"Image Synthesis with a Single (Robust) Classifier@@@Single Classifier","Logan Engstrom","Massachusetts Institute of Technology",2019-06-06,"not available",2019
+"Image Synthesis with a Single (Robust) Classifier@@@Single Classifier","Brandon Tran","Massachusetts Institute of Technology",2019-06-06,"not available",2019
+"Image Synthesis with a Single (Robust) Classifier@@@Single Classifier","Aleksander Madry","Massachusetts Institute of Technology",2019-06-06,"not available",2019
+"Image Synthesis with a Single (Robust) Classifier@@@Single Classifier","Aleksander Madry","Massachusetts Institute of Technology",2019-06-06,"not available",2019
+"LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation@@@LR-GAN","Jianwei Yang","Virginia Tech",2017-03-05,"not available",2017
+"LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation@@@LR-GAN","Anitha Kannan","Facebook",2017-03-05,"not available",2017
+"LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation@@@LR-GAN","Dhruv Batra","Georgia Institute of Technology",2017-03-05,"not available",2017
+"LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation@@@LR-GAN","Devi Parikh","Georgia Institute of Technology",2017-03-05,"not available",2017
+"Calibrating Energy-based Generative Adversarial Networks@@@CEGAN-Ent-VI","Zihang Dai","Carnegie Mellon University",2017-02-06,"not available",2017
+"Calibrating Energy-based Generative Adversarial Networks@@@CEGAN-Ent-VI","Amjad Almahairi","Université de Montréal",2017-02-06,"not available",2017
+"Calibrating Energy-based Generative Adversarial Networks@@@CEGAN-Ent-VI","Philip Bachman","Microsoft",2017-02-06,"not available",2017
+"Calibrating Energy-based Generative Adversarial Networks@@@CEGAN-Ent-VI","Eduard Hovy","Carnegie Mellon University",2017-02-06,"not available",2017
+"Calibrating Energy-based Generative Adversarial Networks@@@CEGAN-Ent-VI","Aaron Courville","Université de Montréal",2017-02-06,"not available",2017
+"Improved Techniques for Training GANs@@@Improved GAN","Tim Salimans","OpenAI",2016-06-10,"not available",2016
+"Improved Techniques for Training GANs@@@Improved GAN","Ian Goodfellow","Google",2016-06-10,"not available",2016
+"Improved Techniques for Training GANs@@@Improved GAN","Wojciech Zaremba","Facebook",2016-06-10,"not available",2016
+"Improved Techniques for Training GANs@@@Improved GAN","Vicki Cheung","",2016-06-10,"not available",2016
+"Improved Techniques for Training GANs@@@Improved GAN","Alec Radford","OpenAI",2016-06-10,"not available",2016
+"Improved Techniques for Training GANs@@@Improved GAN","Xi Chen","University of California, Berkeley",2016-06-10,"not available",2016
+"Generative Multi-Adversarial Networks@@@GMAN","Ming-Yu Liu","Mitsubishi Electric Research Laboratories",2016-11-05,"not available",2016
+"Generative Multi-Adversarial Networks@@@GMAN","Oncel Tuzel","Mitsubishi Electric Research Laboratories",2016-11-05,"not available",2016
+"BEGAN: Boundary Equilibrium Generative Adversarial Networks@@@BEGAN","David Berthelot","",2017-03-31,"not available",2017
+"BEGAN: Boundary Equilibrium Generative Adversarial Networks@@@BEGAN","Thomas Schumm","",2017-03-31,"not available",2017
+"BEGAN: Boundary Equilibrium Generative Adversarial Networks@@@BEGAN","Luke Metz","",2017-03-31,"not available",2017
+"Adversarially Learned Inference@@@ALI","Vincent Dumoulin","",2016-06-02,"not available",2016
+"Adversarially Learned Inference@@@ALI","Ishmael Belghazi","",2016-06-02,"not available",2016
+"Adversarially Learned Inference@@@ALI","Ben Poole","",2016-06-02,"not available",2016
+"Adversarially Learned Inference@@@ALI","Olivier Mastropietro","",2016-06-02,"not available",2016
+"Adversarially Learned Inference@@@ALI","Alex Lamb","",2016-06-02,"not available",2016
+"Adversarially Learned Inference@@@ALI","Martin Arjovsky","",2016-06-02,"not available",2016
+"Adversarially Learned Inference@@@ALI","Aaron Courville","",2016-06-02,"not available",2016
+"@@@DistAug-Sparse Transformer 152M","","",NA,"not available",NA
+"@@@DistAug-Sparse Transformer 58M","","",NA,"not available",NA
+"Generating Long Sequences with Sparse Transformers@@@Sparse Transformer 59M (strided)","Rewon Child","",2019-04-23,"not available",2019
+"Generating Long Sequences with Sparse Transformers@@@Sparse Transformer 59M (strided)","Scott Gray","",2019-04-23,"not available",2019
+"Generating Long Sequences with Sparse Transformers@@@Sparse Transformer 59M (strided)","Alec Radford","",2019-04-23,"not available",2019
+"Generating Long Sequences with Sparse Transformers@@@Sparse Transformer 59M (strided)","Ilya Sutskever","",2019-04-23,"not available",2019
+"Preventing Posterior Collapse with delta-VAEs@@@d-VAE","Ali Razavi","Google",2019-01-10,"not available",2019
+"Preventing Posterior Collapse with delta-VAEs@@@d-VAE","Aaron van den Oord","Google",2019-01-10,"not available",2019
+"Preventing Posterior Collapse with delta-VAEs@@@d-VAE","Ben Poole","Google",2019-01-10,"not available",2019
+"Preventing Posterior Collapse with delta-VAEs@@@d-VAE","Oriol Vinyals","Google",2019-01-10,"not available",2019
+"Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images@@@Very Deep VAE","Lars Maaløe","",2020-11-20,"not available",2020
+"Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images@@@Very Deep VAE","Marco Fraccaro","Technical University of Denmark",2020-11-20,"not available",2020
+"Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images@@@Very Deep VAE","Valentin Liévin","Delhi Technological University",2020-11-20,"not available",2020
+"Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images@@@Very Deep VAE","Ole Winther","Technical University of Denmark",2020-11-20,"not available",2020
+"Image Transformer@@@Image Transformer","Ashish Vaswani","Google",2018-02-15,"not available",2018
+"Image Transformer@@@Image Transformer","Niki Parmar","Google",2018-02-15,"not available",2018
+"Image Transformer@@@Image Transformer","Jakob Uszkoreit","Google",2018-02-15,"not available",2018
+"Image Transformer@@@Image Transformer","Noam Shazeer","Google",2018-02-15,"not available",2018
+"Image Transformer@@@Image Transformer","Lukasz Kaiser","Google",2018-02-15,"not available",2018
+"Locally Masked Convolution for Autoregressive Models@@@Locally Masked PixelCNN, 8 orders","Anubhav Jain","University of California, Berkeley",2020-06-22,"not available",2020
+"Locally Masked Convolution for Autoregressive Models@@@Locally Masked PixelCNN, 8 orders","Ajay Jain","University of California, Berkeley",2020-06-22,"not available",2020
+"Locally Masked Convolution for Autoregressive Models@@@Locally Masked PixelCNN, 8 orders","Pieter Abbeel","University of California, Berkeley",2020-06-22,"not available",2020
+"Locally Masked Convolution for Autoregressive Models@@@Locally Masked PixelCNN, 8 orders","Deepak Pathak","Carnegie Mellon University",2020-06-22,"not available",2020
+"PixelVAE++: Improved PixelVAE with Discrete Prior@@@PixelVAE++ Sadeghi et al. (2019)","Hossein Sadeghi","",2019-08-26,"not available",2019
+"PixelVAE++: Improved PixelVAE with Discrete Prior@@@PixelVAE++ Sadeghi et al. (2019)","Evgeny Andriyash","",2019-08-26,"not available",2019
+"PixelVAE++: Improved PixelVAE with Discrete Prior@@@PixelVAE++ Sadeghi et al. (2019)","Walter Vinci","",2019-08-26,"not available",2019
+"PixelVAE++: Improved PixelVAE with Discrete Prior@@@PixelVAE++ Sadeghi et al. (2019)","Lorenzo Buffoni","",2019-08-26,"not available",2019
+"PixelVAE++: Improved PixelVAE with Discrete Prior@@@PixelVAE++ Sadeghi et al. (2019)","Mohammad Amin","",2019-08-26,"not available",2019
+"NVAE: A Deep Hierarchical Variational Autoencoder@@@NVAE w/ flow","Arash Vahdat","",2020-07-08,"not available",2020
+"NVAE: A Deep Hierarchical Variational Autoencoder@@@NVAE w/ flow","Jan Kautz","Nvidia",2020-07-08,"not available",2020
+"VFlow: More Expressive Generative Flows with Variational Data Augmentation@@@VFlow","Jianfei Chen","Tsinghua University",2020-02-22,"not available",2020
+"VFlow: More Expressive Generative Flows with Variational Data Augmentation@@@VFlow","Cheng Lu","Tsinghua University",2020-02-22,"not available",2020
+"VFlow: More Expressive Generative Flows with Variational Data Augmentation@@@VFlow","Biqi Chenli","Tsinghua University",2020-02-22,"not available",2020
+"VFlow: More Expressive Generative Flows with Variational Data Augmentation@@@VFlow","Jun Zhu","Tsinghua University",2020-02-22,"not available",2020
+"VFlow: More Expressive Generative Flows with Variational Data Augmentation@@@VFlow","Tian Tian","",2020-02-22,"not available",2020
+"Pixel Recurrent Neural Networks@@@PixelRNN","Shuai Zheng","University of Oxford",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelRNN","Sadeep Jayasumana","University of Oxford",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelRNN","Bernardino Romera-Paredes","University of Oxford",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelRNN","Vibhav Vineet","Stanford University",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelRNN","Zhizhong Su","",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelRNN","Dalong Du","",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelRNN","Chang Huang","Baidu",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelRNN","Philip H. S. Torr","University of Oxford",2016-01-25,"not available",2016
+"Conditional Image Generation with PixelCNN Decoders@@@Gated PixelCNN","Aaron van den Oord","Google",2016-06-16,"not available",2016
+"Conditional Image Generation with PixelCNN Decoders@@@Gated PixelCNN","Nal Kalchbrenner","Google",2016-06-16,"not available",2016
+"Conditional Image Generation with PixelCNN Decoders@@@Gated PixelCNN","Oriol Vinyals","Google",2016-06-16,"not available",2016
+"Conditional Image Generation with PixelCNN Decoders@@@Gated PixelCNN","Lasse Espeholt","Google",2016-06-16,"not available",2016
+"Conditional Image Generation with PixelCNN Decoders@@@Gated PixelCNN","Alex Graves","Google",2016-06-16,"not available",2016
+"Conditional Image Generation with PixelCNN Decoders@@@Gated PixelCNN","Koray Kavukcuoglu","Google",2016-06-16,"not available",2016
+"Augmented Normalizing Flows: Bridging the Gap Between Generative Flows and Latent Variable Models@@@ANF Huang et al. (2020)","Chin-Wei Huang","Université de Montréal",2020-02-17,"not available",2020
+"Augmented Normalizing Flows: Bridging the Gap Between Generative Flows and Latent Variable Models@@@ANF Huang et al. (2020)","Laurent Dinh","",2020-02-17,"not available",2020
+"Augmented Normalizing Flows: Bridging the Gap Between Generative Flows and Latent Variable Models@@@ANF Huang et al. (2020)","Aaron Courville","",2020-02-17,"not available",2020
+"Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design@@@Flow++","Jonathan Ho","University of California, Berkeley",2019-02-01,"not available",2019
+"Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design@@@Flow++","Xi Chen","University of California, Berkeley",2019-02-01,"not available",2019
+"Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design@@@Flow++","Aravind Srinivas","University of California, Berkeley",2019-02-01,"not available",2019
+"Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design@@@Flow++","Rocky Duan","University of California, Berkeley",2019-02-01,"not available",2019
+"Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design@@@Flow++","Yan Duan","University of California, Berkeley",2019-02-01,"not available",2019
+"Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design@@@Flow++","Pieter Abbeel","University of California, Berkeley",2019-02-01,"not available",2019
+"BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling@@@BIVA Maaloe et al. (2019)","Lars Maaløe","",2019-02-06,"not available",2019
+"BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling@@@BIVA Maaloe et al. (2019)","Marco Fraccaro","Technical University of Denmark",2019-02-06,"not available",2019
+"BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling@@@BIVA Maaloe et al. (2019)","Valentin Liévin","Delhi Technological University",2019-02-06,"not available",2019
+"BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling@@@BIVA Maaloe et al. (2019)","Ole Winther","Technical University of Denmark",2019-02-06,"not available",2019
+"Improved Variational Inference with Inverse Autoregressive Flow@@@VAE with IAF","Durk P. Kingma","",2016-12-01,"not available",2016
+"Improved Variational Inference with Inverse Autoregressive Flow@@@VAE with IAF","Durk Kingma","Google",2016-12-01,"not available",2016
+"Improved Variational Inference with Inverse Autoregressive Flow@@@VAE with IAF","Tim Salimans","OpenAI",2016-12-01,"not available",2016
+"Improved Variational Inference with Inverse Autoregressive Flow@@@VAE with IAF","Rafal Jozefowicz","Google",2016-12-01,"not available",2016
+"Improved Variational Inference with Inverse Autoregressive Flow@@@VAE with IAF","Xi Chen","University of California, Berkeley",2016-12-01,"not available",2016
+"Improved Variational Inference with Inverse Autoregressive Flow@@@VAE with IAF","Ilya Sutskever","Google",2016-12-01,"not available",2016
+"Improved Variational Inference with Inverse Autoregressive Flow@@@VAE with IAF","Max Welling","Canadian Institute for Advanced Research",2016-12-01,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelCNN","Shuai Zheng","University of Oxford",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelCNN","Sadeep Jayasumana","University of Oxford",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelCNN","Bernardino Romera-Paredes","University of Oxford",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelCNN","Vibhav Vineet","Stanford University",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelCNN","Zhizhong Su","",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelCNN","Dalong Du","",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelCNN","Chang Huang","Baidu",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@PixelCNN","Philip H. S. Torr","University of Oxford",2016-01-25,"not available",2016
+"MaCow: Masked Convolutional Generative Flow@@@MaCow (Var)","Xuezhe Ma","Carnegie Mellon University",2019-02-12,"not available",2019
+"MaCow: Masked Convolutional Generative Flow@@@MaCow (Var)","Xiang Kong","Carnegie Mellon University",2019-02-12,"not available",2019
+"MaCow: Masked Convolutional Generative Flow@@@MaCow (Var)","Shanghang Zhang","Carnegie Mellon University",2019-02-12,"not available",2019
+"MaCow: Masked Convolutional Generative Flow@@@MaCow (Var)","Eduard Hovy","Carnegie Mellon University",2019-02-12,"not available",2019
+"MintNet: Building Invertible Neural Networks with Masked Convolutions@@@MintNet","Yang Song","Stanford University",2019-07-18,"not available",2019
+"MintNet: Building Invertible Neural Networks with Masked Convolutions@@@MintNet","Chenlin Meng","Stanford University",2019-07-18,"not available",2019
+"MintNet: Building Invertible Neural Networks with Masked Convolutions@@@MintNet","Stefano Ermon","Stanford University",2019-07-18,"not available",2019
+"Glow: Generative Flow with Invertible 1x1 Convolutions@@@Glow (Kingma and Dhariwal, 2018)","Diederik P. Kingma","Google",2018-07-09,"not available",2018
+"Glow: Generative Flow with Invertible 1x1 Convolutions@@@Glow (Kingma and Dhariwal, 2018)","Prafulla Dhariwal","OpenAI",2018-07-09,"not available",2018
+"DVAE++: Discrete Variational Autoencoders with Overlapping Transformations@@@DVAE++ Vahdat et al. ([2018b])","Arash Vahdat","",2018-02-14,"not available",2018
+"DVAE++: Discrete Variational Autoencoders with Overlapping Transformations@@@DVAE++ Vahdat et al. ([2018b])","William G. Macready","D-Wave Systems",2018-02-14,"not available",2018
+"DVAE++: Discrete Variational Autoencoders with Overlapping Transformations@@@DVAE++ Vahdat et al. ([2018b])","Zhengbing Bian","D-Wave Systems",2018-02-14,"not available",2018
+"DVAE++: Discrete Variational Autoencoders with Overlapping Transformations@@@DVAE++ Vahdat et al. ([2018b])","Amir H. Khoshaman","D-Wave Systems",2018-02-14,"not available",2018
+"DVAE++: Discrete Variational Autoencoders with Overlapping Transformations@@@DVAE++ Vahdat et al. ([2018b])","Evgeny Andriyash","D-Wave Systems",2018-02-14,"not available",2018
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","Will Grathwohl","Lawrence Livermore National Laboratory",2018-10-02,"not available",2018
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","Ricky T. Q. Chen","University of Toronto",2018-10-02,"not available",2018
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","Jesse Bettencourt","University of Toronto",2018-10-02,"not available",2018
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","Ilya Sutskever","OpenAI",2018-10-02,"not available",2018
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","David Duvenaud","University of Toronto",2018-10-02,"not available",2018
+"Invertible Residual Networks@@@i-ResNet","Tian Qi Chen","University of Toronto",2018-11-02,"not available",2018
+"Invertible Residual Networks@@@i-ResNet","Ricky T. Q. Chen","University of Toronto",2018-11-02,"not available",2018
+"Invertible Residual Networks@@@i-ResNet","Jens Behrmann","University of Bremen",2018-11-02,"not available",2018
+"Invertible Residual Networks@@@i-ResNet","David Duvenaud","University of Toronto",2018-11-02,"not available",2018
+"Invertible Residual Networks@@@i-ResNet","Joern-Henrik Jacobsen","",2018-11-02,"not available",2018
+"Invertible Residual Networks@@@i-ResNet","Jörn-Henrik Jacobsen","University of Toronto",2018-11-02,"not available",2018
+"Generative Image Modeling Using Spatial LSTMs@@@RIDE","Lucas Theis","University of Tübingen",2015-06-10,"not available",2015
+"Generative Image Modeling Using Spatial LSTMs@@@RIDE","Matthias Bethge","University of Tübingen",2015-06-10,"not available",2015
+"Density estimation using Real NVP@@@Real NVP (Dinh et al., 2017)","Laurent Dinh","Université de Montréal",2016-05-27,"not available",2016
+"Density estimation using Real NVP@@@Real NVP (Dinh et al., 2017)","Jascha Sohl-Dickstein","Google",2016-05-27,"not available",2016
+"Density estimation using Real NVP@@@Real NVP (Dinh et al., 2017)","Samy Bengio","Google",2016-05-27,"not available",2016
+"Density estimation using Real NVP@@@Real NVP","Laurent Dinh","Université de Montréal",2016-05-27,"not available",2016
+"Density estimation using Real NVP@@@Real NVP","Jascha Sohl-Dickstein","Google",2016-05-27,"not available",2016
+"Density estimation using Real NVP@@@Real NVP","Samy Bengio","Google",2016-05-27,"not available",2016
+"Super-resolution Variational Auto-Encoders@@@VAE+RealNVP","Ioannis Gatopoulos","",2020-06-09,"not available",2020
+"Super-resolution Variational Auto-Encoders@@@VAE+RealNVP","Maarten Stol","",2020-06-09,"not available",2020
+"Super-resolution Variational Auto-Encoders@@@VAE+RealNVP","Jakub M. Tomczak","",2020-06-09,"not available",2020
+"Towards Conceptual Compression@@@Conv DRAW","Karol Gregor","Google",2016-04-29,"not available",2016
+"Towards Conceptual Compression@@@Conv DRAW","Frederic Besse","Google",2016-04-29,"not available",2016
+"Towards Conceptual Compression@@@Conv DRAW","Danilo Jimenez Rezende","Google",2016-04-29,"not available",2016
+"Towards Conceptual Compression@@@Conv DRAW","Ivo Danihelka","Google",2016-04-29,"not available",2016
+"Towards Conceptual Compression@@@Conv DRAW","Daan Wierstra","Google",2016-04-29,"not available",2016
+"Super-resolution Variational Auto-Encoders@@@srVAE","Ioannis Gatopoulos","",2020-06-09,"not available",2020
+"Super-resolution Variational Auto-Encoders@@@srVAE","Maarten Stol","",2020-06-09,"not available",2020
+"Super-resolution Variational Auto-Encoders@@@srVAE","Jakub M. Tomczak","",2020-06-09,"not available",2020
+"Factoring Variations in Natural Images with Deep Gaussian Mixture Models@@@Deep GMM","Aaron van den Oord","Ghent University",2014-12-01,"not available",2014
+"Factoring Variations in Natural Images with Deep Gaussian Mixture Models@@@Deep GMM","Benjamin Schrauwen","Ghent University",2014-12-01,"not available",2014
+"DRAW: A Recurrent Neural Network For Image Generation@@@DRAW","Karol Gregor","Google",2015-02-16,"not available",2015
+"DRAW: A Recurrent Neural Network For Image Generation@@@DRAW","Ivo Danihelka","Google",2015-02-16,"not available",2015
+"DRAW: A Recurrent Neural Network For Image Generation@@@DRAW","Alex Graves","Google",2015-02-16,"not available",2015
+"DRAW: A Recurrent Neural Network For Image Generation@@@DRAW","Danilo Jimenez Rezende","Google",2015-02-16,"not available",2015
+"DRAW: A Recurrent Neural Network For Image Generation@@@DRAW","Daan Wierstra","Google",2015-02-16,"not available",2015
+"Pixel Recurrent Neural Networks@@@NICE","Shuai Zheng","University of Oxford",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@NICE","Sadeep Jayasumana","University of Oxford",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@NICE","Bernardino Romera-Paredes","University of Oxford",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@NICE","Vibhav Vineet","Stanford University",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@NICE","Zhizhong Su","",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@NICE","Dalong Du","",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@NICE","Chang Huang","Baidu",2016-01-25,"not available",2016
+"Pixel Recurrent Neural Networks@@@NICE","Philip H. S. Torr","University of Oxford",2016-01-25,"not available",2016
+"NICE: Non-linear Independent Components Estimation@@@NICE","Laurent Dinh","Université de Montréal",2014-10-30,"not available",2014
+"NICE: Non-linear Independent Components Estimation@@@NICE","David Krueger","Université de Montréal",2014-10-30,"not available",2014
+"NICE: Non-linear Independent Components Estimation@@@NICE","Yoshua Bengio","AT&T",2014-10-30,"not available",2014
+"Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks@@@PCL (against PGD, white box)","Aamir Mustafa","",2019-04-01,"not available",2019
+"Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks@@@PCL (against PGD, white box)","Salman Khan","Australian National University",2019-04-01,"not available",2019
+"Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks@@@PCL (against PGD, white box)","Munawar Hayat","University of Canberra",2019-04-01,"not available",2019
+"Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks@@@PCL (against PGD, white box)","Roland Goecke","University of Canberra",2019-04-01,"not available",2019
+"Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks@@@PCL (against PGD, white box)","Jianbing Shen","",2019-04-01,"not available",2019
+"Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks@@@PCL (against PGD, white box)","Ling Shao","",2019-04-01,"not available",2019
+"MUXConv: Information Multiplexing in Convolutional Neural Networks@@@MUXNet-m","Zhichao Lu","Michigan State University",2020-03-31,"not available",2020
+"MUXConv: Information Multiplexing in Convolutional Neural Networks@@@MUXNet-m","Kalyanmoy Deb","Michigan State University",2020-03-31,"not available",2020
+"MUXConv: Information Multiplexing in Convolutional Neural Networks@@@MUXNet-m","Vishnu Naresh Boddeti","Michigan State University",2020-03-31,"not available",2020
+"SGAS: Sequential Greedy Architecture Search@@@SGAS","Guohao Li","King Abdullah University of Science and Technology",2019-11-30,"not available",2019
+"SGAS: Sequential Greedy Architecture Search@@@SGAS","Guocheng Qian","King Abdullah University of Science and Technology",2019-11-30,"not available",2019
+"SGAS: Sequential Greedy Architecture Search@@@SGAS","Itzel C. Delgadillo","",2019-11-30,"not available",2019
+"SGAS: Sequential Greedy Architecture Search@@@SGAS","Matthias Müller","Intel",2019-11-30,"not available",2019
+"SGAS: Sequential Greedy Architecture Search@@@SGAS","Matthias A. Müller","Leibniz University of Hanover",2019-11-30,"not available",2019
+"SGAS: Sequential Greedy Architecture Search@@@SGAS","Ali K. Thabet","King Abdullah University of Science and Technology",2019-11-30,"not available",2019
+"SGAS: Sequential Greedy Architecture Search@@@SGAS","Bernard Ghanem","King Abdullah University of Science and Technology",2019-11-30,"not available",2019
+"Noisy Differentiable Architecture Search@@@NoisyDARTS","Xiangxiang Chu","Xiaomi",2020-05-07,"not available",2020
+"Noisy Differentiable Architecture Search@@@NoisyDARTS","Bo Zhang","Xiaomi",2020-05-07,"not available",2020
+"Noisy Differentiable Architecture Search@@@NoisyDARTS","Xudong Li","",2020-05-07,"not available",2020
+"Searching for A Robust Neural Architecture in Four GPU Hours@@@GDAS (FRC)","Xuanyi Dong","University of Technology, Sydney",2019-10-10,"not available",2019
+"Searching for A Robust Neural Architecture in Four GPU Hours@@@GDAS (FRC)","Yi Yang","University of Technology, Sydney",2019-10-10,"not available",2019
+"PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search@@@PC-DARTS-CIFAR","Yuhui Xu","Shanghai Jiao Tong University",2019-07-12,"not available",2019
+"PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search@@@PC-DARTS-CIFAR","Lingxi Xie","Huawei",2019-07-12,"not available",2019
+"PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search@@@PC-DARTS-CIFAR","Xiaopeng Zhang","Shanghai Jiao Tong University",2019-07-12,"not available",2019
+"PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search@@@PC-DARTS-CIFAR","Xin Chen","Tongji University",2019-07-12,"not available",2019
+"PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search@@@PC-DARTS-CIFAR","Guo-Jun Qi","University of Central Florida",2019-07-12,"not available",2019
+"PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search@@@PC-DARTS-CIFAR","Qi Tian","Huawei",2019-07-12,"not available",2019
+"PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search@@@PC-DARTS-CIFAR","Hongkai Xiong","Shanghai Jiao Tong University",2019-07-12,"not available",2019
+"Learning Implicitly Recurrent CNNs Through Parameter Sharing@@@Soft Parameter Sharing","Pedro Savarese","Toyota Technological Institute at Chicago",2019-02-26,"not available",2019
+"Learning Implicitly Recurrent CNNs Through Parameter Sharing@@@Soft Parameter Sharing","Michael Maire","University of Chicago",2019-02-26,"not available",2019
+"Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search@@@FairDARTS-a","Xiangxiang Chu","Xiaomi",2019-11-27,"not available",2019
+"Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search@@@FairDARTS-a","Tianbao Zhou","Xiaomi",2019-11-27,"not available",2019
+"Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search@@@FairDARTS-a","Bo Zhang","Xiaomi",2019-11-27,"not available",2019
+"Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search@@@FairDARTS-a","Li Jixiang","",2019-11-27,"not available",2019
+"One-Shot Neural Architecture Search via Self-Evaluated Template Network@@@SETN (T=1K) + CutOut","Xuanyi Dong","University of Technology, Sydney",2019-10-13,"not available",2019
+"One-Shot Neural Architecture Search via Self-Evaluated Template Network@@@SETN (T=1K) + CutOut","Yi Yang","University of Technology, Sydney",2019-10-13,"not available",2019
+"One-Shot Neural Architecture Search via Self-Evaluated Template Network@@@SETN (T=1K) + CutOut","Y. J. Yang","University of Technology, Sydney",2019-10-13,"not available",2019
+"AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search@@@AlphaX-1 (cutout NASNet)","Linnan Wang","",2019-03-26,"not available",2019
+"AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search@@@AlphaX-1 (cutout NASNet)","Yiyang Zhao","",2019-03-26,"not available",2019
+"AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search@@@AlphaX-1 (cutout NASNet)","Yuu Jinnai","",2019-03-26,"not available",2019
+"AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search@@@AlphaX-1 (cutout NASNet)","Yuandong Tian","",2019-03-26,"not available",2019
+"AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search@@@AlphaX-1 (cutout NASNet)","Rodrigo Fonseca","",2019-03-26,"not available",2019
+"Searching for A Robust Neural Architecture in Four GPU Hours@@@GDAS","Xuanyi Dong","University of Technology, Sydney",2019-10-10,"not available",2019
+"Searching for A Robust Neural Architecture in Four GPU Hours@@@GDAS","Yi Yang","University of Technology, Sydney",2019-10-10,"not available",2019
+"Neural Architecture Transfer@@@NAT-M1","Catherine Wong","Massachusetts Institute of Technology",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M1","Neil Houlsby","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M1","Yifeng Lu","",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M1","Andrea Gesmundo","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M2","Catherine Wong","Massachusetts Institute of Technology",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M2","Neil Houlsby","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M2","Yifeng Lu","",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M2","Andrea Gesmundo","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M3","Catherine Wong","Massachusetts Institute of Technology",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M3","Neil Houlsby","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M3","Yifeng Lu","",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M3","Andrea Gesmundo","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M4","Catherine Wong","Massachusetts Institute of Technology",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M4","Neil Houlsby","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M4","Yifeng Lu","",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M4","Andrea Gesmundo","Google",2020-05-12,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN","Wouter Van Gansbeke","",2020-05-25,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN","Simon Vandenhende","",2020-05-25,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN","Stamatios Georgoulis","",2020-05-25,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN","Marc Proesmans","",2020-05-25,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN","Luc Van Gool","",2020-05-25,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN (Avg)","Wouter Van Gansbeke","",2020-05-25,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN (Avg)","Simon Vandenhende","",2020-05-25,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN (Avg)","Stamatios Georgoulis","",2020-05-25,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN (Avg)","Marc Proesmans","",2020-05-25,"not available",2020
+"SCAN: Learning to Classify Images without Labels@@@SCAN (Avg)","Luc Van Gool","",2020-05-25,"not available",2020
+"Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction@@@MCR2","Yaodong Yu","",2020-06-15,"not available",2020
+"Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction@@@MCR2","Kwan Ho Ryan Chan","",2020-06-15,"not available",2020
+"Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction@@@MCR2","Chong You","",2020-06-15,"not available",2020
+"Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction@@@MCR2","Chaobing Song","",2020-06-15,"not available",2020
+"Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction@@@MCR2","Yi Ma","",2020-06-15,"not available",2020
+"Deep Comprehensive Correlation Mining for Image Clustering@@@DCCM","Jianlong Wu","Peking University",2019-04-15,"not available",2019
+"Deep Comprehensive Correlation Mining for Image Clustering@@@DCCM","Keyu Long","Chinese Academy of Sciences",2019-04-15,"not available",2019
+"Deep Comprehensive Correlation Mining for Image Clustering@@@DCCM","Fei Wang","",2019-04-15,"not available",2019
+"Deep Comprehensive Correlation Mining for Image Clustering@@@DCCM","Chen Qian","",2019-04-15,"not available",2019
+"Deep Comprehensive Correlation Mining for Image Clustering@@@DCCM","Cheng Li","SenseTime",2019-04-15,"not available",2019
+"Deep Comprehensive Correlation Mining for Image Clustering@@@DCCM","Zhouchen Lin","Peking University",2019-04-15,"not available",2019
+"Deep Comprehensive Correlation Mining for Image Clustering@@@DCCM","Hongbin Zha","Peking University",2019-04-15,"not available",2019
+"Deep Adaptive Image Clustering@@@DAC","Jianlong Chang","Chinese Academy of Sciences",2017-10-01,"not available",2017
+"Deep Adaptive Image Clustering@@@DAC","Lingfeng Wang","Chinese Academy of Sciences",2017-10-01,"not available",2017
+"Deep Adaptive Image Clustering@@@DAC","Gaofeng Meng","Chinese Academy of Sciences",2017-10-01,"not available",2017
+"Deep Adaptive Image Clustering@@@DAC","Shiming Xiang","Chinese Academy of Sciences",2017-10-01,"not available",2017
+"Deep Adaptive Image Clustering@@@DAC","Chunhong Pan","Chinese Academy of Sciences",2017-10-01,"not available",2017
+"Balanced Self-Paced Learning for Generative Adversarial Clustering Network@@@ClusterGAN","Kamran Ghasedi","University of Pittsburgh",2019-06-01,"not available",2019
+"Balanced Self-Paced Learning for Generative Adversarial Clustering Network@@@ClusterGAN","Xiaoqian Wang","University of Pittsburgh",2019-06-01,"not available",2019
+"Balanced Self-Paced Learning for Generative Adversarial Clustering Network@@@ClusterGAN","Cheng Deng","Xidian University",2019-06-01,"not available",2019
+"Balanced Self-Paced Learning for Generative Adversarial Clustering Network@@@ClusterGAN","Heng Huang","University of Pittsburgh",2019-06-01,"not available",2019
+"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@GAN","Alec Radford","",2015-11-19,"not available",2015
+"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@GAN","Luke Metz","",2015-11-19,"not available",2015
+"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@GAN","Soumith Chintala","Facebook",2015-11-19,"not available",2015
+"Unsupervised Deep Embedding for Clustering Analysis@@@DEC","Junyuan Xie","University of Washington",2015-11-19,"not available",2015
+"Unsupervised Deep Embedding for Clustering Analysis@@@DEC","Ross Girshick","Facebook",2015-11-19,"not available",2015
+"Unsupervised Deep Embedding for Clustering Analysis@@@DEC","Ali Farhadi","University of Washington",2015-11-19,"not available",2015
+"Auto-Encoding Variational Bayes@@@VAE","Romain Lopez","University of California, Berkeley",2013-12-20,"not available",2013
+"Auto-Encoding Variational Bayes@@@VAE","Jeffrey Regier","University of California, Berkeley",2013-12-20,"not available",2013
+"Auto-Encoding Variational Bayes@@@VAE","Michael I. Jordan","University of California, Berkeley",2013-12-20,"not available",2013
+"Auto-Encoding Variational Bayes@@@VAE","Nir Yosef","University of California, Berkeley",2013-12-20,"not available",2013
+"Joint Unsupervised Learning of Deep Representations and Image Clusters@@@JULE","Jianwei Yang","Virginia Tech",2016-04-13,"not available",2016
+"Joint Unsupervised Learning of Deep Representations and Image Clusters@@@JULE","Devi Parikh","Virginia Tech",2016-04-13,"not available",2016
+"Joint Unsupervised Learning of Deep Representations and Image Clusters@@@JULE","Dhruv Batra","Virginia Tech",2016-04-13,"not available",2016
+"Sharpness-Aware Minimization for Efficiently Improving Generalization@@@EffNet-L2 (SAM)","Pierre Foret","Google",2020-10-03,"not available",2020
+"Sharpness-Aware Minimization for Efficiently Improving Generalization@@@EffNet-L2 (SAM)","Ariel Kleiner","Google",2020-10-03,"not available",2020
+"Sharpness-Aware Minimization for Efficiently Improving Generalization@@@EffNet-L2 (SAM)","Hossein Mobahi","Google",2020-10-03,"not available",2020
+"Sharpness-Aware Minimization for Efficiently Improving Generalization@@@EffNet-L2 (SAM)","Behnam Neyshabur","Google",2020-10-03,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Alexey Dosovitskiy","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Lucas Beyer","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Alexander Kolesnikov","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Dirk Weissenborn","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Xiaohua Zhai","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Thomas Unterthiner","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Mostafa Dehghani","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Matthias Minderer","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Georg Heigold","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Sylvain Gelly","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Jakob Uszkoreit","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14","Neil Houlsby","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Alexey Dosovitskiy","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Lucas Beyer","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Alexander Kolesnikov","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Dirk Weissenborn","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Xiaohua Zhai","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Thomas Unterthiner","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Mostafa Dehghani","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Matthias Minderer","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Georg Heigold","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Sylvain Gelly","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Jakob Uszkoreit","",2020-10-22,"not available",2020
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16","Neil Houlsby","",2020-10-22,"not available",2020
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-L (ResNet)","Alexander Kolesnikov","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-L (ResNet)","Lucas Beyer","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-L (ResNet)","Xiaohua Zhai","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-L (ResNet)","Joan Puigcerver","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-L (ResNet)","Jessica Yung","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-L (ResNet)","Sylvain Gelly","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-L (ResNet)","Neil Houlsby","Google",2019-12-24,"not available",2019
+"Sample-Efficient Neural Architecture Search by Learning Action Space for Monte Carlo Tree Search@@@LaNet","Linnan Wang","",2019-01-01,"not available",2019
+"Sample-Efficient Neural Architecture Search by Learning Action Space for Monte Carlo Tree Search@@@LaNet","Saining Xie","",2019-01-01,"not available",2019
+"Sample-Efficient Neural Architecture Search by Learning Action Space for Monte Carlo Tree Search@@@LaNet","Teng Li","",2019-01-01,"not available",2019
+"Sample-Efficient Neural Architecture Search by Learning Action Space for Monte Carlo Tree Search@@@LaNet","Rodrigo Fonseca","",2019-01-01,"not available",2019
+"Sample-Efficient Neural Architecture Search by Learning Action Space for Monte Carlo Tree Search@@@LaNet","Yuandong Tian","",2019-01-01,"not available",2019
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Yanping Huang","Google",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Youlong Cheng","Google",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Ankur Bapna","Google",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Orhan Firat","Google",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Mia Xu Chen","Google",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Dehao Chen","Google",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","HyoukJoong Lee","Google",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Jiquan Ngiam","Google",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Quoc V. Le","Carnegie Mellon University",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Yonghui Wu","Google",2018-11-16,"not available",2018
+"GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning","Zhifeng Chen","Google",2018-11-16,"not available",2018
+"TResNet: High Performance GPU-Dedicated Architecture@@@TResNet-XL","Tal Ridnik","",2020-03-30,"not available",2020
+"TResNet: High Performance GPU-Dedicated Architecture@@@TResNet-XL","Hussam Lawen","",2020-03-30,"not available",2020
+"TResNet: High Performance GPU-Dedicated Architecture@@@TResNet-XL","Asaf Noy","",2020-03-30,"not available",2020
+"TResNet: High Performance GPU-Dedicated Architecture@@@TResNet-XL","Itamar Friedman","",2020-03-30,"not available",2020
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-M (ResNet)","Alexander Kolesnikov","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-M (ResNet)","Lucas Beyer","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-M (ResNet)","Xiaohua Zhai","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-M (ResNet)","Joan Puigcerver","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-M (ResNet)","Jessica Yung","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-M (ResNet)","Sylvain Gelly","Google",2019-12-24,"not available",2019
+"Big Transfer (BiT): General Visual Representation Learning@@@BiT-M (ResNet)","Neil Houlsby","Google",2019-12-24,"not available",2019
+"EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks@@@EfficientNet-B7","Mingxing Tan","Google",2019-05-28,"not available",2019
+"EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks@@@EfficientNet-B7","Quoc V. Le","Google",2019-05-28,"not available",2019
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Jianbo Dong","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Zheng Cao","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Tao Zhang","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Jianxi Ye","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Shaochuang Wang","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Fei Feng","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Li Zhao","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Xiaoyong Liu","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Liuyihan Song","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Liwei Peng","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Pan Pan","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4","Yuan Xie","Alibaba Group",2020-11-30,"not available",2020
+"FMix: Enhancing Mixed Sample Data Augmentation@@@PyramidNet + ShakeDrop + Fast AA + FMix","Ethan Harris","University of Southampton",2020-02-27,"not available",2020
+"FMix: Enhancing Mixed Sample Data Augmentation@@@PyramidNet + ShakeDrop + Fast AA + FMix","Antonia Marcu","University of Southampton",2020-02-27,"not available",2020
+"FMix: Enhancing Mixed Sample Data Augmentation@@@PyramidNet + ShakeDrop + Fast AA + FMix","Matthew Painter","University of Southampton",2020-02-27,"not available",2020
+"FMix: Enhancing Mixed Sample Data Augmentation@@@PyramidNet + ShakeDrop + Fast AA + FMix","Mahesan Niranjan","University of Southampton",2020-02-27,"not available",2020
+"FMix: Enhancing Mixed Sample Data Augmentation@@@PyramidNet + ShakeDrop + Fast AA + FMix","Adam Prügel-Bennett","University of Southampton",2020-02-27,"not available",2020
+"FMix: Enhancing Mixed Sample Data Augmentation@@@PyramidNet + ShakeDrop + Fast AA + FMix","Jonathon S. Hare","University of Southampton",2020-02-27,"not available",2020
+"Sharpness-Aware Minimization for Efficiently Improving Generalization@@@PyramidNet (SAM)","Pierre Foret","Google",2020-10-03,"not available",2020
+"Sharpness-Aware Minimization for Efficiently Improving Generalization@@@PyramidNet (SAM)","Ariel Kleiner","Google",2020-10-03,"not available",2020
+"Sharpness-Aware Minimization for Efficiently Improving Generalization@@@PyramidNet (SAM)","Hossein Mobahi","Google",2020-10-03,"not available",2020
+"Sharpness-Aware Minimization for Efficiently Improving Generalization@@@PyramidNet (SAM)","Behnam Neyshabur","Google",2020-10-03,"not available",2020
+"ColorNet -- Estimating Colorfulness in Natural Images@@@ColorNet","Emin Zerman","Trinity College, Dublin",2019-08-22,"not available",2019
+"ColorNet -- Estimating Colorfulness in Natural Images@@@ColorNet","Aakanksha Rana","Trinity College, Dublin",2019-08-22,"not available",2019
+"ColorNet -- Estimating Colorfulness in Natural Images@@@ColorNet","Aljosa Smolic","Trinity College, Dublin",2019-08-22,"not available",2019
+"Neural Architecture Transfer@@@NAT-M4","Catherine Wong","Massachusetts Institute of Technology",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M4","Neil Houlsby","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M4","Yifeng Lu","",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M4","Andrea Gesmundo","Google",2020-05-12,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Jianbo Dong","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Zheng Cao","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Tao Zhang","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Jianxi Ye","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Shaochuang Wang","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Fei Feng","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Li Zhao","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Xiaoyong Liu","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Liuyihan Song","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Liwei Peng","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Pan Pan","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4","Yuan Xie","Alibaba Group",2020-11-30,"not available",2020
+"Rethinking Recurrent Neural Networks and other Improvements for Image Classification@@@E2E-3M","Nguyen Huu Phong","University of Coimbra",2020-07-30,"not available",2020
+"Rethinking Recurrent Neural Networks and other Improvements for Image Classification@@@E2E-3M","Bernardete Ribeiro","University of Coimbra",2020-07-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Jianbo Dong","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Zheng Cao","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Tao Zhang","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Jianxi Ye","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Shaochuang Wang","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Fei Feng","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Li Zhao","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Xiaoyong Liu","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Liuyihan Song","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Liwei Peng","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Pan Pan","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4","Yuan Xie","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Jianbo Dong","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Zheng Cao","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Tao Zhang","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Jianxi Ye","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Shaochuang Wang","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Fei Feng","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Li Zhao","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Xiaoyong Liu","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Liuyihan Song","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Liwei Peng","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Pan Pan","Alibaba Group",2020-11-30,"not available",2020
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4","Yuan Xie","Alibaba Group",2020-11-30,"not available",2020
+"Fast AutoAugment@@@PyramidNet+ShakeDrop (Fast AA)","Sungbin Lim","",2019-05-01,"not available",2019
+"Fast AutoAugment@@@PyramidNet+ShakeDrop (Fast AA)","Ildoo Kim","",2019-05-01,"not available",2019
+"Fast AutoAugment@@@PyramidNet+ShakeDrop (Fast AA)","Taesup Kim","",2019-05-01,"not available",2019
+"Fast AutoAugment@@@PyramidNet+ShakeDrop (Fast AA)","Chiheon Kim","",2019-05-01,"not available",2019
+"Fast AutoAugment@@@PyramidNet+ShakeDrop (Fast AA)","Sungwoong Kim","",2019-05-01,"not available",2019
+"Noisy Differentiable Architecture Search@@@NoisyDARTS-A-t","Xiangxiang Chu","Xiaomi",2020-05-07,"not available",2020
+"Noisy Differentiable Architecture Search@@@NoisyDARTS-A-t","Bo Zhang","Xiaomi",2020-05-07,"not available",2020
+"Noisy Differentiable Architecture Search@@@NoisyDARTS-A-t","Xudong Li","",2020-05-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@Wide-ResNet-101","H M Dipu Kabir","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@Wide-ResNet-101","Moloud Abdar","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@Wide-ResNet-101","Seyed Mohammad Jafar Jalali","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@Wide-ResNet-101","Abbas Khosravi","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@Wide-ResNet-101","Amir F. Atiya","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@Wide-ResNet-101","Saeid Nahavandi","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@Wide-ResNet-101","Dipti Srinivasan","",2020-07-07,"not available",2020
+"Neural Architecture Transfer@@@NAT-M3","Catherine Wong","Massachusetts Institute of Technology",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M3","Neil Houlsby","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M3","Yifeng Lu","",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M3","Andrea Gesmundo","Google",2020-05-12,"not available",2020
+"EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning@@@EnAET","Xiao Wang","",2019-11-21,"not available",2019
+"EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning@@@EnAET","Daisuke Kihara","",2019-11-21,"not available",2019
+"EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning@@@EnAET","Jiebo Luo","",2019-11-21,"not available",2019
+"EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning@@@EnAET","Guo-Jun Qi","",2019-11-21,"not available",2019
+"MUXConv: Information Multiplexing in Convolutional Neural Networks@@@MUXNet-m","Zhichao Lu","Michigan State University",2020-03-31,"not available",2020
+"MUXConv: Information Multiplexing in Convolutional Neural Networks@@@MUXNet-m","Kalyanmoy Deb","Michigan State University",2020-03-31,"not available",2020
+"MUXConv: Information Multiplexing in Convolutional Neural Networks@@@MUXNet-m","Vishnu Naresh Boddeti","Michigan State University",2020-03-31,"not available",2020
+"ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware@@@Proxyless-G + c/o","Han Cai","Shanghai Jiao Tong University",2018-12-02,"not available",2018
+"ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware@@@Proxyless-G + c/o","Ligeng Zhu","Massachusetts Institute of Technology",2018-12-02,"not available",2018
+"ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware@@@Proxyless-G + c/o","Song Han","Massachusetts Institute of Technology",2018-12-02,"not available",2018
+"Neural Architecture Transfer@@@NAT-M2","Catherine Wong","Massachusetts Institute of Technology",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M2","Neil Houlsby","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M2","Yifeng Lu","",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M2","Andrea Gesmundo","Google",2020-05-12,"not available",2020
+"Squeeze-and-Excitation Networks@@@SENet + ShakeShake + Cutout","Jie Hu","",2017-09-05,"not available",2017
+"Squeeze-and-Excitation Networks@@@SENet + ShakeShake + Cutout","Li Shen","University of Oxford",2017-09-05,"not available",2017
+"Squeeze-and-Excitation Networks@@@SENet + ShakeShake + Cutout","Gang Sun","",2017-09-05,"not available",2017
+"Fixup Initialization: Residual Learning Without Normalization@@@WRN + fixup init + mixup + cutout","Hongyi Zhang","Massachusetts Institute of Technology",2019-01-27,"not available",2019
+"Fixup Initialization: Residual Learning Without Normalization@@@WRN + fixup init + mixup + cutout","Yann N. Dauphin","Google",2019-01-27,"not available",2019
+"Fixup Initialization: Residual Learning Without Normalization@@@WRN + fixup init + mixup + cutout","Tengyu Ma","Stanford University",2019-01-27,"not available",2019
+"Noisy Differentiable Architecture Search@@@NoisyDARTS-a","Xiangxiang Chu","Xiaomi",2020-05-07,"not available",2020
+"Noisy Differentiable Architecture Search@@@NoisyDARTS-a","Bo Zhang","Xiaomi",2020-05-07,"not available",2020
+"Noisy Differentiable Architecture Search@@@NoisyDARTS-a","Xudong Li","",2020-05-07,"not available",2020
+"batchboost: regularization for stabilizing training with resistance to underfitting & overfitting@@@DenseNet-BC-190 + batchboost","Maciej A. Czyzewski","",2020-01-21,"not available",2020
+"Learning Implicitly Recurrent CNNs Through Parameter Sharing@@@Shared WRN","Pedro Savarese","Toyota Technological Institute at Chicago",2019-02-26,"not available",2019
+"Learning Implicitly Recurrent CNNs Through Parameter Sharing@@@Shared WRN","Michael Maire","University of Chicago",2019-02-26,"not available",2019
+"Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup WRN 28-10","Vikas Verma","Aalto University",2018-06-13,"not available",2018
+"Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup WRN 28-10","Alex Lamb","Université de Montréal",2018-06-13,"not available",2018
+"Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup WRN 28-10","Christopher Beckham","",2018-06-13,"not available",2018
+"Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup WRN 28-10","Amir Abbas Najafi","Sharif University of Technology",2018-06-13,"not available",2018
+"Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup WRN 28-10","Amir Najafi","Sharif University of Technology",2018-06-13,"not available",2018
+"Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup WRN 28-10","Ioannis Mitliagkas","Université de Montréal",2018-06-13,"not available",2018
+"Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup WRN 28-10","David Lopez-Paz","Facebook",2018-06-13,"not available",2018
+"Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup WRN 28-10","Yoshua Bengio","",2018-06-13,"not available",2018
+"Neural Architecture Transfer@@@NAT-M1","Catherine Wong","Massachusetts Institute of Technology",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M1","Neil Houlsby","Google",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M1","Yifeng Lu","",2020-05-12,"not available",2020
+"Neural Architecture Transfer@@@NAT-M1","Andrea Gesmundo","Google",2020-05-12,"not available",2020
+"mixup: Beyond Empirical Risk Minimization@@@DenseNet-BC-190 + Mixup","Hongyi Zhang","Massachusetts Institute of Technology",2017-10-25,"not available",2017
+"mixup: Beyond Empirical Risk Minimization@@@DenseNet-BC-190 + Mixup","Moustapha Cisse","Facebook",2017-10-25,"not available",2017
+"mixup: Beyond Empirical Risk Minimization@@@DenseNet-BC-190 + Mixup","Yann N. Dauphin","Facebook",2017-10-25,"not available",2017
+"mixup: Beyond Empirical Risk Minimization@@@DenseNet-BC-190 + Mixup","David Lopez-Paz","Facebook",2017-10-25,"not available",2017
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@ShakeShake-2x64d + SWA","Pavel Izmailov","Cornell University",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@ShakeShake-2x64d + SWA","Dmitrii Podoprikhin","National Research University – Higher School of Economics",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@ShakeShake-2x64d + SWA","D. A. Podoprikhin","National Research University – Higher School of Economics",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@ShakeShake-2x64d + SWA","Timur Garipov","Moscow State University",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@ShakeShake-2x64d + SWA","Dmitry Vetrov","National Research University – Higher School of Economics",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@ShakeShake-2x64d + SWA","Andrew Gordon Wilson","Cornell University",2018-03-14,"not available",2018
+"CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features@@@PyramidNet-200 + CutMix","Sangdoo Yun","Naver Corporation",2019-05-13,"not available",2019
+"CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features@@@PyramidNet-200 + CutMix","Dongyoon Han","Naver Corporation",2019-05-13,"not available",2019
+"CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features@@@PyramidNet-200 + CutMix","Sanghyuk Chun","Naver Corporation",2019-05-13,"not available",2019
+"CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features@@@PyramidNet-200 + CutMix","Seong Joon Oh","",2019-05-13,"not available",2019
+"CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features@@@PyramidNet-200 + CutMix","Youngjoon Yoo","Naver Corporation",2019-05-13,"not available",2019
+"CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features@@@PyramidNet-200 + CutMix","Junsuk Choe","Yonsei University",2019-05-13,"not available",2019
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@WRN-28-10 + SWA","Pavel Izmailov","Cornell University",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@WRN-28-10 + SWA","Dmitrii Podoprikhin","National Research University – Higher School of Economics",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@WRN-28-10 + SWA","D. A. Podoprikhin","National Research University – Higher School of Economics",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@WRN-28-10 + SWA","Timur Garipov","Moscow State University",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@WRN-28-10 + SWA","Dmitry Vetrov","National Research University – Higher School of Economics",2018-03-14,"not available",2018
+"Averaging Weights Leads to Wider Optima and Better Generalization@@@WRN-28-10 + SWA","Andrew Gordon Wilson","Cornell University",2018-03-14,"not available",2018
+"Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems@@@Wide ResNet+cutout","Mark D. McDonnell","University of South Australia",2019-07-16,"not available",2019
+"Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems@@@Wide ResNet+cutout","Hesham Mostafa","University of California, San Diego",2019-07-16,"not available",2019
+"Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems@@@Wide ResNet+cutout","Runchun Wang","University of Sydney",2019-07-16,"not available",2019
+"Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems@@@Wide ResNet+cutout","A. van Schaik","University of Sydney",2019-07-16,"not available",2019
+"Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems@@@Wide ResNet+cutout","André van Schaik","University of Sydney",2019-07-16,"not available",2019
+"Deep Pyramidal Residual Networks@@@Deep pyramidal residual network","Dongyoon Han","KAIST",2016-10-10,"not available",2016
+"Deep Pyramidal Residual Networks@@@Deep pyramidal residual network","Jiwhan Kim","KAIST",2016-10-10,"not available",2016
+"Deep Pyramidal Residual Networks@@@Deep pyramidal residual network","Junmo Kim","KAIST",2016-10-10,"not available",2016
+"Deep Competitive Pathway Networks@@@CoPaNet-R-164","Jia-Ren Chang","National Chiao Tung University",2017-09-29,"not available",2017
+"Deep Competitive Pathway Networks@@@CoPaNet-R-164","Yong-Sheng Chen","",2017-09-29,"not available",2017
+"Densely Connected Convolutional Networks@@@DenseNet (DenseNet-BC-190)","Gao Huang","Cornell University",2016-08-25,"not available",2016
+"Densely Connected Convolutional Networks@@@DenseNet (DenseNet-BC-190)","Zhuang Liu","Tsinghua University",2016-08-25,"not available",2016
+"Densely Connected Convolutional Networks@@@DenseNet (DenseNet-BC-190)","Laurens van der Maaten","Facebook",2016-08-25,"not available",2016
+"Densely Connected Convolutional Networks@@@DenseNet (DenseNet-BC-190)","Kilian Q. Weinberger","Cornell University",2016-08-25,"not available",2016
+"Selective Kernel Networks@@@SKNet-29 (ResNeXt-29, 16×32d)","Xiang Li","Nanjing University of Science and Technology",2019-03-15,"not available",2019
+"Selective Kernel Networks@@@SKNet-29 (ResNeXt-29, 16×32d)","Wenhai Wang","Tsinghua University",2019-03-15,"not available",2019
+"Selective Kernel Networks@@@SKNet-29 (ResNeXt-29, 16×32d)","Xiaolin Hu","Nanjing University",2019-03-15,"not available",2019
+"Selective Kernel Networks@@@SKNet-29 (ResNeXt-29, 16×32d)","Jian Yang","Nanjing University of Science and Technology",2019-03-15,"not available",2019
+"Fractional Max-Pooling@@@Fractional MP","Benjamin Graham","University of Warwick",2014-12-18,"not available",2014
+"Neural Architecture Search with Reinforcement Learning@@@Neural Architecture Search","Barret Zoph","Google",2016-11-05,"not available",2016
+"Neural Architecture Search with Reinforcement Learning@@@Neural Architecture Search","Quoc V. Le","Google",2016-11-05,"not available",2016
+"Training Neural Networks with Local Error Signals@@@VGG11B(2x) + LocalLearning + CO","James M Murray","Columbia University",2019-01-20,"not available",2019
+"Training Neural Networks with Local Error Signals@@@VGG11B(2x) + LocalLearning + CO","James M. Murray","Columbia University",2019-01-20,"not available",2019
+"Learning Identity Mappings with Residual Gates@@@Residual Gates + WRN","Pedro Savarese","Federal University of Rio de Janeiro",2016-11-04,"not available",2016
+"Learning Identity Mappings with Residual Gates@@@Residual Gates + WRN","Leonardo O. Mazza","Federal University of Rio de Janeiro",2016-11-04,"not available",2016
+"Learning Identity Mappings with Residual Gates@@@Residual Gates + WRN","Daniel R. Figueiredo","",2016-11-04,"not available",2016
+"Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet@@@SimpleNetv2","Seyyed Hossein HasanPour","",2018-02-17,"not available",2018
+"Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet@@@SimpleNetv2","Mohammad Rouhani","",2018-02-17,"not available",2018
+"Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet@@@SimpleNetv2","Mohammad Hossein Rouhani","",2018-02-17,"not available",2018
+"Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet@@@SimpleNetv2","Mohsen Fayyaz","",2018-02-17,"not available",2018
+"Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet@@@SimpleNetv2","Mohammad Sabokrou","",2018-02-17,"not available",2018
+"Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet@@@SimpleNetv2","Ehsan Adeli","",2018-02-17,"not available",2018
+"Wide Residual Networks@@@Wide ResNet","Sergey Zagoruyko","",2016-05-23,"not available",2016
+"Wide Residual Networks@@@Wide ResNet","Nikos Komodakis","",2016-05-23,"not available",2016
+"Regularizing Neural Networks via Adversarial Model Perturbation@@@PreActResNet18+AMP","Yaowei Zheng","",2020-10-10,"not available",2020
+"Regularizing Neural Networks via Adversarial Model Perturbation@@@PreActResNet18+AMP","Richong Zhang","",2020-10-10,"not available",2020
+"Regularizing Neural Networks via Adversarial Model Perturbation@@@PreActResNet18+AMP","Yongyi Mao","",2020-10-10,"not available",2020
+"Striving for Simplicity: The All Convolutional Net@@@ACN","Jost Tobias Springenberg","University of Freiburg",2014-12-21,"not available",2014
+"Striving for Simplicity: The All Convolutional Net@@@ACN","Alexey Dosovitskiy","University of Freiburg",2014-12-21,"not available",2014
+"Striving for Simplicity: The All Convolutional Net@@@ACN","Thomas Brox","University of Freiburg",2014-12-21,"not available",2014
+"Striving for Simplicity: The All Convolutional Net@@@ACN","Martin Riedmiller","University of Freiburg",2014-12-21,"not available",2014
+"Large-Scale Evolution of Image Classifiers@@@Evolution ensemble","Esteban Real","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution ensemble","Sherry Moore","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution ensemble","Andrew Selle","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution ensemble","Saurabh Saxena","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution ensemble","Yutaka Leon Suematsu","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution ensemble","Jie Tan","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution ensemble","Quoc V. Le","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution ensemble","Alexey Kurakin","Google",2017-03-03,"not available",2017
+"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures@@@SimpleNetv1","Seyyed Hossein HasanPour","",2016-08-22,"not available",2016
+"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures@@@SimpleNetv1","Mohammad Rouhani","",2016-08-22,"not available",2016
+"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures@@@SimpleNetv1","Mohammad Hossein Rouhani","",2016-08-22,"not available",2016
+"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures@@@SimpleNetv1","Mohsen Fayyaz","",2016-08-22,"not available",2016
+"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures@@@SimpleNetv1","Mohammad Sabokrou","",2016-08-22,"not available",2016
+"Identity Mappings in Deep Residual Networks@@@ResNet-1001","Kaiming He","Microsoft",2016-03-16,"not available",2016
+"Identity Mappings in Deep Residual Networks@@@ResNet-1001","Xiangyu Zhang","Microsoft",2016-03-16,"not available",2016
+"Identity Mappings in Deep Residual Networks@@@ResNet-1001","Shaoqing Ren","Microsoft",2016-03-16,"not available",2016
+"Identity Mappings in Deep Residual Networks@@@ResNet-1001","Jian Sun","Microsoft",2016-03-16,"not available",2016
+"SRM : A Style-based Recalibration Module for Convolutional Neural Networks@@@SRM-ResNet-56","HyunJae Lee","",2019-03-26,"not available",2019
+"SRM : A Style-based Recalibration Module for Convolutional Neural Networks@@@SRM-ResNet-56","Hyo-Eun Kim","",2019-03-26,"not available",2019
+"SRM : A Style-based Recalibration Module for Convolutional Neural Networks@@@SRM-ResNet-56","Hyeonseob Nam","",2019-03-26,"not available",2019
+"MixMatch: A Holistic Approach to Semi-Supervised Learning@@@MixMatch","David Berthelot","Google",2019-05-06,"not available",2019
+"MixMatch: A Holistic Approach to Semi-Supervised Learning@@@MixMatch","Nicholas Carlini","Google",2019-05-06,"not available",2019
+"MixMatch: A Holistic Approach to Semi-Supervised Learning@@@MixMatch","Ian Goodfellow","Google",2019-05-06,"not available",2019
+"MixMatch: A Holistic Approach to Semi-Supervised Learning@@@MixMatch","Nicolas Papernot","Google",2019-05-06,"not available",2019
+"MixMatch: A Holistic Approach to Semi-Supervised Learning@@@MixMatch","Avital Oliver","Google",2019-05-06,"not available",2019
+"MixMatch: A Holistic Approach to Semi-Supervised Learning@@@MixMatch","Colin Raffel","Google",2019-05-06,"not available",2019
+"Sparse Networks from Scratch: Faster Training without Losing Performance@@@WRN-22-8 (Sparse Momentum)","Tim Dettmers","",2019-07-10,"not available",2019
+"Sparse Networks from Scratch: Faster Training without Losing Performance@@@WRN-22-8 (Sparse Momentum)","Luke Zettlemoyer","University of Washington",2019-07-10,"not available",2019
+"Encoding the latent posterior of Bayesian Neural Networks for uncertainty quantification@@@LP-BNN (ours) + cutout","Yinhao Zhu","University of Notre Dame",2020-12-04,"not available",2020
+"Encoding the latent posterior of Bayesian Neural Networks for uncertainty quantification@@@LP-BNN (ours) + cutout","Nicholas Zabaras","University of Notre Dame",2020-12-04,"not available",2020
+"Deep Networks with Stochastic Depth@@@Stochastic Depth","Gao Huang","Cornell University",2016-03-30,"not available",2016
+"Deep Networks with Stochastic Depth@@@Stochastic Depth","Yu Sun","Cornell University",2016-03-30,"not available",2016
+"Deep Networks with Stochastic Depth@@@Stochastic Depth","Zhuang Liu","Tsinghua University",2016-03-30,"not available",2016
+"Deep Networks with Stochastic Depth@@@Stochastic Depth","Daniel Sedra","Cornell University",2016-03-30,"not available",2016
+"Deep Networks with Stochastic Depth@@@Stochastic Depth","Kilian Q. Weinberger","Cornell University",2016-03-30,"not available",2016
+"Large-Scale Evolution of Image Classifiers@@@Evolution","Esteban Real","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution","Sherry Moore","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution","Andrew Selle","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution","Saurabh Saxena","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution","Yutaka Leon Suematsu","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution","Jie Tan","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution","Quoc V. Le","Google",2017-03-03,"not available",2017
+"Large-Scale Evolution of Image Classifiers@@@Evolution","Alexey Kurakin","Google",2017-03-03,"not available",2017
+"Efficient Architecture Search by Network Transformation@@@RL+NT","Han Cai","Shanghai Jiao Tong University",2017-07-16,"not available",2017
+"Efficient Architecture Search by Network Transformation@@@RL+NT","Tianyao Chen","Shanghai Jiao Tong University",2017-07-16,"not available",2017
+"Efficient Architecture Search by Network Transformation@@@RL+NT","Weinan Zhang","Shanghai Jiao Tong University",2017-07-16,"not available",2017
+"Efficient Architecture Search by Network Transformation@@@RL+NT","Yong Yu","Shanghai Jiao Tong University",2017-07-16,"not available",2017
+"Efficient Architecture Search by Network Transformation@@@RL+NT","Jun Wang","East China Normal University",2017-07-16,"not available",2017
+"Deep Residual Networks with Exponential Linear Unit@@@ResNet+ELU","Yang Li","Beijing University of Posts and Telecommunications",2016-04-14,"not available",2016
+"Deep Residual Networks with Exponential Linear Unit@@@ResNet+ELU","Chunxiao Fan","Beijing University of Posts and Telecommunications",2016-04-14,"not available",2016
+"Deep Residual Networks with Exponential Linear Unit@@@ResNet+ELU","Yong Li","Beijing University of Posts and Telecommunications",2016-04-14,"not available",2016
+"Deep Residual Networks with Exponential Linear Unit@@@ResNet+ELU","Qiong Wu","Beijing University of Posts and Telecommunications",2016-04-14,"not available",2016
+"Deep Residual Networks with Exponential Linear Unit@@@ResNet+ELU","Yue Ming","Beijing University of Posts and Telecommunications",2016-04-14,"not available",2016
+"Deep Complex Networks@@@Deep Complex","Guy Katz","Stanford University",2017-05-27,"not available",2017
+"Deep Complex Networks@@@Deep Complex","Clark Barrett","Stanford University",2017-05-27,"not available",2017
+"Deep Complex Networks@@@Deep Complex","David L. Dill","Stanford University",2017-05-27,"not available",2017
+"Deep Complex Networks@@@Deep Complex","Kyle D. Julian","Stanford University",2017-05-27,"not available",2017
+"Deep Complex Networks@@@Deep Complex","Mykel J. Kochenderfer","Stanford University",2017-05-27,"not available",2017
+"Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods@@@Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods","Yahia Saeed Assiri","Pace University",2020-01-24,"not available",2020
+"All you need is a good init@@@Fitnet4-LSUV","Dmytro Mishkin","Czech Technical University in Prague",2015-11-19,"not available",2015
+"All you need is a good init@@@Fitnet4-LSUV","Jiri Matas","Czech Technical University in Prague",2015-11-19,"not available",2015
+"Mish: A Self Regularized Non-Monotonic Activation Function@@@ResNet 9 + Mish","Diganta Misra","",2019-08-23,"not available",2019
+"Adaptively Connected Neural Networks@@@Standard ACNet","Guangrun Wang","Sun Yat-sen University",2019-04-07,"not available",2019
+"Adaptively Connected Neural Networks@@@Standard ACNet","Keze Wang","University of California, Los Angeles",2019-04-07,"not available",2019
+"Adaptively Connected Neural Networks@@@Standard ACNet","Liang Lin","Sun Yat-sen University",2019-04-07,"not available",2019
+"Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree@@@Tree+Max-Avg pooling","Chen-Yu Lee","University of California, San Diego",2015-09-30,"not available",2015
+"Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree@@@Tree+Max-Avg pooling","Patrick W. Gallagher","",2015-09-30,"not available",2015
+"Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree@@@Tree+Max-Avg pooling","Zhuowen Tu","University of California, San Diego",2015-09-30,"not available",2015
+"On the Relationship between Self-Attention and Convolutional Layers@@@SA quadratic embedding","Jean-Baptiste Cordonnier","École Polytechnique Fédérale de Lausanne",2019-11-08,"not available",2019
+"On the Relationship between Self-Attention and Convolutional Layers@@@SA quadratic embedding","Andreas Loukas","École Polytechnique Fédérale de Lausanne",2019-11-08,"not available",2019
+"On the Relationship between Self-Attention and Convolutional Layers@@@SA quadratic embedding","Martin Jaggi","École Polytechnique Fédérale de Lausanne",2019-11-08,"not available",2019
+"Spatially-sparse convolutional neural networks@@@SSCNN","Benjamin Graham","University of Warwick",2014-09-22,"not available",2014
+"Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN","Jasper Snoek","Harvard University",2015-02-19,"not available",2015
+"Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN","Oren Rippel","Massachusetts Institute of Technology",2015-02-19,"not available",2015
+"Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN","Kevin Swersky","University of Toronto",2015-02-19,"not available",2015
+"Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN","Ryan Kiros","University of Toronto",2015-02-19,"not available",2015
+"Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN","Nadathur Satish","Intel",2015-02-19,"not available",2015
+"Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN","Narayanan Sundaram","Intel",2015-02-19,"not available",2015
+"Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN","Md. Mostofa Ali Patwary","Intel",2015-02-19,"not available",2015
+"Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN","Prabhat","Lawrence Berkeley National Laboratory",2015-02-19,"not available",2015
+"Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN","Ryan P. Adams","Harvard University",2015-02-19,"not available",2015
+"Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)@@@Exponential Linear Units","Djork-Arné Clevert","Johannes Kepler University of Linz",2015-11-23,"not available",2015
+"Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)@@@Exponential Linear Units","Thomas Unterthiner","Johannes Kepler University of Linz",2015-11-23,"not available",2015
+"Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)@@@Exponential Linear Units","Sepp Hochreiter","Johannes Kepler University of Linz",2015-11-23,"not available",2015
+"Batch-normalized Maxout Network in Network@@@BNM NiN","Jia-Ren Chang","",2015-11-09,"not available",2015
+"Batch-normalized Maxout Network in Network@@@BNM NiN","Yong-Sheng Chen","",2015-11-09,"not available",2015
+"Universum Prescription: Regularization using Unlabeled Data@@@Universum Prescription","X.-C. Zhang","New York University",2015-11-11,"not available",2015
+"Universum Prescription: Regularization using Unlabeled Data@@@Universum Prescription","Xiang Zhang","New York University",2015-11-11,"not available",2015
+"Universum Prescription: Regularization using Unlabeled Data@@@Universum Prescription","Yann LeCun","New York University",2015-11-11,"not available",2015
+"Competitive Multi-scale Convolution@@@CMsC","Zhibin Liao","University of Adelaide",2015-11-18,"not available",2015
+"Competitive Multi-scale Convolution@@@CMsC","Gustavo Carneiro","University of Adelaide",2015-11-18,"not available",2015
+"@@@RCNN-96","","",NA,"not available",NA
+"Learning Activation Functions to Improve Deep Neural Networks@@@NiN+APL","Forest Agostinelli","University of Michigan",2014-12-21,"not available",2014
+"Learning Activation Functions to Improve Deep Neural Networks@@@NiN+APL","Matthew D. Hoffman","Adobe Systems",2014-12-21,"not available",2014
+"Learning Activation Functions to Improve Deep Neural Networks@@@NiN+APL","Peter Sadowski","University of California, Irvine",2014-12-21,"not available",2014
+"Learning Activation Functions to Improve Deep Neural Networks@@@NiN+APL","Pierre Baldi","University of California, Irvine",2014-12-21,"not available",2014
+"@@@cifar.torch","","",NA,"not available",NA
+"Training Very Deep Networks@@@VDN","Rupesh Kumar Srivastava","Dalle Molle Institute for Artificial Intelligence Research",2015-07-22,"not available",2015
+"Training Very Deep Networks@@@VDN","Klaus Greff","Dalle Molle Institute for Artificial Intelligence Research",2015-07-22,"not available",2015
+"Training Very Deep Networks@@@VDN","Juergen Schmidhuber","Dalle Molle Institute for Artificial Intelligence Research",2015-07-22,"not available",2015
+"Training Very Deep Networks@@@VDN","Jürgen Schmidhuber","Dalle Molle Institute for Artificial Intelligence Research",2015-07-22,"not available",2015
+"Stacked What-Where Auto-encoders@@@SWWAE","Junbo Jake Zhao","",2015-06-08,"not available",2015
+"Stacked What-Where Auto-encoders@@@SWWAE","Michael Mathieu","",2015-06-08,"not available",2015
+"Stacked What-Where Auto-encoders@@@SWWAE","Ross Goroshin","",2015-06-08,"not available",2015
+"Stacked What-Where Auto-encoders@@@SWWAE","Yann LeCun","",2015-06-08,"not available",2015
+"Mish: A Self Regularized Non-Monotonic Activation Function@@@ResNet v2-20 (Mish activation)","Diganta Misra","",2019-08-23,"not available",2019
+"@@@MLR DNN","","",NA,"not available",NA
+"Deeply-Supervised Nets@@@DSN","Chen-Yu Lee","University of California, San Diego",2014-09-18,"not available",2014
+"Deeply-Supervised Nets@@@DSN","Saining Xie","University of California, San Diego",2014-09-18,"not available",2014
+"Deeply-Supervised Nets@@@DSN","Patrick W. Gallagher","",2014-09-18,"not available",2014
+"Deeply-Supervised Nets@@@DSN","Zhengyou Zhang","Microsoft",2014-09-18,"not available",2014
+"Deeply-Supervised Nets@@@DSN","Zhuowen Tu","University of California, San Diego",2014-09-18,"not available",2014
+"BinaryConnect: Training Deep Neural Networks with binary weights during propagations@@@BinaryConnect","Matthieu Courbariaux","École Polytechnique de Montréal",2015-11-02,"not available",2015
+"BinaryConnect: Training Deep Neural Networks with binary weights during propagations@@@BinaryConnect","Yoshua Bengio","Université de Montréal",2015-11-02,"not available",2015
+"BinaryConnect: Training Deep Neural Networks with binary weights during propagations@@@BinaryConnect","Jean-Pierre David","École Polytechnique de Montréal",2015-11-02,"not available",2015
+"Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities@@@CLS-GAN","Guo-Jun Qi","",2017-01-23,"not available",2017
+"On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units@@@MIM","Zhibin Liao","University of Adelaide",2015-08-03,"not available",2015
+"On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units@@@MIM","Gustavo Carneiro","University of Adelaide",2015-08-03,"not available",2015
+"SpinalNet: Deep Neural Network with Gradual Input@@@VGG-19(Spinal FC)","H M Dipu Kabir","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@VGG-19(Spinal FC)","Moloud Abdar","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@VGG-19(Spinal FC)","Seyed Mohammad Jafar Jalali","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@VGG-19(Spinal FC)","Abbas Khosravi","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@VGG-19(Spinal FC)","Amir F. Atiya","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@VGG-19(Spinal FC)","Saeid Nahavandi","",2020-07-07,"not available",2020
+"SpinalNet: Deep Neural Network with Gradual Input@@@VGG-19(Spinal FC)","Dipti Srinivasan","",2020-07-07,"not available",2020
+"Spectral Representations for Convolutional Neural Networks@@@Spectral Representations for Convolutional Neural Networks","Oren Rippel","Massachusetts Institute of Technology",2015-06-11,"not available",2015
+"Spectral Representations for Convolutional Neural Networks@@@Spectral Representations for Convolutional Neural Networks","Jasper Snoek","Harvard University",2015-06-11,"not available",2015
+"Spectral Representations for Convolutional Neural Networks@@@Spectral Representations for Convolutional Neural Networks","Ryan P. Adams","Harvard University",2015-06-11,"not available",2015
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (30 RDLs)","Kamran Kowsari","University of Virginia",2018-05-03,"not available",2018
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (30 RDLs)","Mojtaba Heidarysafa","University of Virginia",2018-05-03,"not available",2018
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (30 RDLs)","Donald E. Brown","University of Virginia",2018-05-03,"not available",2018
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (30 RDLs)","Kiana Jafari Meimandi","University of Virginia",2018-05-03,"not available",2018
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (30 RDLs)","Laura E. Barnes","University of Virginia",2018-05-03,"not available",2018
+"Network In Network@@@Network in Network","Ming Liu","University of Washington",2013-12-16,"not available",2013
+"Network In Network@@@Network in Network","Liang Luo","University of Washington",2013-12-16,"not available",2013
+"Network In Network@@@Network in Network","Jacob Nelson","Microsoft",2013-12-16,"not available",2013
+"Network In Network@@@Network in Network","Luis Ceze","University of Washington",2013-12-16,"not available",2013
+"Network In Network@@@Network in Network","Arvind Krishnamurthy","University of Washington",2013-12-16,"not available",2013
+"Network In Network@@@Network in Network","Kishore Atreya","",2013-12-16,"not available",2013
+"Network In Network@@@Network in Network","Kishore Badari Atreya","",2013-12-16,"not available",2013
+"@@@ELC","","",NA,"not available",NA
+"Deep Networks with Internal Selective Attention through Feedback Connections@@@Deep Networks with Internal Selective Attention through Feedback Connections","Marijn F. Stollenga","Dalle Molle Institute for Artificial Intelligence Research",2014-07-11,"not available",2014
+"Deep Networks with Internal Selective Attention through Feedback Connections@@@Deep Networks with Internal Selective Attention through Feedback Connections","Jonathan Masci","Dalle Molle Institute for Artificial Intelligence Research",2014-07-11,"not available",2014
+"Deep Networks with Internal Selective Attention through Feedback Connections@@@Deep Networks with Internal Selective Attention through Feedback Connections","Faustino Gomez","Dalle Molle Institute for Artificial Intelligence Research",2014-07-11,"not available",2014
+"Deep Networks with Internal Selective Attention through Feedback Connections@@@Deep Networks with Internal Selective Attention through Feedback Connections","Juergen Schmidhuber","Dalle Molle Institute for Artificial Intelligence Research",2014-07-11,"not available",2014
+"@@@DropConnect","","",NA,"not available",NA
+"Maxout Networks@@@Maxout Network (k=2)","Ian Goodfellow","Université de Montréal",2013-02-18,"not available",2013
+"Maxout Networks@@@Maxout Network (k=2)","David Warde-Farley","Université de Montréal",2013-02-18,"not available",2013
+"Maxout Networks@@@Maxout Network (k=2)","Mehdi Mirza","Université de Montréal",2013-02-18,"not available",2013
+"Maxout Networks@@@Maxout Network (k=2)","Aaron Courville","Université de Montréal",2013-02-18,"not available",2013
+"Maxout Networks@@@Maxout Network (k=2)","Yoshua Bengio","Université de Montréal",2013-02-18,"not available",2013
+"Improving Deep Neural Networks with Probabilistic Maxout Units@@@DNN+Probabilistic Maxout","Jost Tobias Springenberg","University of Freiburg",2013-12-20,"not available",2013
+"Improving Deep Neural Networks with Probabilistic Maxout Units@@@DNN+Probabilistic Maxout","Martin Riedmiller","University of Freiburg",2013-12-20,"not available",2013
+"Practical Bayesian Optimization of Machine Learning Algorithms@@@GP EI","Jasper Snoek","University of Toronto",2012-06-13,"not available",2012
+"Practical Bayesian Optimization of Machine Learning Algorithms@@@GP EI","Hugo Larochelle","Université de Sherbrooke",2012-06-13,"not available",2012
+"Practical Bayesian Optimization of Machine Learning Algorithms@@@GP EI","Ryan P. Adams","Harvard University",2012-06-13,"not available",2012
+"APAC: Augmented PAttern Classification with Neural Networks@@@APAC","Ikuro Sato","",2015-05-13,"not available",2015
+"APAC: Augmented PAttern Classification with Neural Networks@@@APAC","Hiroki Nishimura","",2015-05-13,"not available",2015
+"APAC: Augmented PAttern Classification with Neural Networks@@@APAC","Kensuke Yokoi","",2015-05-13,"not available",2015
+"Dynamic Routing Between Capsules@@@ensemble of 7 models","Sara Sabour","Google",2017-10-26,"not available",2017
+"Dynamic Routing Between Capsules@@@ensemble of 7 models","Nicholas Frosst","Google",2017-10-26,"not available",2017
+"Dynamic Routing Between Capsules@@@ensemble of 7 models","Geoffrey E. Hinton","Google",2017-10-26,"not available",2017
+"Deep Convolutional Neural Networks as Generic Feature Extractors@@@DCNN+GFE","Lars Hertel","",2017-10-06,"not available",2017
+"Deep Convolutional Neural Networks as Generic Feature Extractors@@@DCNN+GFE","Erhardt Barth","",2017-10-06,"not available",2017
+"Deep Convolutional Neural Networks as Generic Feature Extractors@@@DCNN+GFE","Thomas Käster","",2017-10-06,"not available",2017
+"Deep Convolutional Neural Networks as Generic Feature Extractors@@@DCNN+GFE","Thomas Martinetz","",2017-10-06,"not available",2017
+"ImageNet Classification with Deep Convolutional Neural Networks@@@DCNN","Alex Krizhevsky","University of Toronto",2012-12-01,"not available",2012
+"ImageNet Classification with Deep Convolutional Neural Networks@@@DCNN","Ilya Sutskever","University of Toronto",2012-12-01,"not available",2012
+"ImageNet Classification with Deep Convolutional Neural Networks@@@DCNN","Geoffrey E. Hinton","University of Toronto",2012-12-01,"not available",2012
+"Multi-column Deep Neural Networks for Image Classification@@@MCDNN","Dan Ciregan","Dalle Molle Institute for Artificial Intelligence Research",2012-02-13,"not available",2012
+"Multi-column Deep Neural Networks for Image Classification@@@MCDNN","Dan Ciresan","Dalle Molle Institute for Artificial Intelligence Research",2012-02-13,"not available",2012
+"Multi-column Deep Neural Networks for Image Classification@@@MCDNN","Ueli Meier","Dalle Molle Institute for Artificial Intelligence Research",2012-02-13,"not available",2012
+"Multi-column Deep Neural Networks for Image Classification@@@MCDNN","Juergen Schmidhuber","Dalle Molle Institute for Artificial Intelligence Research",2012-02-13,"not available",2012
+"Multi-column Deep Neural Networks for Image Classification@@@MCDNN","Jürgen Schmidhuber","Dalle Molle Institute for Artificial Intelligence Research",2012-02-13,"not available",2012
+"Empirical Evaluation of Rectified Activations in Convolutional Network@@@RReLU","Bing Xu","",2015-05-05,"not available",2015
+"Empirical Evaluation of Rectified Activations in Convolutional Network@@@RReLU","Naiyan Wang","",2015-05-05,"not available",2015
+"Empirical Evaluation of Rectified Activations in Convolutional Network@@@RReLU","Tianqi Chen","",2015-05-05,"not available",2015
+"Empirical Evaluation of Rectified Activations in Convolutional Network@@@RReLU","Mu Li","",2015-05-05,"not available",2015
+"ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks@@@ReNet","Francesco Visin","",2015-05-03,"not available",2015
+"ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks@@@ReNet","Kyle Kastner","",2015-05-03,"not available",2015
+"ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks@@@ReNet","Kyunghyun Cho","",2015-05-03,"not available",2015
+"ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks@@@ReNet","Matteo Matteucci","",2015-05-03,"not available",2015
+"ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks@@@ReNet","Aaron Courville","",2015-05-03,"not available",2015
+"ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks@@@ReNet","Yoshua Bengio","",2015-05-03,"not available",2015
+"An Analysis of Unsupervised Pre-training in Light of Recent Advances@@@An Analysis of Unsupervised Pre-training in Light of Recent Advances","Tom Le Paine","University of Illinois at Urbana–Champaign",2014-12-20,"not available",2014
+"An Analysis of Unsupervised Pre-training in Light of Recent Advances@@@An Analysis of Unsupervised Pre-training in Light of Recent Advances","Pooya Khorrami","University of Illinois at Urbana–Champaign",2014-12-20,"not available",2014
+"An Analysis of Unsupervised Pre-training in Light of Recent Advances@@@An Analysis of Unsupervised Pre-training in Light of Recent Advances","Wei Han","University of Illinois at Urbana–Champaign",2014-12-20,"not available",2014
+"An Analysis of Unsupervised Pre-training in Light of Recent Advances@@@An Analysis of Unsupervised Pre-training in Light of Recent Advances","Huang SiLiang","University of Illinois at Urbana–Champaign",2014-12-20,"not available",2014
+"An Analysis of Unsupervised Pre-training in Light of Recent Advances@@@An Analysis of Unsupervised Pre-training in Light of Recent Advances","Thomas S. Huang","University of Illinois at Urbana–Champaign",2014-12-20,"not available",2014
+"Stochastic Pooling for Regularization of Deep Convolutional Neural Networks@@@Stochastic Pooling","Matthew D. Zeiler","New York University",2013-01-16,"not available",2013
+"Stochastic Pooling for Regularization of Deep Convolutional Neural Networks@@@Stochastic Pooling","Rob Fergus","New York University",2013-01-16,"not available",2013
+"Improving neural networks by preventing co-adaptation of feature detectors@@@Improving neural networks by preventing co-adaptation of feature detectors","Geoffrey E. Hinton","University of Toronto",2012-07-03,"not available",2012
+"Improving neural networks by preventing co-adaptation of feature detectors@@@Improving neural networks by preventing co-adaptation of feature detectors","Nitish Srivastava","",2012-07-03,"not available",2012
+"Improving neural networks by preventing co-adaptation of feature detectors@@@Improving neural networks by preventing co-adaptation of feature detectors","Alex Krizhevsky","",2012-07-03,"not available",2012
+"Improving neural networks by preventing co-adaptation of feature detectors@@@Improving neural networks by preventing co-adaptation of feature detectors","Ilya Sutskever","",2012-07-03,"not available",2012
+"Improving neural networks by preventing co-adaptation of feature detectors@@@Improving neural networks by preventing co-adaptation of feature detectors","Ruslan Salakhutdinov","University of Toronto",2012-07-03,"not available",2012
+"@@@Discriminative Learning of Sum-Product Networks","","",NA,"not available",NA
+"Unsupervised Learning using Pretrained CNN and Associative Memory Bank@@@UL-Hopfield (ULH)","Qun Liu","Louisiana State University",2018-05-02,"not available",2018
+"Unsupervised Learning using Pretrained CNN and Associative Memory Bank@@@UL-Hopfield (ULH)","Supratik Mukhopadhyay","Louisiana State University",2018-05-02,"not available",2018
+"@@@Nonnegativity Constraints ","","",NA,"not available",NA
+"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@DCGAN","Alec Radford","",2015-11-19,"not available",2015
+"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@DCGAN","Luke Metz","",2015-11-19,"not available",2015
+"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@DCGAN","Soumith Chintala","Facebook",2015-11-19,"not available",2015
+"@@@Local Transformations","","",NA,"not available",NA
+"Convolutional Kernel Networks@@@CKN","Yin Cui","Cornell University",2014-06-12,"not available",2014
+"Convolutional Kernel Networks@@@CKN","Feng Zhou","Carnegie Mellon University",2014-06-12,"not available",2014
+"Convolutional Kernel Networks@@@CKN","Jiang Wang","Google",2014-06-12,"not available",2014
+"Convolutional Kernel Networks@@@CKN","Xiao Liu","Baidu",2014-06-12,"not available",2014
+"Convolutional Kernel Networks@@@CKN","Yuanqing Lin","Princeton University",2014-06-12,"not available",2014
+"Convolutional Kernel Networks@@@CKN","Serge Belongie","Cornell University",2014-06-12,"not available",2014
+"Discriminative Unsupervised Feature Learning with Convolutional Neural Networks@@@Discriminative Unsupervised Feature Learning with Convolutional Neural Networks","Alexey Dosovitskiy","University of Freiburg",2014-12-01,"not available",2014
+"Discriminative Unsupervised Feature Learning with Convolutional Neural Networks@@@Discriminative Unsupervised Feature Learning with Convolutional Neural Networks","Jost Tobias Springenberg","University of Freiburg",2014-12-01,"not available",2014
+"Discriminative Unsupervised Feature Learning with Convolutional Neural Networks@@@Discriminative Unsupervised Feature Learning with Convolutional Neural Networks","Martin Riedmiller","University of Freiburg",2014-12-01,"not available",2014
+"Discriminative Unsupervised Feature Learning with Convolutional Neural Networks@@@Discriminative Unsupervised Feature Learning with Convolutional Neural Networks","Thomas Brox","University of Freiburg",2014-12-01,"not available",2014
+"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@1 Layer K-means","Alec Radford","",2015-11-19,"not available",2015
+"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@1 Layer K-means","Luke Metz","",2015-11-19,"not available",2015
+"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@1 Layer K-means","Soumith Chintala","Facebook",2015-11-19,"not available",2015
+"@@@Hierarchical Kernel Descriptors","","",NA,"not available",NA
+"@@@Smooth Pooling Regions","","",NA,"not available",NA
+"Learning with Recursive Perceptual Representations@@@Learning with Recursive Perceptual Representations","Oriol Vinyals","University of California, Berkeley",2012-12-01,"not available",2012
+"Learning with Recursive Perceptual Representations@@@Learning with Recursive Perceptual Representations","Yangqing Jia","University of California, Berkeley",2012-12-01,"not available",2012
+"Learning with Recursive Perceptual Representations@@@Learning with Recursive Perceptual Representations","Li Deng","Microsoft",2012-12-01,"not available",2012
+"Learning with Recursive Perceptual Representations@@@Learning with Recursive Perceptual Representations","Trevor Darrell","University of California, Berkeley",2012-12-01,"not available",2012
+"@@@An Analysis of Single-Layer Networks in Unsupervised Feature Learning ","","",NA,"not available",NA
+"PCANet: A Simple Deep Learning Baseline for Image Classification?@@@PCANet","Tsung-Han Chan","MediaTek",2014-04-14,"not available",2014
+"PCANet: A Simple Deep Learning Baseline for Image Classification?@@@PCANet","Kui Jia","University of Macau",2014-04-14,"not available",2014
+"PCANet: A Simple Deep Learning Baseline for Image Classification?@@@PCANet","Shenghua Gao","ShanghaiTech University",2014-04-14,"not available",2014
+"PCANet: A Simple Deep Learning Baseline for Image Classification?@@@PCANet","Jiwen Lu","Tsinghua University",2014-04-14,"not available",2014
+"PCANet: A Simple Deep Learning Baseline for Image Classification?@@@PCANet","Zinan Zeng","Agency for Science, Technology and Research",2014-04-14,"not available",2014
+"PCANet: A Simple Deep Learning Baseline for Image Classification?@@@PCANet","Yi Ma","ShanghaiTech University",2014-04-14,"not available",2014
+"Enhanced Image Classification With a Fast-Learning Shallow Convolutional Neural Network@@@FLSCNN","Mark D. McDonnell","University of South Australia",2015-03-16,"not available",2015
+"Enhanced Image Classification With a Fast-Learning Shallow Convolutional Neural Network@@@FLSCNN","Tony Vladusich","University of South Australia",2015-03-16,"not available",2015
+"Augmented Neural ODEs@@@ANODE","Emilien Dupont","University of Oxford",2019-04-02,"not available",2019
+"Augmented Neural ODEs@@@ANODE","Arnaud Doucet","",2019-04-02,"not available",2019
+"Augmented Neural ODEs@@@ANODE","Yee Whye Teh","University of Oxford",2019-04-02,"not available",2019
+"How Important is Weight Symmetry in Backpropagation?@@@Sign-symmetry","Qianli Liao","Massachusetts Institute of Technology",2015-10-17,"not available",2015
+"How Important is Weight Symmetry in Backpropagation?@@@Sign-symmetry","Joel Z. Leibo","Massachusetts Institute of Technology",2015-10-17,"not available",2015
+"How Important is Weight Symmetry in Backpropagation?@@@Sign-symmetry","Tomaso Poggio","Massachusetts Institute of Technology",2015-10-17,"not available",2015
+"Feature Space Singularity for Out-of-Distribution Detection@@@ResNet 34 + FSSD","Yihui Xiong","China University of Geosciences",2020-11-30,"not available",2020
+"Feature Space Singularity for Out-of-Distribution Detection@@@ResNet 34 + FSSD","Renguang Zuo","China University of Geosciences",2020-11-30,"not available",2020
+"Feature Space Singularity for Out-of-Distribution Detection@@@ResNet 34 + FSSD","Kexin Wang","China University of Geosciences",2020-11-30,"not available",2020
+"Feature Space Singularity for Out-of-Distribution Detection@@@ResNet 34 + FSSD","Jian Wang","China University of Geosciences",2020-11-30,"not available",2020
+"Outlier Exposure with Confidence Control for Out-of-Distribution Detection@@@WRN 40-2 + OECC","Aristotelis-Angelos Papadopoulos","University of Southern California",2019-06-08,"not available",2019
+"Outlier Exposure with Confidence Control for Out-of-Distribution Detection@@@WRN 40-2 + OECC","Mohammad Reza Rajati","University of Southern California",2019-06-08,"not available",2019
+"Outlier Exposure with Confidence Control for Out-of-Distribution Detection@@@WRN 40-2 + OECC","Nazim Shaikh","University of Southern California",2019-06-08,"not available",2019
+"Outlier Exposure with Confidence Control for Out-of-Distribution Detection@@@WRN 40-2 + OECC","Jiamian Wang","University of Southern California",2019-06-08,"not available",2019
+"Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 + OE","Dan Hendrycks","University of California, Berkeley",2018-12-11,"not available",2018
+"Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 + OE","Mantas Mazeika","University of Chicago",2018-12-11,"not available",2018
+"Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 + OE","Thomas G. Dietterich","Oregon State University",2018-12-11,"not available",2018
+"Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 (MSP Baseline)","Dan Hendrycks","University of California, Berkeley",2018-12-11,"not available",2018
+"Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 (MSP Baseline)","Mantas Mazeika","University of Chicago",2018-12-11,"not available",2018
+"Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 (MSP Baseline)","Thomas G. Dietterich","Oregon State University",2018-12-11,"not available",2018
+"Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty@@@WRN 40-2 + Rotation Prediction","Dan Hendrycks","University of California, Berkeley",2019-06-28,"not available",2019
+"Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty@@@WRN 40-2 + Rotation Prediction","Mantas Mazeika","University of Illinois at Urbana–Champaign",2019-06-28,"not available",2019
+"Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty@@@WRN 40-2 + Rotation Prediction","Saurav Kadavath","University of California, Berkeley",2019-06-28,"not available",2019
+"Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty@@@WRN 40-2 + Rotation Prediction","Dawn Song","University of California, Berkeley",2019-06-28,"not available",2019
+"Network Pruning via Transformable Architecture Search@@@TAS-pruned ResNet-110","Xuanyi Dong","University of Technology, Sydney",2019-05-23,"not available",2019
+"Network Pruning via Transformable Architecture Search@@@TAS-pruned ResNet-110","Yi Yang","University of Technology, Sydney",2019-05-23,"not available",2019
+"Quantisation and Pruning for Neural Network Compression and Regularisation@@@MobileNet – Quantised","Kimessha Paupamah","University of the Witwatersrand",2020-01-14,"not available",2020
+"Quantisation and Pruning for Neural Network Compression and Regularisation@@@MobileNet – Quantised","Steven James","University of the Witwatersrand",2020-01-14,"not available",2020
+"Quantisation and Pruning for Neural Network Compression and Regularisation@@@MobileNet – Quantised","Richard Klein","University of the Witwatersrand",2020-01-14,"not available",2020
+"Quantisation and Pruning for Neural Network Compression and Regularisation@@@AlexNet – Quantised","Kimessha Paupamah","University of the Witwatersrand",2020-01-14,"not available",2020
+"Quantisation and Pruning for Neural Network Compression and Regularisation@@@AlexNet – Quantised","Steven James","University of the Witwatersrand",2020-01-14,"not available",2020
+"Quantisation and Pruning for Neural Network Compression and Regularisation@@@AlexNet – Quantised","Richard Klein","University of the Witwatersrand",2020-01-14,"not available",2020
+"Quantisation and Pruning for Neural Network Compression and Regularisation@@@ShuffleNet – Quantised","Kimessha Paupamah","University of the Witwatersrand",2020-01-14,"not available",2020
+"Quantisation and Pruning for Neural Network Compression and Regularisation@@@ShuffleNet – Quantised","Steven James","University of the Witwatersrand",2020-01-14,"not available",2020
+"Quantisation and Pruning for Neural Network Compression and Regularisation@@@ShuffleNet – Quantised","Richard Klein","University of the Witwatersrand",2020-01-14,"not available",2020
+"Deep Triplet Quantization@@@DTQ","Bin Liu","Tsinghua University",2019-02-01,"not available",2019
+"Deep Triplet Quantization@@@DTQ","Yue Cao","Tsinghua University",2019-02-01,"not available",2019
+"Deep Triplet Quantization@@@DTQ","Mingsheng Long","Tsinghua University",2019-02-01,"not available",2019
+"Deep Triplet Quantization@@@DTQ","Jianmin Wang","Tsinghua University",2019-02-01,"not available",2019
+"Deep Triplet Quantization@@@DTQ","Jingdong Wang","Microsoft",2019-02-01,"not available",2019
+"Masked Autoregressive Flow for Density Estimation@@@MAF","George Papamakarios","",2017-05-19,"not available",2017
+"Masked Autoregressive Flow for Density Estimation@@@MAF","Theo Pavlakou","",2017-05-19,"not available",2017
+"Masked Autoregressive Flow for Density Estimation@@@MAF","Iain Murray","",2017-05-19,"not available",2017
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","Will Grathwohl","Lawrence Livermore National Laboratory",2018-10-02,"not available",2018
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","Ricky T. Q. Chen","University of Toronto",2018-10-02,"not available",2018
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","Jesse Bettencourt","University of Toronto",2018-10-02,"not available",2018
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","Ilya Sutskever","OpenAI",2018-10-02,"not available",2018
+"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD","David Duvenaud","University of Toronto",2018-10-02,"not available",2018

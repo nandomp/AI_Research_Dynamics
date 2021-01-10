@@ -1,0 +1,147 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Representation Learning for Heterogeneous Information Networks via Embedding Events@@@Event2vec","Guoji Fu","Southern University of Science and Technology",2019-01-29,"not available",2019
+"Representation Learning for Heterogeneous Information Networks via Embedding Events@@@Event2vec","Bo Yuan","Southern University of Science and Technology",2019-01-29,"not available",2019
+"Representation Learning for Heterogeneous Information Networks via Embedding Events@@@Event2vec","Qiqi Duan","Southern University of Science and Technology",2019-01-29,"not available",2019
+"Representation Learning for Heterogeneous Information Networks via Embedding Events@@@Event2vec","Xin Yao","Southern University of Science and Technology",2019-01-29,"not available",2019
+"Sentiment Classification Using Document Embeddings Trained with Cosine Similarity@@@NB-weighted-BON + dv-cosine","Tan Thongtan","Mahidol University International College",2019-07-01,"97.4",2019
+"Sentiment Classification Using Document Embeddings Trained with Cosine Similarity@@@NB-weighted-BON + dv-cosine","Tanasanee Phienthrakul","Mahidol University",2019-07-01,"97.4",2019
+"Graph Star Net for Generalized Multi-Task Learning@@@GraphStar","Lu Haonan","Huawei",2019-06-21,"96.0",2019
+"Graph Star Net for Generalized Multi-Task Learning@@@GraphStar","Seth H. Huang","Huawei",2019-06-21,"96.0",2019
+"Graph Star Net for Generalized Multi-Task Learning@@@GraphStar","Tian Ye","Huawei",2019-06-21,"96.0",2019
+"Graph Star Net for Generalized Multi-Task Learning@@@GraphStar","Guo Xiuyan","Huawei",2019-06-21,"96.0",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large finetune UDA","Qizhe Xie","",2019-04-29,"95.8",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large finetune UDA","Zihang Dai","",2019-04-29,"95.8",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large finetune UDA","Eduard Hovy","",2019-04-29,"95.8",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large finetune UDA","Minh-Thang Luong","",2019-04-29,"95.8",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large finetune UDA","Quoc V. Le","",2019-04-29,"95.8",2019
+"Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function@@@L MIXED","Devendra Singh Sachan","",2020-09-08,"95.68",2020
+"Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function@@@L MIXED","Manzil Zaheer","Carnegie Mellon University",2020-09-08,"95.68",2020
+"Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function@@@L MIXED","Ruslan Salakhutdinov","Carnegie Mellon University",2020-09-08,"95.68",2020
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large","Qizhe Xie","",2019-04-29,"95.49",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large","Zihang Dai","",2019-04-29,"95.49",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large","Eduard Hovy","",2019-04-29,"95.49",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large","Minh-Thang Luong","",2019-04-29,"95.49",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT large","Quoc V. Le","Google",2019-04-29,"95.49",2019
+"Universal Language Model Fine-tuning for Text Classification@@@ULMFiT","Jeremy Howard","",2018-01-18,"95.4",2018
+"Universal Language Model Fine-tuning for Text Classification@@@ULMFiT","Sebastian Ruder","National University of Ireland, Galway",2018-01-18,"95.4",2018
+"GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM","Xinliang Wang","Tsinghua University",2017-12-01,"94.99",2017
+"GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM","Weifeng Liu","Norwegian University of Science and Technology",2017-12-01,"94.99",2017
+"GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM","Wei Xue","Tsinghua University",2017-12-01,"94.99",2017
+"GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM","Li Wu","Tsinghua University",2017-12-01,"94.99",2017
+"Contextual Explanation Networks@@@CEN-tpc","Maruan Al-Shedivat","Carnegie Mellon University",2017-05-29,"94.52",2017
+"Contextual Explanation Networks@@@CEN-tpc","Avinava Dubey","Carnegie Mellon University",2017-05-29,"94.52",2017
+"Contextual Explanation Networks@@@CEN-tpc","Eric P. Xing","Carnegie Mellon University",2017-05-29,"94.52",2017
+"Supervised and Semi-Supervised Text Categorization using LSTM for Region Embeddings@@@oh-LSTM","Rie Johnson","",2016-02-07,"94.1",2016
+"Supervised and Semi-Supervised Text Categorization using LSTM for Region Embeddings@@@oh-LSTM","Tong Zhang","Baidu",2016-02-07,"94.1",2016
+"Adversarial Training Methods for Semi-Supervised Text Classification@@@Virtual adversarial training","Takeru Miyato","Kyoto University",2016-05-25,"94.1",2016
+"Adversarial Training Methods for Semi-Supervised Text Classification@@@Virtual adversarial training","Andrew M. Dai","Google",2016-05-25,"94.1",2016
+"Adversarial Training Methods for Semi-Supervised Text Classification@@@Virtual adversarial training","Ian Goodfellow","OpenAI",2016-05-25,"94.1",2016
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT","Victor Sanh","",2019-10-02,"92.82",2019
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT","Lysandre Debut","",2019-10-02,"92.82",2019
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT","Julien Chaumond","",2019-10-02,"92.82",2019
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT","Thomas Wolf","",2019-10-02,"92.82",2019
+"Effective Use of Word Order for Text Categorization with Convolutional Neural Networks@@@seq2-bown-CNN","Rie Johnson","",2014-12-01,"92.33",2014
+"Effective Use of Word Order for Text Categorization with Convolutional Neural Networks@@@seq2-bown-CNN","Tong Zhang","Rutgers University",2014-12-01,"92.33",2014
+"BP-Transformer: Modelling Long-Range Context via Binary Partitioning@@@BP-Transformer + GloVe","Zihao Ye","",2019-11-11,"92.12",2019
+"BP-Transformer: Modelling Long-Range Context via Binary Partitioning@@@BP-Transformer + GloVe","Qipeng Guo","",2019-11-11,"92.12",2019
+"BP-Transformer: Modelling Long-Range Context via Binary Partitioning@@@BP-Transformer + GloVe","Quan Gan","",2019-11-11,"92.12",2019
+"BP-Transformer: Modelling Long-Range Context via Binary Partitioning@@@BP-Transformer + GloVe","Xipeng Qiu","",2019-11-11,"92.12",2019
+"BP-Transformer: Modelling Long-Range Context via Binary Partitioning@@@BP-Transformer + GloVe","Zheng Zhang","",2019-11-11,"92.12",2019
+"Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe","Bryan McCann","Salesforce.com",2017-08-01,"91.8",2017
+"Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe","James Bradbury","Salesforce.com",2017-08-01,"91.8",2017
+"Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe","Caiming Xiong","Salesforce.com",2017-08-01,"91.8",2017
+"Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe","Richard Socher","Salesforce.com",2017-08-01,"91.8",2017
+"Task-oriented Word Embedding for Text Classification@@@ToWE-SG","Qian Liu","Beijing Institute of Technology",2018-08-01,"90.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-SG","Heyan Huang","Beijing Institute of Technology",2018-08-01,"90.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-SG","Yang Gao","Beijing Institute of Technology",2018-08-01,"90.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-SG","Xiaochi Wei","Beijing Institute of Technology",2018-08-01,"90.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-SG","Yuxin Tian","",2018-08-01,"90.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-SG","Luyang Liu","Beijing Institute of Technology",2018-08-01,"90.8",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Tao Gui","Fudan University",2018-11-09,"90.1",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Qi Zhang","Fudan University",2018-11-09,"90.1",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Lujun Zhao","Fudan University",2018-11-09,"90.1",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Yaosong Lin","Fudan University",2018-11-09,"90.1",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Minlong Peng","Fudan University",2018-11-09,"90.1",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Jingjing Gong","Fudan University",2018-11-09,"90.1",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Xuanjing Huang","Fudan University",2018-11-09,"90.1",2018
+"On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis@@@CNN+LSTM","Jose Camacho-Collados","Cardiff University",2017-07-06,"88.9",2017
+"On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis@@@CNN+LSTM","Mohammad Taher Pilehvar","University of Cambridge",2017-07-06,"88.9",2017
+"Efficient Vector Representation for Documents through Corruption@@@Doc2VecC","Minmin Chen","",2017-07-08,"88.3",2017
+"Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies@@@coRNN","T. Konstantin Rusch","",2020-10-02,"87.4%",2020
+"Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies@@@coRNN","Siddhartha Mishra","",2020-10-02,"87.4%",2020
+"Sentence-State LSTM for Text Representation@@@S-LSTM","Yue Zhang","",2018-05-07,"87.15",2018
+"Sentence-State LSTM for Text Representation@@@S-LSTM","Qi Liu","National University of Singapore",2018-05-07,"87.15",2018
+"Sentence-State LSTM for Text Representation@@@S-LSTM","Linfeng Song","University of Rochester",2018-05-07,"87.15",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG","Jingjing Gong","Fudan University",2018-06-05,"45.1",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG","Xipeng Qiu","Fudan University",2018-06-05,"45.1",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG","Shaojing Wang","",2018-06-05,"45.1",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG","Xuanjing Huang","Fudan University",2018-06-05,"45.1",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG","Jingjing Gong","Fudan University",2018-06-05,"44.5",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG","Xipeng Qiu","Fudan University",2018-06-05,"44.5",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG","Shaojing Wang","",2018-06-05,"44.5",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG","Xuanjing Huang","Fudan University",2018-06-05,"44.5",2018
+"SimGNN: A Neural Network Approach to Fast Graph Similarity Computation@@@SimGNN","Yunsheng Bai","University of California, Los Angeles",2018-08-16,"not available",2018
+"SimGNN: A Neural Network Approach to Fast Graph Similarity Computation@@@SimGNN","Hao Ding","Purdue University",2018-08-16,"not available",2018
+"SimGNN: A Neural Network Approach to Fast Graph Similarity Computation@@@SimGNN","Song Bian","Zhejiang University",2018-08-16,"not available",2018
+"SimGNN: A Neural Network Approach to Fast Graph Similarity Computation@@@SimGNN","Ting Chen","University of California, Los Angeles",2018-08-16,"not available",2018
+"SimGNN: A Neural Network Approach to Fast Graph Similarity Computation@@@SimGNN","Yizhou Sun","University of California, Los Angeles",2018-08-16,"not available",2018
+"SimGNN: A Neural Network Approach to Fast Graph Similarity Computation@@@SimGNN","Wei Wang","University of California, Los Angeles",2018-08-16,"not available",2018
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet","Zhilin Yang","Carnegie Mellon University",2019-06-19,"96.8",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet","Zihang Dai","Carnegie Mellon University",2019-06-19,"96.8",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet","Yiming Yang","Carnegie Mellon University",2019-06-19,"96.8",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet","Jaime G. Carbonell","Carnegie Mellon University",2019-06-19,"96.8",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet","Ruslan Salakhutdinov","Carnegie Mellon University",2019-06-19,"96.8",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet","Quoc V. Le","Google",2019-06-19,"96.8",2019
+"Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining@@@In-domain Pretraining+Semi-supervised","Youngjune Gwon","Massachusetts Institute of Technology",2020-11-17,"96.6",2020
+"Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining@@@In-domain Pretraining+Semi-supervised","Miriam Cha","Massachusetts Institute of Technology",2020-11-17,"96.6",2020
+"Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining@@@In-domain Pretraining+Semi-supervised","William M. Campbell","Massachusetts Institute of Technology",2020-11-17,"96.6",2020
+"Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining@@@In-domain Pretraining+Semi-supervised","H.T. King","Harvard University",2020-11-17,"96.6",2020
+"Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining@@@In-domain Pretraining+Semi-supervised","H. T. Kung","Harvard University",2020-11-17,"96.6",2020
+"Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining@@@In-domain Pretraining+Semi-supervised","Charlie K. Dagli","Massachusetts Institute of Technology",2020-11-17,"96.6",2020
+"Unsupervised Data Augmentation for Consistency Training@@@BERT Finetune + UDA","Qizhe Xie","",2019-04-29,"95.8",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT Finetune + UDA","Zihang Dai","",2019-04-29,"95.8",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT Finetune + UDA","Eduard Hovy","",2019-04-29,"95.8",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT Finetune + UDA","Minh-Thang Luong","",2019-04-29,"95.8",2019
+"Unsupervised Data Augmentation for Consistency Training@@@BERT Finetune + UDA","Quoc V. Le","Google",2019-04-29,"95.8",2019
+"How to Fine-Tune BERT for Text Classification?@@@BERT-ITPT-FiT","Chi Sun","Fudan University",2019-05-14,"95.63",2019
+"How to Fine-Tune BERT for Text Classification?@@@BERT-ITPT-FiT","Xipeng Qiu","Fudan University",2019-05-14,"95.63",2019
+"How to Fine-Tune BERT for Text Classification?@@@BERT-ITPT-FiT","Yige Xu","Fudan University",2019-05-14,"95.63",2019
+"How to Fine-Tune BERT for Text Classification?@@@BERT-ITPT-FiT","Xuanjing Huang","Fudan University",2019-05-14,"95.63",2019
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Manzil Zaheer","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Guru Guruganesh","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Avinava Dubey","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Joshua Ainslie","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Chris Alberti","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Santiago Ontañón","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Philip Pham","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Anirudh Ravula","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Qifan Wang","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Li Yang","",2020-07-28,"95.2",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Amr Ahmed","",2020-07-28,"95.2",2020
+"Hierarchical Attentional Hybrid Neural Networks for Document Classification@@@HAHNN (CNN)","Jader Abreu","Federal University of Pernambuco",2019-01-20,"95.17",2019
+"Hierarchical Attentional Hybrid Neural Networks for Document Classification@@@HAHNN (CNN)","Luis Fred","Federal University of Pernambuco",2019-01-20,"95.17",2019
+"Hierarchical Attentional Hybrid Neural Networks for Document Classification@@@HAHNN (CNN)","David Macêdo","Federal University of Pernambuco",2019-01-20,"95.17",2019
+"Hierarchical Attentional Hybrid Neural Networks for Document Classification@@@HAHNN (CNN)","Cleber Zanchettin","Federal University of Pernambuco",2019-01-20,"95.17",2019
+"Distributed Representations of Sentences and Documents@@@Paragraph Vectors Le & Mikolov (2014)","Quoc V. Le","Google",2014-05-16,"92.58",2014
+"Distributed Representations of Sentences and Documents@@@Paragraph Vectors Le & Mikolov (2014)","Tomas Mikolov","Google",2014-05-16,"92.58",2014
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Mikhail Khodak","Princeton University",2018-05-14,"92.2",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Nikunj Saunshi","Princeton University",2018-05-14,"92.2",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Yingyu Liang","University of Wisconsin-Madison",2018-05-14,"92.2",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Tengyu Ma","Facebook",2018-05-14,"92.2",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Brandon M. Stewart","Princeton University",2018-05-14,"92.2",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Sanjeev Arora","",2018-05-14,"92.2",2018
+"Message Passing Attention Networks for Document Understanding@@@MPAD-path","Giannis Nikolentzos","École Polytechnique",2019-08-17,"91.84",2019
+"Message Passing Attention Networks for Document Understanding@@@MPAD-path","Antoine J.-P. Tixier","École Polytechnique",2019-08-17,"91.84",2019
+"Message Passing Attention Networks for Document Understanding@@@MPAD-path","Michalis Vazirgiannis","École Polytechnique",2019-08-17,"91.84",2019
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (15 RDLs)","Kamran Kowsari","University of Virginia",2018-05-03,"90.79",2018
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (15 RDLs)","Mojtaba Heidarysafa","University of Virginia",2018-05-03,"90.79",2018
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (15 RDLs)","Donald E. Brown","University of Virginia",2018-05-03,"90.79",2018
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (15 RDLs)","Kiana Jafari Meimandi","University of Virginia",2018-05-03,"90.79",2018
+"RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (15 RDLs)","Laura E. Barnes","University of Virginia",2018-05-03,"90.79",2018
+"Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding@@@Transductive SVM Johnson & Zhang ([2015b])","Rie Johnson","",2015-04-06,"90.01",2015
+"Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding@@@Transductive SVM Johnson & Zhang ([2015b])","Tong Zhang","Rutgers University",2015-04-06,"90.01",2015
+"DocBERT: BERT for Document Classification@@@KD-LSTMreg","Ashutosh Adhikari","",2019-04-17,"53.7",2019
+"DocBERT: BERT for Document Classification@@@KD-LSTMreg","Achyudh Ram","",2019-04-17,"53.7",2019
+"DocBERT: BERT for Document Classification@@@KD-LSTMreg","Raphael Tang","",2019-04-17,"53.7",2019
+"DocBERT: BERT for Document Classification@@@KD-LSTMreg","James Jeng-Weei Lin","University of Waterloo",2019-04-17,"53.7",2019
+"DocBERT: BERT for Document Classification@@@KD-LSTMreg","Jimmy Lin","University of Waterloo",2019-04-17,"53.7",2019

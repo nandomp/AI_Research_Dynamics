@@ -1,0 +1,19 @@
+title,communities,metric,paper_date,communities_name
+"TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection@@@TANDA-RoBERTa (ASNQ, WikiQA)",7,0.920,2019-11-11,"{'University of Wisconsin-Madison', 'Amazon.com'}"
+A Compare-Aggregate Model with Latent Clustering for Answer Selection@@@Comp-Clip + LM + LC,4,0.764,2019-05-30,"{'Seoul National University', 'Adobe Systems'}"
+Simple and Effective Text Matching with Richer Alignment Features@@@RE2,5,0.7452,2019-08-01,{'Alibaba Group'}
+Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering@@@HyperQA,8,0.712,2017-07-25,"{'Nanyang Technological University', 'Institute for Infocomm Research Singapore'}"
+Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement@@@PWIM,9,0.7090,2016-06-01,"{'University of Maryland, College Park', 'University of Waterloo'}"
+Key-Value Memory Networks for Directly Reading Documents@@@Key-Value Memory Network,2,0.7069,2016-06-09,"{'Facebook', 'Carnegie Mellon University', 'University of Waterloo'}"
+Sentence Similarity Learning by Lexical Decomposition and Composition@@@LDC,10,0.7058,2016-02-23,{'IBM'}
+Noise Contrastive Estimation and Negative Sampling for Conditional Models: Consistency and Statistical Efficiency@@@PairwiseRank +  Multi-Perspective CNN,11,0.7010,2018-09-06,"{'Columbia University', 'University of Pennsylvania'}"
+Neural Variational Inference for Text Processing@@@Attentive LSTM,6,0.6886,2015-11-19,{'University of Oxford'}
+Attentive Pooling Networks@@@AP-CNN,3,0.6886,2016-02-11,"{'IBM', 'Huazhong University of Science and Technology', 'Northwestern University'}"
+Neural Variational Inference for Text Processing@@@LSTM (lexical overlap + dist output),6,0.682,2015-11-19,{'University of Oxford'}
+Neural Semantic Encoders@@@MMA-NSE attention,12,0.6811,2016-07-14,{'University of Massachusetts Medical School'}
+Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat,1,0.6788,2018-05-24,"{'Princeton University', 'University of Notre Dame', 'Duke University'}"
+Neural Variational Inference for Text Processing@@@LSTM,6,0.6552,2015-11-19,{'University of Oxford'}
+Deep Learning for Answer Sentence Selection@@@Bigram-CNN (lexical overlap + dist output),6,0.6520,2014-12-04,{'University of Oxford'}
+Deep Learning for Answer Sentence Selection@@@Bigram-CNN,6,0.6190,2014-12-04,{'University of Oxford'}
+Distributed Representations of Sentences and Documents@@@Paragraph vector (lexical overlap + dist output),13,0.5976,2014-05-16,{'Google'}
+Distributed Representations of Sentences and Documents@@@Paragraph vector,13,0.5110,2014-05-16,{'Google'}

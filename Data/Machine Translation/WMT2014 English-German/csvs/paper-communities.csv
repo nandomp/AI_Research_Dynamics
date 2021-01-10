@@ -1,0 +1,58 @@
+title,communities,metric,paper_date,communities_name
+Understanding Back-Translation at Scale@@@Noisy back-translation,3,35.0,2018-08-28,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B,5+1,32.1,2019-10-23,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+Incorporating BERT into Neural Machine Translation@@@BERT-fused NMT,2,30.75,2020-02-17,"{'Microsoft', 'University of Science and Technology of China', 'Sun Yat-sen University', 'Peking University', 'University of Texas at Austin', 'University of Illinois at Urbana–Champaign'}"
+Data Diversification: A Simple Strategy For Neural Machine Translation@@@Data Diversification - Transformer,12,30.7,2019-11-05,set()
+Very Deep Transformers for Neural Machine Translation@@@Transformer (ADMIN init),13,30.1,2020-08-18,"{'Johns Hopkins University', 'Microsoft', 'University of Illinois at Urbana–Champaign'}"
+Depth Growing for Neural Machine Translation@@@Depth Growing,2,30.07,2019-07-03,"{'Microsoft', 'University of Science and Technology of China', 'Sun Yat-sen University', 'Peking University', 'University of Texas at Austin', 'University of Illinois at Urbana–Champaign'}"
+MUSE: Parallel Multi-Scale Attention for Sequence to Sequence Learning@@@MUSE(Parallel Multi-scale Attention),9,29.9,2019-11-17,set()
+The Evolved Transformer@@@Evolved Transformer Big,1,29.3,2019-01-30,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+Pay Less Attention with Lightweight and Dynamic Convolutions@@@DynamicConv,3,29.7,2019-01-29,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Joint Source-Target Self Attention with Locality Constraints@@@Local Joint Self-attention,14,29.7,2019-05-16,{'Polytechnic University of Catalonia'}
+Fast and Simple Mixture of Softmaxes with BPE and Hybrid-LightRNN for Language Generation@@@Transformer Big + MoS,4,29.6,2018-09-25,"{'Facebook', 'Carnegie Mellon University', 'Tencent'}"
+Time-aware Large Kernel Convolutions@@@TaLK Convolutions,22,29.6,2020-02-08,{'Carleton University'}
+Improving Neural Language Modeling via Adversarial Training@@@Transformer Big + adversarial MLE,2,29.52,2019-06-10,"{'Microsoft', 'University of Science and Technology of China', 'Sun Yat-sen University', 'Peking University', 'University of Texas at Austin', 'University of Illinois at Urbana–Champaign'}"
+Scaling Neural Machine Translation@@@Transformer Big,3,29.3,2018-06-01,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Synchronous Bidirectional Neural Machine Translation@@@SB-NMT,17,29.21,2019-05-13,{'Chinese Academy of Sciences'}
+Self-Attention with Relative Position Representations@@@Transformer (big) + Relative Position Representations,1,29.2,2018-03-06,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+FRAGE: Frequency-Agnostic Word Representation@@@Transformer Big with FRAGE,2,29.11,2018-09-18,"{'Microsoft', 'University of Science and Technology of China', 'Sun Yat-sen University', 'Peking University', 'University of Texas at Austin', 'University of Illinois at Urbana–Champaign'}"
+Neural Machine Translation with Adequacy-Oriented Learning@@@adequacy-oriented NMT,4,28.99,2018-11-21,"{'Facebook', 'Carnegie Mellon University', 'Tencent'}"
+Weighted Transformer Network for Machine Translation@@@Weighted Transformer (large),18,28.9,2017-11-06,{'Northwestern University'}
+Universal Transformers@@@universal transformer base,1,28.9,2018-07-10,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+KERMIT: Generative Insertion-Based Modeling for Sequences@@@KERMIT,15+1,28.7,2019-06-04,"{'Google', 'University of California, Berkeley', 'University of Amsterdam', 'Jagiellonian University', 'University of Southern California'}"
+The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+,1,28.5,2018-04-26,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+Synthesizer: Rethinking Self-Attention in Transformer Models@@@Synthesizer (Random + Vanilla),6,28.47,2020-05-02,{'Google'}
+Attention Is All You Need@@@Transformer Big,1,28.4,2017-06-12,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+Simple Recurrent Units for Highly Parallelizable Recurrence@@@Transformer + SRU,10,28.4,2017-09-08,"{'Cornell University', 'Massachusetts Institute of Technology', 'Stanford University'}"
+The Evolved Transformer@@@Evolved Transformer Base,1,28.4,2019-01-30,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+Deep Residual Output Layers for Neural Language Generation@@@Transformer-DRILL Base,19,28.1,2019-05-14,{'Idiap Research Institute'}
+Incorporating a Local Translation Mechanism into Non-autoregressive Translation@@@CMLM+LAT+4 iterations,16,27.35,2020-11-12,{'Stanford University'}
+Attention Is All You Need@@@Transformer Base,1,27.3,2017-06-12,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+Convolutional Sequence to Sequence Learning@@@ConvS2S (ensemble),3,26.4,2017-05-08,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL,1,26.3,2016-09-26,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+Depthwise Separable Convolutions for Neural Machine Translation@@@SliceNet,1,26.1,2017-06-09,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer@@@MoE,1,26.03,2017-01-23,"{'University of Amsterdam', 'Jagiellonian University', 'University of Southern California', 'Google'}"
+Dense Information Flow for Neural Machine Translation@@@DenseNMT,2,25.52,2018-06-03,"{'Microsoft', 'University of Science and Technology of China', 'Sun Yat-sen University', 'Peking University', 'University of Texas at Austin', 'University of Illinois at Urbana–Champaign'}"
+Incorporating a Local Translation Mechanism into Non-autoregressive Translation@@@CMLM+LAT+1 iterations,16,25.20,2020-11-12,{'Stanford University'}
+Convolutional Sequence to Sequence Learning@@@ConvS2S,3,25.16,2017-05-08,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Neural Machine Translation in Linear Time@@@ByteNet,7,23.75,2016-10-31,set()
+FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow@@@FlowSeq-large (NPD n = 30),4,23.64,2019-09-05,"{'Facebook', 'Carnegie Mellon University', 'Tencent'}"
+FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow@@@FlowSeq-large (NPD n = 15),4,23.14,2019-09-05,"{'Facebook', 'Carnegie Mellon University', 'Tencent'}"
+FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow@@@FlowSeq-large (IWD n = 15),4,22.94,2019-09-05,"{'Facebook', 'Carnegie Mellon University', 'Tencent'}"
+Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement@@@Denoising autoencoders (non-autoregressive),20,21.54,2018-02-19,{'New York University'}
+Effective Approaches to Attention-based Neural Machine Translation@@@RNN Enc-Dec Att,16,20.9,2015-08-17,{'Stanford University'}
+FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow@@@FlowSeq-large,4,20.85,2019-09-05,"{'Facebook', 'Carnegie Mellon University', 'Tencent'}"
+@@@PBMT,,,,set()
+Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att,11,20.7,2016-06-14,{'Baidu'}
+Edinburgh's Syntax-Based Systems at WMT 2015@@@Phrase Based MT,8,20.7,2015-09-01,{'University of Edinburgh'}
+Phrase-Based & Neural Unsupervised Machine Translation@@@PBSMT + NMT,3,20.23,2018-04-20,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Non-Autoregressive Neural Machine Translation@@@NAT +FT + NPD,2,19.17,2017-11-07,"{'Microsoft', 'University of Science and Technology of China', 'Sun Yat-sen University', 'Peking University', 'University of Texas at Austin', 'University of Illinois at Urbana–Champaign'}"
+FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow@@@FlowSeq-base,4,18.55,2019-09-05,"{'Facebook', 'Carnegie Mellon University', 'Tencent'}"
+Sequence-Level Knowledge Distillation@@@Seq-KD + Seq-Inter + Word-KD,23,18.5,2016-06-25,{'Harvard University'}
+Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised PBSMT,3,17.94,2018-04-20,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Neural Semantic Encoders@@@NSE-NSE,24,17.9,2016-07-14,{'University of Massachusetts Medical School'}
+Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised NMT + Transformer,3,17.16,2018-04-20,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Unsupervised Statistical Machine Translation@@@SMT + iterative backtranslation (unsupervised),21,14.08,2018-09-04,{'University of the Basque Country'}
+Effective Approaches to Attention-based Neural Machine Translation@@@Reverse RNN Enc-Dec,16,14.0,2015-08-17,{'Stanford University'}
+Effective Approaches to Attention-based Neural Machine Translation@@@RNN Enc-Dec,16,11.3,2015-08-17,{'Stanford University'}
+Multi-branch Attentive Transformer@@@MAT,2,not available,2020-06-18,"{'Microsoft', 'University of Science and Technology of China', 'Sun Yat-sen University', 'Peking University', 'University of Texas at Austin', 'University of Illinois at Urbana–Champaign'}"

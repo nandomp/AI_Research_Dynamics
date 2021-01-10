@@ -1,0 +1,205 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Very Deep Transformers for Neural Machine Translation@@@Transformer+BT (ADMIN init)","Xiaodong Liu","Microsoft",2020-08-18,"46.4",2020
+"Very Deep Transformers for Neural Machine Translation@@@Transformer+BT (ADMIN init)","Kevin Duh","Microsoft",2020-08-18,"46.4",2020
+"Very Deep Transformers for Neural Machine Translation@@@Transformer+BT (ADMIN init)","Liyuan Liu","Johns Hopkins University",2020-08-18,"46.4",2020
+"Very Deep Transformers for Neural Machine Translation@@@Transformer+BT (ADMIN init)","Jianfeng Gao","University of Illinois at Urbana–Champaign",2020-08-18,"46.4",2020
+"Understanding Back-Translation at Scale@@@Noisy back-translation","Sergey Edunov","Facebook",2018-08-28,"45.6",2018
+"Understanding Back-Translation at Scale@@@Noisy back-translation","Myle Ott","Facebook",2018-08-28,"45.6",2018
+"Understanding Back-Translation at Scale@@@Noisy back-translation","Michael Auli","Microsoft",2018-08-28,"45.6",2018
+"Understanding Back-Translation at Scale@@@Noisy back-translation","David Grangier","Facebook",2018-08-28,"45.6",2018
+"Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information@@@mRASP+Fine-Tune","Zehui Lin","",2020-10-07,"44.3",2020
+"Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information@@@mRASP+Fine-Tune","Pan Xiao","",2020-10-07,"44.3",2020
+"Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information@@@mRASP+Fine-Tune","Mingxuan Wang","",2020-10-07,"44.3",2020
+"Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information@@@mRASP+Fine-Tune","Xipeng Qiu","",2020-10-07,"44.3",2020
+"Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information@@@mRASP+Fine-Tune","Jiangtao Feng","",2020-10-07,"44.3",2020
+"Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information@@@mRASP+Fine-Tune","Hao Zhou","Fudan University",2020-10-07,"44.3",2020
+"Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information@@@mRASP+Fine-Tune","Li Lei","Fudan University",2020-10-07,"44.3",2020
+"Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information@@@mRASP+Fine-Tune","Lei Li","Fudan University",2020-10-07,"44.3",2020
+"Very Deep Transformers for Neural Machine Translation@@@Transformer (ADMIN init)","Xiaodong Liu","Microsoft",2020-08-18,"43.8",2020
+"Very Deep Transformers for Neural Machine Translation@@@Transformer (ADMIN init)","Kevin Duh","Microsoft",2020-08-18,"43.8",2020
+"Very Deep Transformers for Neural Machine Translation@@@Transformer (ADMIN init)","Liyuan Liu","Johns Hopkins University",2020-08-18,"43.8",2020
+"Very Deep Transformers for Neural Machine Translation@@@Transformer (ADMIN init)","Jianfeng Gao","University of Illinois at Urbana–Champaign",2020-08-18,"43.8",2020
+"MUSE: Parallel Multi-Scale Attention for Sequence to Sequence Learning@@@MUSE(Paralllel Multi-scale Attention)","Guangxiang Zhao","",2019-11-17,"43.5",2019
+"MUSE: Parallel Multi-Scale Attention for Sequence to Sequence Learning@@@MUSE(Paralllel Multi-scale Attention)","Xu Sun","",2019-11-17,"43.5",2019
+"MUSE: Parallel Multi-Scale Attention for Sequence to Sequence Learning@@@MUSE(Paralllel Multi-scale Attention)","Jingjing Xu","",2019-11-17,"43.5",2019
+"MUSE: Parallel Multi-Scale Attention for Sequence to Sequence Learning@@@MUSE(Paralllel Multi-scale Attention)","Zhiyuan Zhang","",2019-11-17,"43.5",2019
+"MUSE: Parallel Multi-Scale Attention for Sequence to Sequence Learning@@@MUSE(Paralllel Multi-scale Attention)","Liangchen Luo","",2019-11-17,"43.5",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5","Colin Raffel","",2019-10-23,"43.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5","Noam Shazeer","",2019-10-23,"43.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5","Adam Roberts","",2019-10-23,"43.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5","Katherine Lee","",2019-10-23,"43.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5","Sharan Narang","",2019-10-23,"43.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5","Michael Matena","",2019-10-23,"43.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5","Yanqi Zhou","",2019-10-23,"43.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5","Wei Li","",2019-10-23,"43.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5","Peter J. Liu","",2019-10-23,"43.4",2019
+"Joint Source-Target Self Attention with Locality Constraints@@@Local Joint Self-attention","José A. Rodriguez-Fonollosa","Polytechnic University of Catalonia",2019-05-16,"43.3",2019
+"Joint Source-Target Self Attention with Locality Constraints@@@Local Joint Self-attention","José A. R. Fonollosa","Polytechnic University of Catalonia",2019-05-16,"43.3",2019
+"Joint Source-Target Self Attention with Locality Constraints@@@Local Joint Self-attention","Noe Casas","Polytechnic University of Catalonia",2019-05-16,"43.3",2019
+"Joint Source-Target Self Attention with Locality Constraints@@@Local Joint Self-attention","Marta R. Costa-jussà","Polytechnic University of Catalonia",2019-05-16,"43.3",2019
+"Depth Growing for Neural Machine Translation@@@Depth Growing","Lijun Wu","Sun Yat-sen University",2019-07-03,"43.27",2019
+"Depth Growing for Neural Machine Translation@@@Depth Growing","Yiren Wang","University of Illinois at Urbana–Champaign",2019-07-03,"43.27",2019
+"Depth Growing for Neural Machine Translation@@@Depth Growing","Yingce Xia","Microsoft",2019-07-03,"43.27",2019
+"Depth Growing for Neural Machine Translation@@@Depth Growing","Fei Tian","Microsoft",2019-07-03,"43.27",2019
+"Depth Growing for Neural Machine Translation@@@Depth Growing","Fei Gao","Microsoft",2019-07-03,"43.27",2019
+"Depth Growing for Neural Machine Translation@@@Depth Growing","Tao Qin","Microsoft",2019-07-03,"43.27",2019
+"Depth Growing for Neural Machine Translation@@@Depth Growing","Jianhuang Lai","Sun Yat-sen University",2019-07-03,"43.27",2019
+"Depth Growing for Neural Machine Translation@@@Depth Growing","Tie-Yan Liu","Microsoft",2019-07-03,"43.27",2019
+"Scaling Neural Machine Translation@@@Transformer Big","Myle Ott","",2018-06-01,"43.2",2018
+"Scaling Neural Machine Translation@@@Transformer Big","Sergey Edunov","",2018-06-01,"43.2",2018
+"Scaling Neural Machine Translation@@@Transformer Big","David Grangier","",2018-06-01,"43.2",2018
+"Scaling Neural Machine Translation@@@Transformer Big","Michael Auli","",2018-06-01,"43.2",2018
+"Time-aware Large Kernel Convolutions@@@TaLK Convolutions","Vasileios Lioutas","Carleton University",2020-02-08,"43.2",2020
+"Time-aware Large Kernel Convolutions@@@TaLK Convolutions","Yuhong Guo","Carleton University",2020-02-08,"43.2",2020
+"Pay Less Attention with Lightweight and Dynamic Convolutions@@@LightConv","Felix Wu","Cornell University",2019-01-29,"43.1",2019
+"Pay Less Attention with Lightweight and Dynamic Convolutions@@@LightConv","Angela Fan","Harvard University",2019-01-29,"43.1",2019
+"Pay Less Attention with Lightweight and Dynamic Convolutions@@@LightConv","Alexei Baevski","Facebook",2019-01-29,"43.1",2019
+"Pay Less Attention with Lightweight and Dynamic Convolutions@@@LightConv","Yann N. Dauphin","Google",2019-01-29,"43.1",2019
+"Pay Less Attention with Lightweight and Dynamic Convolutions@@@LightConv","Michael Auli","Facebook",2019-01-29,"43.1",2019
+"Fast and Simple Mixture of Softmaxes with BPE and Hybrid-LightRNN for Language Generation@@@Transformer Big + MoS","Xiang Kong","Carnegie Mellon University",2018-09-25,"42.1",2018
+"Fast and Simple Mixture of Softmaxes with BPE and Hybrid-LightRNN for Language Generation@@@Transformer Big + MoS","Qizhe Xie","Carnegie Mellon University",2018-09-25,"42.1",2018
+"Fast and Simple Mixture of Softmaxes with BPE and Hybrid-LightRNN for Language Generation@@@Transformer Big + MoS","Zihang Dai","Carnegie Mellon University",2018-09-25,"42.1",2018
+"Fast and Simple Mixture of Softmaxes with BPE and Hybrid-LightRNN for Language Generation@@@Transformer Big + MoS","Eduard Hovy","Carnegie Mellon University",2018-09-25,"42.1",2018
+"Synthesizer: Rethinking Self-Attention in Transformer Models@@@Synthesizer (Random + Vanilla)","Yi Tay","Google",2020-05-02,"41.85",2020
+"Synthesizer: Rethinking Self-Attention in Transformer Models@@@Synthesizer (Random + Vanilla)","Dara Bahri","Google",2020-05-02,"41.85",2020
+"Synthesizer: Rethinking Self-Attention in Transformer Models@@@Synthesizer (Random + Vanilla)","Donald Metzler","Google",2020-05-02,"41.85",2020
+"Synthesizer: Rethinking Self-Attention in Transformer Models@@@Synthesizer (Random + Vanilla)","Da-Cheng Juan","Google",2020-05-02,"41.85",2020
+"Synthesizer: Rethinking Self-Attention in Transformer Models@@@Synthesizer (Random + Vanilla)","Zhe Zhao","Google",2020-05-02,"41.85",2020
+"Synthesizer: Rethinking Self-Attention in Transformer Models@@@Synthesizer (Random + Vanilla)","Che Zheng","Google",2020-05-02,"41.85",2020
+"Self-Attention with Relative Position Representations@@@Transformer (big) + Relative Position Representations","Peter Shaw","Google",2018-03-06,"41.5",2018
+"Self-Attention with Relative Position Representations@@@Transformer (big) + Relative Position Representations","Jakob Uszkoreit","Google",2018-03-06,"41.5",2018
+"Self-Attention with Relative Position Representations@@@Transformer (big) + Relative Position Representations","Ashish Vaswani","Google",2018-03-06,"41.5",2018
+"Weighted Transformer Network for Machine Translation@@@Weighted Transformer (large)","Karim Ahmed","",2017-11-06,"41.4",2017
+"Weighted Transformer Network for Machine Translation@@@Weighted Transformer (large)","Nitish Shirish Keskar","Northwestern University",2017-11-06,"41.4",2017
+"Weighted Transformer Network for Machine Translation@@@Weighted Transformer (large)","Richard Socher","",2017-11-06,"41.4",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S (ensemble)","Jonas Gehring","Facebook",2017-05-08,"41.3",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S (ensemble)","Michael Auli","Facebook",2017-05-08,"41.3",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S (ensemble)","David Grangier","Facebook",2017-05-08,"41.3",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S (ensemble)","Denis Yarats","Facebook",2017-05-08,"41.3",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S (ensemble)","Yann N. Dauphin","Facebook",2017-05-08,"41.3",2017
+"The Evolved Transformer@@@Evolved Transformer Big","David R. So","Google",2019-01-30,"41.3",2019
+"The Evolved Transformer@@@Evolved Transformer Big","Quoc V. Le","Google",2019-01-30,"41.3",2019
+"The Evolved Transformer@@@Evolved Transformer Big","Chen Liang","Google",2019-01-30,"41.3",2019
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Mia Xu Chen","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Orhan Firat","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Ankur Bapna","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Melvin Johnson","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Wolfgang Macherey","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","George Foster","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Llion Jones","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Mike Schuster Atr","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Mike Schuster","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Noam Shazeer","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Niki Parmar","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Yonghui Wu","Google",2018-04-26,"41.0",2018
+"The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+","Macduff Hughes","Google",2018-04-26,"41.0",2018
+"Attention Is All You Need@@@Transformer Big","Ashish Vaswani","Google",2017-06-12,"41.0",2017
+"Attention Is All You Need@@@Transformer Big","Noam Shazeer","Google",2017-06-12,"41.0",2017
+"Attention Is All You Need@@@Transformer Big","Niki Parmar","University of Southern California",2017-06-12,"41.0",2017
+"Attention Is All You Need@@@Transformer Big","Jakob Uszkoreit","Google",2017-06-12,"41.0",2017
+"Attention Is All You Need@@@Transformer Big","Llion Jones","Google",2017-06-12,"41.0",2017
+"Attention Is All You Need@@@Transformer Big","Aidan N. Gomez","University of Oxford",2017-06-12,"41.0",2017
+"Attention Is All You Need@@@Transformer Big","Lukasz Kaiser","Google",2017-06-12,"41.0",2017
+"Attention Is All You Need@@@Transformer Big","Lukasz Kaiser","Google",2017-06-12,"41.0",2017
+"Attention Is All You Need@@@Transformer Big","Illia Polosukhin","Google",2017-06-12,"41.0",2017
+"The Evolved Transformer@@@Evolved Transformer Base","David R. So","Google",2019-01-30,"40.6",2019
+"The Evolved Transformer@@@Evolved Transformer Base","Quoc V. Le","Google",2019-01-30,"40.6",2019
+"The Evolved Transformer@@@Evolved Transformer Base","Chen Liang","Google",2019-01-30,"40.6",2019
+"Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer@@@MoE","Noam Shazeer","Google",2017-01-23,"40.56",2017
+"Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer@@@MoE","Azalia Mirhoseini","Google",2017-01-23,"40.56",2017
+"Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer@@@MoE","Krzysztof Maziarz","Jagiellonian University",2017-01-23,"40.56",2017
+"Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer@@@MoE","Andy Davis","Google",2017-01-23,"40.56",2017
+"Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer@@@MoE","Quoc V. Le","Google",2017-01-23,"40.56",2017
+"Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer@@@MoE","Geoffrey E. Hinton","Google",2017-01-23,"40.56",2017
+"Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer@@@MoE","Jeffrey Dean","Google",2017-01-23,"40.56",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S","Jonas Gehring","Facebook",2017-05-08,"40.46",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S","Michael Auli","Facebook",2017-05-08,"40.46",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S","David Grangier","Facebook",2017-05-08,"40.46",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S","Denis Yarats","Facebook",2017-05-08,"40.46",2017
+"Convolutional Sequence to Sequence Learning@@@ConvS2S","Yann N. Dauphin","Facebook",2017-05-08,"40.46",2017
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Yonghui Wu","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Mike Schuster Atr","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Mike Schuster","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Zhifeng Chen","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Quoc V. Le","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Mohammad Norouzi","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Wolfgang Macherey","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Maxim Krikun","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Yuan Cao","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Qin Gao","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Klaus Macherey","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Macduff Hughes","",2016-09-26,"39.9",2016
+"Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL","Jeffrey Dean","",2016-09-26,"39.9",2016
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att + PosUnk","Jie Zhou","Baidu",2016-06-14,"39.2",2016
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att + PosUnk","Ying Cao","Baidu",2016-06-14,"39.2",2016
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att + PosUnk","Xuguang Wang","Baidu",2016-06-14,"39.2",2016
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att + PosUnk","Peng Li","Baidu",2016-06-14,"39.2",2016
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att + PosUnk","Wei Xu","Baidu",2016-06-14,"39.2",2016
+"Attention Is All You Need@@@Transformer Base","Ashish Vaswani","Google",2017-06-12,"38.1",2017
+"Attention Is All You Need@@@Transformer Base","Noam Shazeer","Google",2017-06-12,"38.1",2017
+"Attention Is All You Need@@@Transformer Base","Niki Parmar","University of Southern California",2017-06-12,"38.1",2017
+"Attention Is All You Need@@@Transformer Base","Jakob Uszkoreit","Google",2017-06-12,"38.1",2017
+"Attention Is All You Need@@@Transformer Base","Llion Jones","Google",2017-06-12,"38.1",2017
+"Attention Is All You Need@@@Transformer Base","Aidan N. Gomez","University of Oxford",2017-06-12,"38.1",2017
+"Attention Is All You Need@@@Transformer Base","Lukasz Kaiser","Google",2017-06-12,"38.1",2017
+"Attention Is All You Need@@@Transformer Base","Lukasz Kaiser","Google",2017-06-12,"38.1",2017
+"Attention Is All You Need@@@Transformer Base","Illia Polosukhin","Google",2017-06-12,"38.1",2017
+"Addressing the Rare Word Problem in Neural Machine Translation@@@LSTM6 + PosUnk","Thang Luong","Stanford University",2014-10-30,"37.5",2014
+"Addressing the Rare Word Problem in Neural Machine Translation@@@LSTM6 + PosUnk","Ilya Sutskever","Google",2014-10-30,"37.5",2014
+"Addressing the Rare Word Problem in Neural Machine Translation@@@LSTM6 + PosUnk","Quoc V. Le","Google",2014-10-30,"37.5",2014
+"Addressing the Rare Word Problem in Neural Machine Translation@@@LSTM6 + PosUnk","Oriol Vinyals","Google",2014-10-30,"37.5",2014
+"Addressing the Rare Word Problem in Neural Machine Translation@@@LSTM6 + PosUnk","Wojciech Zaremba","Facebook",2014-10-30,"37.5",2014
+"@@@PBMT","","",NA,"37",NA
+"Sequence to Sequence Learning with Neural Networks@@@SMT+LSTM5","Ilya Sutskever","Google",2014-09-10,"36.5",2014
+"Sequence to Sequence Learning with Neural Networks@@@SMT+LSTM5","Oriol Vinyals","Google",2014-09-10,"36.5",2014
+"Sequence to Sequence Learning with Neural Networks@@@SMT+LSTM5","Quoc V. Le","Google",2014-09-10,"36.5",2014
+"Neural Machine Translation by Jointly Learning to Align and Translate@@@RNN-search50*","Dzmitry Bahdanau","Jacobs University Bremen",2014-09-01,"36.2",2014
+"Neural Machine Translation by Jointly Learning to Align and Translate@@@RNN-search50*","Kyunghyun Cho","Université de Montréal",2014-09-01,"36.2",2014
+"Neural Machine Translation by Jointly Learning to Align and Translate@@@RNN-search50*","Yoshua Bengio","Université de Montréal",2014-09-01,"36.2",2014
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att","Jie Zhou","Baidu",2016-06-14,"35.9",2016
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att","Ying Cao","Baidu",2016-06-14,"35.9",2016
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att","Xuguang Wang","Baidu",2016-06-14,"35.9",2016
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att","Peng Li","Baidu",2016-06-14,"35.9",2016
+"Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att","Wei Xu","Baidu",2016-06-14,"35.9",2016
+"A Convolutional Encoder Model for Neural Machine Translation@@@Deep Convolutional Encoder; single-layer decoder","Jonas Gehring","Facebook",2016-11-07,"35.7",2016
+"A Convolutional Encoder Model for Neural Machine Translation@@@Deep Convolutional Encoder; single-layer decoder","Michael Auli","Facebook",2016-11-07,"35.7",2016
+"A Convolutional Encoder Model for Neural Machine Translation@@@Deep Convolutional Encoder; single-layer decoder","David Grangier","Facebook",2016-11-07,"35.7",2016
+"A Convolutional Encoder Model for Neural Machine Translation@@@Deep Convolutional Encoder; single-layer decoder","Yann N. Dauphin","Facebook",2016-11-07,"35.7",2016
+"Sequence to Sequence Learning with Neural Networks@@@LSTM","Ilya Sutskever","Google",2014-09-10,"34.8",2014
+"Sequence to Sequence Learning with Neural Networks@@@LSTM","Oriol Vinyals","Google",2014-09-10,"34.8",2014
+"Sequence to Sequence Learning with Neural Networks@@@LSTM","Quoc V. Le","Google",2014-09-10,"34.8",2014
+"Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation@@@CSLM + RNN + WP","Kyunghyun Cho","Université de Montréal",2014-06-03,"34.54",2014
+"Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation@@@CSLM + RNN + WP","Bart van Merriënboer","Université de Montréal",2014-06-03,"34.54",2014
+"Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation@@@CSLM + RNN + WP","Caglar Gulcehre","Université de Montréal",2014-06-03,"34.54",2014
+"Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation@@@CSLM + RNN + WP","Dzmitry Bahdanau","",2014-06-03,"34.54",2014
+"Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation@@@CSLM + RNN + WP","Fethi Bougares","",2014-06-03,"34.54",2014
+"Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation@@@CSLM + RNN + WP","Holger Schwenk","",2014-06-03,"34.54",2014
+"Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation@@@CSLM + RNN + WP","Yoshua Bengio","École Polytechnique de Montréal",2014-06-03,"34.54",2014
+"Recurrent Neural Network Regularization@@@Regularized LSTM","Wojciech Zaremba","",2014-09-08,"29.03",2014
+"Recurrent Neural Network Regularization@@@Regularized LSTM","Ilya Sutskever","",2014-09-08,"29.03",2014
+"Recurrent Neural Network Regularization@@@Regularized LSTM","Oriol Vinyals","",2014-09-08,"29.03",2014
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised PBSMT","Guillaume Lample","Facebook",2018-04-20,"28.11",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised PBSMT","Myle Ott","Facebook",2018-04-20,"28.11",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised PBSMT","Alexis Conneau","Facebook",2018-04-20,"28.11",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised PBSMT","Ludovic Denoyer","Facebook",2018-04-20,"28.11",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised PBSMT","Marc'Aurelio Ranzato","Facebook",2018-04-20,"28.11",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@PBSMT + NMT","Guillaume Lample","Facebook",2018-04-20,"27.6",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@PBSMT + NMT","Myle Ott","Facebook",2018-04-20,"27.6",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@PBSMT + NMT","Alexis Conneau","Facebook",2018-04-20,"27.6",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@PBSMT + NMT","Ludovic Denoyer","Facebook",2018-04-20,"27.6",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@PBSMT + NMT","Marc'Aurelio Ranzato","Facebook",2018-04-20,"27.6",2018
+"Can Active Memory Replace Attention?@@@GRU+Attention","Lukasz Kaiser","Google",2016-10-27,"26.4",2016
+"Can Active Memory Replace Attention?@@@GRU+Attention","Samy Bengio","Google",2016-10-27,"26.4",2016
+"Unsupervised Statistical Machine Translation@@@SMT + iterative backtranslation (unsupervised)","Mikel Artetxe","University of the Basque Country",2018-09-04,"26.22",2018
+"Unsupervised Statistical Machine Translation@@@SMT + iterative backtranslation (unsupervised)","Gorka Labaka","University of the Basque Country",2018-09-04,"26.22",2018
+"Unsupervised Statistical Machine Translation@@@SMT + iterative backtranslation (unsupervised)","Eneko Agirre","University of the Basque Country",2018-09-04,"26.22",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised NMT + Transformer","Guillaume Lample","Facebook",2018-04-20,"25.14",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised NMT + Transformer","Myle Ott","Facebook",2018-04-20,"25.14",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised NMT + Transformer","Alexis Conneau","Facebook",2018-04-20,"25.14",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised NMT + Transformer","Ludovic Denoyer","Facebook",2018-04-20,"25.14",2018
+"Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised NMT + Transformer","Marc'Aurelio Ranzato","Facebook",2018-04-20,"25.14",2018
+"Unsupervised Neural Machine Translation@@@Unsupervised attentional encoder-decoder + BPE","Guillaume Lample","Facebook",2017-10-30,"14.36",2017
+"Unsupervised Neural Machine Translation@@@Unsupervised attentional encoder-decoder + BPE","Myle Ott","Facebook",2017-10-30,"14.36",2017
+"Unsupervised Neural Machine Translation@@@Unsupervised attentional encoder-decoder + BPE","Alexis Conneau","Facebook",2017-10-30,"14.36",2017
+"Unsupervised Neural Machine Translation@@@Unsupervised attentional encoder-decoder + BPE","Ludovic Denoyer","Facebook",2017-10-30,"14.36",2017
+"Unsupervised Neural Machine Translation@@@Unsupervised attentional encoder-decoder + BPE","Marc'Aurelio Ranzato","Facebook",2017-10-30,"14.36",2017

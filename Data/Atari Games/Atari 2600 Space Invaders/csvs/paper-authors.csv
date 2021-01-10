@@ -1,0 +1,253 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Julian Schrittwieser","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Ioannis Antonoglou","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Thomas Hubert","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Karen Simonyan","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Laurent Sifre","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Simon Schmitt","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Arthur Guez","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Edward Lockhart","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Demis Hassabis","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Thore Graepel","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","Timothy P. Lillicrap","",2019-11-19,"74335.30",2019
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero","David Silver","",2019-11-19,"74335.30",2019
+"Distributed Prioritized Experience Replay@@@Ape-X","Dan Horgan","Google",2018-03-02,"54681",2018
+"Distributed Prioritized Experience Replay@@@Ape-X","John Quan","Google",2018-03-02,"54681",2018
+"Distributed Prioritized Experience Replay@@@Ape-X","David Budden","Google",2018-03-02,"54681",2018
+"Distributed Prioritized Experience Replay@@@Ape-X","Gabriel Barth-Maron","Google",2018-03-02,"54681",2018
+"Distributed Prioritized Experience Replay@@@Ape-X","Matteo Hessel","Google",2018-03-02,"54681",2018
+"Distributed Prioritized Experience Replay@@@Ape-X","H Van Hasselt","Google",2018-03-02,"54681",2018
+"Distributed Prioritized Experience Replay@@@Ape-X","Hado van Hasselt","Google",2018-03-02,"54681",2018
+"Distributed Prioritized Experience Replay@@@Ape-X","David Silver","Google",2018-03-02,"54681",2018
+"Agent57: Outperforming the Atari Human Benchmark@@@Agent57","Adrià Puigdomènech Badia","Google",2020-03-30,"48680.86",2020
+"Agent57: Outperforming the Atari Human Benchmark@@@Agent57","Bilal Piot","",2020-03-30,"48680.86",2020
+"Agent57: Outperforming the Atari Human Benchmark@@@Agent57","Steven Kapturowski","",2020-03-30,"48680.86",2020
+"Agent57: Outperforming the Atari Human Benchmark@@@Agent57","Pablo Sprechmann","",2020-03-30,"48680.86",2020
+"Agent57: Outperforming the Atari Human Benchmark@@@Agent57","Alex Vitvitskyi","",2020-03-30,"48680.86",2020
+"Agent57: Outperforming the Atari Human Benchmark@@@Agent57","Daniel Guo","",2020-03-30,"48680.86",2020
+"Agent57: Outperforming the Atari Human Benchmark@@@Agent57","Charles Blundell","",2020-03-30,"48680.86",2020
+"Fully Parameterized Quantile Function for Distributional Reinforcement Learning@@@FQF","Derek C Yang","University of California, San Diego",2019-11-05,"46498.3",2019
+"Fully Parameterized Quantile Function for Distributional Reinforcement Learning@@@FQF","Li Zhao","Microsoft",2019-11-05,"46498.3",2019
+"Fully Parameterized Quantile Function for Distributional Reinforcement Learning@@@FQF","Zichuan Lin","Tsinghua University",2019-11-05,"46498.3",2019
+"Fully Parameterized Quantile Function for Distributional Reinforcement Learning@@@FQF","Tao Qin","Microsoft",2019-11-05,"46498.3",2019
+"Fully Parameterized Quantile Function for Distributional Reinforcement Learning@@@FQF","Jiang Bian","Microsoft",2019-11-05,"46498.3",2019
+"Fully Parameterized Quantile Function for Distributional Reinforcement Learning@@@FQF","Tie-Yan Liu","Microsoft",2019-11-05,"46498.3",2019
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Lasse Espeholt","",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Hubert Soyer","",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Rémi Munos","",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Karen Simonyan","",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Vlad Mnih","Google",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Volodymyr Mnih","Google",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Tom Ward","",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Yotam Doron","",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Vlad Firoiu","Google",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Tim Harley","",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Iain Dunning","Google",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Shane Legg","",2018-02-05,"43595.78",2018
+"IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep)","Koray Kavukcuoglu","",2018-02-05,"43595.78",2018
+"Recurrent Experience Replay in Distributed Reinforcement Learning@@@R2D2","Steven Kapturowski","",2019-05-01,"43223.4",2019
+"Recurrent Experience Replay in Distributed Reinforcement Learning@@@R2D2","Georg Ostrovski","Google",2019-05-01,"43223.4",2019
+"Recurrent Experience Replay in Distributed Reinforcement Learning@@@R2D2","John Quan","Google",2019-05-01,"43223.4",2019
+"Recurrent Experience Replay in Distributed Reinforcement Learning@@@R2D2","Rémi Munos","Google",2019-05-01,"43223.4",2019
+"Recurrent Experience Replay in Distributed Reinforcement Learning@@@R2D2","Will Dabney","Google",2019-05-01,"43223.4",2019
+"Implicit Quantile Networks for Distributional Reinforcement Learning@@@IQN","Will Dabney","",2018-06-14,"28888",2018
+"Implicit Quantile Networks for Distributional Reinforcement Learning@@@IQN","Georg Ostrovski","Google",2018-06-14,"28888",2018
+"Implicit Quantile Networks for Distributional Reinforcement Learning@@@IQN","David Silver","Google",2018-06-14,"28888",2018
+"Implicit Quantile Networks for Distributional Reinforcement Learning@@@IQN","Rémi Munos","",2018-06-14,"28888",2018
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C LSTM hs","Volodymyr Mnih","Google",2016-02-04,"23846.0",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C LSTM hs","Adrià Puigdomènech Badia","Google",2016-02-04,"23846.0",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C LSTM hs","Mehdi Mirza","Université de Montréal",2016-02-04,"23846.0",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C LSTM hs","Alex Graves","Google",2016-02-04,"23846.0",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C LSTM hs","Tim Harley","Google",2016-02-04,"23846.0",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C LSTM hs","Timothy P. Lillicrap","Google",2016-02-04,"23846.0",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C LSTM hs","David Silver","Google",2016-02-04,"23846.0",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C LSTM hs","Koray Kavukcuoglu","Google",2016-02-04,"23846.0",2016
+"Distributional Reinforcement Learning with Quantile Regression@@@QR-DQN-1","Will Dabney","Google",2017-10-27,"20972",2017
+"Distributional Reinforcement Learning with Quantile Regression@@@QR-DQN-1","Mark Rowland","University of Cambridge",2017-10-27,"20972",2017
+"Distributional Reinforcement Learning with Quantile Regression@@@QR-DQN-1","Marc G. Bellemare","Google",2017-10-27,"20972",2017
+"Distributional Reinforcement Learning with Quantile Regression@@@QR-DQN-1","Rémi Munos","Google",2017-10-27,"20972",2017
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF hs","Volodymyr Mnih","Google",2016-02-04,"15730.5",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF hs","Adrià Puigdomènech Badia","Google",2016-02-04,"15730.5",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF hs","Mehdi Mirza","Université de Montréal",2016-02-04,"15730.5",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF hs","Alex Graves","Google",2016-02-04,"15730.5",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF hs","Tim Harley","Google",2016-02-04,"15730.5",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF hs","Timothy P. Lillicrap","Google",2016-02-04,"15730.5",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF hs","David Silver","Google",2016-02-04,"15730.5",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF hs","Koray Kavukcuoglu","Google",2016-02-04,"15730.5",2016
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Prior+Duel noop","Ziyu Wang","Google",2015-11-20,"15311.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Prior+Duel noop","Tom Schaul","Google",2015-11-20,"15311.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Prior+Duel noop","Matteo Hessel","Google",2015-11-20,"15311.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Prior+Duel noop","H Van Hasselt","Google",2015-11-20,"15311.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Prior+Duel noop","Hado van Hasselt","Google",2015-11-20,"15311.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Prior+Duel noop","Marc Lanctot","Google",2015-11-20,"15311.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Prior+Duel noop","Nando de Freitas","Google",2015-11-20,"15311.5",2015
+"Deep Reinforcement Learning with Double Q-learning@@@Prior+Duel hs","H Van Hasselt","Google",2015-09-22,"8978.0",2015
+"Deep Reinforcement Learning with Double Q-learning@@@Prior+Duel hs","Hado van Hasselt","Google",2015-09-22,"8978.0",2015
+"Deep Reinforcement Learning with Double Q-learning@@@Prior+Duel hs","Arthur Guez","Google",2015-09-22,"8978.0",2015
+"Deep Reinforcement Learning with Double Q-learning@@@Prior+Duel hs","David Silver","Google",2015-09-22,"8978.0",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel noop","Ziyu Wang","Google",2015-11-20,"6427.3",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel noop","Tom Schaul","Google",2015-11-20,"6427.3",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel noop","Matteo Hessel","Google",2015-11-20,"6427.3",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel noop","H Van Hasselt","Google",2015-11-20,"6427.3",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel noop","Hado van Hasselt","Google",2015-11-20,"6427.3",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel noop","Marc Lanctot","Google",2015-11-20,"6427.3",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel noop","Nando de Freitas","Google",2015-11-20,"6427.3",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel hs","Ziyu Wang","Google",2015-11-20,"5993.1",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel hs","Tom Schaul","Google",2015-11-20,"5993.1",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel hs","Matteo Hessel","Google",2015-11-20,"5993.1",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel hs","H Van Hasselt","Google",2015-11-20,"5993.1",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel hs","Hado van Hasselt","Google",2015-11-20,"5993.1",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel hs","Marc Lanctot","Google",2015-11-20,"5993.1",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@Duel hs","Nando de Freitas","Google",2015-11-20,"5993.1",2015
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Meire Fortunato","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Mohammad Gheshlaghi Azar","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Bilal Piot","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Jacob Menick","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Ian Osband","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Alex Graves","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Vlad Mnih","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Rémi Munos","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Demis Hassabis","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Olivier Pietquin","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Charles Blundell","",2017-06-30,"5909",2017
+"Noisy Networks for Exploration@@@NoisyNet-Dueling","Shane Legg","",2017-06-30,"5909",2017
+"A Distributional Perspective on Reinforcement Learning@@@C51 noop","Marc G. Bellemare","Google",2017-07-21,"5747.0",2017
+"A Distributional Perspective on Reinforcement Learning@@@C51 noop","Will Dabney","Google",2017-07-21,"5747.0",2017
+"A Distributional Perspective on Reinforcement Learning@@@C51 noop","Rémi Munos","Google",2017-07-21,"5747.0",2017
+"Prioritized Experience Replay@@@Prior hs","Tom Schaul","Google",2015-11-18,"3912.1",2015
+"Prioritized Experience Replay@@@Prior hs","John Quan","Google",2015-11-18,"3912.1",2015
+"Prioritized Experience Replay@@@Prior hs","Ioannis Antonoglou","Google",2015-11-18,"3912.1",2015
+"Prioritized Experience Replay@@@Prior hs","David Silver","Google",2015-11-18,"3912.1",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Advantage Learning","Marc G. Bellemare","Google",2015-12-15,"3460.79",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Advantage Learning","Georg Ostrovski","Google",2015-12-15,"3460.79",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Advantage Learning","Arthur Guez","Google",2015-12-15,"3460.79",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Advantage Learning","Philip S. Thomas","Carnegie Mellon University",2015-12-15,"3460.79",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Advantage Learning","Rémi Munos","Google",2015-12-15,"3460.79",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Persistent AL","Marc G. Bellemare","Google",2015-12-15,"3277.59",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Persistent AL","Georg Ostrovski","Google",2015-12-15,"3277.59",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Persistent AL","Arthur Guez","Google",2015-12-15,"3277.59",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Persistent AL","Philip S. Thomas","Carnegie Mellon University",2015-12-15,"3277.59",2015
+"Increasing the Action Gap: New Operators for Reinforcement Learning@@@Persistent AL","Rémi Munos","Google",2015-12-15,"3277.59",2015
+"Self-Imitation Learning@@@A2C + SIL","Xin Wang","University of California, Santa Barbara",2018-06-14,"2951.7",2018
+"Self-Imitation Learning@@@A2C + SIL","Qiuyuan Huang","Microsoft",2018-06-14,"2951.7",2018
+"Self-Imitation Learning@@@A2C + SIL","Asli Celikyilmaz","Microsoft",2018-06-14,"2951.7",2018
+"Self-Imitation Learning@@@A2C + SIL","Jianfeng Gao","Microsoft",2018-06-14,"2951.7",2018
+"Self-Imitation Learning@@@A2C + SIL","Dinghan Shen","Duke University",2018-06-14,"2951.7",2018
+"Self-Imitation Learning@@@A2C + SIL","Yuan-Fang Wang","University of California, Santa Barbara",2018-06-14,"2951.7",2018
+"Self-Imitation Learning@@@A2C + SIL","William Yang Wang","University of California, Santa Barbara",2018-06-14,"2951.7",2018
+"Self-Imitation Learning@@@A2C + SIL","Lei Zhang","Microsoft",2018-06-14,"2951.7",2018
+"Deep Exploration via Bootstrapped DQN@@@Bootstrapped DQN","Ian Osband","Stanford University",2016-02-15,"2893",2016
+"Deep Exploration via Bootstrapped DQN@@@Bootstrapped DQN","Charles Blundell","Google",2016-02-15,"2893",2016
+"Deep Exploration via Bootstrapped DQN@@@Bootstrapped DQN","Alexander Pritzel","Google",2016-02-15,"2893",2016
+"Deep Exploration via Bootstrapped DQN@@@Bootstrapped DQN","Benjamin Van Roy","Stanford University",2016-02-15,"2893",2016
+"Prioritized Experience Replay@@@Prior noop","Tom Schaul","Google",2015-11-18,"2865.8",2015
+"Prioritized Experience Replay@@@Prior noop","John Quan","Google",2015-11-18,"2865.8",2015
+"Prioritized Experience Replay@@@Prior noop","Ioannis Antonoglou","Google",2015-11-18,"2865.8",2015
+"Prioritized Experience Replay@@@Prior noop","David Silver","Google",2015-11-18,"2865.8",2015
+"The Arcade Learning Environment: An Evaluation Platform for General Agents@@@UCT","Marc G. Bellemare","University of Alberta",2012-07-19,"2718",2012
+"The Arcade Learning Environment: An Evaluation Platform for General Agents@@@UCT","Yavar Naddaf","",2012-07-19,"2718",2012
+"The Arcade Learning Environment: An Evaluation Platform for General Agents@@@UCT","Joel Veness","University of Alberta",2012-07-19,"2718",2012
+"The Arcade Learning Environment: An Evaluation Platform for General Agents@@@UCT","Michael Bowling","University of Alberta",2012-07-19,"2718",2012
+"Deep Reinforcement Learning with Double Q-learning@@@DDQN (tuned) hs","H Van Hasselt","Google",2015-09-22,"2628.7",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DDQN (tuned) hs","Hado van Hasselt","Google",2015-09-22,"2628.7",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DDQN (tuned) hs","Arthur Guez","Google",2015-09-22,"2628.7",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DDQN (tuned) hs","David Silver","Google",2015-09-22,"2628.7",2015
+"Learning values across many orders of magnitude@@@DDQN+Pop-Art noop","Hado van Hasselt","Google",2016-02-24,"2589.7",2016
+"Learning values across many orders of magnitude@@@DDQN+Pop-Art noop","H Van Hasselt","Google",2016-02-24,"2589.7",2016
+"Learning values across many orders of magnitude@@@DDQN+Pop-Art noop","Arthur Guez","Google",2016-02-24,"2589.7",2016
+"Learning values across many orders of magnitude@@@DDQN+Pop-Art noop","Matteo Hessel","Google",2016-02-24,"2589.7",2016
+"Learning values across many orders of magnitude@@@DDQN+Pop-Art noop","Volodymyr Mnih","Google",2016-02-24,"2589.7",2016
+"Learning values across many orders of magnitude@@@DDQN+Pop-Art noop","David Silver","Google",2016-02-24,"2589.7",2016
+"Dueling Network Architectures for Deep Reinforcement Learning@@@DDQN (tuned) noop","Ziyu Wang","Google",2015-11-20,"2525.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@DDQN (tuned) noop","Tom Schaul","Google",2015-11-20,"2525.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@DDQN (tuned) noop","Matteo Hessel","Google",2015-11-20,"2525.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@DDQN (tuned) noop","H Van Hasselt","Google",2015-11-20,"2525.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@DDQN (tuned) noop","Hado van Hasselt","Google",2015-11-20,"2525.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@DDQN (tuned) noop","Marc Lanctot","Google",2015-11-20,"2525.5",2015
+"Dueling Network Architectures for Deep Reinforcement Learning@@@DDQN (tuned) noop","Nando de Freitas","Google",2015-11-20,"2525.5",2015
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF (1 day) hs","Volodymyr Mnih","Google",2016-02-04,"2214.7",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF (1 day) hs","Adrià Puigdomènech Badia","Google",2016-02-04,"2214.7",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF (1 day) hs","Mehdi Mirza","Université de Montréal",2016-02-04,"2214.7",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF (1 day) hs","Alex Graves","Google",2016-02-04,"2214.7",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF (1 day) hs","Tim Harley","Google",2016-02-04,"2214.7",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF (1 day) hs","Timothy P. Lillicrap","Google",2016-02-04,"2214.7",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF (1 day) hs","David Silver","Google",2016-02-04,"2214.7",2016
+"Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF (1 day) hs","Koray Kavukcuoglu","Google",2016-02-04,"2214.7",2016
+"Mastering Atari with Discrete World Models@@@DreamerV2","Danijar Hafner","",2020-10-05,"2112",2020
+"Mastering Atari with Discrete World Models@@@DreamerV2","Timothy P. Lillicrap","",2020-10-05,"2112",2020
+"Mastering Atari with Discrete World Models@@@DreamerV2","Mohammad Norouzi","",2020-10-05,"2112",2020
+"Mastering Atari with Discrete World Models@@@DreamerV2","Jimmy Ba","",2020-10-05,"2112",2020
+"Model-Free Episodic Control with State Aggregation@@@MFEC","Rafael Pinto","Federal Institute of Rio Grande do Sul",2020-08-21,"1990",2020
+"@@@Nature DQN","","",NA,"1976.0",NA
+"Deep Reinforcement Learning with Double Q-learning@@@DQN noop","H Van Hasselt","Google",2015-09-22,"1692.3",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DQN noop","Hado van Hasselt","Google",2015-09-22,"1692.3",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DQN noop","Arthur Guez","Google",2015-09-22,"1692.3",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DQN noop","David Silver","Google",2015-09-22,"1692.3",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DQN hs","H Van Hasselt","Google",2015-09-22,"1293.8",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DQN hs","Hado van Hasselt","Google",2015-09-22,"1293.8",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DQN hs","Arthur Guez","Google",2015-09-22,"1293.8",2015
+"Deep Reinforcement Learning with Double Q-learning@@@DQN hs","David Silver","Google",2015-09-22,"1293.8",2015
+"Policy Optimization With Penalized Point Probability Distance: An Alternative To Proximal Policy Optimization@@@POP3D","Xiangxiang Chu","Xiaomi",2018-07-02,"1216.15",2018
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Arun Nair","Google",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Praveen Srinivasan","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Sam Blackwell","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Cagdas Alcicek","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Rory Fearon","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Alessandro De Maria","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Vedavyas Panneershelvam","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Mustafa Suleyman","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Charles Beattie","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Stig Petersen","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","Koray Kavukcuoglu","",2015-07-15,"1183.3",2015
+"Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila","David Silver","",2015-07-15,"1183.3",2015
+"Mean Actor Critic@@@MAC","Kamil Ciosek","Microsoft",2017-09-01,"1173.1",2017
+"Mean Actor Critic@@@MAC","Quan Vuong","University of California, San Diego",2017-09-01,"1173.1",2017
+"Mean Actor Critic@@@MAC","Robert Loftin","Microsoft",2017-09-01,"1173.1",2017
+"Mean Actor Critic@@@MAC","Katja Hofmann","Microsoft",2017-09-01,"1173.1",2017
+"Playing Atari with Deep Reinforcement Learning@@@DQN Best","Volodymyr Mnih","",2013-12-19,"1075",2013
+"Playing Atari with Deep Reinforcement Learning@@@DQN Best","Koray Kavukcuoglu","",2013-12-19,"1075",2013
+"Playing Atari with Deep Reinforcement Learning@@@DQN Best","David Silver","",2013-12-19,"1075",2013
+"Playing Atari with Deep Reinforcement Learning@@@DQN Best","Alex Graves","",2013-12-19,"1075",2013
+"Playing Atari with Deep Reinforcement Learning@@@DQN Best","Ioannis Antonoglou","",2013-12-19,"1075",2013
+"Playing Atari with Deep Reinforcement Learning@@@DQN Best","Daan Wierstra","",2013-12-19,"1075",2013
+"Playing Atari with Deep Reinforcement Learning@@@DQN Best","Martin Riedmiller","",2013-12-19,"1075",2013
+"Evolving simple programs for playing Atari games@@@CGP","Dennis G. Wilson","University of Toulouse",2018-06-14,"1001",2018
+"Evolving simple programs for playing Atari games@@@CGP","Sylvain Cussat-Blanc","University of Toulouse",2018-06-14,"1001",2018
+"Evolving simple programs for playing Atari games@@@CGP","Hervé Luga","University of Toulouse",2018-06-14,"1001",2018
+"Evolving simple programs for playing Atari games@@@CGP","Julian F. Miller","University of York",2018-06-14,"1001",2018
+"Playing Atari with Six Neurons@@@IDVQ + DRSC + XNES","Giuseppe Cuccu","University of Fribourg",2018-06-04,"830",2018
+"Playing Atari with Six Neurons@@@IDVQ + DRSC + XNES","Julian Togelius","New York University",2018-06-04,"830",2018
+"Playing Atari with Six Neurons@@@IDVQ + DRSC + XNES","Philippe Cudré-Mauroux","University of Fribourg",2018-06-04,"830",2018
+"Evolution Strategies as a Scalable Alternative to Reinforcement Learning@@@ES FF (1 hour) noop","Tim Salimans","",2017-03-10,"678.5",2017
+"Evolution Strategies as a Scalable Alternative to Reinforcement Learning@@@ES FF (1 hour) noop","Jonathan Ho","",2017-03-10,"678.5",2017
+"Evolution Strategies as a Scalable Alternative to Reinforcement Learning@@@ES FF (1 hour) noop","Xi Chen","",2017-03-10,"678.5",2017
+"Evolution Strategies as a Scalable Alternative to Reinforcement Learning@@@ES FF (1 hour) noop","Szymon Sidor","",2017-03-10,"678.5",2017
+"Evolution Strategies as a Scalable Alternative to Reinforcement Learning@@@ES FF (1 hour) noop","Ilya Sutskever","",2017-03-10,"678.5",2017
+"Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes@@@DDRL A3C","Igor Adamski","",2018-01-09,"650",2018
+"Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes@@@DDRL A3C","Robert Adamski","Intel",2018-01-09,"650",2018
+"Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes@@@DDRL A3C","Tomasz Grel","",2018-01-09,"650",2018
+"Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes@@@DDRL A3C","Adam Jedrych","",2018-01-09,"650",2018
+"Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes@@@DDRL A3C","Kamil Kaczmarek","",2018-01-09,"650",2018
+"Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes@@@DDRL A3C","Henryk Michalewski","Polish Academy of Sciences",2018-01-09,"650",2018
+"Deep Attention Recurrent Q-Network@@@DARQN soft","Ivan Sorokin","",2015-12-05,"650",2015
+"Deep Attention Recurrent Q-Network@@@DARQN soft","Alexey Seleznev","",2015-12-05,"650",2015
+"Deep Attention Recurrent Q-Network@@@DARQN soft","Mikhail Pavlov","",2015-12-05,"650",2015
+"Deep Attention Recurrent Q-Network@@@DARQN soft","Aleksandr Fedorov","",2015-12-05,"650",2015
+"Deep Attention Recurrent Q-Network@@@DARQN soft","Anastasiia Ignateva","",2015-12-05,"650",2015
+"@@@SARSA","","",NA,"267.9",NA
+"The Arcade Learning Environment: An Evaluation Platform for General Agents@@@Best Learner","Marc G. Bellemare","University of Alberta",2012-07-19,"250.1",2012
+"The Arcade Learning Environment: An Evaluation Platform for General Agents@@@Best Learner","Yavar Naddaf","",2012-07-19,"250.1",2012
+"The Arcade Learning Environment: An Evaluation Platform for General Agents@@@Best Learner","Joel Veness","University of Alberta",2012-07-19,"250.1",2012
+"The Arcade Learning Environment: An Evaluation Platform for General Agents@@@Best Learner","Michael Bowling","University of Alberta",2012-07-19,"250.1",2012
+"Soft Actor-Critic for Discrete Action Settings@@@SAC","Petros Christodoulou","Imperial College London",2019-10-16,"160.8",2019
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","Matteo Hessel","Google",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","Joseph Modayil","University of Alberta",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","Hado van Hasselt","Google",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","H Van Hasselt","Google",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","Tom Schaul","Google",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","Georg Ostrovski","Google",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","Will Dabney","Google",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","Dan Horgan","Google",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","Bilal Piot","university of lille",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","David Silver","Google",2017-10-06,"12,629.0",2017
+"Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow","Mohammad Gheshlaghi Azar","Northwestern University",2017-10-06,"12,629.0",2017

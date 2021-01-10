@@ -1,0 +1,145 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Tom B. Brown","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Benjamin Mann","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Nick Ryder","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Melanie Subbiah","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Jared Kaplan","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Prafulla Dhariwal","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Arvind Neelakantan","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Pranav Shyam","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Girish Sastry","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Amanda Askell","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Ilya Sutskever","",2020-05-28,"20.5",2020
+"Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot)","Dario Amodei","",2020-05-28,"20.5",2020
+"Language Models with Transformers@@@BERT-Large-CAS","Jacob Devlin","Google",2019-04-20,"31.3",2019
+"Language Models with Transformers@@@BERT-Large-CAS","Ming-Wei Chang","Google",2019-04-20,"31.3",2019
+"Language Models with Transformers@@@BERT-Large-CAS","Kenton Lee","Google",2019-04-20,"31.3",2019
+"Language Models with Transformers@@@BERT-Large-CAS","Kristina Toutanova","Google",2019-04-20,"31.3",2019
+"Language Models are Unsupervised Multitask Learners@@@GPT-2","Michael Wick","Oracle Corporation",2019-02-14,"35.76",2019
+"Language Models are Unsupervised Multitask Learners@@@GPT-2","Kate Silverstein","Oracle Corporation",2019-02-14,"35.76",2019
+"Language Models are Unsupervised Multitask Learners@@@GPT-2","Jean-Baptiste Tristan","Boston College",2019-02-14,"35.76",2019
+"Language Models are Unsupervised Multitask Learners@@@GPT-2","Adam Craig Pocock","Oracle Corporation",2019-02-14,"35.76",2019
+"Language Models are Unsupervised Multitask Learners@@@GPT-2","Mark Johnson","Oracle Corporation",2019-02-14,"35.76",2019
+"Mogrifier LSTM@@@Mogrifier LSTM + dynamic eval","Gábor Melis","Google",2019-09-04,"44.9",2019
+"Mogrifier LSTM@@@Mogrifier LSTM + dynamic eval","Tomáš Kociský","Google",2019-09-04,"44.9",2019
+"Mogrifier LSTM@@@Mogrifier LSTM + dynamic eval","Tomás Kociský","Google",2019-09-04,"44.9",2019
+"Mogrifier LSTM@@@Mogrifier LSTM + dynamic eval","Phil Blunsom","Google",2019-09-04,"44.9",2019
+"Improving Neural Language Modeling via Adversarial Training@@@adversarial + AWD-LSTM-MoS + dynamic eval","Dilin Wang","University of Texas at Austin",2019-06-10,"46.01",2019
+"Improving Neural Language Modeling via Adversarial Training@@@adversarial + AWD-LSTM-MoS + dynamic eval","Chengyue Gong","University of Texas at Austin",2019-06-10,"46.01",2019
+"Improving Neural Language Modeling via Adversarial Training@@@adversarial + AWD-LSTM-MoS + dynamic eval","Qiang Liu","University of Texas at Austin",2019-06-10,"46.01",2019
+"Gradual Learning of Recurrent Neural Networks@@@GL-LWGC + AWD-MoS-LSTM + dynamic eval","Ziv Aharoni","",2017-08-29,"46.34",2017
+"Gradual Learning of Recurrent Neural Networks@@@GL-LWGC + AWD-MoS-LSTM + dynamic eval","Gal Rattner","",2017-08-29,"46.34",2017
+"Gradual Learning of Recurrent Neural Networks@@@GL-LWGC + AWD-MoS-LSTM + dynamic eval","Haim H. Permuter","",2017-08-29,"46.34",2017
+"FRAGE: Frequency-Agnostic Word Representation@@@FRAGE + AWD-LSTM-MoS + dynamic eval","Chengyue Gong","Peking University",2018-09-18,"46.54",2018
+"FRAGE: Frequency-Agnostic Word Representation@@@FRAGE + AWD-LSTM-MoS + dynamic eval","Di He","Peking University",2018-09-18,"46.54",2018
+"FRAGE: Frequency-Agnostic Word Representation@@@FRAGE + AWD-LSTM-MoS + dynamic eval","Xu Tan","Microsoft",2018-09-18,"46.54",2018
+"FRAGE: Frequency-Agnostic Word Representation@@@FRAGE + AWD-LSTM-MoS + dynamic eval","Tao Qin","Microsoft",2018-09-18,"46.54",2018
+"FRAGE: Frequency-Agnostic Word Representation@@@FRAGE + AWD-LSTM-MoS + dynamic eval","Liwei Wang","Peking University",2018-09-18,"46.54",2018
+"FRAGE: Frequency-Agnostic Word Representation@@@FRAGE + AWD-LSTM-MoS + dynamic eval","Tie-Yan Liu","Microsoft",2018-09-18,"46.54",2018
+"Direct Output Connection for a High-Rank Language Model@@@AWD-LSTM-DOC x5","Sho Takase","Tokyo Institute of Technology",2018-08-30,"47.17",2018
+"Direct Output Connection for a High-Rank Language Model@@@AWD-LSTM-DOC x5","Jun Suzuki","Tohoku University",2018-08-30,"47.17",2018
+"Direct Output Connection for a High-Rank Language Model@@@AWD-LSTM-DOC x5","Masaaki Nagata","Nippon Telegraph and Telephone",2018-08-30,"47.17",2018
+"Improved Language Modeling by Decoding the Past@@@Past Decode Reg. + AWD-LSTM-MoS + dyn. eval.","Siddhartha Brahma","IBM",2018-08-14,"47.3",2018
+"Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS + dynamic eval","Zhilin Yang","Carnegie Mellon University",2017-11-10,"47.69",2017
+"Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS + dynamic eval","Zihang Dai","Carnegie Mellon University",2017-11-10,"47.69",2017
+"Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS + dynamic eval","Ruslan Salakhutdinov","Carnegie Mellon University",2017-11-10,"47.69",2017
+"Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS + dynamic eval","William W. Cohen","Carnegie Mellon University",2017-11-10,"47.69",2017
+"Deep Residual Output Layers for Neural Language Generation@@@AWD-LSTM-DRILL + dynamic eval","Nikolaos Pappas","Idiap Research Institute",2019-05-14,"49.4",2019
+"Deep Residual Output Layers for Neural Language Generation@@@AWD-LSTM-DRILL + dynamic eval","James Henderson I","",2019-05-14,"49.4",2019
+"Deep Residual Output Layers for Neural Language Generation@@@AWD-LSTM-DRILL + dynamic eval","James Henderson","",2019-05-14,"49.4",2019
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN+dynamic eval","Shuai Li","",2019-10-11,"50.97",2019
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN+dynamic eval","Wanqing Li","",2019-10-11,"50.97",2019
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN+dynamic eval","Christopher David Cook","",2019-10-11,"50.97",2019
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN+dynamic eval","Yanbo Gao","",2019-10-11,"50.97",2019
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN+dynamic eval","Ce Zhu","",2019-10-11,"50.97",2019
+"Dynamic Evaluation of Neural Sequence Models@@@AWD-LSTM + dynamic eval","Ben Krause","University of Edinburgh",2017-09-21,"51.1",2017
+"Dynamic Evaluation of Neural Sequence Models@@@AWD-LSTM + dynamic eval","Emmanuel Kahembwe","University of Edinburgh",2017-09-21,"51.1",2017
+"Dynamic Evaluation of Neural Sequence Models@@@AWD-LSTM + dynamic eval","Iain Murray","University of Edinburgh",2017-09-21,"51.1",2017
+"Dynamic Evaluation of Neural Sequence Models@@@AWD-LSTM + dynamic eval","Steve Renals","University of Edinburgh",2017-09-21,"51.1",2017
+"Partially Shuffling the Training Data to Improve Language Models@@@AWD-LSTM-DOC + Partial Shuffle","Ofir Press","University of Washington",2019-03-11,"52.0",2019
+"Direct Output Connection for a High-Rank Language Model@@@AWD-LSTM-DOC","Sho Takase","Tokyo Institute of Technology",2018-08-30,"52.38",2018
+"Direct Output Connection for a High-Rank Language Model@@@AWD-LSTM-DOC","Jun Suzuki","Tohoku University",2018-08-30,"52.38",2018
+"Direct Output Connection for a High-Rank Language Model@@@AWD-LSTM-DOC","Masaaki Nagata","Nippon Telegraph and Telephone",2018-08-30,"52.38",2018
+"Regularizing and Optimizing LSTM Language Models@@@AWD-LSTM + continuous cache pointer","Stephen Merity","Salesforce.com",2017-08-07,"52.8",2017
+"Regularizing and Optimizing LSTM Language Models@@@AWD-LSTM + continuous cache pointer","Nitish Shirish Keskar","Northwestern University",2017-08-07,"52.8",2017
+"Regularizing and Optimizing LSTM Language Models@@@AWD-LSTM + continuous cache pointer","Richard Socher","Salesforce.com",2017-08-07,"52.8",2017
+"Partially Shuffling the Training Data to Improve Language Models@@@AWD-LSTM-MoS + Partial Shuffle","Ofir Press","University of Washington",2019-03-11,"53.92",2019
+"Trellis Networks for Sequence Modeling@@@Trellis Network","Shaojie Bai","Carnegie Mellon University",2018-10-15,"54.19",2018
+"Trellis Networks for Sequence Modeling@@@Trellis Network","J. Zico Kolter","Carnegie Mellon University",2018-10-15,"54.19",2018
+"Trellis Networks for Sequence Modeling@@@Trellis Network","V. Koltun","Intel",2018-10-15,"54.19",2018
+"Trellis Networks for Sequence Modeling@@@Trellis Network","Vladlen Koltun","Intel",2018-10-15,"54.19",2018
+"Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS","Zhilin Yang","Carnegie Mellon University",2017-11-10,"54.44",2017
+"Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS","Zihang Dai","Carnegie Mellon University",2017-11-10,"54.44",2017
+"Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS","Ruslan Salakhutdinov","Carnegie Mellon University",2017-11-10,"54.44",2017
+"Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS","William W. Cohen","Carnegie Mellon University",2017-11-10,"54.44",2017
+"Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL","Zihang Dai","Carnegie Mellon University",2019-01-09,"54.55",2019
+"Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL","Zhilin Yang","Carnegie Mellon University",2019-01-09,"54.55",2019
+"Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL","Yiming Yang","Carnegie Mellon University",2019-01-09,"54.55",2019
+"Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL","Jaime G. Carbonell","Carnegie Mellon University",2019-01-09,"54.55",2019
+"Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL","Quoc V. Le","Carnegie Mellon University",2019-01-09,"54.55",2019
+"Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL","Ruslan Salakhutdinov","Google",2019-01-09,"54.55",2019
+"Pushing the bounds of dropout@@@2-layer skip-LSTM + dropout tuning ","Gábor Melis","",2018-05-23,"55.3",2018
+"Pushing the bounds of dropout@@@2-layer skip-LSTM + dropout tuning ","Charles Blundell","",2018-05-23,"55.3",2018
+"Pushing the bounds of dropout@@@2-layer skip-LSTM + dropout tuning ","Tomáš Kociský","",2018-05-23,"55.3",2018
+"Pushing the bounds of dropout@@@2-layer skip-LSTM + dropout tuning ","Karl Moritz Hermann","",2018-05-23,"55.3",2018
+"Pushing the bounds of dropout@@@2-layer skip-LSTM + dropout tuning ","Chris Dyer","",2018-05-23,"55.3",2018
+"Pushing the bounds of dropout@@@2-layer skip-LSTM + dropout tuning ","Phil Blunsom","",2018-05-23,"55.3",2018
+"Deep Residual Output Layers for Neural Language Generation@@@AWD-LSTM-DRILL","Nikolaos Pappas","Idiap Research Institute",2019-05-14,"55.7",2019
+"Deep Residual Output Layers for Neural Language Generation@@@AWD-LSTM-DRILL","James Henderson I","",2019-05-14,"55.7",2019
+"Deep Residual Output Layers for Neural Language Generation@@@AWD-LSTM-DRILL","James Henderson","",2019-05-14,"55.7",2019
+"DARTS: Differentiable Architecture Search@@@Differentiable NAS","Hanxiao Liu","Google",2018-06-24,"56.1",2018
+"DARTS: Differentiable Architecture Search@@@Differentiable NAS","Karen Simonyan","Google",2018-06-24,"56.1",2018
+"DARTS: Differentiable Architecture Search@@@Differentiable NAS","Yiming Yang","Carnegie Mellon University",2018-06-24,"56.1",2018
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN","Shuai Li","",2019-10-11,"56.37",2019
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN","Wanqing Li","",2019-10-11,"56.37",2019
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN","Christopher David Cook","",2019-10-11,"56.37",2019
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN","Yanbo Gao","",2019-10-11,"56.37",2019
+"Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN","Ce Zhu","",2019-10-11,"56.37",2019
+"Fraternal Dropout@@@AWD-LSTM 3-layer with Fraternal dropout","Konrad Zolna","Jagiellonian University",2017-10-31,"56.8",2017
+"Fraternal Dropout@@@AWD-LSTM 3-layer with Fraternal dropout","Devansh Arpit","Université de Montréal",2017-10-31,"56.8",2017
+"Fraternal Dropout@@@AWD-LSTM 3-layer with Fraternal dropout","Dendi Suhubdy","North Carolina State University",2017-10-31,"56.8",2017
+"Fraternal Dropout@@@AWD-LSTM 3-layer with Fraternal dropout","Yoshua Bengio","Université de Montréal",2017-10-31,"56.8",2017
+"Deep Equilibrium Models@@@DEQ-TrellisNet","Shaojie Bai","Carnegie Mellon University",2019-09-03,"57.1",2019
+"Deep Equilibrium Models@@@DEQ-TrellisNet","J. Zico Kolter","Carnegie Mellon University",2019-09-03,"57.1",2019
+"Deep Equilibrium Models@@@DEQ-TrellisNet","V. Koltun","Intel",2019-09-03,"57.1",2019
+"Deep Equilibrium Models@@@DEQ-TrellisNet","Vladlen Koltun","Intel",2019-09-03,"57.1",2019
+"Regularizing and Optimizing LSTM Language Models@@@AWD-LSTM","Stephen Merity","Salesforce.com",2017-08-07,"57.3",2017
+"Regularizing and Optimizing LSTM Language Models@@@AWD-LSTM","Nitish Shirish Keskar","Northwestern University",2017-08-07,"57.3",2017
+"Regularizing and Optimizing LSTM Language Models@@@AWD-LSTM","Richard Socher","Salesforce.com",2017-08-07,"57.3",2017
+"Efficient Neural Architecture Search via Parameter Sharing@@@Efficient NAS","Hieu Pham","",2018-02-09," 58.6",2018
+"Efficient Neural Architecture Search via Parameter Sharing@@@Efficient NAS","Melody Y. Guan","",2018-02-09," 58.6",2018
+"Efficient Neural Architecture Search via Parameter Sharing@@@Efficient NAS","Barret Zoph","",2018-02-09," 58.6",2018
+"Efficient Neural Architecture Search via Parameter Sharing@@@Efficient NAS","Quoc V. Le","",2018-02-09," 58.6",2018
+"Efficient Neural Architecture Search via Parameter Sharing@@@Efficient NAS","Jeffrey Dean","",2018-02-09," 58.6",2018
+"Neural Architecture Search with Reinforcement Learning@@@NAS Cell","Barret Zoph","Google",2016-11-05,"64.0",2016
+"Neural Architecture Search with Reinforcement Learning@@@NAS Cell","Quoc V. Le","Google",2016-11-05,"64.0",2016
+"Recurrent Highway Networks@@@Recurrent highway networks","Julian G. Zilly","ETH Zurich",2016-07-12,"65.4",2016
+"Recurrent Highway Networks@@@Recurrent highway networks","Rupesh Kumar Srivastava","Dalle Molle Institute for Artificial Intelligence Research",2016-07-12,"65.4",2016
+"Recurrent Highway Networks@@@Recurrent highway networks","Jan Koutník","Dalle Molle Institute for Artificial Intelligence Research",2016-07-12,"65.4",2016
+"Recurrent Highway Networks@@@Recurrent highway networks","Juergen Schmidhuber","Dalle Molle Institute for Artificial Intelligence Research",2016-07-12,"65.4",2016
+"Recurrent Highway Networks@@@Recurrent highway networks","Jürgen Schmidhuber","Dalle Molle Institute for Artificial Intelligence Research",2016-07-12,"65.4",2016
+"Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling@@@Inan et al. (2016) - Variational RHN","Hakan Inan","Stanford University",2016-11-04,"66.0",2016
+"Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling@@@Inan et al. (2016) - Variational RHN","Khashayar Khosravi","Stanford University",2016-11-04,"66.0",2016
+"Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling@@@Inan et al. (2016) - Variational RHN","Richard Socher","Salesforce.com",2016-11-04,"66.0",2016
+"A Theoretically Grounded Application of Dropout in Recurrent Neural Networks@@@Gal & Ghahramani (2016) - Variational LSTM (large)","Yarin Gal","University of Cambridge",2015-12-16,"75.2",2015
+"A Theoretically Grounded Application of Dropout in Recurrent Neural Networks@@@Gal & Ghahramani (2016) - Variational LSTM (large)","Zoubin Ghahramani","University of Cambridge",2015-12-16,"75.2",2015
+"Recurrent Neural Network Regularization@@@Zaremba et al. (2014) - LSTM (large)","Wojciech Zaremba","",2014-09-08,"78.4",2014
+"Recurrent Neural Network Regularization@@@Zaremba et al. (2014) - LSTM (large)","Ilya Sutskever","",2014-09-08,"78.4",2014
+"Recurrent Neural Network Regularization@@@Zaremba et al. (2014) - LSTM (large)","Oriol Vinyals","",2014-09-08,"78.4",2014
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@LSTM (Bai et al., 2018)","Shaojie Bai","",2018-03-04,"78.93",2018
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@LSTM (Bai et al., 2018)","J. Zico Kolter","",2018-03-04,"78.93",2018
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@LSTM (Bai et al., 2018)","V. Koltun","",2018-03-04,"78.93",2018
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@LSTM (Bai et al., 2018)","Vladlen Koltun","",2018-03-04,"78.93",2018
+"A Theoretically Grounded Application of Dropout in Recurrent Neural Networks@@@Gal & Ghahramani (2016) - Variational LSTM (medium)","Yarin Gal","University of Cambridge",2015-12-16,"79.7",2015
+"A Theoretically Grounded Application of Dropout in Recurrent Neural Networks@@@Gal & Ghahramani (2016) - Variational LSTM (medium)","Zoubin Ghahramani","University of Cambridge",2015-12-16,"79.7",2015
+"Recurrent Neural Network Regularization@@@Zaremba et al. (2014) - LSTM (medium)","Wojciech Zaremba","",2014-09-08,"82.7",2014
+"Recurrent Neural Network Regularization@@@Zaremba et al. (2014) - LSTM (medium)","Ilya Sutskever","",2014-09-08,"82.7",2014
+"Recurrent Neural Network Regularization@@@Zaremba et al. (2014) - LSTM (medium)","Oriol Vinyals","",2014-09-08,"82.7",2014
+"R-Transformer: Recurrent Neural Network Enhanced Transformer@@@R-Transformer","Zhiwei Wang","Michigan State University",2019-07-12,"84.38",2019
+"R-Transformer: Recurrent Neural Network Enhanced Transformer@@@R-Transformer","Yao Ma","Michigan State University",2019-07-12,"84.38",2019
+"R-Transformer: Recurrent Neural Network Enhanced Transformer@@@R-Transformer","Zitao Liu","",2019-07-12,"84.38",2019
+"R-Transformer: Recurrent Neural Network Enhanced Transformer@@@R-Transformer","Jiliang Tang","Michigan State University",2019-07-12,"84.38",2019
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@GRU (Bai et al., 2018)","Shaojie Bai","",2018-03-04,"92.48",2018
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@GRU (Bai et al., 2018)","J. Zico Kolter","",2018-03-04,"92.48",2018
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@GRU (Bai et al., 2018)","V. Koltun","",2018-03-04,"92.48",2018
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@GRU (Bai et al., 2018)","Vladlen Koltun","",2018-03-04,"92.48",2018

@@ -1,0 +1,46 @@
+title,communities,metric,paper_date,communities_name
+"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model@@@MuZero",1,74335.30,2019-11-19,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Distributed Prioritized Experience Replay@@@Ape-X,2+1,54681,2018-03-02,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Agent57: Outperforming the Atari Human Benchmark@@@Agent57,1,48680.86,2020-03-30,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Fully Parameterized Quantile Function for Distributional Reinforcement Learning@@@FQF,5,46498.3,2019-11-05,"{'Microsoft', 'University of California, San Diego', 'Tsinghua University'}"
+IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures@@@IMPALA (deep),1,43595.78,2018-02-05,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Recurrent Experience Replay in Distributed Reinforcement Learning@@@R2D2,2+1,43223.4,2019-05-01,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Implicit Quantile Networks for Distributional Reinforcement Learning@@@IQN,2+1,28888,2018-06-14,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Asynchronous Methods for Deep Reinforcement Learning@@@A3C LSTM hs,1,23846.0,2016-02-04,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Distributional Reinforcement Learning with Quantile Regression@@@QR-DQN-1,2+1,20972,2017-10-27,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF hs,1,15730.5,2016-02-04,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Dueling Network Architectures for Deep Reinforcement Learning@@@Prior+Duel noop,2,15311.5,2015-11-20,"{'University of Alberta', 'Google', 'University of Cambridge', 'Carnegie Mellon University'}"
+Deep Reinforcement Learning with Double Q-learning@@@Prior+Duel hs,2+1,8978.0,2015-09-22,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Dueling Network Architectures for Deep Reinforcement Learning@@@Duel noop,2,6427.3,2015-11-20,"{'University of Alberta', 'Google', 'University of Cambridge', 'Carnegie Mellon University'}"
+Dueling Network Architectures for Deep Reinforcement Learning@@@Duel hs,2,5993.1,2015-11-20,"{'University of Alberta', 'Google', 'University of Cambridge', 'Carnegie Mellon University'}"
+Noisy Networks for Exploration@@@NoisyNet-Dueling,1,5909,2017-06-30,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+A Distributional Perspective on Reinforcement Learning@@@C51 noop,2+1,5747.0,2017-07-21,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Prioritized Experience Replay@@@Prior hs,2+1,3912.1,2015-11-18,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Increasing the Action Gap: New Operators for Reinforcement Learning@@@Advantage Learning,2+1,3460.79,2015-12-15,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Increasing the Action Gap: New Operators for Reinforcement Learning@@@Persistent AL,2+1,3277.59,2015-12-15,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Self-Imitation Learning@@@A2C + SIL,4,2951.7,2018-06-14,"{'Microsoft', 'Duke University', 'University of California, Santa Barbara'}"
+Deep Exploration via Bootstrapped DQN@@@Bootstrapped DQN,1,2893,2016-02-15,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Prioritized Experience Replay@@@Prior noop,2+1,2865.8,2015-11-18,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+The Arcade Learning Environment: An Evaluation Platform for General Agents@@@UCT,2,2718,2012-07-19,"{'University of Alberta', 'Google', 'University of Cambridge', 'Carnegie Mellon University'}"
+Deep Reinforcement Learning with Double Q-learning@@@DDQN (tuned) hs,2+1,2628.7,2015-09-22,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Learning values across many orders of magnitude@@@DDQN+Pop-Art noop,2+1,2589.7,2016-02-24,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Dueling Network Architectures for Deep Reinforcement Learning@@@DDQN (tuned) noop,2,2525.5,2015-11-20,"{'University of Alberta', 'Google', 'University of Cambridge', 'Carnegie Mellon University'}"
+Asynchronous Methods for Deep Reinforcement Learning@@@A3C FF (1 day) hs,1,2214.7,2016-02-04,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Mastering Atari with Discrete World Models@@@DreamerV2,11+1,2112,2020-10-05,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Model-Free Episodic Control with State Aggregation@@@MFEC,13,1990,2020-08-21,{'Federal Institute of Rio Grande do Sul'}
+@@@Nature DQN,,,,set()
+Deep Reinforcement Learning with Double Q-learning@@@DQN noop,2+1,1692.3,2015-09-22,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Deep Reinforcement Learning with Double Q-learning@@@DQN hs,2+1,1293.8,2015-09-22,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"
+Policy Optimization With Penalized Point Probability Distance: An Alternative To Proximal Policy Optimization@@@POP3D,14,1216.15,2018-07-02,{'Xiaomi'}
+Massively Parallel Methods for Deep Reinforcement Learning@@@Gorila,1+3,1183.3,2015-07-15,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Mean Actor Critic@@@MAC,9,1173.1,2017-09-01,"{'Microsoft', 'University of California, San Diego'}"
+Playing Atari with Deep Reinforcement Learning@@@DQN Best,1,1075,2013-12-19,"{'Stanford University', 'Université de Montréal', 'Google', 'university of lille', 'Northwestern University'}"
+Evolving simple programs for playing Atari games@@@CGP,10,1001,2018-06-14,"{'University of York', 'University of Toulouse'}"
+Playing Atari with Six Neurons@@@IDVQ + DRSC + XNES,12,830,2018-06-04,"{'University of Fribourg', 'New York University'}"
+Evolution Strategies as a Scalable Alternative to Reinforcement Learning@@@ES FF (1 hour) noop,7,678.5,2017-03-10,set()
+Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes@@@DDRL A3C,6,650,2018-01-09,"{'Polish Academy of Sciences', 'Intel'}"
+Deep Attention Recurrent Q-Network@@@DARQN soft,8,650,2015-12-05,set()
+@@@SARSA,,,,set()
+The Arcade Learning Environment: An Evaluation Platform for General Agents@@@Best Learner,2,250.1,2012-07-19,"{'University of Alberta', 'Google', 'University of Cambridge', 'Carnegie Mellon University'}"
+Soft Actor-Critic for Discrete Action Settings@@@SAC,15,160.8,2019-10-16,{'Imperial College London'}
+Rainbow: Combining Improvements in Deep Reinforcement Learning@@@Rainbow,2+1,"12,629.0",2017-10-06,"{'Carnegie Mellon University', 'Stanford University', 'Université de Montréal', 'Google', 'University of Cambridge', 'University of Alberta', 'university of lille', 'Northwestern University'}"

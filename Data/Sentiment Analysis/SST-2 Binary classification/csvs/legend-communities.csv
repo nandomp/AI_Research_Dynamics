@@ -1,0 +1,37 @@
+number,name
+1,"('Salesforce.com', 10)&('Stanford University', 6)&('University of Washington', 1)"
+2,"('Tsinghua University', 3)"
+3,"('Facebook', 6)&('University of Washington', 2)&('Princeton University', 1)"
+4,"('Google', 7)"
+5,
+6,"('Duke University', 7)&('University of Notre Dame', 2)&('Princeton University', 1)"
+7,
+8,"('Baidu', 7)"
+9,"('Nanjing University of Posts and Telecommunications', 2)&('Penn State College of Information Sciences and Technology', 1)&('University of Hong Kong', 1)&('Zhejiang University', 1)&('Tsinghua University', 1)"
+10,"('Google', 4)&('New York University', 1)&('Toyota Technological Institute at Chicago', 1)"
+11,"('Carnegie Mellon University', 5)&('Google', 1)"
+12,"('Princeton University', 3)&('Facebook', 1)&('University of Wisconsin-Madison', 1)"
+13,"('Chinese Academy of Sciences', 6)"
+14,"('Beijing Institute of Technology', 4)"
+15,"('Carnegie Mellon University', 5)"
+16,"('Hong Kong University of Science and Technology', 3)&('Salesforce.com', 1)"
+17,"('University of California, Los Angeles', 2)&('University of Texas at Austin', 1)&('Amazon.com', 1)"
+18,"('Microsoft', 4)"
+19,"('Tsinghua University', 3)&('Norwegian University of Science and Technology', 1)"
+20,"('University of California, Berkeley', 3)"
+21,
+22,
+23,"('Fudan University', 3)"
+24,"('Tribhuvan University', 3)"
+25,"('OpenAI', 3)"
+26,"('Nvidia', 3)"
+27,"('Seoul National University', 3)"
+28,"('École Polytechnique', 3)"
+29,"('Emory University', 2)"
+30,"('University of British Columbia', 3)"
+31,"('Cardiff University', 1)&('University of Cambridge', 1)"
+32,"('University of Massachusetts Medical School', 2)"
+33,
+34,
+35,
+36,"('New York University', 1)"

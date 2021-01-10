@@ -1,0 +1,175 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Theoretical Knowledge Graph Reasoning via Ending Anchored Rules@@@EARDict Basic","Wen Zhang","Zhejiang University",2020-11-12,"0.935",2020
+"Theoretical Knowledge Graph Reasoning via Ending Anchored Rules@@@EARDict Basic","Bibek Paudel","University of Zurich",2020-11-12,"0.935",2020
+"Theoretical Knowledge Graph Reasoning via Ending Anchored Rules@@@EARDict Basic","Liang Wang","Zhejiang University",2020-11-12,"0.935",2020
+"Theoretical Knowledge Graph Reasoning via Ending Anchored Rules@@@EARDict Basic","Jiaoyan Chen","University of Oxford",2020-11-12,"0.935",2020
+"Theoretical Knowledge Graph Reasoning via Ending Anchored Rules@@@EARDict Basic","Hai Zhu","Alibaba Group",2020-11-12,"0.935",2020
+"Theoretical Knowledge Graph Reasoning via Ending Anchored Rules@@@EARDict Basic","Wei Zhang","Alibaba Group",2020-11-12,"0.935",2020
+"Theoretical Knowledge Graph Reasoning via Ending Anchored Rules@@@EARDict Basic","Abraham Bernstein","University of Zurich",2020-11-12,"0.935",2020
+"Theoretical Knowledge Graph Reasoning via Ending Anchored Rules@@@EARDict Basic","Huajun Chen","Zhejiang University",2020-11-12,"0.935",2020
+"MLMLM: Link Prediction with Mean Likelihood Masked Language Model@@@MLMLM","Louis Clouâtre","",2020-09-15,"0.5418",2020
+"MLMLM: Link Prediction with Mean Likelihood Masked Language Model@@@MLMLM","Louis Clouatre","",2020-09-15,"0.5418",2020
+"MLMLM: Link Prediction with Mean Likelihood Masked Language Model@@@MLMLM","Philippe Trempe","",2020-09-15,"0.5418",2020
+"MLMLM: Link Prediction with Mean Likelihood Masked Language Model@@@MLMLM","Amal Zouaq","",2020-09-15,"0.5418",2020
+"MLMLM: Link Prediction with Mean Likelihood Masked Language Model@@@MLMLM","Sarath Chandar","",2020-09-15,"0.5418",2020
+"Knowledge Graph Embedding via Graph Attenuated Attention Networks@@@GAAT","Rui Wang","Huaqiao University",2019-12-31,"0.525",2019
+"Knowledge Graph Embedding via Graph Attenuated Attention Networks@@@GAAT","Bicheng Li","Huaqiao University",2019-12-31,"0.525",2019
+"Knowledge Graph Embedding via Graph Attenuated Attention Networks@@@GAAT","Shengwei Hu","Huaqiao University",2019-12-31,"0.525",2019
+"Knowledge Graph Embedding via Graph Attenuated Attention Networks@@@GAAT","Wenqian Du","Huaqiao University",2019-12-31,"0.525",2019
+"Knowledge Graph Embedding via Graph Attenuated Attention Networks@@@GAAT","Min Zhang","Huaqiao University",2019-12-31,"0.525",2019
+"Predicting Semantic Relations using Global Graph Properties@@@M3GM","Yuval Pinter","Georgia Institute of Technology",2018-08-27,"not available",2018
+"Predicting Semantic Relations using Global Graph Properties@@@M3GM","Jacob Eisenstein","Georgia Institute of Technology",2018-08-27,"not available",2018
+"Low-Dimensional Hyperbolic Knowledge Graph Embeddings@@@RotH","Ines Chami","Stanford University",2020-05-01,"0.514",2020
+"Low-Dimensional Hyperbolic Knowledge Graph Embeddings@@@RotH","Adva Wolf","Stanford University",2020-05-01,"0.514",2020
+"Low-Dimensional Hyperbolic Knowledge Graph Embeddings@@@RotH","Da-Cheng Juan","Google",2020-05-01,"0.514",2020
+"Low-Dimensional Hyperbolic Knowledge Graph Embeddings@@@RotH","Frederic Sala","Stanford University",2020-05-01,"0.514",2020
+"Low-Dimensional Hyperbolic Knowledge Graph Embeddings@@@RotH","Sujith Ravi","Google",2020-05-01,"0.514",2020
+"Low-Dimensional Hyperbolic Knowledge Graph Embeddings@@@RotH","Christopher Ré","Stanford University",2020-05-01,"0.514",2020
+"Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding@@@GC-OTE","Yun Tang","",2019-11-09,"0.511",2019
+"Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding@@@GC-OTE","Jing Huang","",2019-11-09,"0.511",2019
+"Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding@@@GC-OTE","Guangtao Wang","University of Michigan",2019-11-09,"0.511",2019
+"Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding@@@GC-OTE","Xiaodong He","Microsoft",2019-11-09,"0.511",2019
+"Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding@@@GC-OTE","Bowen Zhou","",2019-11-09,"0.511",2019
+"Quaternion Knowledge Graph Embeddings@@@QuatE","Shuai Zhang","University of New South Wales",2019-04-23,"0.508",2019
+"Quaternion Knowledge Graph Embeddings@@@QuatE","Yi Tay","Nanyang Technological University",2019-04-23,"0.508",2019
+"Quaternion Knowledge Graph Embeddings@@@QuatE","Lina Yao","University of New South Wales",2019-04-23,"0.508",2019
+"Quaternion Knowledge Graph Embeddings@@@QuatE","Qi Liu","Facebook",2019-04-23,"0.508",2019
+"Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction@@@HAKE","Zhanqiu Zhang","University of Science and Technology of China",2019-11-21,"not available",2019
+"Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction@@@HAKE","Jianyu Cai","University of Science and Technology of China",2019-11-21,"not available",2019
+"Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction@@@HAKE","Yongdong Zhang","University of Science and Technology of China",2019-11-21,"not available",2019
+"Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction@@@HAKE","Jie Wang","University of Science and Technology of China",2019-11-21,"not available",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBGAT","Deepak Nathani","Indian Institute of Technology, Hyderabad",2019-06-04,"0.483",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBGAT","Jatin Chauhan","",2019-06-04,"0.483",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBGAT","Charu Sharma","Indian Institute of Technology, Hyderabad",2019-06-04,"0.483",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBGAT","Manohar Kaul","Indian Institute of Technology, Hyderabad",2019-06-04,"0.483",2019
+"DensE: An Enhanced Non-Abelian Group Representation for Knowledge Graph Embedding@@@DensE","Haonan Lu","Huawei",2020-08-11,"0.508",2020
+"DensE: An Enhanced Non-Abelian Group Representation for Knowledge Graph Embedding@@@DensE","Hailin Hu","Huawei",2020-08-11,"0.508",2020
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@RotatE","Zhiqing Sun","Peking University",2019-02-26,"0.492",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@RotatE","Zhi-Hong Deng","Peking University",2019-02-26,"0.492",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@RotatE","Jian-Yun Nie","Université de Montréal",2019-02-26,"0.492",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@RotatE","Jian Tang","HEC Montréal",2019-02-26,"0.492",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@RotatE","Zhiqing Sun","Peking University",2019-02-26,"0.492",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@RotatE","Zhi-Hong Deng","Peking University",2019-02-26,"0.492",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@RotatE","Jian-Yun Nie","Université de Montréal",2019-02-26,"0.492",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@RotatE","Jian Tang","HEC Montréal",2019-02-26,"0.492",2019
+"Canonical Tensor Decomposition for Knowledge Base Completion@@@ComplEx-N3 (reciprocal)","Timothée Lacroix","Facebook",2018-06-19,"not available",2018
+"Canonical Tensor Decomposition for Knowledge Base Completion@@@ComplEx-N3 (reciprocal)","Nicolas Usunier","Facebook",2018-06-19,"not available",2018
+"Canonical Tensor Decomposition for Knowledge Base Completion@@@ComplEx-N3 (reciprocal)","Guillaume Obozinski","École des ponts ParisTech",2018-06-19,"not available",2018
+"AutoSF: Searching Scoring Functions for Knowledge Graph Embedding@@@AutoSF","Yongqi Zhang","Hong Kong University of Science and Technology",2019-04-26,"not available",2019
+"AutoSF: Searching Scoring Functions for Knowledge Graph Embedding@@@AutoSF","Quanming Yao","Paradigm",2019-04-26,"not available",2019
+"AutoSF: Searching Scoring Functions for Knowledge Graph Embedding@@@AutoSF","Wenyuan Dai","Paradigm",2019-04-26,"not available",2019
+"AutoSF: Searching Scoring Functions for Knowledge Graph Embedding@@@AutoSF","Lei Chen","Hong Kong University of Science and Technology",2019-04-26,"not available",2019
+"Multi-relational Poincaré Graph Embeddings@@@MuRP","Ivana Balazevic","University of Edinburgh",2019-05-23,"0.495",2019
+"Multi-relational Poincaré Graph Embeddings@@@MuRP","Carl Allen","University of Edinburgh",2019-05-23,"0.495",2019
+"Multi-relational Poincaré Graph Embeddings@@@MuRP","Timothy M. Hospedales","University of Edinburgh",2019-05-23,"0.495",2019
+"Contextual Parameter Generation for Knowledge Graph Link Prediction@@@CoPER-ConvE","George Stoica","Carnegie Mellon University",2020-04-03,"not available",2020
+"Contextual Parameter Generation for Knowledge Graph Link Prediction@@@CoPER-ConvE","Otilia Stretcu","Carnegie Mellon University",2020-04-03,"not available",2020
+"Contextual Parameter Generation for Knowledge Graph Link Prediction@@@CoPER-ConvE","Emmanouil Antonios Platanios","Carnegie Mellon University",2020-04-03,"not available",2020
+"Contextual Parameter Generation for Knowledge Graph Link Prediction@@@CoPER-ConvE","Anthony Platanios","Carnegie Mellon University",2020-04-03,"not available",2020
+"Contextual Parameter Generation for Knowledge Graph Link Prediction@@@CoPER-ConvE","Tom M. Mitchell","Carnegie Mellon University",2020-04-03,"not available",2020
+"Contextual Parameter Generation for Knowledge Graph Link Prediction@@@CoPER-ConvE","Barnabás Póczos","Carnegie Mellon University",2020-04-03,"not available",2020
+"MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs@@@MDE_adv","Afshin Sadeghi","University of Bonn",2019-05-25,"not available",2019
+"MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs@@@MDE_adv","Damien Graux","Fraunhofer Society",2019-05-25,"not available",2019
+"MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs@@@MDE_adv","Hamed Shariat Yazdi","University of Bonn",2019-05-25,"not available",2019
+"MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs@@@MDE_adv","Jens Lehmann","Fraunhofer Society",2019-05-25,"not available",2019
+"A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization@@@CapsE","Dai Quoc Nguyen","Deakin University",2018-08-13,"not available",2018
+"A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization@@@CapsE","Thanh Vu","Commonwealth Scientific and Industrial Research Organisation",2018-08-13,"not available",2018
+"A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization@@@CapsE","Tu Dinh Nguyen","Monash University",2018-08-13,"not available",2018
+"A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization@@@CapsE","Dat Quoc Nguyen","University of Melbourne",2018-08-13,"not available",2018
+"A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization@@@CapsE","Dinh Phung","Monash University",2018-08-13,"not available",2018
+"Relation Embedding with Dihedral Group in Knowledge Graph@@@DihEdral","Canran Xu","eBay",2019-06-03,"0.505",2019
+"Relation Embedding with Dihedral Group in Knowledge Graph@@@DihEdral","Ruijiang Li","eBay",2019-06-03,"0.505",2019
+"Translating Embeddings for Modeling Multi-relational Data@@@TransE","Antoine Bordes","Centre national de la recherche scientifique",2013-12-01,"not available",2013
+"Translating Embeddings for Modeling Multi-relational Data@@@TransE","Nicolas Usunier","Centre national de la recherche scientifique",2013-12-01,"not available",2013
+"Translating Embeddings for Modeling Multi-relational Data@@@TransE","Alberto Garcia-Duran","Centre national de la recherche scientifique",2013-12-01,"not available",2013
+"Translating Embeddings for Modeling Multi-relational Data@@@TransE","Jason Weston","Google",2013-12-01,"not available",2013
+"Translating Embeddings for Modeling Multi-relational Data@@@TransE","Oksana Yakhnenko","Google",2013-12-01,"not available",2013
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@pRotatE","Zhiqing Sun","Peking University",2019-02-26,"0.479",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@pRotatE","Zhi-Hong Deng","Peking University",2019-02-26,"0.479",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@pRotatE","Jian-Yun Nie","Université de Montréal",2019-02-26,"0.479",2019
+"RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@pRotatE","Jian Tang","HEC Montréal",2019-02-26,"0.479",2019
+"Composition-based Multi-Relational Graph Convolutional Networks@@@CompGCN","Shikhar Vashishth","Carnegie Mellon University",2019-11-08,"0.494",2019
+"Composition-based Multi-Relational Graph Convolutional Networks@@@CompGCN","Soumya Sanyal","Indian Institute of Science",2019-11-08,"0.494",2019
+"Composition-based Multi-Relational Graph Convolutional Networks@@@CompGCN","Vikram Nitin","Columbia University",2019-11-08,"0.494",2019
+"Composition-based Multi-Relational Graph Convolutional Networks@@@CompGCN","Partha P. Talukdar","",2019-11-08,"0.494",2019
+"Composition-based Multi-Relational Graph Convolutional Networks@@@CompGCN","Partha Talukdar","Indian Institute of Science",2019-11-08,"0.494",2019
+"End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion@@@Structure-Aware Convolutional Networks","Chao Shang","University of Connecticut",2018-11-11,"0.48",2018
+"End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion@@@Structure-Aware Convolutional Networks","Yun Tang","",2018-11-11,"0.48",2018
+"End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion@@@Structure-Aware Convolutional Networks","Jing Huang","",2018-11-11,"0.48",2018
+"End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion@@@Structure-Aware Convolutional Networks","Jinbo Bi","University of Connecticut",2018-11-11,"0.48",2018
+"End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion@@@Structure-Aware Convolutional Networks","Xiaodong He","",2018-11-11,"0.48",2018
+"End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion@@@Structure-Aware Convolutional Networks","Bowen Zhou","",2018-11-11,"0.48",2018
+"Adaptive Convolution for Multi-Relational Learning@@@ConvR","Xiaotian Jiang","",2019-06-01,"0.489",2019
+"Adaptive Convolution for Multi-Relational Learning@@@ConvR","Quan Wang","Chinese Academy of Sciences",2019-06-01,"0.489",2019
+"Adaptive Convolution for Multi-Relational Learning@@@ConvR","Bin Wang","Chinese Academy of Sciences",2019-06-01,"0.489",2019
+"InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions@@@InteractE","Shikhar Vashishth","Indian Institute of Science",2019-11-01,"not available",2019
+"InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions@@@InteractE","Soumya Sanyal","Indian Institute of Science",2019-11-01,"not available",2019
+"InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions@@@InteractE","Vikram Nitin","Columbia University",2019-11-01,"not available",2019
+"InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions@@@InteractE","Nilesh Agrawal","Indian Institute of Science",2019-11-01,"not available",2019
+"InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions@@@InteractE","Partha Talukdar","Indian Institute of Science",2019-11-01,"not available",2019
+"TuckER: Tensor Factorization for Knowledge Graph Completion@@@TuckER","Ivana Balaževic","",2019-01-28,"0.482",2019
+"TuckER: Tensor Factorization for Knowledge Graph Completion@@@TuckER","Ivana Balazevic","University of Edinburgh",2019-01-28,"0.482",2019
+"TuckER: Tensor Factorization for Knowledge Graph Completion@@@TuckER","Carl Allen","",2019-01-28,"0.482",2019
+"TuckER: Tensor Factorization for Knowledge Graph Completion@@@TuckER","Timothy M. Hospedales","University of Edinburgh",2019-01-28,"0.482",2019
+"A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network@@@ConvKB","Dai Quoc Nguyen","",2017-12-06,"not available",2017
+"A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network@@@ConvKB","Tu Dinh Nguyen","Deakin University",2017-12-06,"not available",2017
+"A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network@@@ConvKB","Dat Quoc Nguyen","University of Melbourne",2017-12-06,"not available",2017
+"A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network@@@ConvKB","Dinh Phung","Deakin University",2017-12-06,"not available",2017
+"KG-BERT: BERT for Knowledge Graph Completion@@@KG-BERT(a)","Liang Yao","",2019-09-07,"not available",2019
+"KG-BERT: BERT for Knowledge Graph Completion@@@KG-BERT(a)","Chengsheng Mao","",2019-09-07,"not available",2019
+"KG-BERT: BERT for Knowledge Graph Completion@@@KG-BERT(a)","Yuan Luo","Northwestern University",2019-09-07,"not available",2019
+"Hypernetwork Knowledge Graph Embeddings@@@HypER","Ivana Balazevic","",2018-08-21,"0.477",2018
+"Hypernetwork Knowledge Graph Embeddings@@@HypER","Ivana Balaževic","University of Edinburgh",2018-08-21,"0.477",2018
+"Hypernetwork Knowledge Graph Embeddings@@@HypER","Carl Allen","University of Edinburgh",2018-08-21,"0.477",2018
+"Hypernetwork Knowledge Graph Embeddings@@@HypER","Timothy M. Hospedales","University of Edinburgh",2018-08-21,"0.477",2018
+"Convolutional 2D Knowledge Graph Embeddings@@@ConvE","Tim Dettmers","",2017-07-05,"0.440",2017
+"Convolutional 2D Knowledge Graph Embeddings@@@ConvE","Pasquale Minervini","University of Bari",2017-07-05,"0.440",2017
+"Convolutional 2D Knowledge Graph Embeddings@@@ConvE","Pontus Stenetorp","University College London",2017-07-05,"0.440",2017
+"Convolutional 2D Knowledge Graph Embeddings@@@ConvE","Sebastian Riedel","University College London",2017-07-05,"0.440",2017
+"Decompressing Knowledge Graph Representations for Link Prediction@@@RESCAL + Decom","Xiang Kong","",2019-11-11,"0.469",2019
+"Decompressing Knowledge Graph Representations for Link Prediction@@@RESCAL + Decom","Xianyang Chen","",2019-11-11,"0.469",2019
+"Decompressing Knowledge Graph Representations for Link Prediction@@@RESCAL + Decom","Eduard Hovy","Carnegie Mellon University",2019-11-11,"0.469",2019
+"A2N: Attending to Neighbors for Knowledge Graph Inference@@@A2N","Trapit Bansal","University of Massachusetts Amherst",2019-07-01,"not available",2019
+"A2N: Attending to Neighbors for Knowledge Graph Inference@@@A2N","Da-Cheng Juan","Google",2019-07-01,"not available",2019
+"A2N: Attending to Neighbors for Knowledge Graph Inference@@@A2N","Sujith Ravi","Google",2019-07-01,"not available",2019
+"A2N: Attending to Neighbors for Knowledge Graph Inference@@@A2N","Andrew McCallum","University of Massachusetts Amherst",2019-07-01,"not available",2019
+"Complex Embeddings for Simple Link Prediction@@@ComplEx","Théo Trouillon","Xerox",2016-06-20,"not available",2016
+"Complex Embeddings for Simple Link Prediction@@@ComplEx","Johannes Welbl","University College London",2016-06-20,"not available",2016
+"Complex Embeddings for Simple Link Prediction@@@ComplEx","Sebastian Riedel","University College London",2016-06-20,"not available",2016
+"Complex Embeddings for Simple Link Prediction@@@ComplEx","Eric Gaussier","",2016-06-20,"not available",2016
+"Complex Embeddings for Simple Link Prediction@@@ComplEx","Guillaume Bouchard","University College London",2016-06-20,"not available",2016
+"NSCaching: Simple and Efficient Negative Sampling for Knowledge Graph Embedding@@@ComplEx NSCaching","Yongqi Zhang","Hong Kong University of Science and Technology",2018-12-16,"not available",2018
+"NSCaching: Simple and Efficient Negative Sampling for Knowledge Graph Embedding@@@ComplEx NSCaching","Quanming Yao","Paradigm",2018-12-16,"not available",2018
+"NSCaching: Simple and Efficient Negative Sampling for Knowledge Graph Embedding@@@ComplEx NSCaching","Yingxia Shao","Beijing University of Posts and Telecommunications",2018-12-16,"not available",2018
+"NSCaching: Simple and Efficient Negative Sampling for Knowledge Graph Embedding@@@ComplEx NSCaching","Lei Chen","Hong Kong University of Science and Technology",2018-12-16,"not available",2018
+"KBGAN: Adversarial Learning for Knowledge Graph Embeddings@@@KBGAN (TransD + ComplEx)","Liwei Cai","",2017-11-11,"not available",2017
+"KBGAN: Adversarial Learning for Knowledge Graph Embeddings@@@KBGAN (TransD + ComplEx)","William Yang Wang","University of California, Santa Barbara",2017-11-11,"not available",2017
+"Convolutional 2D Knowledge Graph Embeddings@@@Inverse Model","Tim Dettmers","",2017-07-05,"0.35",2017
+"Convolutional 2D Knowledge Graph Embeddings@@@Inverse Model","Pasquale Minervini","University of Bari",2017-07-05,"0.35",2017
+"Convolutional 2D Knowledge Graph Embeddings@@@Inverse Model","Pontus Stenetorp","University College London",2017-07-05,"0.35",2017
+"Convolutional 2D Knowledge Graph Embeddings@@@Inverse Model","Sebastian Riedel","University College London",2017-07-05,"0.35",2017
+"M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search@@@M-Walk","Yelong Shen","Microsoft",2018-02-12,"0.445",2018
+"M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search@@@M-Walk","Jianshu Chen","Microsoft",2018-02-12,"0.445",2018
+"M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search@@@M-Walk","Po-Sen Huang","Microsoft",2018-02-12,"0.445",2018
+"M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search@@@M-Walk","Yuqing Guo","Microsoft",2018-02-12,"0.445",2018
+"M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search@@@M-Walk","Jianfeng Gao","Microsoft",2018-02-12,"0.445",2018
+"Embedding Entities and Relations for Learning and Inference in Knowledge Bases@@@DisMult","Bishan Yang","Cornell University",2014-12-20,"not available",2014
+"Embedding Entities and Relations for Learning and Inference in Knowledge Bases@@@DisMult","Wen-tau Yih","Microsoft",2014-12-20,"not available",2014
+"Embedding Entities and Relations for Learning and Inference in Knowledge Bases@@@DisMult","Xiaodong He","Microsoft",2014-12-20,"not available",2014
+"Embedding Entities and Relations for Learning and Inference in Knowledge Bases@@@DisMult","Jianfeng Gao","Microsoft",2014-12-20,"not available",2014
+"Embedding Entities and Relations for Learning and Inference in Knowledge Bases@@@DisMult","Li Deng","Microsoft",2014-12-20,"not available",2014
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBAT","Deepak Nathani","Indian Institute of Technology, Hyderabad",2019-06-04,"not available",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBAT","Jatin Chauhan","",2019-06-04,"not available",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBAT","Charu Sharma","Indian Institute of Technology, Hyderabad",2019-06-04,"not available",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBAT","Manohar Kaul","Indian Institute of Technology, Hyderabad",2019-06-04,"not available",2019
+"Augmenting and Tuning Knowledge Graph Embeddings@@@DistMult (after variational EM)","Robert Bamler","University of California, Irvine",2019-07-01,"not available",2019
+"Augmenting and Tuning Knowledge Graph Embeddings@@@DistMult (after variational EM)","Farnood Salehi","École Polytechnique Fédérale de Lausanne",2019-07-01,"not available",2019
+"Augmenting and Tuning Knowledge Graph Embeddings@@@DistMult (after variational EM)","Stephan Mandt","University of California, Irvine",2019-07-01,"not available",2019
+"Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction@@@HAKE","Zhanqiu Zhang","University of Science and Technology of China",2019-11-21,"0.516",2019
+"Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction@@@HAKE","Jianyu Cai","University of Science and Technology of China",2019-11-21,"0.516",2019
+"Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction@@@HAKE","Yongdong Zhang","University of Science and Technology of China",2019-11-21,"0.516",2019
+"Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction@@@HAKE","Jie Wang","University of Science and Technology of China",2019-11-21,"0.516",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBGAT","Deepak Nathani","Indian Institute of Technology, Hyderabad",2019-06-04,"0.483",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBGAT","Jatin Chauhan","",2019-06-04,"0.483",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBGAT","Charu Sharma","Indian Institute of Technology, Hyderabad",2019-06-04,"0.483",2019
+"Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBGAT","Manohar Kaul","Indian Institute of Technology, Hyderabad",2019-06-04,"0.483",2019

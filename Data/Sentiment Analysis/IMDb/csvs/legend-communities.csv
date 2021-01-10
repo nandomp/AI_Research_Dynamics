@@ -1,0 +1,25 @@
+number,name
+1,"('Fudan University', 10)"
+2,"('Carnegie Mellon University', 2)"
+3,"('Carnegie Mellon University', 4)&('Google', 2)"
+4,"('Beijing Institute of Technology', 5)"
+5,"('University of California, Los Angeles', 4)&('Zhejiang University', 1)&('Purdue University', 1)"
+6,"('Massachusetts Institute of Technology', 4)&('Harvard University', 2)"
+7,"('Princeton University', 3)&('Facebook', 1)&('University of Wisconsin-Madison', 1)"
+8,"('University of Virginia', 5)"
+9,"('University of Waterloo', 2)"
+10,"('Southern University of Science and Technology', 4)"
+11,"('Huawei', 4)"
+12,"('Tsinghua University', 3)&('Norwegian University of Science and Technology', 1)"
+13,
+14,"('Salesforce.com', 4)"
+15,"('Federal University of Pernambuco', 4)"
+16,"('OpenAI', 1)&('Kyoto University', 1)&('Google', 1)"
+17,"('University of Rochester', 1)&('National University of Singapore', 1)"
+18,"('École Polytechnique', 3)"
+19,"('Mahidol University International College', 1)&('Mahidol University', 1)"
+20,"('National University of Ireland, Galway', 1)"
+21,"('Rutgers University', 1)"
+22,"('Cardiff University', 1)&('University of Cambridge', 1)"
+23,
+24,

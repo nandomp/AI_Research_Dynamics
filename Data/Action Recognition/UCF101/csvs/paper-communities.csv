@@ -1,0 +1,43 @@
+title,communities,metric,paper_date,communities_name
+Late Temporal Modeling in 3D CNN Architectures with BERT for Action Recognition@@@R2+1D-BERT,21,98.69,2020-08-03,{'Middle East Technical University'}
+Omni-sourced Webly-supervised Learning for Video Recognition@@@OmniSource (SlowOnly-8x8-R101-RGB + I3D-Flow),2,98.6,2020-03-29,set()
+Learning Spatio-Temporal Representation with Local and Global Diffusion@@@LGD-3D Two-stream,8,98.2,2019-06-13,"{'City University of Hong Kong', 'Microsoft', 'University of Science and Technology of China'}"
+"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset@@@Two-stream I3D (on pre-trained)",13,98.0,2017-05-22,"{'Graz University of Technology', 'Google', 'University of Oxford'}"
+"MARS: Motion-Augmented RGB Stream for Action Recognition@@@MARS+RGB+Flow (64 frames, Kinetics pretrained)",3,97.8,2019-06-01,"{'French Institute for Research in Computer Science and Automation', 'École Normale Supérieure'}"
+Large Scale Holistic Video Understanding@@@HATNet (32 frames),4,97.8,2019-04-25,{'ETH Zurich'}
+Cooperative Cross-Stream Network for Discriminative Action Representation@@@CCS + TSN (ImageNet+Kinetics pretrained),14,97.4,2019-08-27,{'University of Electronic Science and Technology of China'}
+Contextual Action Cues from Camera Sensor for Multi-Stream Action Recognition@@@Multi-stream I3D ,15,97.2,2019-03-20,{'Yonsei University'}
+Hidden Two-Stream Convolutional Networks for Action Recognition@@@Hidden Two-Stream,6,97.1,2017-04-02,"{'Newcastle University', 'University of California, Merced', 'Carnegie Mellon University', 'University of East Anglia'}"
+Two-Stream Video Classification with Cross-Modality Attention@@@CMA iter1-S,16,96.5,2019-08-01,"{'Peking University', 'Huawei'}"
+STM: SpatioTemporal and Motion Encoding for Action Recognition@@@STM (ImageNet+Kinetics pretrain),9,96.2,2019-08-07,"{'Zhejiang University', 'SenseTime'}"
+"Multi-Fiber Networks for Video Recognition@@@MF-Net, RGB only (ImageNet+Kinetics pretrained)",10,96.0,2018-07-30,"{'Facebook', 'National University of Singapore'}"
+Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition@@@Optical Flow Guided Feature,11,96,2017-11-29,"{'The Chinese University of Hong Kong', 'University of Sydney', 'SenseTime'}"
+MARS: Motion-Augmented RGB Stream for Action Recognition@@@MARS+RGB+Flow (16 frames),3,95.8,2019-06-01,"{'French Institute for Research in Computer Science and Automation', 'École Normale Supérieure'}"
+Attention Distillation for Learning Video Representations@@@Prob-Distill,12,95.7,2019-04-05,"{'Georgia Institute of Technology', 'University of Wisconsin-Madison'}"
+Learning spatio-temporal representations with temporal squeeze pooling@@@TesNet (ImageNet pretrained),25,95.2,2020-02-11,{'University of York'}
+I3D-LSTM: A New Model for Human Action Recognition@@@I3D-LSTM,17,95.1,2019-08-09,set()
+Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?@@@ResNeXt-101 (64f),22,94.5,2017-11-27,{'National Institute of Advanced Industrial Science and Technology'}
+R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition@@@R-STAN-101,23,94.5,2019-06-19,{'Jilin University'}
+Temporal-Spatial Mapping for Action Recognition@@@TSN+TSM,7,94.3,2018-09-11,"{'Tianjin University', 'Microsoft', 'Chinese Academy of Sciences'}"
+TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for Activity Recognition@@@TS-LSTM,18,94.1,2017-03-30,"{'Georgia Institute of Technology', 'Georgia Tech Research Institute'}"
+"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset@@@Two-stream I3D",13,93.4,2017-05-22,"{'Graz University of Technology', 'Google', 'University of Oxford'}"
+"Convolutional Two-Stream Network Fusion for Video Action Recognition@@@S:VGG-16, T:VGG-16",13,92.5,2016-04-22,"{'Graz University of Technology', 'Google', 'University of Oxford'}"
+Dance with Flow: Two-in-One Stream Action Detection@@@two-in-one two stream,26,92,2019-04-01,{'University of Amsterdam'}
+Long-term Temporal Convolutions for Action Recognition@@@LTC,3,91.7,2016-04-15,"{'French Institute for Research in Computer Science and Automation', 'École Normale Supérieure'}"
+R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition@@@R-STAN-50,23,91.5,2019-06-19,{'Jilin University'}
+Towards Good Practices for Very Deep Two-Stream ConvNets@@@Very deep two-stream ConvNet,2,91.4,2015-07-08,set()
+Multi-region two-stream R-CNN for action detection@@@MR Two-Sream R-CNN,2+3,91.1,2016-09-17,"{'French Institute for Research in Computer Science and Automation', 'École Normale Supérieure'}"
+Beyond Short Snippets: Deep Networks for Video Classification@@@Two-stream+LSTM,1,88.6,2015-03-31,"{'University of Maryland, College Park', 'University of Texas at Austin', 'Google', 'Stanford University'}"
+Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks@@@P3D,8,88.6,2017-11-28,"{'City University of Hong Kong', 'Microsoft', 'University of Science and Technology of China'}"
+Two-Stream Convolutional Networks for Action Recognition in Videos@@@Two-stream,13,88.0,2014-06-09,"{'Graz University of Technology', 'Google', 'University of Oxford'}"
+Bag of Visual Words and Fusion Methods for Action Recognition: Comprehensive Study and Good Practice@@@iDT+HSV,2,87.9,2014-05-18,set()
+DistInit: Learning Video Representations Without a Single Labeled Video@@@R(2+1)D-18 (DistInit pretraining),19,85.8,2019-01-26,"{'Facebook', 'Carnegie Mellon University'}"
+Resource Efficient 3D Convolutional Neural Networks@@@3D-SqueezeNet,20,74.94,2019-04-04,"{'Intel', 'Technische Universität München'}"
+Large-Scale Video Classification with Convolutional Neural Networks@@@Slow Fusion + Finetune top 3 layers,1,65.4,2014-06-23,"{'University of Maryland, College Park', 'University of Texas at Austin', 'Google', 'Stanford University'}"
+MLGCN: Multi-Laplacian Graph Convolutional Networks for Human Action Recognition@@@MLGCN,27,63.27,2019-09-11,set()
+Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics@@@Pretrained on Kinetics,5,61.2,2019-04-07,"{'The Chinese University of Hong Kong', 'University of Oxford', 'Tencent', 'South China University of Technology'}"
+Resource Efficient 3D Convolutional Neural Networks@@@3D-ShuffleNetV2 0.25x,20,56.52,2019-04-04,"{'Intel', 'Technische Universität München'}"
+Resource Efficient 3D Convolutional Neural Networks@@@3D-MobileNetV2 0.2x,20,55.56,2019-04-04,"{'Intel', 'Technische Universität München'}"
+UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild@@@Baseline UCF101,24,43.9,2012-12-03,set()
+Towards Universal Representation for Unseen Action Recognition@@@CD-UAR,6,42.5,2018-03-22,"{'Newcastle University', 'University of California, Merced', 'Carnegie Mellon University', 'University of East Anglia'}"
+PoTion: Pose MoTion Representation for Action Recognition@@@I3D + PoTion,3,29.3,2018-06-01,"{'French Institute for Research in Computer Science and Automation', 'École Normale Supérieure'}"

@@ -1,0 +1,12 @@
+number,name
+1,"('Google', 18)&('University of Alberta', 2)&('Carnegie Mellon University', 1)&('University of Cambridge', 1)"
+2,"('Google', 8)&('Université de Montréal', 1)&('Stanford University', 1)"
+3,"('Google', 1)"
+4,"('University of California, Berkeley', 3)&('University of Edinburgh', 3)&('OpenAI', 2)"
+5,"('Microsoft', 4)&('University of California, Santa Barbara', 3)&('Duke University', 1)"
+6,"('Google', 4)&('University of Michigan', 2)"
+7,
+8,"('Australian National University', 3)"
+9,"('University of Toulouse', 3)&('University of York', 1)"
+10,
+11,"('Xiaomi', 1)"

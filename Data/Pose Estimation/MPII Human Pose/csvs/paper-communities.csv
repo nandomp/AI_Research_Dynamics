@@ -1,0 +1,33 @@
+title,communities,metric,paper_date,communities_name
+Toward fast and accurate human pose estimation via soft-gated skip connections@@@Soft-gated Skip Connections,9,94.1,2020-02-25,"{'University of Nottingham', 'Imperial College London'}"
+Cascade Feature Aggregation for Human Pose Estimation@@@Cascade Feature Aggregation,6,93.9,2019-02-21,set()
+UniPose: Unified Human Pose Estimation in Single Images and Videos@@@UniPose,21,92.7,2020-01-22,{'Rochester Institute of Technology'}
+Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN,1,92.6%,2019-01-01,"{'Microsoft', 'University of Science and Technology of China', 'Peking University', 'Tongji University', 'Shanghai Jiao Tong University'}"
+Human Pose Estimation with Spatial Contextual Information@@@Spatial Context,3,92.5%,2019-01-07,"{'The Chinese University of Hong Kong', 'Baidu'}"
+Deep High-Resolution Representation Learning for Human Pose Estimation@@@HRNet-W32,1,92.3%,2019-02-25,"{'Microsoft', 'University of Science and Technology of China', 'Peking University', 'Tongji University', 'Shanghai Jiao Tong University'}"
+Deeply Learned Compositional Models for Human Pose Estimation@@@DLCM,14,92.3,2018-09-01,{'Northwestern University'}
+Multi-Scale Structure-Aware Network for Human Pose Estimation@@@Multi-Scale Structure-Aware Network,10,92.1%,2018-03-27,"{'State University of New York System', 'Chinese Academy of Sciences'}"
+Learning Feature Pyramids for Human Pose Estimation@@@Pyramid Residual Modules (PRMs),4, 92.0%,2017-08-03,"{'Tsinghua University', 'The Chinese University of Hong Kong', 'Johns Hopkins University'}"
+Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation@@@Chen et al. ICCV'17,7,91.9%,2017-04-30,"{'University of Adelaide', 'Nanjing University', 'Nanjing University of Science and Technology'}"
+Self Adversarial Training for Human Pose Estimation@@@Chou et al. arXiv'17,15,91.8%,2017-07-08,{'National Tsing Hua University'}
+Multi-Context Attention for Human Pose Estimation@@@Multi-Context Attention,4,91.5%,2017-02-24,"{'Tsinghua University', 'The Chinese University of Hong Kong', 'Johns Hopkins University'}"
+Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation@@@Residual Hourglass +ASR+AHO,2,91.5%,2018-05-24,"{'SenseTime', 'Binghamton University', 'Facebook', 'IBM', 'Rutgers University'}"
+Quantized Densely Connected U-Nets for Efficient Landmark Localization@@@DU-Net,2,91.2%,2018-08-07,"{'SenseTime', 'Binghamton University', 'Facebook', 'IBM', 'Rutgers University'}"
+Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation@@@Stacked hourglass + Inception-resnet,16,91.2%,2017-05-05,"{'Shenzhen University', 'University of Missouri'}"
+EfficientPose: Scalable single-person pose estimation@@@EfficientPose IV,17,91.2,2020-04-25,{'Norwegian University of Science and Technology'}
+Fast Human Pose Estimation@@@FPD,18,91.1%,2018-11-13,{'University of Electronic Science and Technology of China'}
+Integral Human Pose Regression@@@Integral Regression,1,91.0%,2017-11-22,"{'Microsoft', 'University of Science and Technology of China', 'Peking University', 'Tongji University', 'Shanghai Jiao Tong University'}"
+Stacked Hourglass Networks for Human Pose Estimation@@@Stacked Hourglass Networks,19,90.9%,2016-03-22,{'University of Michigan'}
+Pose Neural Fabrics Search@@@Searchable Neural Fabrics,20,90.1%,2019-09-16,"{'Nanjing University of Science and Technology', 'Southeast University'}"
+Human pose estimation via Convolutional Part Heatmap Regression@@@Human Pose Estimation,9,89.7%,2016-09-06,"{'University of Nottingham', 'Imperial College London'}"
+Human pose estimation via Convolutional Part Heatmap Regression@@@Part heatmap regression (ResNet-152),9,89.7%,2016-09-06,"{'University of Nottingham', 'Imperial College London'}"
+Numerical Coordinate Regression with Convolutional Neural Networks@@@DSNTr ResNet-50@28px,11,89.5%,2018-01-23,set()
+CU-Net: Coupled U-Nets@@@CU-Net,2,89.4%,2018-08-20,"{'SenseTime', 'Binghamton University', 'Facebook', 'IBM', 'Rutgers University'}"
+EfficientPose: Scalable single-person pose estimation@@@OpenPose,17,88.8,2020-04-25,{'Norwegian University of Science and Technology'}
+Convolutional Pose Machines@@@Convolutional Pose Machines,12,88.52%,2016-01-30,{'Carnegie Mellon University'}
+"DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model@@@ResNet-152 + intermediate supervision",5,88.52%,2016-05-10,{'Max Planck Society'}
+T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor@@@Tucker T-Net,9,87.5%,2019-04-04,"{'University of Nottingham', 'Imperial College London'}"
+Human Pose Estimation using Deep Consensus Voting@@@Lifshitz et al.,13,85.0%,2016-03-27,{'Weizmann Institute of Science'}
+EfficientPose: Scalable single-person pose estimation@@@EfficientPose RT,17,84.8,2020-04-25,{'Norwegian University of Science and Technology'}
+DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation@@@DeepCut,5,82.40%,2015-11-20,{'Max Planck Society'}
+Efficient Object Localization Using Convolutional Networks@@@Tompson et al.,8,82.0%,2014-11-16,{'New York University'}

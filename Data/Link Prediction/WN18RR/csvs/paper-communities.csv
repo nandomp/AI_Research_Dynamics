@@ -1,0 +1,40 @@
+title,communities,metric,paper_date,communities_name
+Theoretical Knowledge Graph Reasoning via Ending Anchored Rules@@@EARDict Basic,2,0.935,2020-11-12,"{'University of Zurich', 'Zhejiang University', 'University of Oxford', 'Alibaba Group'}"
+MLMLM: Link Prediction with Mean Likelihood Masked Language Model@@@MLMLM,8,0.5418,2020-09-15,set()
+Knowledge Graph Embedding via Graph Attenuated Attention Networks@@@GAAT,9,0.525,2019-12-31,{'Huaqiao University'}
+Predicting Semantic Relations using Global Graph Properties@@@M3GM,22,not available,2018-08-27,{'Georgia Institute of Technology'}
+Low-Dimensional Hyperbolic Knowledge Graph Embeddings@@@RotH,3,0.514,2020-05-01,"{'Google', 'University of Massachusetts Amherst', 'Stanford University'}"
+Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding@@@GC-OTE,1,0.511,2019-11-09,"{'Microsoft', 'University of Connecticut', 'Cornell University', 'University of Michigan'}"
+Quaternion Knowledge Graph Embeddings@@@QuatE,12,0.508,2019-04-23,"{'Facebook', 'University of New South Wales', 'Nanyang Technological University'}"
+Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction@@@HAKE,13,0.516,2019-11-21,{'University of Science and Technology of China'}
+Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBGAT,14,0.483,2019-06-04,"{'Indian Institute of Technology, Hyderabad'}"
+DensE: An Enhanced Non-Abelian Group Representation for Knowledge Graph Embedding@@@DensE,23,0.508,2020-08-11,{'Huawei'}
+RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@RotatE,15,0.492,2019-02-26,"{'Université de Montréal', 'Peking University', 'HEC Montréal'}"
+Canonical Tensor Decomposition for Knowledge Base Completion@@@ComplEx-N3 (reciprocal),5,not available,2018-06-19,"{'Facebook', 'Google', 'École des ponts ParisTech', 'Centre national de la recherche scientifique'}"
+AutoSF: Searching Scoring Functions for Knowledge Graph Embedding@@@AutoSF,11,not available,2019-04-26,"{'Beijing University of Posts and Telecommunications', 'Paradigm', 'Hong Kong University of Science and Technology'}"
+Multi-relational Poincaré Graph Embeddings@@@MuRP,17,0.495,2019-05-23,{'University of Edinburgh'}
+Contextual Parameter Generation for Knowledge Graph Link Prediction@@@CoPER-ConvE,6,not available,2020-04-03,{'Carnegie Mellon University'}
+MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs@@@MDE_adv,16,not available,2019-05-25,"{'University of Bonn', 'Fraunhofer Society'}"
+A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization@@@CapsE,10,not available,2018-08-13,"{'Deakin University', 'University of Melbourne', 'Commonwealth Scientific and Industrial Research Organisation'}"
+Relation Embedding with Dihedral Group in Knowledge Graph@@@DihEdral,24,0.505,2019-06-03,{'eBay'}
+Translating Embeddings for Modeling Multi-relational Data@@@TransE,5,not available,2013-12-01,"{'Facebook', 'Google', 'École des ponts ParisTech', 'Centre national de la recherche scientifique'}"
+RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space@@@pRotatE,15,0.479,2019-02-26,"{'Université de Montréal', 'Peking University', 'HEC Montréal'}"
+Composition-based Multi-Relational Graph Convolutional Networks@@@CompGCN,7,0.494,2019-11-08,"{'Columbia University', 'Indian Institute of Science'}"
+End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion@@@Structure-Aware Convolutional Networks,1,0.48,2018-11-11,"{'Microsoft', 'University of Connecticut', 'Cornell University', 'University of Michigan'}"
+Adaptive Convolution for Multi-Relational Learning@@@ConvR,18,0.489,2019-06-01,{'Chinese Academy of Sciences'}
+InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions@@@InteractE,7,not available,2019-11-01,"{'Columbia University', 'Indian Institute of Science'}"
+TuckER: Tensor Factorization for Knowledge Graph Completion@@@TuckER,17,0.482,2019-01-28,{'University of Edinburgh'}
+A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network@@@ConvKB,10,not available,2017-12-06,"{'Deakin University', 'University of Melbourne', 'Commonwealth Scientific and Industrial Research Organisation'}"
+KG-BERT: BERT for Knowledge Graph Completion@@@KG-BERT(a),19,not available,2019-09-07,{'Northwestern University'}
+Hypernetwork Knowledge Graph Embeddings@@@HypER,17,0.477,2018-08-21,{'University of Edinburgh'}
+Convolutional 2D Knowledge Graph Embeddings@@@ConvE,4,0.440,2017-07-05,"{'University of Bari', 'Xerox', 'University College London'}"
+Decompressing Knowledge Graph Representations for Link Prediction@@@RESCAL + Decom,20,0.469,2019-11-11,{'Carnegie Mellon University'}
+A2N: Attending to Neighbors for Knowledge Graph Inference@@@A2N,3,not available,2019-07-01,"{'Google', 'University of Massachusetts Amherst', 'Stanford University'}"
+Complex Embeddings for Simple Link Prediction@@@ComplEx,4,not available,2016-06-20,"{'University of Bari', 'Xerox', 'University College London'}"
+NSCaching: Simple and Efficient Negative Sampling for Knowledge Graph Embedding@@@ComplEx NSCaching,11,not available,2018-12-16,"{'Beijing University of Posts and Telecommunications', 'Paradigm', 'Hong Kong University of Science and Technology'}"
+KBGAN: Adversarial Learning for Knowledge Graph Embeddings@@@KBGAN (TransD + ComplEx),25,not available,2017-11-11,"{'University of California, Santa Barbara'}"
+Convolutional 2D Knowledge Graph Embeddings@@@Inverse Model,4,0.35,2017-07-05,"{'University of Bari', 'Xerox', 'University College London'}"
+M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search@@@M-Walk,1,0.445,2018-02-12,"{'Microsoft', 'University of Connecticut', 'Cornell University', 'University of Michigan'}"
+Embedding Entities and Relations for Learning and Inference in Knowledge Bases@@@DisMult,1,not available,2014-12-20,"{'Microsoft', 'University of Connecticut', 'Cornell University', 'University of Michigan'}"
+Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs@@@KBAT,14,not available,2019-06-04,"{'Indian Institute of Technology, Hyderabad'}"
+Augmenting and Tuning Knowledge Graph Embeddings@@@DistMult (after variational EM),21,not available,2019-07-01,"{'University of California, Irvine', 'École Polytechnique Fédérale de Lausanne'}"

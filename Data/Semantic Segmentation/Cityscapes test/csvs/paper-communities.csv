@@ -1,0 +1,92 @@
+title,communities,metric,paper_date,communities_name
+SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation@@@SDC-Depth,16,not available,2020-06-01,"{'Adobe Systems', 'Dalian University of Technology'}"
+Variational Context-Deformable ConvNets for Indoor Scene Parsing@@@VCD No Coarse,23,not available,2020-06-01,{'Northwestern Polytechnical University'}
+CASENet: Deep Category-Aware Semantic Edge Detection@@@CASENet,24,not available,2017-05-27,"{'Mitsubishi Electric', 'Carnegie Mellon University'}"
+Hierarchical Multi-Scale Attention for Semantic Segmentation@@@HRNet-OCR (Hierarchical Multi-Scale Attention),3,85.1%,2020-05-21,"{'Nvidia', 'University of California, Merced'}"
+Object-Contextual Representations for Semantic Segmentation@@@HRNetV2 + OCR +,5,84.5%,2019-09-24,"{'Huazhong University of Science and Technology', 'Baidu', 'University of Illinois at Urbana–Champaign'}"
+EfficientPS: Efficient Panoptic Segmentation@@@EfficientPS,32,not available,2020-04-05,{'University of Freiburg'}
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab",1,84.2%,2019-11-22,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+Object-Contextual Representations for Semantic Segmentation@@@HRNetV2 + OCR (w/ ASP),5,83.7%,2019-09-24,"{'Huazhong University of Science and Technology', 'Baidu', 'University of Illinois at Urbana–Champaign'}"
+DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation@@@DCNAS,11,83.6%,2020-03-26,set()
+Improving Semantic Segmentation via Video Propagation and Label Relaxation@@@DeepLabV3Plus + SDCNetAug,3,83.5%,2018-12-04,"{'Nvidia', 'University of California, Merced'}"
+Global Aggregation then Local Distribution in Fully Convolutional Networks@@@GALDNet(+Mapillary)++,2,83.3%,2019-09-16,"{'Peking University', 'Stanford University', 'University of Oxford'}"
+ResNeSt: Split-Attention Networks@@@ResNeSt200,3,83.3%,2020-04-19,"{'Nvidia', 'University of California, Merced'}"
+Cars Can't Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks@@@HANet (Height-driven Attention Networks by LGE A&B),31,83.2%,2020-03-11,"{'Korea University', 'KAIST'}"
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (HRNetV2-W48, coarse)",5,83.0%,2019-09-24,"{'Huazhong University of Science and Technology', 'Baidu', 'University of Illinois at Urbana–Champaign'}"
+Multi Receptive Field Network for Semantic Segmentation@@@MRFM,12,83.0%,2020-11-17,"{'Samsung', 'University of Electronic Science and Technology of China'}"
+Disentangled Non-Local Neural Networks@@@DNL (ours),8,83%,2020-06-11,set()
+Scene Segmentation with Dual Relation-aware Attention Network@@@DRAN(ResNet-101) WITH ONLY FINE ANNOTATED DATA,7,82.9%,2020-08-05,{'Chinese Academy of Sciences'}
+Gated-SCNN: Gated Shape CNNs for Semantic Segmentation@@@Gated-SCNN,25,82.8%,2019-07-12,"{'Nvidia', 'University of Toronto', 'University of Waterloo'}"
+Searching for Efficient Multi-Scale Architectures for Dense Image Prediction@@@Dense Prediction Cell,1,82.7%,2018-09-11,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (ResNet-101, coarse)",5,82.4%,2019-09-24,"{'Huazhong University of Science and Technology', 'Baidu', 'University of Illinois at Urbana–Champaign'}"
+Self-Supervised Model Adaptation for Multimodal Semantic Segmentation@@@SSMA,32,82.3%,2018-08-11,{'University of Freiburg'}
+GFF: Gated Fully Fusion for Semantic Segmentation@@@Gated Fully Fusion,2,82.3%,2019-04-03,"{'Peking University', 'Stanford University', 'University of Oxford'}"
+Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation@@@DeepLabv3+ (Xception-JFT),1,82.1%,2018-02-07,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation@@@Auto-DeepLab-L,1,82.1%,2019-01-10,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+In-Place Activated BatchNorm for Memory-Optimized Training of DNNs@@@Mapillary,33,82.0%,2017-12-07,{'Microsoft'}
+Dual Graph Convolutional Network for Semantic Segmentation@@@DGCNet (ResNet-101),2,82%,2019-09-13,"{'Peking University', 'Stanford University', 'University of Oxford'}"
+Object-Contextual Representations for Semantic Segmentation@@@OCR (ResNet-101),5,81.8%,2019-09-24,"{'Huazhong University of Science and Technology', 'Baidu', 'University of Illinois at Urbana–Champaign'}"
+OCNet: Object Context Network for Scene Parsing@@@OCNet,5,81.7%,2018-09-04,"{'Huazhong University of Science and Technology', 'Baidu', 'University of Illinois at Urbana–Champaign'}"
+High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48),5,81.6%,2019-04-09,"{'Huazhong University of Science and Technology', 'Baidu', 'University of Illinois at Urbana–Champaign'}"
+Dual Attention Network for Scene Segmentation@@@DANet (ResNet-101),7,81.5%,2018-09-09,{'Chinese Academy of Sciences'}
+CCNet: Criss-Cross Attention for Semantic Segmentation@@@CCNet,5,81.4%,2018-11-28,"{'Huazhong University of Science and Technology', 'Baidu', 'University of Illinois at Urbana–Champaign'}"
+PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101),4,80.1%,2018-09-01,"{'The Chinese University of Hong Kong', 'SenseTime', 'University of California, Berkeley', 'Tencent'}"
+Boundary-Aware Feature Propagation for Scene Segmentation@@@BFP,13,81.4%,2019-08-31,"{'Amazon.com', 'University of Geneva', 'Nanyang Technological University', 'Alibaba Group'}"
+"Rethinking Atrous Convolution for Semantic Image Segmentation@@@DeepLabv3 (ResNet-101, coarse)",1,81.3%,2017-06-17,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+Context Prior for Scene Segmentation@@@CPN(ResNet-101),6,81.3%,2020-04-03,"{'Peking University', 'University of Adelaide', 'Huazhong University of Science and Technology'}"
+Asymmetric Non-local Neural Networks for Semantic Segmentation@@@Asymmetric ALNN,17,81.3%,2019-08-21,"{'Huazhong University of Science and Technology', 'University of Oxford'}"
+Self-Supervised Model Adaptation for Multimodal Semantic Segmentation@@@AdapNet++,32,81.24%,2018-08-11,{'University of Freiburg'}
+Pyramid Scene Parsing Network@@@PSPNet (ResNet-101),4,78.4%,2016-12-04,"{'The Chinese University of Hong Kong', 'SenseTime', 'University of California, Berkeley', 'Tencent'}"
+Semantic Correlation Promoted Shape-Variant Context for Segmentation@@@SVCNet (ResNet-101),13,81.0%,2019-09-05,"{'Amazon.com', 'University of Geneva', 'Nanyang Technological University', 'Alibaba Group'}"
+DenseASPP for Semantic Segmentation in Street Scenes@@@DenseASPP (DenseNet-161),2,80.6%,2018-06-01,"{'Peking University', 'Stanford University', 'University of Oxford'}"
+Learning a Discriminative Feature Network for Semantic Segmentation@@@Smooth Network with Channel Attention Block,6,80.3%,2018-04-25,"{'Peking University', 'University of Adelaide', 'Huazhong University of Science and Technology'}"
+Learning a Discriminative Feature Network for Semantic Segmentation@@@DFN (ResNet-101),6,79.3%,2018-04-25,"{'Peking University', 'University of Adelaide', 'Huazhong University of Science and Technology'}"
+Adaptive Affinity Fields for Semantic Segmentation@@@AAF (ResNet-101),4,79.1%,2018-03-27,"{'The Chinese University of Hong Kong', 'SenseTime', 'University of California, Berkeley', 'Tencent'}"
+ShelfNet for Fast Semantic Segmentation@@@ShelfNet-34,26,79.0%,2018-11-27,"{'National Institute of Informatics', 'Yale University'}"
+BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation@@@BiSeNet (ResNet-101),6,78.9%,2018-08-02,"{'Peking University', 'University of Adelaide', 'Huazhong University of Science and Technology'}"
+Wider or Deeper: Revisiting the ResNet Model for Visual Recognition@@@ResNet-38,6,78.4%,2016-11-30,"{'Peking University', 'University of Adelaide', 'Huazhong University of Science and Technology'}"
+Recurrent Scene Parsing with Perspective Understanding in the Loop@@@DepthSeg (ResNet-101),35,78.2%,2017-05-20,"{'University of California', 'University of California, Irvine'}"
+Dynamic-structured Semantic Propagation Network@@@DSSPN (ResNet-101),34,77.8%,2018-03-16,{'Carnegie Mellon University'}
+Understanding Convolution for Semantic Segmentation@@@DUC-HDC (ResNet-101),2,77.6%,2017-02-27,"{'Peking University', 'Stanford University', 'University of Oxford'}"
+In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images@@@SwiftNetRN-18,18,75.5%,2019-03-20,set()
+RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation@@@RefineNet (ResNet-101),6,73.6%,2016-11-20,"{'Peking University', 'University of Adelaide', 'Huazhong University of Science and Technology'}"
+Searching for MobileNetV3@@@MobileNet V3-Large 1.0,1,72.6%,2019-05-06,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Large),19,72.5%,2019-08-05,"{'University of California, Berkeley'}"
+Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes@@@FRRN,27,71.8%,2016-11-24,{'RWTH Aachen University'}
+Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation@@@LRR-4x,35,71.8%,2016-05-08,"{'University of California', 'University of California, Irvine'}"
+Efficient piecewise training of deep structured models for semantic segmentation@@@Context,6,71.6%,2015-04-04,"{'Peking University', 'University of Adelaide', 'Huazhong University of Science and Technology'}"
+FasterSeg: Searching for Faster Real-time Semantic Segmentation@@@FasterSeg,14,71.5%,2019-12-23,"{'Texas A&M University', 'Samsung', 'Harbin Institute of Technology'}"
+DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation@@@DFANet A,28,71.3%,2019-04-03,{'Beijing Institute of Technology'}
+LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-DarkNet19,36,70.75%,2019-12-13,{'Ain Shams University'}
+ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation@@@ESNet,9,70.7%,2019-06-24,"{'Nanjing University of Posts and Telecommunications', 'Temple University'}"
+ICNet for Real-Time Semantic Segmentation on High-Resolution Images@@@ICNet,4,70.6%,2017-04-27,"{'The Chinese University of Hong Kong', 'SenseTime', 'University of California, Berkeley', 'Tencent'}"
+LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation@@@LEDNet,9,70.6%,2019-05-07,"{'Nanjing University of Posts and Telecommunications', 'Temple University'}"
+"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs@@@DeepLab-CRF (ResNet-101)",1,70.4%,2016-06-02,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation@@@ERFNet (PyTorch),20,69.8%,2017-10-09,"{'Commonwealth Scientific and Industrial Research Organisation', 'University of Alcalá'}"
+Fast-SCNN: Fast Semantic Segmentation Network@@@Fast-SCNN,22,68%,2019-02-12,"{""King's College London"", 'University of Cambridge', 'Toshiba'}"
+LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-MobileNet,36,67.81%,2019-12-13,{'Ain Shams University'}
+LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LiteSeg-MobileNet,36,67.81%,2019-12-13,{'Ain Shams University'}
+Template-Based Automatic Search of Compact Semantic Segmentation Architectures@@@Template-Based NAS-arch1,6,67.8%,2019-04-04,"{'Peking University', 'University of Adelaide', 'Huazhong University of Science and Technology'}"
+Template-Based Automatic Search of Compact Semantic Segmentation Architectures@@@Template-Based NAS-arch0,6,67.7%,2019-04-04,"{'Peking University', 'University of Adelaide', 'Huazhong University of Science and Technology'}"
+Multi-Scale Context Aggregation by Dilated Convolutions@@@Dilation10,37,67.1%,2015-11-23,"{'Princeton University', 'Intel'}"
+Semantic Image Segmentation via Deep Parsing Network@@@DPN,4,66.8%,2015-09-09,"{'The Chinese University of Hong Kong', 'SenseTime', 'University of California, Berkeley', 'Tencent'}"
+SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Small),19,66.8%,2019-08-05,"{'University of California, Berkeley'}"
+SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder@@@SINet,15,66.5%,2019-11-20,"{'Seoul National University', 'Naver Corporation'}"
+"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network@@@ESPNetv2",21,66.2%,2018-11-28,"{'Allen Institute for Artificial Intelligence', 'University of Washington'}"
+Fully Convolutional Networks for Semantic Segmentation@@@FCN,38,65.3%,2016-05-20,"{'University of California, Berkeley'}"
+LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-ShuffleNet,36,65.17%,2019-12-13,{'Ain Shams University'}
+LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LiteSeg-ShuffleNet,36,65.17%,2019-12-13,{'Ain Shams University'}
+Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs@@@DeepLab,1,63.1%,2014-12-22,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks@@@ENet + Lovász-Softmax,39,63.06%,2017-05-24,{'Katholieke Universiteit Leuven'}
+Conditional Random Fields as Recurrent Neural Networks@@@CRF-RNN,5+2,62.5%,2015-02-11,"{'Baidu', 'Huazhong University of Science and Technology', 'Peking University', 'University of Oxford', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation@@@ESPNet,21,60.3%,2018-03-19,"{'Allen Institute for Artificial Intelligence', 'University of Washington'}"
+ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation@@@ENet,29,58.3%,2016-06-07,"{'Purdue University', 'University of Warsaw'}"
+SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation@@@SegNet,22,57.0%,2015-11-02,"{""King's College London"", 'University of Cambridge', 'Toshiba'}"
+PolyTransform: Deep Polygon Transformer for Instance Segmentation@@@PolyTransform,10,not available,2019-12-05,"{'North China University of Water Conservancy and Electric Power', 'Uber ', 'University of Toronto'}"
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Mapillary Vistas]",1,not available,2019-11-22,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Cityscapes-fine]",1,not available,2019-11-22,"{'Beijing Jiaotong University', 'University of Cincinnati', 'Google', 'University College London', 'Johns Hopkins University', 'University of Illinois at Urbana–Champaign', 'Stanford University'}"
+Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth,30,not available,2019-06-26,{'Katholieke Universiteit Leuven'}
+Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Learnable Margin,30,not available,2019-06-26,{'Katholieke Universiteit Leuven'}
+Pixelwise Instance Segmentation with a Dynamically Instantiated Network@@@Dynamically Instantiated Network,2,not available,2017-04-07,"{'Peking University', 'Stanford University', 'University of Oxford'}"
+Deep Watershed Transform for Instance Segmentation@@@Deep Watershed Transform,10,not available,2016-11-24,"{'North China University of Water Conservancy and Electric Power', 'Uber ', 'University of Toronto'}"
+Semantic Instance Segmentation with a Discriminative Loss Function@@@Semantic Instance Segmentation with a Discriminative Loss Function,30,not available,2017-08-08,{'Katholieke Universiteit Leuven'}

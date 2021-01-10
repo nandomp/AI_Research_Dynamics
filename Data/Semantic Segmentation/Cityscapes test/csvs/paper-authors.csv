@@ -1,0 +1,442 @@
+"title","authors","affiliations","paper_date","metric","year"
+"SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation@@@SDC-Depth","Lijun Wang","Dalian University of Technology",2020-06-01,"not available",2020
+"SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation@@@SDC-Depth","Jianming Zhang","Adobe Systems",2020-06-01,"not available",2020
+"SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation@@@SDC-Depth","Oliver Wang","Adobe Systems",2020-06-01,"not available",2020
+"SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation@@@SDC-Depth","Zhe Lin","Adobe Systems",2020-06-01,"not available",2020
+"SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation@@@SDC-Depth","Huchuan Lu","Dalian University of Technology",2020-06-01,"not available",2020
+"Variational Context-Deformable ConvNets for Indoor Scene Parsing@@@VCD No Coarse","Zhitong Xiong","Northwestern Polytechnical University",2020-06-01,"not available",2020
+"Variational Context-Deformable ConvNets for Indoor Scene Parsing@@@VCD No Coarse","Yuan Yuan","Northwestern Polytechnical University",2020-06-01,"not available",2020
+"Variational Context-Deformable ConvNets for Indoor Scene Parsing@@@VCD No Coarse","Nianhui Guo","",2020-06-01,"not available",2020
+"Variational Context-Deformable ConvNets for Indoor Scene Parsing@@@VCD No Coarse","Qi Wang","Northwestern Polytechnical University",2020-06-01,"not available",2020
+"CASENet: Deep Category-Aware Semantic Edge Detection@@@CASENet","Zhiding Yu","Carnegie Mellon University",2017-05-27,"not available",2017
+"CASENet: Deep Category-Aware Semantic Edge Detection@@@CASENet","Chen Feng","Carnegie Mellon University",2017-05-27,"not available",2017
+"CASENet: Deep Category-Aware Semantic Edge Detection@@@CASENet","Ming-Yu Liu","Mitsubishi Electric",2017-05-27,"not available",2017
+"CASENet: Deep Category-Aware Semantic Edge Detection@@@CASENet","Srikumar Ramalingam","Mitsubishi Electric",2017-05-27,"not available",2017
+"Hierarchical Multi-Scale Attention for Semantic Segmentation@@@HRNet-OCR (Hierarchical Multi-Scale Attention)","Andrew Tao","",2020-05-21,"85.1%",2020
+"Hierarchical Multi-Scale Attention for Semantic Segmentation@@@HRNet-OCR (Hierarchical Multi-Scale Attention)","Karan Sapra","",2020-05-21,"85.1%",2020
+"Hierarchical Multi-Scale Attention for Semantic Segmentation@@@HRNet-OCR (Hierarchical Multi-Scale Attention)","Bryan Catanzaro","",2020-05-21,"85.1%",2020
+"Object-Contextual Representations for Semantic Segmentation@@@HRNetV2 + OCR +","Yuhui Yuan","",2019-09-24,"84.5%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@HRNetV2 + OCR +","Xilin Chen","",2019-09-24,"84.5%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@HRNetV2 + OCR +","Jingdong Wang","",2019-09-24,"84.5%",2019
+"EfficientPS: Efficient Panoptic Segmentation@@@EfficientPS","Rohit Mohan","University of Freiburg",2020-04-05,"84.21%",2020
+"EfficientPS: Efficient Panoptic Segmentation@@@EfficientPS","Abhinav Valada","University of Freiburg",2020-04-05,"84.21%",2020
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab","Bowen Cheng","University of Illinois at Urbana–Champaign",2019-11-22,"84.2%",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab","Maxwell D. Collins","Google",2019-11-22,"84.2%",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab","Yukun Zhu","Google",2019-11-22,"84.2%",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab","Ting Liu","Beijing Jiaotong University",2019-11-22,"84.2%",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab","Thomas S. Huang","University of Illinois at Urbana–Champaign",2019-11-22,"84.2%",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab","Hartwig Adam","Google",2019-11-22,"84.2%",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab","Liang-Chieh Chen","Google",2019-11-22,"84.2%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@HRNetV2 + OCR (w/ ASP)","Yuhui Yuan","",2019-09-24,"83.7%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@HRNetV2 + OCR (w/ ASP)","Xilin Chen","",2019-09-24,"83.7%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@HRNetV2 + OCR (w/ ASP)","Jingdong Wang","",2019-09-24,"83.7%",2019
+"DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation@@@DCNAS","Xiong Zhang","",2020-03-26,"83.6%",2020
+"DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation@@@DCNAS","Hongmin Xu","",2020-03-26,"83.6%",2020
+"DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation@@@DCNAS","Hong Mo","",2020-03-26,"83.6%",2020
+"DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation@@@DCNAS","Jianchao Tan","",2020-03-26,"83.6%",2020
+"DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation@@@DCNAS","Cheng Yang","",2020-03-26,"83.6%",2020
+"DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation@@@DCNAS","Wenqi Ren","",2020-03-26,"83.6%",2020
+"Improving Semantic Segmentation via Video Propagation and Label Relaxation@@@DeepLabV3Plus + SDCNetAug","Yi Zhu","University of California, Merced",2018-12-04,"83.5%",2018
+"Improving Semantic Segmentation via Video Propagation and Label Relaxation@@@DeepLabV3Plus + SDCNetAug","Karan Sapra","Nvidia",2018-12-04,"83.5%",2018
+"Improving Semantic Segmentation via Video Propagation and Label Relaxation@@@DeepLabV3Plus + SDCNetAug","Fitsum A. Reda","Nvidia",2018-12-04,"83.5%",2018
+"Improving Semantic Segmentation via Video Propagation and Label Relaxation@@@DeepLabV3Plus + SDCNetAug","Kevin J. Shih","Nvidia",2018-12-04,"83.5%",2018
+"Improving Semantic Segmentation via Video Propagation and Label Relaxation@@@DeepLabV3Plus + SDCNetAug","Shawn Newsam","University of California, Merced",2018-12-04,"83.5%",2018
+"Improving Semantic Segmentation via Video Propagation and Label Relaxation@@@DeepLabV3Plus + SDCNetAug","Andrew Tao","Nvidia",2018-12-04,"83.5%",2018
+"Improving Semantic Segmentation via Video Propagation and Label Relaxation@@@DeepLabV3Plus + SDCNetAug","Bryan Catanzaro","Nvidia",2018-12-04,"83.5%",2018
+"Global Aggregation then Local Distribution in Fully Convolutional Networks@@@GALDNet(+Mapillary)++","Xiangtai Li","Peking University",2019-09-16,"83.3%",2019
+"Global Aggregation then Local Distribution in Fully Convolutional Networks@@@GALDNet(+Mapillary)++","Li Zhang","University of Oxford",2019-09-16,"83.3%",2019
+"Global Aggregation then Local Distribution in Fully Convolutional Networks@@@GALDNet(+Mapillary)++","Ansheng You","Peking University",2019-09-16,"83.3%",2019
+"Global Aggregation then Local Distribution in Fully Convolutional Networks@@@GALDNet(+Mapillary)++","Maoke Yang","",2019-09-16,"83.3%",2019
+"Global Aggregation then Local Distribution in Fully Convolutional Networks@@@GALDNet(+Mapillary)++","Kuiyuan Yang","",2019-09-16,"83.3%",2019
+"Global Aggregation then Local Distribution in Fully Convolutional Networks@@@GALDNet(+Mapillary)++","Yunhai Tong","Peking University",2019-09-16,"83.3%",2019
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Hang Zhang","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Chongruo Wu","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Zhongyue Zhang","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Yi Zhu","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Zhi Zhang","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Haibin Lin","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Yue Sun","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Tong He","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Jonas Mueller","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","R. Manmatha","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Mu Li","",2020-04-19,"83.3%",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt200","Alexander J. Smola","",2020-04-19,"83.3%",2020
+"Cars Can't Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks@@@HANet (Height-driven Attention Networks by LGE A&B)","Sungha Choi","Korea University",2020-03-11,"83.2%",2020
+"Cars Can't Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks@@@HANet (Height-driven Attention Networks by LGE A&B)","Joanne T. Kim","Korea University",2020-03-11,"83.2%",2020
+"Cars Can't Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks@@@HANet (Height-driven Attention Networks by LGE A&B)","Jaegul Choo","KAIST",2020-03-11,"83.2%",2020
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (HRNetV2-W48, coarse)","Yuhui Yuan","",2019-09-24,"83.0%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (HRNetV2-W48, coarse)","Xilin Chen","",2019-09-24,"83.0%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (HRNetV2-W48, coarse)","Jingdong Wang","",2019-09-24,"83.0%",2019
+"Multi Receptive Field Network for Semantic Segmentation@@@MRFM","Jianlong Yuan","Samsung",2020-11-17,"83.0%",2020
+"Multi Receptive Field Network for Semantic Segmentation@@@MRFM","Yuan Jianlong","",2020-11-17,"83.0%",2020
+"Multi Receptive Field Network for Semantic Segmentation@@@MRFM","Zelu Deng","University of Electronic Science and Technology of China",2020-11-17,"83.0%",2020
+"Multi Receptive Field Network for Semantic Segmentation@@@MRFM","Deng Zelu","",2020-11-17,"83.0%",2020
+"Multi Receptive Field Network for Semantic Segmentation@@@MRFM","Shu Wang","Samsung",2020-11-17,"83.0%",2020
+"Multi Receptive Field Network for Semantic Segmentation@@@MRFM","Zhenbo Luo","Samsung",2020-11-17,"83.0%",2020
+"Disentangled Non-Local Neural Networks@@@DNL (ours)","Minghao Yin","",2020-06-11,"83%",2020
+"Disentangled Non-Local Neural Networks@@@DNL (ours)","Zhuliang Yao","",2020-06-11,"83%",2020
+"Disentangled Non-Local Neural Networks@@@DNL (ours)","Yue Cao","",2020-06-11,"83%",2020
+"Disentangled Non-Local Neural Networks@@@DNL (ours)","Xiu Li","",2020-06-11,"83%",2020
+"Disentangled Non-Local Neural Networks@@@DNL (ours)","Zheng Zhang","",2020-06-11,"83%",2020
+"Disentangled Non-Local Neural Networks@@@DNL (ours)","Stephen Lin","",2020-06-11,"83%",2020
+"Disentangled Non-Local Neural Networks@@@DNL (ours)","Han Hu","",2020-06-11,"83%",2020
+"Scene Segmentation with Dual Relation-aware Attention Network@@@DRAN(ResNet-101) WITH ONLY FINE ANNOTATED DATA","Jun Fu","",2020-08-05,"82.9%",2020
+"Scene Segmentation with Dual Relation-aware Attention Network@@@DRAN(ResNet-101) WITH ONLY FINE ANNOTATED DATA","Jing Liu","",2020-08-05,"82.9%",2020
+"Scene Segmentation with Dual Relation-aware Attention Network@@@DRAN(ResNet-101) WITH ONLY FINE ANNOTATED DATA","Jie Jiang","",2020-08-05,"82.9%",2020
+"Scene Segmentation with Dual Relation-aware Attention Network@@@DRAN(ResNet-101) WITH ONLY FINE ANNOTATED DATA","Yong Li","",2020-08-05,"82.9%",2020
+"Scene Segmentation with Dual Relation-aware Attention Network@@@DRAN(ResNet-101) WITH ONLY FINE ANNOTATED DATA","Yongjun Bao","",2020-08-05,"82.9%",2020
+"Scene Segmentation with Dual Relation-aware Attention Network@@@DRAN(ResNet-101) WITH ONLY FINE ANNOTATED DATA","Hanqing Lu","",2020-08-05,"82.9%",2020
+"Gated-SCNN: Gated Shape CNNs for Semantic Segmentation@@@Gated-SCNN","Towaki Takikawa","University of Waterloo",2019-07-12,"82.8%",2019
+"Gated-SCNN: Gated Shape CNNs for Semantic Segmentation@@@Gated-SCNN","David Acuna","University of Toronto",2019-07-12,"82.8%",2019
+"Gated-SCNN: Gated Shape CNNs for Semantic Segmentation@@@Gated-SCNN","Varun Jampani","Nvidia",2019-07-12,"82.8%",2019
+"Gated-SCNN: Gated Shape CNNs for Semantic Segmentation@@@Gated-SCNN","Sanja Fidler","University of Toronto",2019-07-12,"82.8%",2019
+"Searching for Efficient Multi-Scale Architectures for Dense Image Prediction@@@Dense Prediction Cell","Liang-Chieh Chen","Google",2018-09-11,"82.7%",2018
+"Searching for Efficient Multi-Scale Architectures for Dense Image Prediction@@@Dense Prediction Cell","Maxwell D. Collins","Google",2018-09-11,"82.7%",2018
+"Searching for Efficient Multi-Scale Architectures for Dense Image Prediction@@@Dense Prediction Cell","Yukun Zhu","Google",2018-09-11,"82.7%",2018
+"Searching for Efficient Multi-Scale Architectures for Dense Image Prediction@@@Dense Prediction Cell","George Papandreou","Google",2018-09-11,"82.7%",2018
+"Searching for Efficient Multi-Scale Architectures for Dense Image Prediction@@@Dense Prediction Cell","Barret Zoph","Google",2018-09-11,"82.7%",2018
+"Searching for Efficient Multi-Scale Architectures for Dense Image Prediction@@@Dense Prediction Cell","Florian Schroff","Google",2018-09-11,"82.7%",2018
+"Searching for Efficient Multi-Scale Architectures for Dense Image Prediction@@@Dense Prediction Cell","Hartwig Adam","Google",2018-09-11,"82.7%",2018
+"Searching for Efficient Multi-Scale Architectures for Dense Image Prediction@@@Dense Prediction Cell","Jonathon Shlens","Google",2018-09-11,"82.7%",2018
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (ResNet-101, coarse)","Yuhui Yuan","",2019-09-24,"82.4%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (ResNet-101, coarse)","Xilin Chen","",2019-09-24,"82.4%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (ResNet-101, coarse)","Jingdong Wang","",2019-09-24,"82.4%",2019
+"Self-Supervised Model Adaptation for Multimodal Semantic Segmentation@@@SSMA","Abhinav Valada","University of Freiburg",2018-08-11,"82.3%",2018
+"Self-Supervised Model Adaptation for Multimodal Semantic Segmentation@@@SSMA","Rohit Mohan","University of Freiburg",2018-08-11,"82.3%",2018
+"Self-Supervised Model Adaptation for Multimodal Semantic Segmentation@@@SSMA","Wolfram Burgard","University of Freiburg",2018-08-11,"82.3%",2018
+"GFF: Gated Fully Fusion for Semantic Segmentation@@@Gated Fully Fusion","Xiangtai Li","Peking University",2019-04-03,"82.3%",2019
+"GFF: Gated Fully Fusion for Semantic Segmentation@@@Gated Fully Fusion","Houlong Zhao","Peking University",2019-04-03,"82.3%",2019
+"GFF: Gated Fully Fusion for Semantic Segmentation@@@Gated Fully Fusion","Lei Han","",2019-04-03,"82.3%",2019
+"GFF: Gated Fully Fusion for Semantic Segmentation@@@Gated Fully Fusion","Yunhai Tong","",2019-04-03,"82.3%",2019
+"GFF: Gated Fully Fusion for Semantic Segmentation@@@Gated Fully Fusion","Kuiyuan Yang","",2019-04-03,"82.3%",2019
+"Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation@@@DeepLabv3+ (Xception-JFT)","Liang-Chieh Chen","Google",2018-02-07,"82.1%",2018
+"Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation@@@DeepLabv3+ (Xception-JFT)","Yukun Zhu","Google",2018-02-07,"82.1%",2018
+"Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation@@@DeepLabv3+ (Xception-JFT)","George Papandreou","Google",2018-02-07,"82.1%",2018
+"Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation@@@DeepLabv3+ (Xception-JFT)","Florian Schroff","Google",2018-02-07,"82.1%",2018
+"Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation@@@DeepLabv3+ (Xception-JFT)","Hartwig Adam","Google",2018-02-07,"82.1%",2018
+"Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation@@@Auto-DeepLab-L","Chenxi Liu","Johns Hopkins University",2019-01-10,"82.1%",2019
+"Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation@@@Auto-DeepLab-L","Liang-Chieh Chen","Google",2019-01-10,"82.1%",2019
+"Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation@@@Auto-DeepLab-L","Florian Schroff","Google",2019-01-10,"82.1%",2019
+"Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation@@@Auto-DeepLab-L","Hartwig Adam","Google",2019-01-10,"82.1%",2019
+"Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation@@@Auto-DeepLab-L","Wei Hua","Google",2019-01-10,"82.1%",2019
+"Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation@@@Auto-DeepLab-L","Alan L. Yuille","Johns Hopkins University",2019-01-10,"82.1%",2019
+"Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation@@@Auto-DeepLab-L","Li Fei-Fei","Stanford University",2019-01-10,"82.1%",2019
+"In-Place Activated BatchNorm for Memory-Optimized Training of DNNs@@@Mapillary","Samuel Rota Bulò","",2017-12-07,"82.0%",2017
+"In-Place Activated BatchNorm for Memory-Optimized Training of DNNs@@@Mapillary","Lorenzo Porzi","",2017-12-07,"82.0%",2017
+"In-Place Activated BatchNorm for Memory-Optimized Training of DNNs@@@Mapillary","Peter Kontschieder","Microsoft",2017-12-07,"82.0%",2017
+"Dual Graph Convolutional Network for Semantic Segmentation@@@DGCNet (ResNet-101)","Li Zhang","University of Oxford",2019-09-13,"82%",2019
+"Dual Graph Convolutional Network for Semantic Segmentation@@@DGCNet (ResNet-101)","Xiangtai Li","Peking University",2019-09-13,"82%",2019
+"Dual Graph Convolutional Network for Semantic Segmentation@@@DGCNet (ResNet-101)","Anurag Arnab","University of Oxford",2019-09-13,"82%",2019
+"Dual Graph Convolutional Network for Semantic Segmentation@@@DGCNet (ResNet-101)","Kuiyuan Yang","Microsoft",2019-09-13,"82%",2019
+"Dual Graph Convolutional Network for Semantic Segmentation@@@DGCNet (ResNet-101)","Yunhai Tong","Peking University",2019-09-13,"82%",2019
+"Dual Graph Convolutional Network for Semantic Segmentation@@@DGCNet (ResNet-101)","Philip H. S. Torr","University of Oxford",2019-09-13,"82%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (ResNet-101)","Yuhui Yuan","",2019-09-24,"81.8%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (ResNet-101)","Xilin Chen","",2019-09-24,"81.8%",2019
+"Object-Contextual Representations for Semantic Segmentation@@@OCR (ResNet-101)","Jingdong Wang","",2019-09-24,"81.8%",2019
+"OCNet: Object Context Network for Scene Parsing@@@OCNet","Yuhui Yuan","",2018-09-04,"81.7%",2018
+"OCNet: Object Context Network for Scene Parsing@@@OCNet","Jingdong Wang","",2018-09-04,"81.7%",2018
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Ke Sun","",2019-04-09,"81.6%",2019
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Yang Zhao","",2019-04-09,"81.6%",2019
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Borui Jiang","",2019-04-09,"81.6%",2019
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Tianheng Cheng","",2019-04-09,"81.6%",2019
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Bin Xiao","",2019-04-09,"81.6%",2019
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Dong Liu","",2019-04-09,"81.6%",2019
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Yadong Mu","",2019-04-09,"81.6%",2019
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Xinggang Wang","",2019-04-09,"81.6%",2019
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Wenyu Liu","",2019-04-09,"81.6%",2019
+"High-Resolution Representations for Labeling Pixels and Regions@@@HRNet (HRNetV2-W48)","Jingdong Wang","",2019-04-09,"81.6%",2019
+"Dual Attention Network for Scene Segmentation@@@DANet (ResNet-101)","Jun Fu","Chinese Academy of Sciences",2018-09-09,"81.5%",2018
+"Dual Attention Network for Scene Segmentation@@@DANet (ResNet-101)","Jing Liu","Chinese Academy of Sciences",2018-09-09,"81.5%",2018
+"Dual Attention Network for Scene Segmentation@@@DANet (ResNet-101)","Haijie Tian","",2018-09-09,"81.5%",2018
+"Dual Attention Network for Scene Segmentation@@@DANet (ResNet-101)","Yong Li","",2018-09-09,"81.5%",2018
+"Dual Attention Network for Scene Segmentation@@@DANet (ResNet-101)","Yongjun Bao","",2018-09-09,"81.5%",2018
+"Dual Attention Network for Scene Segmentation@@@DANet (ResNet-101)","Zhiwei Fang","Chinese Academy of Sciences",2018-09-09,"81.5%",2018
+"Dual Attention Network for Scene Segmentation@@@DANet (ResNet-101)","Hanqing Lu","",2018-09-09,"81.5%",2018
+"CCNet: Criss-Cross Attention for Semantic Segmentation@@@CCNet","Zilong Huang","Huazhong University of Science and Technology",2018-11-28,"81.4%",2018
+"CCNet: Criss-Cross Attention for Semantic Segmentation@@@CCNet","Xinggang Wang","Huazhong University of Science and Technology",2018-11-28,"81.4%",2018
+"CCNet: Criss-Cross Attention for Semantic Segmentation@@@CCNet","Lichao Huang","",2018-11-28,"81.4%",2018
+"CCNet: Criss-Cross Attention for Semantic Segmentation@@@CCNet","Chang Huang","",2018-11-28,"81.4%",2018
+"CCNet: Criss-Cross Attention for Semantic Segmentation@@@CCNet","Yunchao Wei","University of Illinois at Urbana–Champaign",2018-11-28,"81.4%",2018
+"CCNet: Criss-Cross Attention for Semantic Segmentation@@@CCNet","Wenyu Liu","Huazhong University of Science and Technology",2018-11-28,"81.4%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Hengshuang Zhao","The Chinese University of Hong Kong",2018-09-01,"81.4%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Yi Zhang","The Chinese University of Hong Kong",2018-09-01,"81.4%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Shu Liu","The Chinese University of Hong Kong",2018-09-01,"81.4%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Jianping Shi","SenseTime",2018-09-01,"81.4%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Chen Change Loy","Nanyang Technological University",2018-09-01,"81.4%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Dahua Lin","The Chinese University of Hong Kong",2018-09-01,"81.4%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Jiaya Jia","The Chinese University of Hong Kong",2018-09-01,"81.4%",2018
+"Boundary-Aware Feature Propagation for Scene Segmentation@@@BFP","Henghui Ding","Nanyang Technological University",2019-08-31,"81.4%",2019
+"Boundary-Aware Feature Propagation for Scene Segmentation@@@BFP","Xudong Jiang","Nanyang Technological University",2019-08-31,"81.4%",2019
+"Boundary-Aware Feature Propagation for Scene Segmentation@@@BFP","Ai Qun Liu","Nanyang Technological University",2019-08-31,"81.4%",2019
+"Boundary-Aware Feature Propagation for Scene Segmentation@@@BFP","Nadia Magnenat Thalmann","University of Geneva",2019-08-31,"81.4%",2019
+"Boundary-Aware Feature Propagation for Scene Segmentation@@@BFP","Gang Wang","Alibaba Group",2019-08-31,"81.4%",2019
+"Rethinking Atrous Convolution for Semantic Image Segmentation@@@DeepLabv3 (ResNet-101, coarse)","Liang-Chieh Chen","",2017-06-17,"81.3%",2017
+"Rethinking Atrous Convolution for Semantic Image Segmentation@@@DeepLabv3 (ResNet-101, coarse)","George Papandreou","",2017-06-17,"81.3%",2017
+"Rethinking Atrous Convolution for Semantic Image Segmentation@@@DeepLabv3 (ResNet-101, coarse)","Florian Schroff","",2017-06-17,"81.3%",2017
+"Rethinking Atrous Convolution for Semantic Image Segmentation@@@DeepLabv3 (ResNet-101, coarse)","Hartwig Adam","",2017-06-17,"81.3%",2017
+"Context Prior for Scene Segmentation@@@CPN(ResNet-101)","Changqian Yu","Huazhong University of Science and Technology",2020-04-03,"81.3%",2020
+"Context Prior for Scene Segmentation@@@CPN(ResNet-101)","Jingbo Wang","Peking University",2020-04-03,"81.3%",2020
+"Context Prior for Scene Segmentation@@@CPN(ResNet-101)","Changxin Gao","Huazhong University of Science and Technology",2020-04-03,"81.3%",2020
+"Context Prior for Scene Segmentation@@@CPN(ResNet-101)","Gang Yu","Beijing Institute of Technology",2020-04-03,"81.3%",2020
+"Context Prior for Scene Segmentation@@@CPN(ResNet-101)","Chunhua Shen","University of Adelaide",2020-04-03,"81.3%",2020
+"Context Prior for Scene Segmentation@@@CPN(ResNet-101)","Nong Sang","Huazhong University of Science and Technology",2020-04-03,"81.3%",2020
+"Asymmetric Non-local Neural Networks for Semantic Segmentation@@@Asymmetric ALNN","Zhen Zhu","Huazhong University of Science and Technology",2019-08-21,"81.3%",2019
+"Asymmetric Non-local Neural Networks for Semantic Segmentation@@@Asymmetric ALNN","Mengde Xu","Huazhong University of Science and Technology",2019-08-21,"81.3%",2019
+"Asymmetric Non-local Neural Networks for Semantic Segmentation@@@Asymmetric ALNN","Song Bai","University of Oxford",2019-08-21,"81.3%",2019
+"Asymmetric Non-local Neural Networks for Semantic Segmentation@@@Asymmetric ALNN","Tengteng Huang","Huazhong University of Science and Technology",2019-08-21,"81.3%",2019
+"Asymmetric Non-local Neural Networks for Semantic Segmentation@@@Asymmetric ALNN","Xiang Bai","Huazhong University of Science and Technology",2019-08-21,"81.3%",2019
+"Self-Supervised Model Adaptation for Multimodal Semantic Segmentation@@@AdapNet++","Abhinav Valada","University of Freiburg",2018-08-11,"81.24%",2018
+"Self-Supervised Model Adaptation for Multimodal Semantic Segmentation@@@AdapNet++","Rohit Mohan","University of Freiburg",2018-08-11,"81.24%",2018
+"Self-Supervised Model Adaptation for Multimodal Semantic Segmentation@@@AdapNet++","Wolfram Burgard","University of Freiburg",2018-08-11,"81.24%",2018
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Hengshuang Zhao","The Chinese University of Hong Kong",2016-12-04,"81.2%",2016
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Jianping Shi","SenseTime",2016-12-04,"81.2%",2016
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Xiaojuan Qi","The Chinese University of Hong Kong",2016-12-04,"81.2%",2016
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Xiaogang Wang","The Chinese University of Hong Kong",2016-12-04,"81.2%",2016
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Jiaya Jia","The Chinese University of Hong Kong",2016-12-04,"81.2%",2016
+"Semantic Correlation Promoted Shape-Variant Context for Segmentation@@@SVCNet (ResNet-101)","Henghui Ding","Nanyang Technological University",2019-09-05,"81.0%",2019
+"Semantic Correlation Promoted Shape-Variant Context for Segmentation@@@SVCNet (ResNet-101)","Xudong Jiang","Nanyang Technological University",2019-09-05,"81.0%",2019
+"Semantic Correlation Promoted Shape-Variant Context for Segmentation@@@SVCNet (ResNet-101)","Bing Shuai","Amazon.com",2019-09-05,"81.0%",2019
+"Semantic Correlation Promoted Shape-Variant Context for Segmentation@@@SVCNet (ResNet-101)","Ai Qun Liu","Nanyang Technological University",2019-09-05,"81.0%",2019
+"Semantic Correlation Promoted Shape-Variant Context for Segmentation@@@SVCNet (ResNet-101)","Gang Wang","Alibaba Group",2019-09-05,"81.0%",2019
+"DenseASPP for Semantic Segmentation in Street Scenes@@@DenseASPP (DenseNet-161)","Maoke Yang","",2018-06-01,"80.6%",2018
+"DenseASPP for Semantic Segmentation in Street Scenes@@@DenseASPP (DenseNet-161)","Kun Yu","",2018-06-01,"80.6%",2018
+"DenseASPP for Semantic Segmentation in Street Scenes@@@DenseASPP (DenseNet-161)","Chi Zhang","",2018-06-01,"80.6%",2018
+"DenseASPP for Semantic Segmentation in Street Scenes@@@DenseASPP (DenseNet-161)","Zhiwei Li","",2018-06-01,"80.6%",2018
+"DenseASPP for Semantic Segmentation in Street Scenes@@@DenseASPP (DenseNet-161)","Kuiyuan Yang","",2018-06-01,"80.6%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@Smooth Network with Channel Attention Block","Changqian Yu","Huazhong University of Science and Technology",2018-04-25,"80.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@Smooth Network with Channel Attention Block","Jingbo Wang","Peking University",2018-04-25,"80.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@Smooth Network with Channel Attention Block","Chao Peng","",2018-04-25,"80.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@Smooth Network with Channel Attention Block","Changxin Gao","Huazhong University of Science and Technology",2018-04-25,"80.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@Smooth Network with Channel Attention Block","Gang Yu","",2018-04-25,"80.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@Smooth Network with Channel Attention Block","Nong Sang","Huazhong University of Science and Technology",2018-04-25,"80.3%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Hengshuang Zhao","The Chinese University of Hong Kong",2018-09-01,"80.1%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Yi Zhang","The Chinese University of Hong Kong",2018-09-01,"80.1%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Shu Liu","The Chinese University of Hong Kong",2018-09-01,"80.1%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Jianping Shi","SenseTime",2018-09-01,"80.1%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Chen Change Loy","Nanyang Technological University",2018-09-01,"80.1%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Dahua Lin","The Chinese University of Hong Kong",2018-09-01,"80.1%",2018
+"PSANet: Point-wise Spatial Attention Network for Scene Parsing@@@PSANet (ResNet-101)","Jiaya Jia","The Chinese University of Hong Kong",2018-09-01,"80.1%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@DFN (ResNet-101)","Changqian Yu","Huazhong University of Science and Technology",2018-04-25,"79.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@DFN (ResNet-101)","Jingbo Wang","Peking University",2018-04-25,"79.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@DFN (ResNet-101)","Chao Peng","",2018-04-25,"79.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@DFN (ResNet-101)","Changxin Gao","Huazhong University of Science and Technology",2018-04-25,"79.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@DFN (ResNet-101)","Gang Yu","",2018-04-25,"79.3%",2018
+"Learning a Discriminative Feature Network for Semantic Segmentation@@@DFN (ResNet-101)","Nong Sang","Huazhong University of Science and Technology",2018-04-25,"79.3%",2018
+"Adaptive Affinity Fields for Semantic Segmentation@@@AAF (ResNet-101)","Tsung-Wei Ke","University of California, Berkeley",2018-03-27,"79.1%",2018
+"Adaptive Affinity Fields for Semantic Segmentation@@@AAF (ResNet-101)","Jyh-Jing Hwang","University of California, Berkeley",2018-03-27,"79.1%",2018
+"Adaptive Affinity Fields for Semantic Segmentation@@@AAF (ResNet-101)","Ziwei Liu","University of California, Berkeley",2018-03-27,"79.1%",2018
+"Adaptive Affinity Fields for Semantic Segmentation@@@AAF (ResNet-101)","Stella X. Yu","University of California, Berkeley",2018-03-27,"79.1%",2018
+"ShelfNet for Fast Semantic Segmentation@@@ShelfNet-34","Juntang Zhuang","Yale University",2018-11-27,"79.0%",2018
+"ShelfNet for Fast Semantic Segmentation@@@ShelfNet-34","Junlin Yang","Yale University",2018-11-27,"79.0%",2018
+"ShelfNet for Fast Semantic Segmentation@@@ShelfNet-34","Lin Gu","National Institute of Informatics",2018-11-27,"79.0%",2018
+"ShelfNet for Fast Semantic Segmentation@@@ShelfNet-34","Nicha C. Dvornek","Yale University",2018-11-27,"79.0%",2018
+"BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation@@@BiSeNet (ResNet-101)","Changqian Yu","Huazhong University of Science and Technology",2018-08-02,"78.9%",2018
+"BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation@@@BiSeNet (ResNet-101)","Jingbo Wang","Peking University",2018-08-02,"78.9%",2018
+"BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation@@@BiSeNet (ResNet-101)","Chao Peng","",2018-08-02,"78.9%",2018
+"BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation@@@BiSeNet (ResNet-101)","Changxin Gao","Huazhong University of Science and Technology",2018-08-02,"78.9%",2018
+"BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation@@@BiSeNet (ResNet-101)","Gang Yu","",2018-08-02,"78.9%",2018
+"BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation@@@BiSeNet (ResNet-101)","Nong Sang","Huazhong University of Science and Technology",2018-08-02,"78.9%",2018
+"Wider or Deeper: Revisiting the ResNet Model for Visual Recognition@@@ResNet-38","Zifeng Wu","University of Adelaide",2016-11-30,"78.4%",2016
+"Wider or Deeper: Revisiting the ResNet Model for Visual Recognition@@@ResNet-38","Chunhua Shen","University of Adelaide",2016-11-30,"78.4%",2016
+"Wider or Deeper: Revisiting the ResNet Model for Visual Recognition@@@ResNet-38","Anton van den Hengel","University of Adelaide",2016-11-30,"78.4%",2016
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Hengshuang Zhao","The Chinese University of Hong Kong",2016-12-04,"78.4%",2016
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Jianping Shi","SenseTime",2016-12-04,"78.4%",2016
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Xiaojuan Qi","The Chinese University of Hong Kong",2016-12-04,"78.4%",2016
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Xiaogang Wang","The Chinese University of Hong Kong",2016-12-04,"78.4%",2016
+"Pyramid Scene Parsing Network@@@PSPNet (ResNet-101)","Jiaya Jia","The Chinese University of Hong Kong",2016-12-04,"78.4%",2016
+"Recurrent Scene Parsing with Perspective Understanding in the Loop@@@DepthSeg (ResNet-101)","Shu Kong","University of California, Irvine",2017-05-20,"78.2%",2017
+"Recurrent Scene Parsing with Perspective Understanding in the Loop@@@DepthSeg (ResNet-101)","Charless C. Fowlkes","University of California, Irvine",2017-05-20,"78.2%",2017
+"Dynamic-structured Semantic Propagation Network@@@DSSPN (ResNet-101)","Xiaodan Liang","Carnegie Mellon University",2018-03-16,"77.8%",2018
+"Dynamic-structured Semantic Propagation Network@@@DSSPN (ResNet-101)","Eric P. Xing","Carnegie Mellon University",2018-03-16,"77.8%",2018
+"Dynamic-structured Semantic Propagation Network@@@DSSPN (ResNet-101)","Hongfei Zhou","Carnegie Mellon University",2018-03-16,"77.8%",2018
+"Understanding Convolution for Semantic Segmentation@@@DUC-HDC (ResNet-101)","Maoke Yang","",2017-02-27,"77.6%",2017
+"Understanding Convolution for Semantic Segmentation@@@DUC-HDC (ResNet-101)","Kun Yu","",2017-02-27,"77.6%",2017
+"Understanding Convolution for Semantic Segmentation@@@DUC-HDC (ResNet-101)","Chi Zhang","",2017-02-27,"77.6%",2017
+"Understanding Convolution for Semantic Segmentation@@@DUC-HDC (ResNet-101)","Zhiwei Li","",2017-02-27,"77.6%",2017
+"Understanding Convolution for Semantic Segmentation@@@DUC-HDC (ResNet-101)","Kuiyuan Yang","",2017-02-27,"77.6%",2017
+"In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images@@@SwiftNetRN-18","Marin Orsic","",2019-03-20,"75.5%",2019
+"In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images@@@SwiftNetRN-18","Ivan Kre","",2019-03-20,"75.5%",2019
+"In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images@@@SwiftNetRN-18","Ivan Kreso","",2019-03-20,"75.5%",2019
+"In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images@@@SwiftNetRN-18","Petra Bevandic","",2019-03-20,"75.5%",2019
+"In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images@@@SwiftNetRN-18","Siniša Šegvic","",2019-03-20,"75.5%",2019
+"RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation@@@RefineNet (ResNet-101)","Guosheng Lin","Nanyang Technological University",2016-11-20,"73.6%",2016
+"RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation@@@RefineNet (ResNet-101)","Anton Milan","University of Adelaide",2016-11-20,"73.6%",2016
+"RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation@@@RefineNet (ResNet-101)","Chunhua Shen","University of Adelaide",2016-11-20,"73.6%",2016
+"RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation@@@RefineNet (ResNet-101)","Ian Reid","University of Adelaide",2016-11-20,"73.6%",2016
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Andrew Howard","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Ruoming Pang","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Hartwig Adam","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Quoc V. Le","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Mark Sandler","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Bo Chen","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Weijun Wang","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Liang-Chieh Chen","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Yukun Zhu","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Mingxing Tan","Google",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Vijay K. Vasudevan","University of Cincinnati",2019-05-06,"72.6%",2019
+"Searching for MobileNetV3@@@MobileNet V3-Large 1.0","Grace Chu","Google",2019-05-06,"72.6%",2019
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Large)","Albert Shaw","",2019-08-05,"72.5%",2019
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Large)","Daniel Hunter","",2019-08-05,"72.5%",2019
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Large)","Forrest Iandola","University of California, Berkeley",2019-08-05,"72.5%",2019
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Large)","Forrest Landola","",2019-08-05,"72.5%",2019
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Large)","Sammy Sidhu","",2019-08-05,"72.5%",2019
+"Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes@@@FRRN","Tobias Pohlen","RWTH Aachen University",2016-11-24,"71.8%",2016
+"Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes@@@FRRN","Alexander Hermans","RWTH Aachen University",2016-11-24,"71.8%",2016
+"Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes@@@FRRN","Markus Mathias","RWTH Aachen University",2016-11-24,"71.8%",2016
+"Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes@@@FRRN","Bastian Leibe","RWTH Aachen University",2016-11-24,"71.8%",2016
+"Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation@@@LRR-4x","Golnaz Ghiasi","University of California",2016-05-08,"71.8%",2016
+"Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation@@@LRR-4x","Charless C. Fowlkes","University of California",2016-05-08,"71.8%",2016
+"Efficient piecewise training of deep structured models for semantic segmentation@@@Context","Guosheng Lin","University of Adelaide",2015-04-04,"71.6%",2015
+"Efficient piecewise training of deep structured models for semantic segmentation@@@Context","Chunhua Shen","University of Adelaide",2015-04-04,"71.6%",2015
+"Efficient piecewise training of deep structured models for semantic segmentation@@@Context","Anton van den Hengel","University of Adelaide",2015-04-04,"71.6%",2015
+"Efficient piecewise training of deep structured models for semantic segmentation@@@Context","Ian Reid","University of Adelaide",2015-04-04,"71.6%",2015
+"FasterSeg: Searching for Faster Real-time Semantic Segmentation@@@FasterSeg","Wuyang Chen","Texas A&M University",2019-12-23,"71.5%",2019
+"FasterSeg: Searching for Faster Real-time Semantic Segmentation@@@FasterSeg","Xinyu Gong","Texas A&M University",2019-12-23,"71.5%",2019
+"FasterSeg: Searching for Faster Real-time Semantic Segmentation@@@FasterSeg","Xianming Liu","Harbin Institute of Technology",2019-12-23,"71.5%",2019
+"FasterSeg: Searching for Faster Real-time Semantic Segmentation@@@FasterSeg","Qian Zhang","Samsung",2019-12-23,"71.5%",2019
+"FasterSeg: Searching for Faster Real-time Semantic Segmentation@@@FasterSeg","Yuan Li","",2019-12-23,"71.5%",2019
+"FasterSeg: Searching for Faster Real-time Semantic Segmentation@@@FasterSeg","Zhangyang Wang","Texas A&M University",2019-12-23,"71.5%",2019
+"DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation@@@DFANet A","Hanchao Li","Beijing Institute of Technology",2019-04-03,"71.3%",2019
+"DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation@@@DFANet A","Pengfei Xiong","",2019-04-03,"71.3%",2019
+"DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation@@@DFANet A","Haoqiang Fan","",2019-04-03,"71.3%",2019
+"DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation@@@DFANet A","Jian Sun","",2019-04-03,"71.3%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-DarkNet19","Taha Emara","Ain Shams University",2019-12-13,"70.75%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-DarkNet19","Hossam E. Abd El Munim","Ain Shams University",2019-12-13,"70.75%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-DarkNet19","Hazem M. Abbas","Ain Shams University",2019-12-13,"70.75%",2019
+"ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation@@@ESNet","Yu Wang","",2019-06-24,"70.7%",2019
+"ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation@@@ESNet","Quan Zhou","Nanjing University of Posts and Telecommunications",2019-06-24,"70.7%",2019
+"ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation@@@ESNet","Xiaofu Wu","Nanjing University of Posts and Telecommunications",2019-06-24,"70.7%",2019
+"ICNet for Real-Time Semantic Segmentation on High-Resolution Images@@@ICNet","Hengshuang Zhao","The Chinese University of Hong Kong",2017-04-27,"70.6%",2017
+"ICNet for Real-Time Semantic Segmentation on High-Resolution Images@@@ICNet","Xiaojuan Qi","The Chinese University of Hong Kong",2017-04-27,"70.6%",2017
+"ICNet for Real-Time Semantic Segmentation on High-Resolution Images@@@ICNet","Xiaoyong Shen","Tencent",2017-04-27,"70.6%",2017
+"ICNet for Real-Time Semantic Segmentation on High-Resolution Images@@@ICNet","Jianping Shi","SenseTime",2017-04-27,"70.6%",2017
+"ICNet for Real-Time Semantic Segmentation on High-Resolution Images@@@ICNet","Jiaya Jia","The Chinese University of Hong Kong",2017-04-27,"70.6%",2017
+"LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation@@@LEDNet","Yu Wang","Nanjing University of Posts and Telecommunications",2019-05-07,"70.6%",2019
+"LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation@@@LEDNet","Quan Zhou","Nanjing University of Posts and Telecommunications",2019-05-07,"70.6%",2019
+"LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation@@@LEDNet","Jia Liu","Nanjing University of Posts and Telecommunications",2019-05-07,"70.6%",2019
+"LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation@@@LEDNet","Xiong Jian","Nanjing University of Posts and Telecommunications",2019-05-07,"70.6%",2019
+"LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation@@@LEDNet","Guangwei Gao","Nanjing University of Posts and Telecommunications",2019-05-07,"70.6%",2019
+"LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation@@@LEDNet","Xiaofu Wu","Nanjing University of Posts and Telecommunications",2019-05-07,"70.6%",2019
+"LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation@@@LEDNet","Longin Jan Latecki","Temple University",2019-05-07,"70.6%",2019
+"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs@@@DeepLab-CRF (ResNet-101)","Liang-Chieh Chen","Google",2016-06-02,"70.4%",2016
+"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs@@@DeepLab-CRF (ResNet-101)","George Papandreou","Google",2016-06-02,"70.4%",2016
+"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs@@@DeepLab-CRF (ResNet-101)","Iasonas Kokkinos","University College London",2016-06-02,"70.4%",2016
+"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs@@@DeepLab-CRF (ResNet-101)","Kevin Murphy","Google",2016-06-02,"70.4%",2016
+"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs@@@DeepLab-CRF (ResNet-101)","Alan L. Yuille","Johns Hopkins University",2016-06-02,"70.4%",2016
+"ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation@@@ERFNet (PyTorch)","Eduardo Romera","University of Alcalá",2017-10-09,"69.8%",2017
+"ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation@@@ERFNet (PyTorch)","Jose M. Alvarez","Commonwealth Scientific and Industrial Research Organisation",2017-10-09,"69.8%",2017
+"ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation@@@ERFNet (PyTorch)","Luis Miguel Bergasa Pascual","University of Alcalá",2017-10-09,"69.8%",2017
+"ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation@@@ERFNet (PyTorch)","Luis M. Bergasa","University of Alcalá",2017-10-09,"69.8%",2017
+"ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation@@@ERFNet (PyTorch)","Roberto Arroyo","University of Alcalá",2017-10-09,"69.8%",2017
+"Fast-SCNN: Fast Semantic Segmentation Network@@@Fast-SCNN","Rudra P. K. Poudel","King's College London",2019-02-12,"68%",2019
+"Fast-SCNN: Fast Semantic Segmentation Network@@@Fast-SCNN","Stephan Liwicki","Toshiba",2019-02-12,"68%",2019
+"Fast-SCNN: Fast Semantic Segmentation Network@@@Fast-SCNN","Roberto Cipolla","University of Cambridge",2019-02-12,"68%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-MobileNet","Taha Emara","Ain Shams University",2019-12-13,"67.81%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-MobileNet","Hossam E. Abd El Munim","Ain Shams University",2019-12-13,"67.81%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-MobileNet","Hazem M. Abbas","Ain Shams University",2019-12-13,"67.81%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LiteSeg-MobileNet","Taha Emara","Ain Shams University",2019-12-13,"67.81%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LiteSeg-MobileNet","Hossam E. Abd El Munim","Ain Shams University",2019-12-13,"67.81%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LiteSeg-MobileNet","Hazem M. Abbas","Ain Shams University",2019-12-13,"67.81%",2019
+"Template-Based Automatic Search of Compact Semantic Segmentation Architectures@@@Template-Based NAS-arch1","Vladimir Nekrasov","University of Adelaide",2019-04-04,"67.8%",2019
+"Template-Based Automatic Search of Compact Semantic Segmentation Architectures@@@Template-Based NAS-arch1","Chunhua Shen","University of Adelaide",2019-04-04,"67.8%",2019
+"Template-Based Automatic Search of Compact Semantic Segmentation Architectures@@@Template-Based NAS-arch1","Ian Reid","University of Adelaide",2019-04-04,"67.8%",2019
+"Template-Based Automatic Search of Compact Semantic Segmentation Architectures@@@Template-Based NAS-arch0","Vladimir Nekrasov","University of Adelaide",2019-04-04,"67.7%",2019
+"Template-Based Automatic Search of Compact Semantic Segmentation Architectures@@@Template-Based NAS-arch0","Chunhua Shen","University of Adelaide",2019-04-04,"67.7%",2019
+"Template-Based Automatic Search of Compact Semantic Segmentation Architectures@@@Template-Based NAS-arch0","Ian Reid","University of Adelaide",2019-04-04,"67.7%",2019
+"Multi-Scale Context Aggregation by Dilated Convolutions@@@Dilation10","Fisher Yu","Princeton University",2015-11-23,"67.1%",2015
+"Multi-Scale Context Aggregation by Dilated Convolutions@@@Dilation10","V. Koltun","Intel",2015-11-23,"67.1%",2015
+"Multi-Scale Context Aggregation by Dilated Convolutions@@@Dilation10","Vladlen Koltun","Intel",2015-11-23,"67.1%",2015
+"Semantic Image Segmentation via Deep Parsing Network@@@DPN","Ziwei Liu","The Chinese University of Hong Kong",2015-09-09,"66.8%",2015
+"Semantic Image Segmentation via Deep Parsing Network@@@DPN","Xiaoxiao Li","The Chinese University of Hong Kong",2015-09-09,"66.8%",2015
+"Semantic Image Segmentation via Deep Parsing Network@@@DPN","Ping Luo","The Chinese University of Hong Kong",2015-09-09,"66.8%",2015
+"Semantic Image Segmentation via Deep Parsing Network@@@DPN","Chen Change Loy","The Chinese University of Hong Kong",2015-09-09,"66.8%",2015
+"Semantic Image Segmentation via Deep Parsing Network@@@DPN","Xiaoou Tang","The Chinese University of Hong Kong",2015-09-09,"66.8%",2015
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Small)","Albert Shaw","",2019-08-05,"66.8%",2019
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Small)","Daniel Hunter","",2019-08-05,"66.8%",2019
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Small)","Forrest Iandola","University of California, Berkeley",2019-08-05,"66.8%",2019
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Small)","Forrest Landola","",2019-08-05,"66.8%",2019
+"SqueezeNAS: Fast neural architecture search for faster semantic segmentation@@@SqueezeNAS (LAT Small)","Sammy Sidhu","",2019-08-05,"66.8%",2019
+"SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder@@@SINet","Hyojin Park","Seoul National University",2019-11-20,"66.5%",2019
+"SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder@@@SINet","Lars Lowe Sjösund","Naver Corporation",2019-11-20,"66.5%",2019
+"SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder@@@SINet","Youngjoon Yoo","Naver Corporation",2019-11-20,"66.5%",2019
+"SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder@@@SINet","Nicolas Monet","Naver Corporation",2019-11-20,"66.5%",2019
+"SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder@@@SINet","Jihwan Bang","Naver Corporation",2019-11-20,"66.5%",2019
+"SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder@@@SINet","Nojun Kwak","Seoul National University",2019-11-20,"66.5%",2019
+"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network@@@ESPNetv2","Sachin Mehta","University of Washington",2018-11-28,"66.2%",2018
+"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network@@@ESPNetv2","Mohammad Rastegari","Allen Institute for Artificial Intelligence",2018-11-28,"66.2%",2018
+"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network@@@ESPNetv2","Linda G. Shapiro","University of Washington",2018-11-28,"66.2%",2018
+"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network@@@ESPNetv2","Hannaneh Hajishirzi","University of Washington",2018-11-28,"66.2%",2018
+"Fully Convolutional Networks for Semantic Segmentation@@@FCN","Jonathan Long","University of California, Berkeley",2016-05-20,"65.3%",2016
+"Fully Convolutional Networks for Semantic Segmentation@@@FCN","Evan Shelhamer","University of California, Berkeley",2016-05-20,"65.3%",2016
+"Fully Convolutional Networks for Semantic Segmentation@@@FCN","Trevor Darrell","University of California, Berkeley",2016-05-20,"65.3%",2016
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-ShuffleNet","Taha Emara","Ain Shams University",2019-12-13,"65.17%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-ShuffleNet","Hossam E. Abd El Munim","Ain Shams University",2019-12-13,"65.17%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LightSeg-ShuffleNet","Hazem M. Abbas","Ain Shams University",2019-12-13,"65.17%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LiteSeg-ShuffleNet","Taha Emara","Ain Shams University",2019-12-13,"65.17%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LiteSeg-ShuffleNet","Hossam E. Abd El Munim","Ain Shams University",2019-12-13,"65.17%",2019
+"LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation@@@LiteSeg-ShuffleNet","Hazem M. Abbas","Ain Shams University",2019-12-13,"65.17%",2019
+"Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs@@@DeepLab","Liang-Chieh Chen","Google",2014-12-22,"63.1%",2014
+"Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs@@@DeepLab","George Papandreou","Google",2014-12-22,"63.1%",2014
+"Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs@@@DeepLab","Iasonas Kokkinos","University College London",2014-12-22,"63.1%",2014
+"Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs@@@DeepLab","Kevin Murphy","Google",2014-12-22,"63.1%",2014
+"Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs@@@DeepLab","Alan L. Yuille","Johns Hopkins University",2014-12-22,"63.1%",2014
+"The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks@@@ENet + Lovász-Softmax","Maxim Berman","Katholieke Universiteit Leuven",2017-05-24,"63.06%",2017
+"The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks@@@ENet + Lovász-Softmax","Amal Rannen Triki","Katholieke Universiteit Leuven",2017-05-24,"63.06%",2017
+"The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks@@@ENet + Lovász-Softmax","Matthew B. Blaschko","Katholieke Universiteit Leuven",2017-05-24,"63.06%",2017
+"Conditional Random Fields as Recurrent Neural Networks@@@CRF-RNN","Shuai Zheng","University of Oxford",2015-02-11,"62.5%",2015
+"Conditional Random Fields as Recurrent Neural Networks@@@CRF-RNN","Sadeep Jayasumana","University of Oxford",2015-02-11,"62.5%",2015
+"Conditional Random Fields as Recurrent Neural Networks@@@CRF-RNN","Bernardino Romera-Paredes","University of Oxford",2015-02-11,"62.5%",2015
+"Conditional Random Fields as Recurrent Neural Networks@@@CRF-RNN","Vibhav Vineet","Stanford University",2015-02-11,"62.5%",2015
+"Conditional Random Fields as Recurrent Neural Networks@@@CRF-RNN","Zhizhong Su","",2015-02-11,"62.5%",2015
+"Conditional Random Fields as Recurrent Neural Networks@@@CRF-RNN","Dalong Du","",2015-02-11,"62.5%",2015
+"Conditional Random Fields as Recurrent Neural Networks@@@CRF-RNN","Chang Huang","Baidu",2015-02-11,"62.5%",2015
+"Conditional Random Fields as Recurrent Neural Networks@@@CRF-RNN","Philip H. S. Torr","University of Oxford",2015-02-11,"62.5%",2015
+"ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation@@@ESPNet","Sachin Mehta","University of Washington",2018-03-19,"60.3%",2018
+"ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation@@@ESPNet","Mohammad Rastegari","Allen Institute for Artificial Intelligence",2018-03-19,"60.3%",2018
+"ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation@@@ESPNet","Anat Caspi","University of Washington",2018-03-19,"60.3%",2018
+"ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation@@@ESPNet","Linda G. Shapiro","University of Washington",2018-03-19,"60.3%",2018
+"ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation@@@ESPNet","Hannaneh Hajishirzi","University of Washington",2018-03-19,"60.3%",2018
+"ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation@@@ENet","Adam Paszke","University of Warsaw",2016-06-07,"58.3%",2016
+"ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation@@@ENet","Abhishek Chaurasia","Purdue University",2016-06-07,"58.3%",2016
+"ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation@@@ENet","Sangpil Kim","",2016-06-07,"58.3%",2016
+"ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation@@@ENet","Eugenio Culurciello","Purdue University",2016-06-07,"58.3%",2016
+"SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation@@@SegNet","Vijay Badrinarayanan","University of Cambridge",2015-11-02,"57.0%",2015
+"SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation@@@SegNet","Alex Kendall","University of Cambridge",2015-11-02,"57.0%",2015
+"SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation@@@SegNet","Roberto Cipolla","University of Cambridge",2015-11-02,"57.0%",2015
+"PolyTransform: Deep Polygon Transformer for Instance Segmentation@@@PolyTransform","Justin Liang","University of Toronto",2019-12-05,"not available",2019
+"PolyTransform: Deep Polygon Transformer for Instance Segmentation@@@PolyTransform","Namdar Homayounfar","Uber ",2019-12-05,"not available",2019
+"PolyTransform: Deep Polygon Transformer for Instance Segmentation@@@PolyTransform","Wei-Chiu Ma","Uber ",2019-12-05,"not available",2019
+"PolyTransform: Deep Polygon Transformer for Instance Segmentation@@@PolyTransform","Yuwen Xiong","University of Toronto",2019-12-05,"not available",2019
+"PolyTransform: Deep Polygon Transformer for Instance Segmentation@@@PolyTransform","Rui Hu","",2019-12-05,"not available",2019
+"PolyTransform: Deep Polygon Transformer for Instance Segmentation@@@PolyTransform","Raquel Urtasun","University of Toronto",2019-12-05,"not available",2019
+"EfficientPS: Efficient Panoptic Segmentation@@@EfficientPS","Rohit Mohan","University of Freiburg",2020-04-05,"not available",2020
+"EfficientPS: Efficient Panoptic Segmentation@@@EfficientPS","Abhinav Valada","University of Freiburg",2020-04-05,"not available",2020
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Mapillary Vistas]","Bowen Cheng","University of Illinois at Urbana–Champaign",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Mapillary Vistas]","Maxwell D. Collins","Google",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Mapillary Vistas]","Yukun Zhu","Google",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Mapillary Vistas]","Ting Liu","Beijing Jiaotong University",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Mapillary Vistas]","Thomas S. Huang","University of Illinois at Urbana–Champaign",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Mapillary Vistas]","Hartwig Adam","Google",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Mapillary Vistas]","Liang-Chieh Chen","Google",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Cityscapes-fine]","Bowen Cheng","University of Illinois at Urbana–Champaign",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Cityscapes-fine]","Maxwell D. Collins","Google",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Cityscapes-fine]","Yukun Zhu","Google",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Cityscapes-fine]","Ting Liu","Beijing Jiaotong University",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Cityscapes-fine]","Thomas S. Huang","University of Illinois at Urbana–Champaign",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Cityscapes-fine]","Hartwig Adam","Google",2019-11-22,"not available",2019
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation@@@Panoptic-DeepLab [Cityscapes-fine]","Liang-Chieh Chen","Google",2019-11-22,"not available",2019
+"Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth","Davy Neven","Katholieke Universiteit Leuven",2019-06-26,"not available",2019
+"Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth","Bert De Brabandere","Katholieke Universiteit Leuven",2019-06-26,"not available",2019
+"Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth","Marc Proesmans","Katholieke Universiteit Leuven",2019-06-26,"not available",2019
+"Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth","Luc Van Gool","ETH Zurich",2019-06-26,"not available",2019
+"Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Learnable Margin","Davy Neven","Katholieke Universiteit Leuven",2019-06-26,"not available",2019
+"Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Learnable Margin","Bert De Brabandere","Katholieke Universiteit Leuven",2019-06-26,"not available",2019
+"Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Learnable Margin","Marc Proesmans","Katholieke Universiteit Leuven",2019-06-26,"not available",2019
+"Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth@@@Learnable Margin","Luc Van Gool","ETH Zurich",2019-06-26,"not available",2019
+"Pixelwise Instance Segmentation with a Dynamically Instantiated Network@@@Dynamically Instantiated Network","Anurag Arnab","University of Oxford",2017-04-07,"not available",2017
+"Pixelwise Instance Segmentation with a Dynamically Instantiated Network@@@Dynamically Instantiated Network","Philip H. S. Torr","University of Oxford",2017-04-07,"not available",2017
+"Deep Watershed Transform for Instance Segmentation@@@Deep Watershed Transform","Min Bai","North China University of Water Conservancy and Electric Power",2016-11-24,"not available",2016
+"Deep Watershed Transform for Instance Segmentation@@@Deep Watershed Transform","Raquel Urtasun","University of Toronto",2016-11-24,"not available",2016
+"Semantic Instance Segmentation with a Discriminative Loss Function@@@Semantic Instance Segmentation with a Discriminative Loss Function","Bert De Brabandere","",2017-08-08,"not available",2017
+"Semantic Instance Segmentation with a Discriminative Loss Function@@@Semantic Instance Segmentation with a Discriminative Loss Function","Davy Neven","",2017-08-08,"not available",2017
+"Semantic Instance Segmentation with a Discriminative Loss Function@@@Semantic Instance Segmentation with a Discriminative Loss Function","Luc Van Gool","",2017-08-08,"not available",2017

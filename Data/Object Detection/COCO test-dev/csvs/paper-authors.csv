@@ -1,0 +1,1107 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Distribution-Aware Coordinate Representation for Human Pose Estimation@@@HRNet-W48+DARK","Feng Zhang","University of Electronic Science and Technology of China",2019-10-14,"not available",2019
+"Distribution-Aware Coordinate Representation for Human Pose Estimation@@@HRNet-W48+DARK","Xiatian Zhu","Samsung",2019-10-14,"not available",2019
+"Distribution-Aware Coordinate Representation for Human Pose Estimation@@@HRNet-W48+DARK","Hanbin Dai","University of Electronic Science and Technology of China",2019-10-14,"not available",2019
+"Distribution-Aware Coordinate Representation for Human Pose Estimation@@@HRNet-W48+DARK","Mao Ye","University of Electronic Science and Technology of China",2019-10-14,"not available",2019
+"Distribution-Aware Coordinate Representation for Human Pose Estimation@@@HRNet-W48+DARK","Ce Zhu","",2019-10-14,"not available",2019
+"Deep High-Resolution Representation Learning for Human Pose Estimation@@@HRNet-W48","Ke Sun","University of Science and Technology of China",2019-02-25,"not available",2019
+"Deep High-Resolution Representation Learning for Human Pose Estimation@@@HRNet-W48","Bin Xiao","Microsoft",2019-02-25,"not available",2019
+"Deep High-Resolution Representation Learning for Human Pose Estimation@@@HRNet-W48","Dong Liu","University of Science and Technology of China",2019-02-25,"not available",2019
+"Deep High-Resolution Representation Learning for Human Pose Estimation@@@HRNet-W48","Jingdong Wang","Microsoft",2019-02-25,"not available",2019
+"EvoPose2D: Pushing the Boundaries of 2D Human Pose Estimation using Neuroevolution@@@EvoPose2D-L","Seungryul Baek","Imperial College London",2020-11-17,"not available",2020
+"EvoPose2D: Pushing the Boundaries of 2D Human Pose Estimation using Neuroevolution@@@EvoPose2D-L","Kwang In Kim","Ulsan National Institute of Science and Technology",2020-11-17,"not available",2020
+"EvoPose2D: Pushing the Boundaries of 2D Human Pose Estimation using Neuroevolution@@@EvoPose2D-L","Tae-Kyun Kim","Imperial College London",2020-11-17,"not available",2020
+"The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation@@@HRNet-W48+UDP","Junjie Huang","Chinese Academy of Sciences",2019-11-18,"not available",2019
+"The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation@@@HRNet-W48+UDP","Zheng Zhu","Chinese Academy of Sciences",2019-11-18,"not available",2019
+"The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation@@@HRNet-W48+UDP","Feng Guo","",2019-11-18,"not available",2019
+"The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation@@@HRNet-W48+UDP","Guan Huang","",2019-11-18,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Wenbo Li","",2019-01-01,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Zhicheng Wang","",2019-01-01,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Binyi Yin","",2019-01-01,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Qixiang Peng","",2019-01-01,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Yuming Du","",2019-01-01,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Tianzi Xiao","",2019-01-01,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Gang Yu","",2019-01-01,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Hongtao Lu","",2019-01-01,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Yichen Wei","",2019-01-01,"not available",2019
+"Rethinking on Multi-Stage Networks for Human Pose Estimation@@@MSPN","Jian Sun","Shanghai Jiao Tong University",2019-01-01,"not available",2019
+"PoseFix: Model-agnostic General Human Pose Refinement Network@@@PoseFix","Gyeongsik Moon","Seoul National University",2018-12-10,"not available",2018
+"PoseFix: Model-agnostic General Human Pose Refinement Network@@@PoseFix","Ju Yong Chang","Kwangwoon University",2018-12-10,"not available",2018
+"PoseFix: Model-agnostic General Human Pose Refinement Network@@@PoseFix","Kyoung Mu Lee","Seoul National University",2018-12-10,"not available",2018
+"Simple Baselines for Human Pose Estimation and Tracking@@@Flow-based (ResNet-152)","Bin Xiao","Microsoft",2018-04-17,"not available",2018
+"Simple Baselines for Human Pose Estimation and Tracking@@@Flow-based (ResNet-152)","Haiping Wu","University of Electronic Science and Technology of China",2018-04-17,"not available",2018
+"Simple Baselines for Human Pose Estimation and Tracking@@@Flow-based (ResNet-152)","Yichen Wei","Microsoft",2018-04-17,"not available",2018
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN+ [6, 9]","Yilun Chen","Beihang University",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN+ [6, 9]","Zhicheng Wang","",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN+ [6, 9]","Yuxiang Peng","Tsinghua University",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN+ [6, 9]","Zhiqiang Zhang","Huazhong University of Science and Technology",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN+ [6, 9]","Gang Yu","",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN+ [6, 9]","Jian Sun","Xi'an Jiaotong University",2017-11-20,"not available",2017
+"RMPE: Regional Multi-person Pose Estimation@@@RMPE++","Hao-Shu Fang","Shanghai Jiao Tong University",2016-12-01,"not available",2016
+"RMPE: Regional Multi-person Pose Estimation@@@RMPE++","Shuqin Xie","Shanghai Jiao Tong University",2016-12-01,"not available",2016
+"RMPE: Regional Multi-person Pose Estimation@@@RMPE++","Yu-Wing Tai","Tencent",2016-12-01,"not available",2016
+"RMPE: Regional Multi-person Pose Estimation@@@RMPE++","Cewu Lu","Stanford University",2016-12-01,"not available",2016
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN","Yilun Chen","Beihang University",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN","Zhicheng Wang","",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN","Yuxiang Peng","Tsinghua University",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN","Zhiqiang Zhang","Huazhong University of Science and Technology",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN","Gang Yu","",2017-11-20,"not available",2017
+"Cascaded Pyramid Network for Multi-Person Pose Estimation@@@CPN","Jian Sun","Xi'an Jiaotong University",2017-11-20,"not available",2017
+"Towards Accurate Multi-person Pose Estimation in the Wild@@@G-RMI","George Papandreou","Google",2017-01-06,"not available",2017
+"Towards Accurate Multi-person Pose Estimation in the Wild@@@G-RMI","Tyler Zhu","Google",2017-01-06,"not available",2017
+"Towards Accurate Multi-person Pose Estimation in the Wild@@@G-RMI","Nori Kanazawa","Google",2017-01-06,"not available",2017
+"Towards Accurate Multi-person Pose Estimation in the Wild@@@G-RMI","Alexander Toshev","Google",2017-01-06,"not available",2017
+"Towards Accurate Multi-person Pose Estimation in the Wild@@@G-RMI","Jonathan Tompson","Google",2017-01-06,"not available",2017
+"Towards Accurate Multi-person Pose Estimation in the Wild@@@G-RMI","Chris Bregler","New York University",2017-01-06,"not available",2017
+"Towards Accurate Multi-person Pose Estimation in the Wild@@@G-RMI","Kevin Murphy","Google",2017-01-06,"not available",2017
+"Revisiting Unreasonable Effectiveness of Data in Deep Learning Era@@@Faster R-CNN (ImageNet+300M)","Chen Sun","Google",2017-07-10,"not available",2017
+"Revisiting Unreasonable Effectiveness of Data in Deep Learning Era@@@Faster R-CNN (ImageNet+300M)","Abhinav Shrivastava","Carnegie Mellon University",2017-07-10,"not available",2017
+"Revisiting Unreasonable Effectiveness of Data in Deep Learning Era@@@Faster R-CNN (ImageNet+300M)","Saurabh Singh","Google",2017-07-10,"not available",2017
+"Revisiting Unreasonable Effectiveness of Data in Deep Learning Era@@@Faster R-CNN (ImageNet+300M)","Abhinav Gupta","Carnegie Mellon University",2017-07-10,"not available",2017
+"Mask R-CNN@@@Mask-RCNN","Kaiming He","Microsoft",2017-03-20,"not available",2017
+"Mask R-CNN@@@Mask-RCNN","Georgia Gkioxari","University of California",2017-03-20,"not available",2017
+"Mask R-CNN@@@Mask-RCNN","Piotr Dollar","Facebook",2017-03-20,"not available",2017
+"Mask R-CNN@@@Mask-RCNN","Ross Girshick","Facebook",2017-03-20,"not available",2017
+"Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields@@@CMU-Pose","Zhe Cao","Carnegie Mellon University",2016-11-24,"not available",2016
+"Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields@@@CMU-Pose","Tomas Simon","Carnegie Mellon University",2016-11-24,"not available",2016
+"Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields@@@CMU-Pose","Shih-En Wei","Facebook",2016-11-24,"not available",2016
+"Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields@@@CMU-Pose","Yaser Sheikh","Carnegie Mellon University",2016-11-24,"not available",2016
+"RMPE: Regional Multi-person Pose Estimation@@@RMPE","Hao-Shu Fang","Shanghai Jiao Tong University",2016-12-01,"not available",2016
+"RMPE: Regional Multi-person Pose Estimation@@@RMPE","Shuqin Xie","Shanghai Jiao Tong University",2016-12-01,"not available",2016
+"RMPE: Regional Multi-person Pose Estimation@@@RMPE","Yu-Wing Tai","Tencent",2016-12-01,"not available",2016
+"RMPE: Regional Multi-person Pose Estimation@@@RMPE","Cewu Lu","Stanford University",2016-12-01,"not available",2016
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Hao-Shu Fang","Shanghai Jiao Tong University",2020-12-13,"57.3",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Jianhua Sun","Shanghai Jiao Tong University",2020-12-13,"57.3",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Runzhong Wang","Shanghai Jiao Tong University",2020-12-13,"57.3",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Minghao Gou","Shanghai Jiao Tong University",2020-12-13,"57.3",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Yong-Lu Li","Shanghai Jiao Tong University",2020-12-13,"57.3",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Cewu Lu","Shanghai Jiao Tong University",2020-12-13,"57.3",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P7 (CSP-P7, multi-scale)","Mahdi Zamani","",2020-11-16,"55.8",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P7 (CSP-P7, multi-scale)","Mahnush Movahedi","",2020-11-16,"55.8",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P7 (CSP-P7, multi-scale)","Mariana Raykova","Yale University",2020-11-16,"55.8",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-64x4d, multi-scale)","Siyuan Qiao","",2020-06-03,"55.7",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-64x4d, multi-scale)","Liang-Chieh Chen","",2020-06-03,"55.7",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-64x4d, multi-scale)","Alan L. Yuille","",2020-06-03,"55.7",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P7 (CSP-P7, single-scale)","Mahdi Zamani","",2020-11-16,"55.4",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P7 (CSP-P7, single-scale)","Mahnush Movahedi","",2020-11-16,"55.4",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P7 (CSP-P7, single-scale)","Mariana Raykova","Yale University",2020-11-16,"55.4",2020
+"EfficientDet: Scalable and Efficient Object Detection@@@EfficientDet-D7x (single-scale)","Mingxing Tan","Google",2019-11-20,"55.1",2019
+"EfficientDet: Scalable and Efficient Object Detection@@@EfficientDet-D7x (single-scale)","Ruoming Pang","Google",2019-11-20,"55.1",2019
+"EfficientDet: Scalable and Efficient Object Detection@@@EfficientDet-D7x (single-scale)","Quoc V. Le","Google",2019-11-20,"55.1",2019
+"Mish: A Self Regularized Non-Monotonic Activation Function@@@CSP-p6 + Mish (multi-scale)","Diganta Misra","",2019-08-23,"54.9",2019
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-32x4d, multi-scale)","Siyuan Qiao","",2020-06-03,"54.7",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-32x4d, multi-scale)","Liang-Chieh Chen","",2020-06-03,"54.7",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-32x4d, multi-scale)","Alan L. Yuille","",2020-06-03,"54.7",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P6 (CSP-P6, single-scale)","Mahdi Zamani","",2020-11-16,"54.3",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P6 (CSP-P6, single-scale)","Mahnush Movahedi","",2020-11-16,"54.3",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P6 (CSP-P6, single-scale)","Mariana Raykova","Yale University",2020-11-16,"54.3",2020
+"Rethinking Pre-training and Self-training@@@SpineNet-190 (1280, with Self-training on OpenImages, single-scale)","Barret Zoph","",2020-06-11,"54.3",2020
+"Rethinking Pre-training and Self-training@@@SpineNet-190 (1280, with Self-training on OpenImages, single-scale)","Golnaz Ghiasi","",2020-06-11,"54.3",2020
+"Rethinking Pre-training and Self-training@@@SpineNet-190 (1280, with Self-training on OpenImages, single-scale)","Tsung-Yi Lin","",2020-06-11,"54.3",2020
+"Rethinking Pre-training and Self-training@@@SpineNet-190 (1280, with Self-training on OpenImages, single-scale)","Yin Cui","",2020-06-11,"54.3",2020
+"Rethinking Pre-training and Self-training@@@SpineNet-190 (1280, with Self-training on OpenImages, single-scale)","Hanxiao Liu","",2020-06-11,"54.3",2020
+"Rethinking Pre-training and Self-training@@@SpineNet-190 (1280, with Self-training on OpenImages, single-scale)","Ekin D. Cubuk","",2020-06-11,"54.3",2020
+"Rethinking Pre-training and Self-training@@@SpineNet-190 (1280, with Self-training on OpenImages, single-scale)","Quoc V. Le","",2020-06-11,"54.3",2020
+"EfficientDet: Scalable and Efficient Object Detection@@@EfficientDet-D7(single-scale)","Mingxing Tan","Google",2019-11-20,"53.7",2019
+"EfficientDet: Scalable and Efficient Object Detection@@@EfficientDet-D7(single-scale)","Ruoming Pang","Google",2019-11-20,"53.7",2019
+"EfficientDet: Scalable and Efficient Object Detection@@@EfficientDet-D7(single-scale)","Quoc V. Le","Google",2019-11-20,"53.7",2019
+"Probabilistic Anchor Assignment with IoU Prediction for Object Detection@@@PAA (ResNext-152-32x8d + DCN, multi-scale)","Kang Kim","",2020-07-16,"53.5",2020
+"Probabilistic Anchor Assignment with IoU Prediction for Object Detection@@@PAA (ResNext-152-32x8d + DCN, multi-scale)","Hee Seok Lee","Qualcomm",2020-07-16,"53.5",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Hang Zhang","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Chongruo Wu","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Zhongyue Zhang","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Yi Zhu","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Zhi Zhang","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Haibin Lin","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Yue Sun","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Tong He","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Jonas Mueller","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","R. Manmatha","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Mu Li","",2020-04-19,"53.3",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200DCN (multi-scale)","Alexander J. Smola","",2020-04-19,"53.3",2020
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (Triple-ResNeXt152, multi-scale)","Yudong Liu","Peking University",2019-09-09,"53.3",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (Triple-ResNeXt152, multi-scale)","Yongtao Wang","Peking University",2019-09-09,"53.3",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (Triple-ResNeXt152, multi-scale)","Siwei Wang","Peking University",2019-09-09,"53.3",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (Triple-ResNeXt152, multi-scale)","Tingting Liang","Peking University",2019-09-09,"53.3",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (Triple-ResNeXt152, multi-scale)","Qijie Zhao","Peking University",2019-09-09,"53.3",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (Triple-ResNeXt152, multi-scale)","Zhi Tang","Peking University",2019-09-09,"53.3",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (Triple-ResNeXt152, multi-scale)","Haibin Ling","Stony Brook University",2019-09-09,"53.3",2019
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-32x4d, single-scale)","Siyuan Qiao","",2020-06-03,"53.3",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-32x4d, single-scale)","Liang-Chieh Chen","",2020-06-03,"53.3",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-32x4d, single-scale)","Alan L. Yuille","",2020-06-03,"53.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN, multiscale)","Xiang Li","",2020-11-25,"53.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN, multiscale)","Wenhai Wang","",2020-11-25,"53.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN, multiscale)","Lijun Wu","",2020-11-25,"53.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN, multiscale)","Shuo Chen","",2020-11-25,"53.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN, multiscale)","Xiaolin Hu","",2020-11-25,"53.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN, multiscale)","Jun Li","",2020-11-25,"53.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN, multiscale)","Jinhui Tang","",2020-11-25,"53.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN, multiscale)","Jian Yang","",2020-11-25,"53.3",2020
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Xianzhi Du","Samsung",2019-12-10,"52.5",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Tsung-Yi Lin","Google",2019-12-10,"52.5",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Pengchong Jin","Purdue University",2019-12-10,"52.5",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Golnaz Ghiasi","Amirkabir University of Technology",2019-12-10,"52.5",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Mingxing Tan","Google",2019-12-10,"52.5",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Yin Cui","Cornell University",2019-12-10,"52.5",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Quoc V. Le","Google",2019-12-10,"52.5",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Xiaodan Song","Google",2019-12-10,"52.5",2019
+"Deformable DETR: Deformable Transformers for End-to-End Object Detection@@@Deformable DETR (ResNeXt-101+DCN)","Xizhou Zhu","",2020-10-08,"52.3",2020
+"Deformable DETR: Deformable Transformers for End-to-End Object Detection@@@Deformable DETR (ResNeXt-101+DCN)","Weijie Su","",2020-10-08,"52.3",2020
+"Deformable DETR: Deformable Transformers for End-to-End Object Detection@@@Deformable DETR (ResNeXt-101+DCN)","Lewei Lu","",2020-10-08,"52.3",2020
+"Deformable DETR: Deformable Transformers for End-to-End Object Detection@@@Deformable DETR (ResNeXt-101+DCN)","Bin Li","University of Science and Technology of China",2020-10-08,"52.3",2020
+"Deformable DETR: Deformable Transformers for End-to-End Object Detection@@@Deformable DETR (ResNeXt-101+DCN)","Xiaogang Wang","University of Science and Technology of China",2020-10-08,"52.3",2020
+"Deformable DETR: Deformable Transformers for End-to-End Object Detection@@@Deformable DETR (ResNeXt-101+DCN)","Jifeng Dai","The Chinese University of Hong Kong",2020-10-08,"52.3",2020
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (RetinaNet, single-scale)","Xianzhi Du","Samsung",2019-12-10,"52.1",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (RetinaNet, single-scale)","Tsung-Yi Lin","Google",2019-12-10,"52.1",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (RetinaNet, single-scale)","Pengchong Jin","Purdue University",2019-12-10,"52.1",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (RetinaNet, single-scale)","Golnaz Ghiasi","Amirkabir University of Technology",2019-12-10,"52.1",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (RetinaNet, single-scale)","Mingxing Tan","Google",2019-12-10,"52.1",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (RetinaNet, single-scale)","Yin Cui","Cornell University",2019-12-10,"52.1",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (RetinaNet, single-scale)","Quoc V. Le","Google",2019-12-10,"52.1",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (RetinaNet, single-scale)","Xiaodan Song","Google",2019-12-10,"52.1",2019
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN, multi-scale)","Yihong Chen","Microsoft",2020-07-16,"52.1",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN, multi-scale)","Zheng Zhang","Microsoft",2020-07-16,"52.1",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN, multi-scale)","Yue Cao","Microsoft",2020-07-16,"52.1",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN, multi-scale)","Liwei Wang","Microsoft",2020-07-16,"52.1",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN, multi-scale)","Stephen Lin","Microsoft",2020-07-16,"52.1",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN, multi-scale)","Han Hu","Peking University",2020-07-16,"52.1",2020
+"Attention-guided Context Feature Pyramid Network for Object Detection@@@AC-FPN Cascade R-CNN (X-152-32x8d-FPN-IN5k, multi scale, only CEM)","Junxu Cao","",2020-05-23,"51.9",2020
+"Attention-guided Context Feature Pyramid Network for Object Detection@@@AC-FPN Cascade R-CNN (X-152-32x8d-FPN-IN5k, multi scale, only CEM)","Qi Chen","",2020-05-23,"51.9",2020
+"Attention-guided Context Feature Pyramid Network for Object Detection@@@AC-FPN Cascade R-CNN (X-152-32x8d-FPN-IN5k, multi scale, only CEM)","Jun Guo","",2020-05-23,"51.9",2020
+"Attention-guided Context Feature Pyramid Network for Object Detection@@@AC-FPN Cascade R-CNN (X-152-32x8d-FPN-IN5k, multi scale, only CEM)","Ruichao Shi","",2020-05-23,"51.9",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P5 (CSP-P5, single-scale)","Mahdi Zamani","",2020-11-16,"51.4",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P5 (CSP-P5, single-scale)","Mahnush Movahedi","",2020-11-16,"51.4",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4-P5 (CSP-P5, single-scale)","Mariana Raykova","Yale University",2020-11-16,"51.4",2020
+"Revisiting the Sibling Head in Object Detector@@@TSD(SENet154-DCN,multi-scale)","Guanglu Song","Beihang University",2020-03-17,"51.2",2020
+"Revisiting the Sibling Head in Object Detector@@@TSD(SENet154-DCN,multi-scale)","Yu Liu","Beihang University",2020-03-17,"51.2",2020
+"Revisiting the Sibling Head in Object Detector@@@TSD(SENet154-DCN,multi-scale)","Xiaogang Wang","The Chinese University of Hong Kong",2020-03-17,"51.2",2020
+"Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection@@@ATSS (ResNetXt-64x4d-101+DCN,multi-scale)","Shifeng Zhang","Beijing Forestry University",2019-12-05,"50.7",2019
+"Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection@@@ATSS (ResNetXt-64x4d-101+DCN,multi-scale)","Cheng Chi","Chinese Academy of Sciences",2019-12-05,"50.7",2019
+"Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection@@@ATSS (ResNetXt-64x4d-101+DCN,multi-scale)","Yongqiang Yao","Chinese Academy of Sciences",2019-12-05,"50.7",2019
+"Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection@@@ATSS (ResNetXt-64x4d-101+DCN,multi-scale)","Zhen Lei","Chinese Academy of Sciences",2019-12-05,"50.7",2019
+"Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection@@@ATSS (ResNetXt-64x4d-101+DCN,multi-scale)","Stan Z. Li","Chinese Academy of Sciences",2019-12-05,"50.7",2019
+"Learning Data Augmentation Strategies for Object Detection@@@NAS-FPN (AmoebaNet-D, learned aug)","Zhaocheng Wang","Xidian University",2019-06-26,"50.7",2019
+"Learning Data Augmentation Strategies for Object Detection@@@NAS-FPN (AmoebaNet-D, learned aug)","Lan Du","Xidian University",2019-06-26,"50.7",2019
+"Learning Data Augmentation Strategies for Object Detection@@@NAS-FPN (AmoebaNet-D, learned aug)","Jiashun Mao","Xidian University",2019-06-26,"50.7",2019
+"Learning Data Augmentation Strategies for Object Detection@@@NAS-FPN (AmoebaNet-D, learned aug)","Bin Liu","Xidian University",2019-06-26,"50.7",2019
+"Learning Data Augmentation Strategies for Object Detection@@@NAS-FPN (AmoebaNet-D, learned aug)","Dongwen Yang","Xidian University",2019-06-26,"50.7",2019
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN)","Xiang Li","",2020-11-25,"50.6",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN)","Wenhai Wang","",2020-11-25,"50.6",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN)","Lijun Wu","",2020-11-25,"50.6",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN)","Shuo Chen","",2020-11-25,"50.6",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN)","Xiaolin Hu","",2020-11-25,"50.6",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN)","Jun Li","",2020-11-25,"50.6",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN)","Jinhui Tang","",2020-11-25,"50.6",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (Res2Net-101, DCN)","Jian Yang","",2020-11-25,"50.6",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, DCN, multiscale test)","Kemal Oksuz","",2020-09-28,"50.2",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, DCN, multiscale test)","Baris Can Cam","",2020-09-28,"50.2",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, DCN, multiscale test)","Emre Akbas","",2020-09-28,"50.2",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, DCN, multiscale test)","Sinan Kalkan","Middle East Technical University",2020-09-28,"50.2",2020
+"Scale-Equalizing Pyramid Convolution for Object Detection@@@FreeAnchor + SEPC (DCN, ResNext-101-64x4d)","Xinjiang Wang","Hong Kong University of Science and Technology",2020-05-06,"50.1",2020
+"Scale-Equalizing Pyramid Convolution for Object Detection@@@FreeAnchor + SEPC (DCN, ResNext-101-64x4d)","Shilong Zhang","",2020-05-06,"50.1",2020
+"Scale-Equalizing Pyramid Convolution for Object Detection@@@FreeAnchor + SEPC (DCN, ResNext-101-64x4d)","Zhuoran Yu","",2020-05-06,"50.1",2020
+"Scale-Equalizing Pyramid Convolution for Object Detection@@@FreeAnchor + SEPC (DCN, ResNext-101-64x4d)","Litong Feng","SenseTime",2020-05-06,"50.1",2020
+"Scale-Equalizing Pyramid Convolution for Object Detection@@@FreeAnchor + SEPC (DCN, ResNext-101-64x4d)","Wayne Zhang","",2020-05-06,"50.1",2020
+"Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training@@@Dynamic R-CNN (ResNet-101-DCN, multi-scale)","Hongkai Zhang","Chinese Academy of Sciences",2020-04-13,"50.1",2020
+"Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training@@@Dynamic R-CNN (ResNet-101-DCN, multi-scale)","Hong Chang","Chinese Academy of Sciences",2020-04-13,"50.1",2020
+"Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training@@@Dynamic R-CNN (ResNet-101-DCN, multi-scale)","Bingpeng Ma","Chinese Academy of Sciences",2020-04-13,"50.1",2020
+"Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training@@@Dynamic R-CNN (ResNet-101-DCN, multi-scale)","Naiyan Wang","",2020-04-13,"50.1",2020
+"Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training@@@Dynamic R-CNN (ResNet-101-DCN, multi-scale)","Xilin Chen","Chinese Academy of Sciences",2020-04-13,"50.1",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101-DCN, multi-scale)","Jiale Cao","Tianjin University",2020-06-01,"50.1",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101-DCN, multi-scale)","Hisham Cholakkal","Nanyang Technological University",2020-06-01,"50.1",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101-DCN, multi-scale)","Rao Muhammad Anwer","Aalto University",2020-06-01,"50.1",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101-DCN, multi-scale)","Fahad Shahbaz Khan","Linköping University",2020-06-01,"50.1",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101-DCN, multi-scale)","Yanwei Pang","Tianjin University",2020-06-01,"50.1",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101-DCN, multi-scale)","Ling Shao","University of East Anglia",2020-06-01,"50.1",2020
+"Revisiting the Sibling Head in Object Detector@@@TSD(ResNet-101-Deformable, Image Pyramid)","Guanglu Song","Beihang University",2020-03-17,"49.4",2020
+"Revisiting the Sibling Head in Object Detector@@@TSD(ResNet-101-Deformable, Image Pyramid)","Yu Liu","Beihang University",2020-03-17,"49.4",2020
+"Revisiting the Sibling Head in Object Detector@@@TSD(ResNet-101-Deformable, Image Pyramid)","Xiaogang Wang","The Chinese University of Hong Kong",2020-03-17,"49.4",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN)","Yihong Chen","Microsoft",2020-07-16,"49.4",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN)","Zheng Zhang","Microsoft",2020-07-16,"49.4",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN)","Yue Cao","Microsoft",2020-07-16,"49.4",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN)","Liwei Wang","Microsoft",2020-07-16,"49.4",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN)","Stephen Lin","Microsoft",2020-07-16,"49.4",2020
+"RepPoints V2: Verification Meets Regression for Object Detection@@@RepPoints v2 (ResNeXt-101, DCN)","Han Hu","Peking University",2020-07-16,"49.4",2020
+"Corner Proposal Network for Anchor-free, Two-stage Object Detection@@@CPNDet (Hourglass-104, multi-scale)","Kaiwen Duan","",2020-07-27,"49.2",2020
+"Corner Proposal Network for Anchor-free, Two-stage Object Detection@@@CPNDet (Hourglass-104, multi-scale)","Lingxi Xie","",2020-07-27,"49.2",2020
+"Corner Proposal Network for Anchor-free, Two-stage Object Detection@@@CPNDet (Hourglass-104, multi-scale)","Honggang Qi","Chinese Academy of Sciences",2020-07-27,"49.2",2020
+"Corner Proposal Network for Anchor-free, Two-stage Object Detection@@@CPNDet (Hourglass-104, multi-scale)","Song Bai","Chinese Academy of Sciences",2020-07-27,"49.2",2020
+"Corner Proposal Network for Anchor-free, Two-stage Object Detection@@@CPNDet (Hourglass-104, multi-scale)","Qingming Huang","",2020-07-27,"49.2",2020
+"Corner Proposal Network for Anchor-free, Two-stage Object Detection@@@CPNDet (Hourglass-104, multi-scale)","Qi Tian","Huawei",2020-07-27,"49.2",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNeXt-101, 32x4d, DCN)","Xiang Li","",2020-11-25,"49",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNeXt-101, 32x4d, DCN)","Wenhai Wang","",2020-11-25,"49",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNeXt-101, 32x4d, DCN)","Lijun Wu","",2020-11-25,"49",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNeXt-101, 32x4d, DCN)","Shuo Chen","",2020-11-25,"49",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNeXt-101, 32x4d, DCN)","Xiaolin Hu","",2020-11-25,"49",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNeXt-101, 32x4d, DCN)","Jun Li","",2020-11-25,"49",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNeXt-101, 32x4d, DCN)","Jinhui Tang","",2020-11-25,"49",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNeXt-101, 32x4d, DCN)","Jian Yang","",2020-11-25,"49",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, DCN, single scale)","Kemal Oksuz","",2020-09-28,"48.9",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, DCN, single scale)","Baris Can Cam","",2020-09-28,"48.9",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, DCN, single scale)","Emre Akbas","",2020-09-28,"48.9",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, DCN, single scale)","Sinan Kalkan","Middle East Technical University",2020-09-28,"48.9",2020
+"Scale-Aware Trident Networks for Object Detection@@@TridentNet (ResNet-101-Deformable, Image Pyramid)","Yanghao Li","Peking University",2019-01-07,"48.4",2019
+"Scale-Aware Trident Networks for Object Detection@@@TridentNet (ResNet-101-Deformable, Image Pyramid)","Yuntao Chen","",2019-01-07,"48.4",2019
+"Scale-Aware Trident Networks for Object Detection@@@TridentNet (ResNet-101-Deformable, Image Pyramid)","Naiyan Wang","",2019-01-07,"48.4",2019
+"Scale-Aware Trident Networks for Object Detection@@@TridentNet (ResNet-101-Deformable, Image Pyramid)","Zhaoxiang Zhang","Chinese Academy of Sciences",2019-01-07,"48.4",2019
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r4)","Yue Cao","Microsoft",2019-04-25,"48.4",2019
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r4)","Jiarui Xu","Hong Kong University of Science and Technology",2019-04-25,"48.4",2019
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r4)","Stephen Lin","Microsoft",2019-04-25,"48.4",2019
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r4)","Fangyun Wei","Microsoft",2019-04-25,"48.4",2019
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r4)","Han Hu","Microsoft",2019-04-25,"48.4",2019
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101-DCN)","Xiang Li","",2020-11-25,"48.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101-DCN)","Wenhai Wang","",2020-11-25,"48.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101-DCN)","Lijun Wu","",2020-11-25,"48.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101-DCN)","Shuo Chen","",2020-11-25,"48.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101-DCN)","Xiaolin Hu","",2020-11-25,"48.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101-DCN)","Jun Li","",2020-11-25,"48.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101-DCN)","Jinhui Tang","",2020-11-25,"48.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101-DCN)","Jian Yang","",2020-11-25,"48.3",2020
+"Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection@@@GFL (X-101-32x4d-DCN, single-scale)","Xiang Li","",2020-06-08,"48.2",2020
+"Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection@@@GFL (X-101-32x4d-DCN, single-scale)","Wenhai Wang","",2020-06-08,"48.2",2020
+"Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection@@@GFL (X-101-32x4d-DCN, single-scale)","Lijun Wu","",2020-06-08,"48.2",2020
+"Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection@@@GFL (X-101-32x4d-DCN, single-scale)","Shuo Chen","",2020-06-08,"48.2",2020
+"Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection@@@GFL (X-101-32x4d-DCN, single-scale)","Xiaolin Hu","",2020-06-08,"48.2",2020
+"Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection@@@GFL (X-101-32x4d-DCN, single-scale)","Jun Li","",2020-06-08,"48.2",2020
+"Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection@@@GFL (X-101-32x4d-DCN, single-scale)","Jinhui Tang","",2020-06-08,"48.2",2020
+"Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection@@@GFL (X-101-32x4d-DCN, single-scale)","Jian Yang","",2020-06-08,"48.2",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, single scale)","Kemal Oksuz","",2020-09-28,"47.8",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, single scale)","Baris Can Cam","",2020-09-28,"47.8",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, single scale)","Emre Akbas","",2020-09-28,"47.8",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101-64x4d, single scale)","Sinan Kalkan","Middle East Technical University",2020-09-28,"47.8",2020
+"Matrix Nets: A New Deep Architecture for Object Detection@@@MatrixNet Corners (ResNet-152, multi-scale)","Abdullah Rashwan","University of Waterloo",2019-08-13,"47.8",2019
+"Matrix Nets: A New Deep Architecture for Object Detection@@@MatrixNet Corners (ResNet-152, multi-scale)","Agastya Kalra","",2019-08-13,"47.8",2019
+"Matrix Nets: A New Deep Architecture for Object Detection@@@MatrixNet Corners (ResNet-152, multi-scale)","Pascal Poupart","University of Waterloo",2019-08-13,"47.8",2019
+"Path Aggregation Network for Instance Segmentation@@@PANet (ResNeXt-101, multi-scale)","Shu Liu","The Chinese University of Hong Kong",2018-03-05,"47.4",2018
+"Path Aggregation Network for Instance Segmentation@@@PANet (ResNeXt-101, multi-scale)","Lu Qi","The Chinese University of Hong Kong",2018-03-05,"47.4",2018
+"Path Aggregation Network for Instance Segmentation@@@PANet (ResNeXt-101, multi-scale)","Haifang Qin","Peking University",2018-03-05,"47.4",2018
+"Path Aggregation Network for Instance Segmentation@@@PANet (ResNeXt-101, multi-scale)","Jianping Shi","",2018-03-05,"47.4",2018
+"Path Aggregation Network for Instance Segmentation@@@PANet (ResNeXt-101, multi-scale)","Jiaya Jia","The Chinese University of Hong Kong",2018-03-05,"47.4",2018
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Jingdong Wang","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Ke Sun","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Tianheng Cheng","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Borui Jiang","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Chaorui Deng","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Yang Zhao","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Dong Liu","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Yadong Mu","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Mingkui Tan","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Xinggang Wang","",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Wenyu Liu","Huazhong University of Science and Technology",2019-08-20,"47.3",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@HTC (HRNetV2p-W48)","Bin Xiao","",2019-08-20,"47.3",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Kai Chen","The Chinese University of Hong Kong",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Wanli Ouyang","University of Sydney",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Chen Change Loy","Nanyang Technological University",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Dahua Lin","The Chinese University of Hong Kong",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Jiangmiao Pang","Zhejiang University",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Jiaqi Wang","The Chinese University of Hong Kong",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Yu Xiong","The Chinese University of Hong Kong",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Xiaoxiao Li","The Chinese University of Hong Kong",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Ziwei Liu","The Chinese University of Hong Kong",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Jianping Shi","SenseTime",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Shuyang Sun","University of Sydney",2019-01-22,"47.1",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC (ResNeXt-101-FPN)","Wansen Feng","",2019-01-22,"47.1",2019
+"CenterNet: Keypoint Triplets for Object Detection@@@CenterNet511 (Hourglass-104, multi-scale)","Kaiwen Duan","Chinese Academy of Sciences",2019-04-17,"47.0",2019
+"CenterNet: Keypoint Triplets for Object Detection@@@CenterNet511 (Hourglass-104, multi-scale)","Song Bai","University of Oxford",2019-04-17,"47.0",2019
+"CenterNet: Keypoint Triplets for Object Detection@@@CenterNet511 (Hourglass-104, multi-scale)","Lingxi Xie","Huawei",2019-04-17,"47.0",2019
+"CenterNet: Keypoint Triplets for Object Detection@@@CenterNet511 (Hourglass-104, multi-scale)","Honggang Qi","Chinese Academy of Sciences",2019-04-17,"47.0",2019
+"CenterNet: Keypoint Triplets for Object Detection@@@CenterNet511 (Hourglass-104, multi-scale)","Qingming Huang","Chinese Academy of Sciences",2019-04-17,"47.0",2019
+"CenterNet: Keypoint Triplets for Object Detection@@@CenterNet511 (Hourglass-104, multi-scale)","Qi Tian","Huawei",2019-04-17,"47.0",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN, multi-scale)","Ze Yang","Peking University",2019-04-25,"46.5",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN, multi-scale)","Shaohui Liu","",2019-04-25,"46.5",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN, multi-scale)","Han Hu","Microsoft",2019-04-25,"46.5",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN, multi-scale)","Liwei Wang","Peking University",2019-04-25,"46.5",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN, multi-scale)","Stephen Lin","Microsoft",2019-04-25,"46.5",2019
+"HoughNet: Integrating near and long-range evidence for bottom-up object detection@@@HoughNet (MS)","Nermin Samet","Middle East Technical University",2020-07-05,"46.4",2020
+"HoughNet: Integrating near and long-range evidence for bottom-up object detection@@@HoughNet (MS)","Samet Hicsonmez","Middle East Technical University",2020-07-05,"46.4",2020
+"HoughNet: Integrating near and long-range evidence for bottom-up object detection@@@HoughNet (MS)","Emre Akbas","Hacettepe University",2020-07-05,"46.4",2020
+"Reducing Label Noise in Anchor-Free Object Detection@@@PPDet (ResNeXt-101-FPN, multiscale)","Nermin Samet","Middle East Technical University",2020-08-03,"46.3",2020
+"Reducing Label Noise in Anchor-Free Object Detection@@@PPDet (ResNeXt-101-FPN, multiscale)","Samet Hicsonmez","Hacettepe University",2020-08-03,"46.3",2020
+"Reducing Label Noise in Anchor-Free Object Detection@@@PPDet (ResNeXt-101-FPN, multiscale)","Emre Akbas","Middle East Technical University",2020-08-03,"46.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101)","Xiang Li","",2020-11-25,"46.2",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101)","Wenhai Wang","",2020-11-25,"46.2",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101)","Lijun Wu","",2020-11-25,"46.2",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101)","Shuo Chen","",2020-11-25,"46.2",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101)","Xiaolin Hu","",2020-11-25,"46.2",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101)","Jun Li","",2020-11-25,"46.2",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101)","Jinhui Tang","",2020-11-25,"46.2",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-101)","Jian Yang","",2020-11-25,"46.2",2020
+"SNIPER: Efficient Multi-Scale Training@@@SNIPER (ResNet-101)","Bharat Singh","University of Maryland, College Park",2018-05-23,"46.1",2018
+"SNIPER: Efficient Multi-Scale Training@@@SNIPER (ResNet-101)","Mahyar Najibi","University of Maryland, College Park",2018-05-23,"46.1",2018
+"SNIPER: Efficient Multi-Scale Training@@@SNIPER (ResNet-101)","Larry S. Davis","University of Maryland, College Park",2018-05-23,"46.1",2018
+"SNIPER: Efficient Multi-Scale Training@@@SNIPER (ResNet-101)","Larry Davis","University of Maryland, College Park",2018-05-23,"46.1",2018
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Jingdong Wang","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Ke Sun","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Tianheng Cheng","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Borui Jiang","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Chaorui Deng","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Yang Zhao","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Dong Liu","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Yadong Mu","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Mingkui Tan","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Xinggang Wang","",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Wenyu Liu","Huazhong University of Science and Technology",2019-08-20,"46.1",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W48 + cascade)","Bin Xiao","",2019-08-20,"46.1",2019
+"Deformable ConvNets v2: More Deformable, Better Results@@@DCNv2 (ResNet-101, multi-scale)","Xizhou Zhu","University of Science and Technology of China",2018-11-27,"46.0",2018
+"Deformable ConvNets v2: More Deformable, Better Results@@@DCNv2 (ResNet-101, multi-scale)","Han Hu","Microsoft",2018-11-27,"46.0",2018
+"Deformable ConvNets v2: More Deformable, Better Results@@@DCNv2 (ResNet-101, multi-scale)","Stephen Lin","Microsoft",2018-11-27,"46.0",2018
+"Deformable ConvNets v2: More Deformable, Better Results@@@DCNv2 (ResNet-101, multi-scale)","Jifeng Dai","Microsoft",2018-11-27,"46.0",2018
+"Localization Uncertainty Estimation for Anchor-Free Object Detection@@@Gaussian-FCOS","Youngwan Lee","",2020-06-28,"46",2020
+"Localization Uncertainty Estimation for Anchor-Free Object Detection@@@Gaussian-FCOS","Joong-won Hwang","",2020-06-28,"46",2020
+"Localization Uncertainty Estimation for Anchor-Free Object Detection@@@Gaussian-FCOS","Hyung-Il Kim","",2020-06-28,"46",2020
+"Localization Uncertainty Estimation for Anchor-Free Object Detection@@@Gaussian-FCOS","Kimin Yun","",2020-06-28,"46",2020
+"Localization Uncertainty Estimation for Anchor-Free Object Detection@@@Gaussian-FCOS","Joungyoul Park","Electronics and Telecommunications Research Institute",2020-06-28,"46",2020
+"Localization Uncertainty Estimation for Anchor-Free Object Detection@@@Gaussian-FCOS","Jongyoul Park","Electronics and Telecommunications Research Institute",2020-06-28,"46",2020
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN-FPN (ResNet-101, map-guided)","Hao-Shu Fang","Shanghai Jiao Tong University",2019-08-21,"45.9",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN-FPN (ResNet-101, map-guided)","Jianhua Sun","Shanghai Jiao Tong University",2019-08-21,"45.9",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN-FPN (ResNet-101, map-guided)","Runzhong Wang","",2019-08-21,"45.9",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN-FPN (ResNet-101, map-guided)","Minghao Gou","Shanghai Jiao Tong University",2019-08-21,"45.9",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN-FPN (ResNet-101, map-guided)","Yong-Lu Li","Shanghai Jiao Tong University",2019-08-21,"45.9",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN-FPN (ResNet-101, map-guided)","Cewu Lu","Shanghai Jiao Tong University",2019-08-21,"45.9",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask+VoVNetV2-99 (single-scale)","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"45.8",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask+VoVNetV2-99 (single-scale)","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"45.8",2019
+"An Analysis of Scale Invariance in Object Detection - SNIP@@@D-RFCN + SNIP (DPN-98 with flip, multi-scale)","Bharat Singh","University of Maryland, College Park",2017-11-22,"45.7",2017
+"An Analysis of Scale Invariance in Object Detection - SNIP@@@D-RFCN + SNIP (DPN-98 with flip, multi-scale)","Larry Davis","University of Maryland, College Park",2017-11-22,"45.7",2017
+"An Analysis of Scale Invariance in Object Detection - SNIP@@@D-RFCN + SNIP (DPN-98 with flip, multi-scale)","Larry S. Davis","University of Maryland, College Park",2017-11-22,"45.7",2017
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4 (CD53)","Mahdi Zamani","",2020-11-16,"45.5",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4 (CD53)","Mahnush Movahedi","",2020-11-16,"45.5",2020
+"Scaled-YOLOv4: Scaling Cross Stage Partial Network@@@YOLOv4 (CD53)","Mariana Raykova","Yale University",2020-11-16,"45.5",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Long Xiang","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Xiang Long","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Kaipeng Deng","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Guanzhong Wang","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Yang Zhang","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Qingqing Dang","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Yuan Gao","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Hui Shen","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Jianguo Ren","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Shumin Han","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Errui Ding","",2020-07-23,"45.2",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (608x608)","Shilei Wen","Baidu",2020-07-23,"45.2",2020
+"Attention-guided Context Feature Pyramid Network for Object Detection@@@AC-FPN Cascade R-CNN(ResNet-101, single scale)","Junxu Cao","",2020-05-23,"45",2020
+"Attention-guided Context Feature Pyramid Network for Object Detection@@@AC-FPN Cascade R-CNN(ResNet-101, single scale)","Qi Chen","",2020-05-23,"45",2020
+"Attention-guided Context Feature Pyramid Network for Object Detection@@@AC-FPN Cascade R-CNN(ResNet-101, single scale)","Jun Guo","",2020-05-23,"45",2020
+"Attention-guided Context Feature Pyramid Network for Object Detection@@@AC-FPN Cascade R-CNN(ResNet-101, single scale)","Ruichao Shi","",2020-05-23,"45",2020
+"FreeAnchor: Learning to Match Anchors for Visual Object Detection@@@FreeAnchor (ResNeXt-101)","Xiaosong Zhang","Chinese Academy of Sciences",2019-09-05,"44.8",2019
+"FreeAnchor: Learning to Match Anchors for Visual Object Detection@@@FreeAnchor (ResNeXt-101)","Fang Wan","Chinese Academy of Sciences",2019-09-05,"44.8",2019
+"FreeAnchor: Learning to Match Anchors for Visual Object Detection@@@FreeAnchor (ResNeXt-101)","Chang Liu","Chinese Academy of Sciences",2019-09-05,"44.8",2019
+"FreeAnchor: Learning to Match Anchors for Visual Object Detection@@@FreeAnchor (ResNeXt-101)","Rongrong Ji","Xiamen University",2019-09-05,"44.8",2019
+"FreeAnchor: Learning to Match Anchors for Visual Object Detection@@@FreeAnchor (ResNeXt-101)","Qixiang Ye","Chinese Academy of Sciences",2019-09-05,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Jingdong Wang","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Ke Sun","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Tianheng Cheng","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Borui Jiang","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Chaorui Deng","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Yang Zhao","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Dong Liu","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Yadong Mu","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Mingkui Tan","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Xinggang Wang","",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Wenyu Liu","Huazhong University of Science and Technology",2019-08-20,"44.8",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Cascade R-CNN (HRNetV2p-W48)","Bin Xiao","",2019-08-20,"44.8",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-64x4d-101-FPN 4 + improvements)","Zhi Tian","University of Adelaide",2019-04-02,"44.7",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-64x4d-101-FPN 4 + improvements)","Chunhua Shen","University of Adelaide",2019-04-02,"44.7",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-64x4d-101-FPN 4 + improvements)","Hao Chen","University of Adelaide",2019-04-02,"44.7",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-64x4d-101-FPN 4 + improvements)","Tong He","University of Adelaide",2019-04-02,"44.7",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask+VoVNet2-57 (single-scale)","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"44.7",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask+VoVNet2-57 (single-scale)","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Jingdong Wang","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Ke Sun","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Tianheng Cheng","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Borui Jiang","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Chaorui Deng","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Yang Zhao","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Dong Liu","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Yadong Mu","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Mingkui Tan","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Xinggang Wang","",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Wenyu Liu","Huazhong University of Science and Technology",2019-08-20,"44.7",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Mask R-CNN (HRNetV2p-W32 + cascade)","Bin Xiao","",2019-08-20,"44.7",2019
+"Feature Selective Anchor-Free Module for Single-Shot Object Detection@@@FSAF (ResNeXt-101, multi-scale)","Chenchen Zhu","Carnegie Mellon University",2019-03-02,"44.6",2019
+"Feature Selective Anchor-Free Module for Single-Shot Object Detection@@@FSAF (ResNeXt-101, multi-scale)","Yihui He","Carnegie Mellon University",2019-03-02,"44.6",2019
+"Feature Selective Anchor-Free Module for Single-Shot Object Detection@@@FSAF (ResNeXt-101, multi-scale)","Marios Savvides","Carnegie Mellon University",2019-03-02,"44.6",2019
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101, DCN, 500 scale)","Kemal Oksuz","",2020-09-28,"44.6",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101, DCN, 500 scale)","Baris Can Cam","",2020-09-28,"44.6",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101, DCN, 500 scale)","Emre Akbas","",2020-09-28,"44.6",2020
+"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection@@@aLRP Loss (ResNext-101, DCN, 500 scale)","Sinan Kalkan","Middle East Technical University",2020-09-28,"44.6",2020
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + X-101-32x8d (single-scale)","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"44.6",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + X-101-32x8d (single-scale)","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"44.6",2019
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-50)","Xiang Li","",2020-11-25,"44.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-50)","Wenhai Wang","",2020-11-25,"44.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-50)","Lijun Wu","",2020-11-25,"44.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-50)","Shuo Chen","",2020-11-25,"44.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-50)","Xiaolin Hu","",2020-11-25,"44.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-50)","Jun Li","",2020-11-25,"44.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-50)","Jinhui Tang","",2020-11-25,"44.3",2020
+"Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection@@@GFLV2 (ResNet-50)","Jian Yang","",2020-11-25,"44.3",2020
+"Feature Intertwiner for Object Detection@@@InterNet (ResNet-101-FPN, multi-scale)","Hongyang Li","The Chinese University of Hong Kong",2019-03-28,"44.2",2019
+"Feature Intertwiner for Object Detection@@@InterNet (ResNet-101-FPN, multi-scale)","Bo Dai","The Chinese University of Hong Kong",2019-03-28,"44.2",2019
+"Feature Intertwiner for Object Detection@@@InterNet (ResNet-101-FPN, multi-scale)","Shaoshuai Shi","The Chinese University of Hong Kong",2019-03-28,"44.2",2019
+"Feature Intertwiner for Object Detection@@@InterNet (ResNet-101-FPN, multi-scale)","Wanli Ouyang","The Chinese University of Hong Kong",2019-03-28,"44.2",2019
+"Feature Intertwiner for Object Detection@@@InterNet (ResNet-101-FPN, multi-scale)","Xiaogang Wang","The Chinese University of Hong Kong",2019-03-28,"44.2",2019
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, multi-scale)","Qijie Zhao","Peking University",2018-11-12,"44.2",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, multi-scale)","Tao Sheng","Peking University",2018-11-12,"44.2",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, multi-scale)","Yongtao Wang","Peking University",2018-11-12,"44.2",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, multi-scale)","Zhi Tang","Peking University",2018-11-12,"44.2",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, multi-scale)","Ling Cai","",2018-11-12,"44.2",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, multi-scale)","Ying Chen","",2018-11-12,"44.2",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, multi-scale)","Haibin Ling","Temple University",2018-11-12,"44.2",2018
+"LIP: Local Importance-based Pooling@@@Faster R-CNN (LIP-ResNet-101-MD w FPN)","Ziteng Gao","Nanjing University",2019-08-12,"43.9",2019
+"LIP: Local Importance-based Pooling@@@Faster R-CNN (LIP-ResNet-101-MD w FPN)","Limin Wang","Nanjing University",2019-08-12,"43.9",2019
+"LIP: Local Importance-based Pooling@@@Faster R-CNN (LIP-ResNet-101-MD w FPN)","Gangshan Wu","",2019-08-12,"43.9",2019
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, multi-scale)","Qijie Zhao","Peking University",2018-11-12,"43.9",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, multi-scale)","Tao Sheng","Peking University",2018-11-12,"43.9",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, multi-scale)","Yongtao Wang","Peking University",2018-11-12,"43.9",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, multi-scale)","Zhi Tang","Peking University",2018-11-12,"43.9",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, multi-scale)","Ling Cai","",2018-11-12,"43.9",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, multi-scale)","Ying Chen","",2018-11-12,"43.9",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, multi-scale)","Haibin Ling","Temple University",2018-11-12,"43.9",2018
+"Learning Spatial Fusion for Single-Shot Object Detection@@@YOLOv3 @800 + ASFF* (Darknet-53)","Songtao Liu","Beihang University",2019-11-21,"43.9",2019
+"Learning Spatial Fusion for Single-Shot Object Detection@@@YOLOv3 @800 + ASFF* (Darknet-53)","Di Huang","Beihang University",2019-11-21,"43.9",2019
+"Learning Spatial Fusion for Single-Shot Object Detection@@@YOLOv3 @800 + ASFF* (Darknet-53)","Yunhong Wang","Beihang University",2019-11-21,"43.9",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Tao Kong","",2019-04-08,"43.9",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Sun Fuchun","Tsinghua University",2019-04-08,"43.9",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Fuchun Sun","",2019-04-08,"43.9",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Liu Huaping","Tsinghua University",2019-04-08,"43.9",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Huaping Liu","",2019-04-08,"43.9",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Yuning Jiang","",2019-04-08,"43.9",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Jianbo Shi","",2019-04-08,"43.9",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Lei Li","",2019-04-08,"43.9",2019
+"Bottom-up Object Detection by Grouping Extreme and Center Points@@@ExtremeNet (Hourglass-104, multi-scale)","Xingyi Zhou","University of Texas at Austin",2019-01-23,"43.7",2019
+"Bottom-up Object Detection by Grouping Extreme and Center Points@@@ExtremeNet (Hourglass-104, multi-scale)","Jiacheng Zhuo","University of Texas at Austin",2019-01-23,"43.7",2019
+"Bottom-up Object Detection by Grouping Extreme and Center Points@@@ExtremeNet (Hourglass-104, multi-scale)","Philipp Krähenbühl","University of Texas at Austin",2019-01-23,"43.7",2019
+"YOLOv4: Optimal Speed and Accuracy of Object Detection@@@YOLOv4-608","Alexey Bochkovskiy","",2020-04-23,"43.5",2020
+"YOLOv4: Optimal Speed and Accuracy of Object Detection@@@YOLOv4-608","Chien-Yao Wang","Academia Sinica",2020-04-23,"43.5",2020
+"YOLOv4: Optimal Speed and Accuracy of Object Detection@@@YOLOv4-608","Hong-Yuan Mark Liao","Academia Sinica",2020-04-23,"43.5",2020
+"SNIPER: Efficient Multi-Scale Training@@@SNIPER (ResNet-50)","Bharat Singh","University of Maryland, College Park",2018-05-23,"43.5",2018
+"SNIPER: Efficient Multi-Scale Training@@@SNIPER (ResNet-50)","Mahyar Najibi","University of Maryland, College Park",2018-05-23,"43.5",2018
+"SNIPER: Efficient Multi-Scale Training@@@SNIPER (ResNet-50)","Larry Davis","University of Maryland, College Park",2018-05-23,"43.5",2018
+"SNIPER: Efficient Multi-Scale Training@@@SNIPER (ResNet-50)","Larry S. Davis","University of Maryland, College Park",2018-05-23,"43.5",2018
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Jingdong Wang","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Ke Sun","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Tianheng Cheng","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Borui Jiang","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Chaorui Deng","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Yang Zhao","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Dong Liu","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Yadong Mu","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Mingkui Tan","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Xinggang Wang","",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Wenyu Liu","Huazhong University of Science and Technology",2019-08-20,"43.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@CenterNet (HRNetV2-W48)","Bin Xiao","",2019-08-20,"43.5",2019
+"An Analysis of Scale Invariance in Object Detection - SNIP@@@D-RFCN + SNIP (ResNet-101, multi-scale)","Bharat Singh","University of Maryland, College Park",2017-11-22,"43.4",2017
+"An Analysis of Scale Invariance in Object Detection - SNIP@@@D-RFCN + SNIP (ResNet-101, multi-scale)","Larry Davis","University of Maryland, College Park",2017-11-22,"43.4",2017
+"An Analysis of Scale Invariance in Object Detection - SNIP@@@D-RFCN + SNIP (ResNet-101, multi-scale)","Larry S. Davis","University of Maryland, College Park",2017-11-22,"43.4",2017
+"Grid R-CNN@@@Grid R-CNN (ResNeXt-101-FPN)","Xin Lu","Zhejiang University",2018-11-29,"43.2",2018
+"Grid R-CNN@@@Grid R-CNN (ResNeXt-101-FPN)","Buyu Li","The Chinese University of Hong Kong",2018-11-29,"43.2",2018
+"Grid R-CNN@@@Grid R-CNN (ResNeXt-101-FPN)","Yuxin Yue","",2018-11-29,"43.2",2018
+"Grid R-CNN@@@Grid R-CNN (ResNeXt-101-FPN)","Quanquan Li","SenseTime",2018-11-29,"43.2",2018
+"Grid R-CNN@@@Grid R-CNN (ResNeXt-101-FPN)","Junjie Yan","Beihang University",2018-11-29,"43.2",2018
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-101-64x4d-FPN)","Zhi Tian","University of Adelaide",2019-04-02,"43.2",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-101-64x4d-FPN)","Chunhua Shen","University of Adelaide",2019-04-02,"43.2",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-101-64x4d-FPN)","Hao Chen","University of Adelaide",2019-04-02,"43.2",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-101-64x4d-FPN)","Tong He","University of Adelaide",2019-04-02,"43.2",2019
+"CornerNet-Lite: Efficient Keypoint Based Object Detection@@@CornerNet-Saccade (Hourglass-104, multi-scale)","Hei Law","",2019-04-18,"43.2",2019
+"CornerNet-Lite: Efficient Keypoint Based Object Detection@@@CornerNet-Saccade (Hourglass-104, multi-scale)","Yun Teng","",2019-04-18,"43.2",2019
+"CornerNet-Lite: Efficient Keypoint Based Object Detection@@@CornerNet-Saccade (Hourglass-104, multi-scale)","Olga Russakovsky","",2019-04-18,"43.2",2019
+"CornerNet-Lite: Efficient Keypoint Based Object Detection@@@CornerNet-Saccade (Hourglass-104, multi-scale)","Jia Deng","",2019-04-18,"43.2",2019
+"Libra R-CNN: Towards Balanced Learning for Object Detection@@@Libra R-CNN (ResNeXt-101-FPN)","Jiangmiao Pang","Zhejiang University",2019-04-04,"43.0",2019
+"Libra R-CNN: Towards Balanced Learning for Object Detection@@@Libra R-CNN (ResNeXt-101-FPN)","Kai Chen","The Chinese University of Hong Kong",2019-04-04,"43.0",2019
+"Libra R-CNN: Towards Balanced Learning for Object Detection@@@Libra R-CNN (ResNeXt-101-FPN)","Jianping Shi","SenseTime",2019-04-04,"43.0",2019
+"Libra R-CNN: Towards Balanced Learning for Object Detection@@@Libra R-CNN (ResNeXt-101-FPN)","Huajun Feng","University of Sydney",2019-04-04,"43.0",2019
+"Libra R-CNN: Towards Balanced Learning for Object Detection@@@Libra R-CNN (ResNeXt-101-FPN)","Wanli Ouyang","The Chinese University of Hong Kong",2019-04-04,"43.0",2019
+"Libra R-CNN: Towards Balanced Learning for Object Detection@@@Libra R-CNN (ResNeXt-101-FPN)","Dahua Lin","",2019-04-04,"43.0",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN)","Ze Yang","Peking University",2019-04-25,"42.8",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN)","Shaohui Liu","Tsinghua University",2019-04-25,"42.8",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN)","Han Hu","Microsoft",2019-04-25,"42.8",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN)","Liwei Wang","Peking University",2019-04-25,"42.8",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101-DCN)","Stephen Lin","Microsoft",2019-04-25,"42.8",2019
+"Cascade R-CNN: Delving into High Quality Object Detection@@@Cascade R-CNN (ResNet-101-FPN+, cascade)","Zhaowei Cai","University of California, San Diego",2017-12-03,"42.8",2017
+"Cascade R-CNN: Delving into High Quality Object Detection@@@Cascade R-CNN (ResNet-101-FPN+, cascade)","Nuno Vasconcelos","University of California, San Diego",2017-12-03,"42.8",2017
+"Cascade R-CNN: High Quality Object Detection and Instance Segmentation@@@Cascade R-CNN","Zhaowei Cai","University of California, San Diego",2019-06-24,"42.8",2019
+"Cascade R-CNN: High Quality Object Detection and Instance Segmentation@@@Cascade R-CNN","Nuno Vasconcelos","University of California, San Diego",2019-06-24,"42.8",2019
+"Scale-Aware Trident Networks for Object Detection@@@TridentNet (ResNet-101)","Yanghao Li","Peking University",2019-01-07,"42.7",2019
+"Scale-Aware Trident Networks for Object Detection@@@TridentNet (ResNet-101)","Yuntao Chen","",2019-01-07,"42.7",2019
+"Scale-Aware Trident Networks for Object Detection@@@TridentNet (ResNet-101)","Naiyan Wang","",2019-01-07,"42.7",2019
+"Scale-Aware Trident Networks for Object Detection@@@TridentNet (ResNet-101)","Zhaoxiang Zhang","Chinese Academy of Sciences",2019-01-07,"42.7",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-32x8d-101-FPN)","Zhi Tian","University of Adelaide",2019-04-02,"42.7",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-32x8d-101-FPN)","Chunhua Shen","University of Adelaide",2019-04-02,"42.7",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-32x8d-101-FPN)","Hao Chen","University of Adelaide",2019-04-02,"42.7",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (ResNeXt-32x8d-101-FPN)","Tong He","University of Adelaide",2019-04-02,"42.7",2019
+"RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free@@@RetinaMask (ResNeXt-101-FPN-GN)","Cheng-Yang Fu","",2019-01-10,"42.6",2019
+"RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free@@@RetinaMask (ResNeXt-101-FPN-GN)","Mykhailo Shvets","",2019-01-10,"42.6",2019
+"RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free@@@RetinaMask (ResNeXt-101-FPN-GN)","Alexander C. Berg","University of North Carolina at Chapel Hill",2019-01-10,"42.6",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Jingdong Wang","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Ke Sun","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Tianheng Cheng","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Borui Jiang","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Chaorui Deng","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Yang Zhao","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Dong Liu","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Yadong Mu","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Mingkui Tan","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Xinggang Wang","",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Wenyu Liu","Huazhong University of Science and Technology",2019-08-20,"42.4",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@Faster R-CNN (HRNetV2p-W48)","Bin Xiao","",2019-08-20,"42.4",2019
+"CornerNet: Detecting Objects as Paired Keypoints@@@CornerNet511 (Hourglass-104, multi-scale)","Hei Law","University of Michigan",2018-08-03,"42.1",2018
+"CornerNet: Detecting Objects as Paired Keypoints@@@CornerNet511 (Hourglass-104, multi-scale)","Jia Deng","University of Michigan",2018-08-03,"42.1",2018
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Tao Kong","",2019-04-08,"42.1",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Sun Fuchun","Tsinghua University",2019-04-08,"42.1",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Fuchun Sun","",2019-04-08,"42.1",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Liu Huaping","Tsinghua University",2019-04-08,"42.1",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Huaping Liu","",2019-04-08,"42.1",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Yuning Jiang","",2019-04-08,"42.1",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Jianbo Shi","",2019-04-08,"42.1",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Lei Li","",2019-04-08,"42.1",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (HRNet-W32-5l)","Zhi Tian","University of Adelaide",2019-04-02,"42.0",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (HRNet-W32-5l)","Chunhua Shen","University of Adelaide",2019-04-02,"42.0",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (HRNet-W32-5l)","Hao Chen","University of Adelaide",2019-04-02,"42.0",2019
+"FCOS: Fully Convolutional One-Stage Object Detection@@@FCOS (HRNet-W32-5l)","Tong He","University of Adelaide",2019-04-02,"42.0",2019
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (ResNet-101)","Shifeng Zhang","",2017-11-18,"41.8",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (ResNet-101)","Longyin Wen","General Electric",2017-11-18,"41.8",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (ResNet-101)","Xiao Bian","General Electric",2017-11-18,"41.8",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (ResNet-101)","Zhen Lei","Chinese Academy of Sciences",2017-11-18,"41.8",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (ResNet-101)","Stan Z. Li","General Electric",2017-11-18,"41.8",2017
+"Gradient Harmonized Single-stage Detector@@@GHM-C + GHM-R (RetinaNet-FPN-ResNeXt-101)","Buyu Li","The Chinese University of Hong Kong",2018-11-13,"41.6",2018
+"Gradient Harmonized Single-stage Detector@@@GHM-C + GHM-R (RetinaNet-FPN-ResNeXt-101)","Yu Liu","The Chinese University of Hong Kong",2018-11-13,"41.6",2018
+"Gradient Harmonized Single-stage Detector@@@GHM-C + GHM-R (RetinaNet-FPN-ResNeXt-101)","Xiaogang Wang","The Chinese University of Hong Kong",2018-11-13,"41.6",2018
+"Objects as Points@@@CenterNet-DLA (DLA-34, multi-scale)","Xingyi Zhou","University of Texas at Austin",2019-04-16,"41.6",2019
+"Objects as Points@@@CenterNet-DLA (DLA-34, multi-scale)","Dequan Wang","University of California, Berkeley",2019-04-16,"41.6",2019
+"Objects as Points@@@CenterNet-DLA (DLA-34, multi-scale)","Philipp Krähenbühl","University of Texas at Austin",2019-04-16,"41.6",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101)","Ze Yang","Peking University",2019-04-25,"41",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101)","Shaohui Liu","Tsinghua University",2019-04-25,"41",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101)","Han Hu","Microsoft",2019-04-25,"41",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101)","Liwei Wang","Peking University",2019-04-25,"41",2019
+"RepPoints: Point Set Representation for Object Detection@@@RPDet (ResNet-101)","Stephen Lin","Microsoft",2019-04-25,"41",2019
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, single-scale)","Qijie Zhao","Peking University",2018-11-12,"41.0",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, single-scale)","Tao Sheng","Peking University",2018-11-12,"41.0",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, single-scale)","Yongtao Wang","Peking University",2018-11-12,"41.0",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, single-scale)","Zhi Tang","Peking University",2018-11-12,"41.0",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, single-scale)","Ling Cai","",2018-11-12,"41.0",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, single-scale)","Ying Chen","",2018-11-12,"41.0",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (VGG-16, single-scale)","Haibin Ling","Temple University",2018-11-12,"41.0",2018
+"Feature Selective Anchor-Free Module for Single-Shot Object Detection@@@FSAF (ResNet-101, single-scale)","Chenchen Zhu","Carnegie Mellon University",2019-03-02,"40.9",2019
+"Feature Selective Anchor-Free Module for Single-Shot Object Detection@@@FSAF (ResNet-101, single-scale)","Yihui He","Carnegie Mellon University",2019-03-02,"40.9",2019
+"Feature Selective Anchor-Free Module for Single-Shot Object Detection@@@FSAF (ResNet-101, single-scale)","Marios Savvides","Carnegie Mellon University",2019-03-02,"40.9",2019
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNeXt-101-FPN)","Tsung-Yi Lin","Cornell University",2017-08-07,"40.8",2017
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNeXt-101-FPN)","Priya Goyal","Facebook",2017-08-07,"40.8",2017
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNeXt-101-FPN)","Ross Girshick","Facebook",2017-08-07,"40.8",2017
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNeXt-101-FPN)","Kaiming He","Microsoft",2017-08-07,"40.8",2017
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNeXt-101-FPN)","Piotr Dollar","Facebook",2017-08-07,"40.8",2017
+"Cascade R-CNN: Delving into High Quality Object Detection@@@Cascade R-CNN (ResNet-50-FPN+, cascade)","Zhaowei Cai","University of California, San Diego",2017-12-03,"40.6",2017
+"Cascade R-CNN: Delving into High Quality Object Detection@@@Cascade R-CNN (ResNet-50-FPN+, cascade)","Nuno Vasconcelos","University of California, San Diego",2017-12-03,"40.6",2017
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Faster R-CNN (Cascade RPN)","Thang Vu","KAIST",2019-09-15,"40.6",2019
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Faster R-CNN (Cascade RPN)","Hyunjun Jang","KAIST",2019-09-15,"40.6",2019
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Faster R-CNN (Cascade RPN)","Trung X. Pham","KAIST",2019-09-15,"40.6",2019
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Faster R-CNN (Cascade RPN)","Trung Pham","KAIST",2019-09-15,"40.6",2019
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Faster R-CNN (Cascade RPN)","Chang D. Yoo","KAIST",2019-09-15,"40.6",2019
+"Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation@@@ResNet-50-DW-DPN (Deformable Kernels)","Hang Gao","University of California, Berkeley",2019-10-07,"40.6",2019
+"Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation@@@ResNet-50-DW-DPN (Deformable Kernels)","Xizhou Zhu","University of Science and Technology of China",2019-10-07,"40.6",2019
+"Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation@@@ResNet-50-DW-DPN (Deformable Kernels)","Stephen Lin","Microsoft",2019-10-07,"40.6",2019
+"Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation@@@ResNet-50-DW-DPN (Deformable Kernels)","Jifeng Dai","Microsoft",2019-10-07,"40.6",2019
+"Acquisition of Localization Confidence for Accurate Object Detection@@@IoU-Net","Borui Jiang","Peking University",2018-07-30,"40.6",2018
+"Acquisition of Localization Confidence for Accurate Object Detection@@@IoU-Net","Ruixuan Luo","Peking University",2018-07-30,"40.6",2018
+"Acquisition of Localization Confidence for Accurate Object Detection@@@IoU-Net","Jiayuan Mao","Tsinghua University",2018-07-30,"40.6",2018
+"Acquisition of Localization Confidence for Accurate Object Detection@@@IoU-Net","Tete Xiao","Peking University",2018-07-30,"40.6",2018
+"Acquisition of Localization Confidence for Accurate Object Detection@@@IoU-Net","Yuning Jiang","",2018-07-30,"40.6",2018
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Jingdong Wang","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Ke Sun","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Tianheng Cheng","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Borui Jiang","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Chaorui Deng","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Yang Zhao","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Dong Liu","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Yadong Mu","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Mingkui Tan","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Xinggang Wang","",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Wenyu Liu","Huazhong University of Science and Technology",2019-08-20,"40.5",2019
+"Deep High-Resolution Representation Learning for Visual Recognition@@@FCOS (HRNetV2p-W48)","Bin Xiao","",2019-08-20,"40.5",2019
+"Bounding Box Regression with Uncertainty for Accurate Object Detection@@@ResNet-50-FPN Mask R-CNN + KL Loss + var voting + soft-NMS","Yihui He","Carnegie Mellon University",2018-09-23,"40.4",2018
+"Bounding Box Regression with Uncertainty for Accurate Object Detection@@@ResNet-50-FPN Mask R-CNN + KL Loss + var voting + soft-NMS","Chenchen Zhu","Carnegie Mellon University",2018-09-23,"40.4",2018
+"Bounding Box Regression with Uncertainty for Accurate Object Detection@@@ResNet-50-FPN Mask R-CNN + KL Loss + var voting + soft-NMS","Jianren Wang","Carnegie Mellon University",2018-09-23,"40.4",2018
+"Bounding Box Regression with Uncertainty for Accurate Object Detection@@@ResNet-50-FPN Mask R-CNN + KL Loss + var voting + soft-NMS","Marios Savvides","Carnegie Mellon University",2018-09-23,"40.4",2018
+"Bounding Box Regression with Uncertainty for Accurate Object Detection@@@ResNet-50-FPN Mask R-CNN + KL Loss + var voting + soft-NMS","Xiangyu Zhang","",2018-09-23,"40.4",2018
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (ResNet-101, RetinaNet, mask, MBRM)","Shaoru Wang","",2019-12-11,"40.3",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (ResNet-101, RetinaNet, mask, MBRM)","Yongchao Gong","",2019-12-11,"40.3",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (ResNet-101, RetinaNet, mask, MBRM)","Junliang Xing","Chinese Academy of Sciences",2019-12-11,"40.3",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (ResNet-101, RetinaNet, mask, MBRM)","Lichao Huang","",2019-12-11,"40.3",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (ResNet-101, RetinaNet, mask, MBRM)","Chang Huang","",2019-12-11,"40.3",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (ResNet-101, RetinaNet, mask, MBRM)","Weiming Hu","Chinese Academy of Sciences",2019-12-11,"40.3",2019
+"Bottom-up Object Detection by Grouping Extreme and Center Points@@@ExtremeNet (Hourglass-104, single-scale)","Xingyi Zhou","University of Texas at Austin",2019-01-23,"40.2",2019
+"Bottom-up Object Detection by Grouping Extreme and Center Points@@@ExtremeNet (Hourglass-104, single-scale)","Jiacheng Zhuo","University of Texas at Austin",2019-01-23,"40.2",2019
+"Bottom-up Object Detection by Grouping Extreme and Center Points@@@ExtremeNet (Hourglass-104, single-scale)","Philipp Krähenbühl","University of Texas at Austin",2019-01-23,"40.2",2019
+"Cross-Iteration Batch Normalization@@@Mask R-CNN (ResNet-101-FPN, CBN)","Zhuliang Yao","",2020-02-13,"40.1",2020
+"Cross-Iteration Batch Normalization@@@Mask R-CNN (ResNet-101-FPN, CBN)","Yue Cao","Microsoft",2020-02-13,"40.1",2020
+"Cross-Iteration Batch Normalization@@@Mask R-CNN (ResNet-101-FPN, CBN)","Shuxin Zheng","",2020-02-13,"40.1",2020
+"Cross-Iteration Batch Normalization@@@Mask R-CNN (ResNet-101-FPN, CBN)","Gao Huang","",2020-02-13,"40.1",2020
+"Cross-Iteration Batch Normalization@@@Mask R-CNN (ResNet-101-FPN, CBN)","Stephen Lin","",2020-02-13,"40.1",2020
+"Cross-Iteration Batch Normalization@@@Mask R-CNN (ResNet-101-FPN, CBN)","Jifeng Dai","",2020-02-13,"40.1",2020
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Fast R-CNN (Cascade RPN)","Thang Vu","KAIST",2019-09-15,"40.1",2019
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Fast R-CNN (Cascade RPN)","Hyunjun Jang","KAIST",2019-09-15,"40.1",2019
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Fast R-CNN (Cascade RPN)","Trung X. Pham","KAIST",2019-09-15,"40.1",2019
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Fast R-CNN (Cascade RPN)","Trung Pham","KAIST",2019-09-15,"40.1",2019
+"Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution@@@Fast R-CNN (Cascade RPN)","Chang D. Yoo","KAIST",2019-09-15,"40.1",2019
+"Mask R-CNN@@@Mask R-CNN (ResNeXt-101-FPN)","Kaiming He","Microsoft",2017-03-20,"39.8",2017
+"Mask R-CNN@@@Mask R-CNN (ResNeXt-101-FPN)","Georgia Gkioxari","University of California",2017-03-20,"39.8",2017
+"Mask R-CNN@@@Mask R-CNN (ResNeXt-101-FPN)","Piotr Dollar","Facebook",2017-03-20,"39.8",2017
+"Mask R-CNN@@@Mask R-CNN (ResNeXt-101-FPN)","Ross Girshick","Facebook",2017-03-20,"39.8",2017
+"Region Proposal by Guided Anchoring@@@GA-Faster-RCNN","Jiaqi Wang","The Chinese University of Hong Kong",2019-01-10,"39.8",2019
+"Region Proposal by Guided Anchoring@@@GA-Faster-RCNN","Kai Chen","The Chinese University of Hong Kong",2019-01-10,"39.8",2019
+"Region Proposal by Guided Anchoring@@@GA-Faster-RCNN","Shuo Yang","Amazon.com",2019-01-10,"39.8",2019
+"Region Proposal by Guided Anchoring@@@GA-Faster-RCNN","Chen Change Loy","Nanyang Technological University",2019-01-10,"39.8",2019
+"Region Proposal by Guided Anchoring@@@GA-Faster-RCNN","Dahua Lin","The Chinese University of Hong Kong",2019-01-10,"39.8",2019
+"ChainerCV: a Library for Deep Learning in Computer Vision@@@FPN (ResNet101 backbone)","Yusuke Niitani","University of Tokyo",2017-08-28,"39.5",2017
+"ChainerCV: a Library for Deep Learning in Computer Vision@@@FPN (ResNet101 backbone)","Toru Ogawa","University of Tokyo",2017-08-28,"39.5",2017
+"ChainerCV: a Library for Deep Learning in Computer Vision@@@FPN (ResNet101 backbone)","Shunta Saito","",2017-08-28,"39.5",2017
+"ChainerCV: a Library for Deep Learning in Computer Vision@@@FPN (ResNet101 backbone)","Masaki Saito","",2017-08-28,"39.5",2017
+"RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free@@@RetinaMask (ResNet-50-FPN)","Cheng-Yang Fu","",2019-01-10,"39.4",2019
+"RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free@@@RetinaMask (ResNet-50-FPN)","Mykhailo Shvets","",2019-01-10,"39.4",2019
+"RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free@@@RetinaMask (ResNet-50-FPN)","Alexander C. Berg","University of North Carolina at Chapel Hill",2019-01-10,"39.4",2019
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Xiang Long","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Long Xiang","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Kaipeng Deng","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Guanzhong Wang","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Yang Zhang","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Qingqing Dang","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Yuan Gao","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Hui Shen","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Jianguo Ren","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Shumin Han","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Errui Ding","",2020-07-23,"39.3",2020
+"PP-YOLO: An Effective and Efficient Implementation of Object Detector@@@PP-YOLO (320x320)","Shilei Wen","Baidu",2020-07-23,"39.3",2020
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(RetinaNet, single-scale)","Xianzhi Du","Samsung",2019-12-10,"39.2",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(RetinaNet, single-scale)","Tsung-Yi Lin","Google",2019-12-10,"39.2",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(RetinaNet, single-scale)","Pengchong Jin","Purdue University",2019-12-10,"39.2",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(RetinaNet, single-scale)","Golnaz Ghiasi","Amirkabir University of Technology",2019-12-10,"39.2",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(RetinaNet, single-scale)","Mingxing Tan","Google",2019-12-10,"39.2",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(RetinaNet, single-scale)","Yin Cui","Cornell University",2019-12-10,"39.2",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(RetinaNet, single-scale)","Quoc V. Le","Google",2019-12-10,"39.2",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(RetinaNet, single-scale)","Xiaodan Song","Google",2019-12-10,"39.2",2019
+"Attention Augmented Convolutional Networks@@@AA-ResNet-10 + RetinaNet","Irwan Bello","Google",2019-04-22,"39.2",2019
+"Attention Augmented Convolutional Networks@@@AA-ResNet-10 + RetinaNet","Barret Zoph","Google",2019-04-22,"39.2",2019
+"Attention Augmented Convolutional Networks@@@AA-ResNet-10 + RetinaNet","Quoc V. Le","Google",2019-04-22,"39.2",2019
+"Attention Augmented Convolutional Networks@@@AA-ResNet-10 + RetinaNet","Ashish Vaswani","Google",2019-04-22,"39.2",2019
+"Attention Augmented Convolutional Networks@@@AA-ResNet-10 + RetinaNet","Jonathon Shlens","Google",2019-04-22,"39.2",2019
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNet-101-FPN)","Tsung-Yi Lin","Cornell University",2017-08-07,"39.1",2017
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNet-101-FPN)","Priya Goyal","Facebook",2017-08-07,"39.1",2017
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNet-101-FPN)","Ross Girshick","Facebook",2017-08-07,"39.1",2017
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNet-101-FPN)","Kaiming He","Microsoft",2017-08-07,"39.1",2017
+"Focal Loss for Dense Object Detection@@@RetinaNet (ResNet-101-FPN)","Piotr Dollar","Facebook",2017-08-07,"39.1",2017
+"Cascade R-CNN: Delving into High Quality Object Detection@@@Cascade R-CNN (ResNet-101-FPN+)","Zhaowei Cai","University of California, San Diego",2017-12-03,"38.8",2017
+"Cascade R-CNN: Delving into High Quality Object Detection@@@Cascade R-CNN (ResNet-101-FPN+)","Nuno Vasconcelos","University of California, San Diego",2017-12-03,"38.8",2017
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, single-scale)","Qijie Zhao","Peking University",2018-11-12,"38.8",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, single-scale)","Tao Sheng","Peking University",2018-11-12,"38.8",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, single-scale)","Yongtao Wang","Peking University",2018-11-12,"38.8",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, single-scale)","Zhi Tang","Peking University",2018-11-12,"38.8",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, single-scale)","Ling Cai","",2018-11-12,"38.8",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, single-scale)","Ying Chen","",2018-11-12,"38.8",2018
+"M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network@@@M2Det (ResNet-101, single-scale)","Haibin Ling","Temple University",2018-11-12,"38.8",2018
+"SaccadeNet: A Fast and Accurate Object Detector@@@SaccadeNet (DLA-34-DCN)","Shiyi Lan","University of Maryland, College Park",2020-03-26,"38.5",2020
+"SaccadeNet: A Fast and Accurate Object Detector@@@SaccadeNet (DLA-34-DCN)","Zhou Ren","Adobe Systems",2020-03-26,"38.5",2020
+"SaccadeNet: A Fast and Accurate Object Detector@@@SaccadeNet (DLA-34-DCN)","Yi Wu","",2020-03-26,"38.5",2020
+"SaccadeNet: A Fast and Accurate Object Detector@@@SaccadeNet (DLA-34-DCN)","Larry Davis","University of Maryland, College Park",2020-03-26,"38.5",2020
+"SaccadeNet: A Fast and Accurate Object Detector@@@SaccadeNet (DLA-34-DCN)","Larry S. Davis","University of Maryland, College Park",2020-03-26,"38.5",2020
+"SaccadeNet: A Fast and Accurate Object Detector@@@SaccadeNet (DLA-34-DCN)","Gang Hua","Microsoft",2020-03-26,"38.5",2020
+"Mask R-CNN@@@Mask R-CNN (ResNet-101-FPN)","Kaiming He","Microsoft",2017-03-20,"38.2",2017
+"Mask R-CNN@@@Mask R-CNN (ResNet-101-FPN)","Georgia Gkioxari","University of California",2017-03-20,"38.2",2017
+"Mask R-CNN@@@Mask R-CNN (ResNet-101-FPN)","Piotr Dollar","Facebook",2017-03-20,"38.2",2017
+"Mask R-CNN@@@Mask R-CNN (ResNet-101-FPN)","Ross Girshick","Facebook",2017-03-20,"38.2",2017
+"Segmentation is All You Need@@@WSMA-Seg","Hao Wang","Huazhong University of Science and Technology",2019-04-30,"38.1",2019
+"Segmentation is All You Need@@@WSMA-Seg","Pu Lu","Huazhong University of Science and Technology",2019-04-30,"38.1",2019
+"Segmentation is All You Need@@@WSMA-Seg","Hui Zhang","Huazhong University of Science and Technology",2019-04-30,"38.1",2019
+"Segmentation is All You Need@@@WSMA-Seg","Mingkun Yang","Huazhong University of Science and Technology",2019-04-30,"38.1",2019
+"Segmentation is All You Need@@@WSMA-Seg","Xiang Bai","Huazhong University of Science and Technology",2019-04-30,"38.1",2019
+"Segmentation is All You Need@@@WSMA-Seg","Yongchao Xu","Huazhong University of Science and Technology",2019-04-30,"38.1",2019
+"Segmentation is All You Need@@@WSMA-Seg","Mengchao He","Alibaba Group",2019-04-30,"38.1",2019
+"Segmentation is All You Need@@@WSMA-Seg","Yongpan Wang","Alibaba Group",2019-04-30,"38.1",2019
+"Segmentation is All You Need@@@WSMA-Seg","Wenyu Liu","Huazhong University of Science and Technology",2019-04-30,"38.1",2019
+"Compact Global Descriptor for Neural Networks@@@Faster R-CNN + FPN + CGD","Xiangyu He","",2019-07-23,"37.9",2019
+"Compact Global Descriptor for Neural Networks@@@Faster R-CNN + FPN + CGD","Ke Cheng","Chinese Academy of Sciences",2019-07-23,"37.9",2019
+"Compact Global Descriptor for Neural Networks@@@Faster R-CNN + FPN + CGD","Qiang Chen","",2019-07-23,"37.9",2019
+"Compact Global Descriptor for Neural Networks@@@Faster R-CNN + FPN + CGD","Qinghao Hu","",2019-07-23,"37.9",2019
+"Compact Global Descriptor for Neural Networks@@@Faster R-CNN + FPN + CGD","Peisong Wang","",2019-07-23,"37.9",2019
+"Compact Global Descriptor for Neural Networks@@@Faster R-CNN + FPN + CGD","Jian Cheng","",2019-07-23,"37.9",2019
+"CornerNet: Detecting Objects as Paired Keypoints@@@CornerNet511 (Hourglass-52, single-scale)","Hei Law","University of Michigan",2018-08-03,"37.8",2018
+"CornerNet: Detecting Objects as Paired Keypoints@@@CornerNet511 (Hourglass-52, single-scale)","Jia Deng","University of Michigan",2018-08-03,"37.8",2018
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (VGG-16)","Shifeng Zhang","",2017-11-18,"37.6",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (VGG-16)","Longyin Wen","General Electric",2017-11-18,"37.6",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (VGG-16)","Xiao Bian","General Electric",2017-11-18,"37.6",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (VGG-16)","Zhen Lei","Chinese Academy of Sciences",2017-11-18,"37.6",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512+ (VGG-16)","Stan Z. Li","General Electric",2017-11-18,"37.6",2017
+"Deformable Convolutional Networks@@@DeformConv-R-FCN (Aligned-Inception-ResNet)","Jifeng Dai","Microsoft",2017-03-17,"37.5",2017
+"Deformable Convolutional Networks@@@DeformConv-R-FCN (Aligned-Inception-ResNet)","Haozhi Qi","University of California, Berkeley",2017-03-17,"37.5",2017
+"Deformable Convolutional Networks@@@DeformConv-R-FCN (Aligned-Inception-ResNet)","Yuwen Xiong","Microsoft",2017-03-17,"37.5",2017
+"Deformable Convolutional Networks@@@DeformConv-R-FCN (Aligned-Inception-ResNet)","Yi Li","Tsinghua University",2017-03-17,"37.5",2017
+"Deformable Convolutional Networks@@@DeformConv-R-FCN (Aligned-Inception-ResNet)","Guodong Zhang","Zhejiang University",2017-03-17,"37.5",2017
+"Deformable Convolutional Networks@@@DeformConv-R-FCN (Aligned-Inception-ResNet)","Han Hu","Baidu",2017-03-17,"37.5",2017
+"Deformable Convolutional Networks@@@DeformConv-R-FCN (Aligned-Inception-ResNet)","Yichen Wei","Microsoft",2017-03-17,"37.5",2017
+"Revisiting Unreasonable Effectiveness of Data in Deep Learning Era@@@Faster R-CNN (ImageNet+300M)","Chen Sun","Google",2017-07-10,"37.4",2017
+"Revisiting Unreasonable Effectiveness of Data in Deep Learning Era@@@Faster R-CNN (ImageNet+300M)","Abhinav Shrivastava","Carnegie Mellon University",2017-07-10,"37.4",2017
+"Revisiting Unreasonable Effectiveness of Data in Deep Learning Era@@@Faster R-CNN (ImageNet+300M)","Saurabh Singh","Google",2017-07-10,"37.4",2017
+"Revisiting Unreasonable Effectiveness of Data in Deep Learning Era@@@Faster R-CNN (ImageNet+300M)","Abhinav Gupta","Carnegie Mellon University",2017-07-10,"37.4",2017
+"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation@@@Mask R-CNN (Bottleneck-injected ResNet-50, FPN)","","",2020-11-25,"36.9",2020
+"Beyond Skip Connections: Top-Down Modulation for Object Detection@@@Faster R-CNN + TDM","Abhinav Shrivastava","",2016-12-20,"36.8",2016
+"Beyond Skip Connections: Top-Down Modulation for Object Detection@@@Faster R-CNN + TDM","Rahul Sukthankar","",2016-12-20,"36.8",2016
+"Beyond Skip Connections: Top-Down Modulation for Object Detection@@@Faster R-CNN + TDM","Jitendra Malik","",2016-12-20,"36.8",2016
+"Beyond Skip Connections: Top-Down Modulation for Object Detection@@@Faster R-CNN + TDM","Abhinav Gupta","",2016-12-20,"36.8",2016
+"Cascade R-CNN: Delving into High Quality Object Detection@@@Cascade R-CNN (ResNet-50-FPN+)","Zhaowei Cai","University of California, San Diego",2017-12-03,"36.5",2017
+"Cascade R-CNN: Delving into High Quality Object Detection@@@Cascade R-CNN (ResNet-50-FPN+)","Nuno Vasconcelos","University of California, San Diego",2017-12-03,"36.5",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (ResNet-101)","Shifeng Zhang","",2017-11-18,"36.4",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (ResNet-101)","Longyin Wen","General Electric",2017-11-18,"36.4",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (ResNet-101)","Xiao Bian","General Electric",2017-11-18,"36.4",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (ResNet-101)","Zhen Lei","Chinese Academy of Sciences",2017-11-18,"36.4",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (ResNet-101)","Stan Z. Li","General Electric",2017-11-18,"36.4",2017
+"Feature Pyramid Networks for Object Detection@@@Faster R-CNN + FPN","Tsung-Yi Lin","Cornell University",2016-12-09,"36.2",2016
+"Feature Pyramid Networks for Object Detection@@@Faster R-CNN + FPN","Piotr Dollar","Facebook",2016-12-09,"36.2",2016
+"Feature Pyramid Networks for Object Detection@@@Faster R-CNN + FPN","Ross Girshick","Facebook",2016-12-09,"36.2",2016
+"Feature Pyramid Networks for Object Detection@@@Faster R-CNN + FPN","Kaiming He","Microsoft",2016-12-09,"36.2",2016
+"Feature Pyramid Networks for Object Detection@@@Faster R-CNN + FPN","Bharath Hariharan","Facebook",2016-12-09,"36.2",2016
+"Feature Pyramid Networks for Object Detection@@@Faster R-CNN + FPN","Serge Belongie","Cornell University",2016-12-09,"36.2",2016
+"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation@@@Faster R-CNN (Bottleneck-injected ResNet-50 and FPN)","","",2020-11-25,"35.9",2020
+"Deep Residual Learning for Image Recognition@@@Faster R-CNN (box refinement, context, multi-scale testing)","Kaiming He","Microsoft",2015-12-10,"34.9",2015
+"Deep Residual Learning for Image Recognition@@@Faster R-CNN (box refinement, context, multi-scale testing)","Xiangyu Zhang","Xi'an Jiaotong University",2015-12-10,"34.9",2015
+"Deep Residual Learning for Image Recognition@@@Faster R-CNN (box refinement, context, multi-scale testing)","Shaoqing Ren","Microsoft",2015-12-10,"34.9",2015
+"Deep Residual Learning for Image Recognition@@@Faster R-CNN (box refinement, context, multi-scale testing)","Jian Sun","Microsoft",2015-12-10,"34.9",2015
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Jonathan Huang","Google",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Vivek Rathod","Google",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Chen Sun","Google",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Menglong Zhu","University of Pennsylvania",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Anoop Korattikara","University of California, Irvine",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Alireza Fathi","Stanford University",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Ian Fischer","Google",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Zbigniew Wojna","University College London",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Yang Song","Google",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Sergio Guadarrama","University of California, Berkeley",2016-11-30,"34.7",2016
+"Speed/accuracy trade-offs for modern convolutional object detectors@@@Faster R-CNN","Kevin Murphy","Google",2016-11-30,"34.7",2016
+"CornerNet-Lite: Efficient Keypoint Based Object Detection@@@CornerNet-Squeeze","Hei Law","",2019-04-18,"34.4",2019
+"CornerNet-Lite: Efficient Keypoint Based Object Detection@@@CornerNet-Squeeze","Yun Teng","",2019-04-18,"34.4",2019
+"CornerNet-Lite: Efficient Keypoint Based Object Detection@@@CornerNet-Squeeze","Olga Russakovsky","",2019-04-18,"34.4",2019
+"CornerNet-Lite: Efficient Keypoint Based Object Detection@@@CornerNet-Squeeze","Jia Deng","",2019-04-18,"34.4",2019
+"A MultiPath Network for Object Detection@@@MultiPath Network","Sergey Zagoruyko","École des ponts ParisTech",2016-04-07,"33.2",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Adam Lerer","Facebook",2016-04-07,"33.2",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Tsung-Yi Lin","Cornell University",2016-04-07,"33.2",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Pedro O. Pinheiro","Facebook",2016-04-07,"33.2",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Sam Gross","Facebook",2016-04-07,"33.2",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Soumith Chintala","Facebook",2016-04-07,"33.2",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Piotr Dollar","Facebook",2016-04-07,"33.2",2016
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (VGG-16)","Shifeng Zhang","",2017-11-18,"33",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (VGG-16)","Longyin Wen","General Electric",2017-11-18,"33",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (VGG-16)","Xiao Bian","General Electric",2017-11-18,"33",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (VGG-16)","Zhen Lei","Chinese Academy of Sciences",2017-11-18,"33",2017
+"Single-Shot Refinement Neural Network for Object Detection@@@RefineDet512 (VGG-16)","Stan Z. Li","General Electric",2017-11-18,"33",2017
+"YOLOv3: An Incremental Improvement@@@YOLOv3 + Darknet-53","Joseph Redmon","",2018-04-08,"33.0",2018
+"YOLOv3: An Incremental Improvement@@@YOLOv3 + Darknet-53","Ali Farhadi","",2018-04-08,"33.0",2018
+"SSD: Single Shot MultiBox Detector@@@SSD512","Wei Liu","University of North Carolina at Chapel Hill",2015-12-08,"28.8",2015
+"SSD: Single Shot MultiBox Detector@@@SSD512","Dragomir Anguelov","",2015-12-08,"28.8",2015
+"SSD: Single Shot MultiBox Detector@@@SSD512","Dumitru Erhan","Google",2015-12-08,"28.8",2015
+"SSD: Single Shot MultiBox Detector@@@SSD512","Christian Szegedy","Google",2015-12-08,"28.8",2015
+"SSD: Single Shot MultiBox Detector@@@SSD512","Scott Reed","University of Michigan",2015-12-08,"28.8",2015
+"SSD: Single Shot MultiBox Detector@@@SSD512","Cheng-Yang Fu","University of North Carolina at Chapel Hill",2015-12-08,"28.8",2015
+"SSD: Single Shot MultiBox Detector@@@SSD512","Alexander C. Berg","University of North Carolina at Chapel Hill",2015-12-08,"28.8",2015
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV2)","Bo Chen","Xidian University",2019-12-02,"26.1",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV2)","Golnaz Ghiasi","Amirkabir University of Technology",2019-12-02,"26.1",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV2)","Hanxiao Liu","Google",2019-12-02,"26.1",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV2)","Tsung-Yi Lin","Google",2019-12-02,"26.1",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV2)","Dmitry Kalenichenko","Google",2019-12-02,"26.1",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV2)","Hartwig Adam","Google",2019-12-02,"26.1",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV2)","Quoc V. Le","Google",2019-12-02,"26.1",2019
+"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network@@@ESPNetv2-512","Sachin Mehta","University of Washington",2018-11-28,"26.0",2018
+"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network@@@ESPNetv2-512","Mohammad Rastegari","Allen Institute for Artificial Intelligence",2018-11-28,"26.0",2018
+"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network@@@ESPNetv2-512","Linda G. Shapiro","University of Washington",2018-11-28,"26.0",2018
+"ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network@@@ESPNetv2-512","Hannaneh Hajishirzi","University of Washington",2018-11-28,"26.0",2018
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV3)","Bo Chen","Xidian University",2019-12-02,"25.5",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV3)","Golnaz Ghiasi","Amirkabir University of Technology",2019-12-02,"25.5",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV3)","Hanxiao Liu","Google",2019-12-02,"25.5",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV3)","Tsung-Yi Lin","Google",2019-12-02,"25.5",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV3)","Dmitry Kalenichenko","Google",2019-12-02,"25.5",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV3)","Hartwig Adam","Google",2019-12-02,"25.5",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MobileNetV3)","Quoc V. Le","Google",2019-12-02,"25.5",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MNASNet-B1)","Bo Chen","Xidian University",2019-12-02,"24.6",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MNASNet-B1)","Golnaz Ghiasi","Amirkabir University of Technology",2019-12-02,"24.6",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MNASNet-B1)","Hanxiao Liu","Google",2019-12-02,"24.6",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MNASNet-B1)","Tsung-Yi Lin","Google",2019-12-02,"24.6",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MNASNet-B1)","Dmitry Kalenichenko","Google",2019-12-02,"24.6",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MNASNet-B1)","Hartwig Adam","Google",2019-12-02,"24.6",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN (MNASNet-B1)","Quoc V. Le","Google",2019-12-02,"24.6",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN x0.7 (MobileNetV2)","Bo Chen","Xidian University",2019-12-02,"23.8",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN x0.7 (MobileNetV2)","Golnaz Ghiasi","Amirkabir University of Technology",2019-12-02,"23.8",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN x0.7 (MobileNetV2)","Hanxiao Liu","Google",2019-12-02,"23.8",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN x0.7 (MobileNetV2)","Tsung-Yi Lin","Google",2019-12-02,"23.8",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN x0.7 (MobileNetV2)","Dmitry Kalenichenko","Google",2019-12-02,"23.8",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN x0.7 (MobileNetV2)","Hartwig Adam","Google",2019-12-02,"23.8",2019
+"MnasFPN: Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices@@@MnasFPN x0.7 (MobileNetV2)","Quoc V. Le","Google",2019-12-02,"23.8",2019
+"YOLO9000: Better, Faster, Stronger@@@YOLO v2 + Darknet-19","Joseph Redmon","University of Washington",2016-12-25,"21.6",2016
+"YOLO9000: Better, Faster, Stronger@@@YOLO v2 + Darknet-19","Ali Farhadi","University of Washington",2016-12-25,"21.6",2016
+"Compact Global Descriptor for Neural Networks@@@MobielNet-v1-SSD-300x300+CGD","Xiangyu He","",2019-07-23,"21.4",2019
+"Compact Global Descriptor for Neural Networks@@@MobielNet-v1-SSD-300x300+CGD","Ke Cheng","",2019-07-23,"21.4",2019
+"Compact Global Descriptor for Neural Networks@@@MobielNet-v1-SSD-300x300+CGD","Qiang Chen","",2019-07-23,"21.4",2019
+"Compact Global Descriptor for Neural Networks@@@MobielNet-v1-SSD-300x300+CGD","Qinghao Hu","",2019-07-23,"21.4",2019
+"Compact Global Descriptor for Neural Networks@@@MobielNet-v1-SSD-300x300+CGD","Peisong Wang","",2019-07-23,"21.4",2019
+"Compact Global Descriptor for Neural Networks@@@MobielNet-v1-SSD-300x300+CGD","Jian Cheng","",2019-07-23,"21.4",2019
+"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications@@@MobileNet","Andrew Howard","",2017-04-17,"19.3",2017
+"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications@@@MobileNet","Menglong Zhu","",2017-04-17,"19.3",2017
+"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications@@@MobileNet","Bo Chen","",2017-04-17,"19.3",2017
+"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications@@@MobileNet","Dmitry Kalenichenko","",2017-04-17,"19.3",2017
+"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications@@@MobileNet","Weijun Wang","",2017-04-17,"19.3",2017
+"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications@@@MobileNet","Tobias Weyand","",2017-04-17,"19.3",2017
+"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications@@@MobileNet","M. Andreetto","",2017-04-17,"19.3",2017
+"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications@@@MobileNet","Hartwig Adam","",2017-04-17,"19.3",2017
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask-VoVNet99 (multi-scale)","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask-VoVNet99 (multi-scale)","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Tao Kong","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Sun Fuchun","Tsinghua University",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Fuchun Sun","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Liu Huaping","Tsinghua University",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Huaping Liu","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Yuning Jiang","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Jianbo Shi","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Lei Li","",2019-04-08,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@Centermask + ResNet101","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@Centermask + ResNet101","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Tao Kong","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Sun Fuchun","Tsinghua University",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Fuchun Sun","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Liu Huaping","Tsinghua University",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Huaping Liu","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Yuning Jiang","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Jianbo Shi","",2019-04-08,"not available",2019
+"FoveaBox: Beyond Anchor-based Object Detector@@@FoveaBox (ResNeXt-101)","Lei Li","",2019-04-08,"not available",2019
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Hao-Shu Fang","Shanghai Jiao Tong University",2020-12-13,"not available",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Jianhua Sun","Shanghai Jiao Tong University",2020-12-13,"not available",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Runzhong Wang","Shanghai Jiao Tong University",2020-12-13,"not available",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Minghao Gou","Shanghai Jiao Tong University",2020-12-13,"not available",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Yong-Lu Li","Shanghai Jiao Tong University",2020-12-13,"not available",2020
+"Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation@@@Cascade Eff-B7 NAS-FPN (1280, self-training Copy Paste, single-scale)","Cewu Lu","Shanghai Jiao Tong University",2020-12-13,"not available",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-64x4d, multi-scale)","Siyuan Qiao","",2020-06-03,"not available",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-64x4d, multi-scale)","Liang-Chieh Chen","",2020-06-03,"not available",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-64x4d, multi-scale)","Alan L. Yuille","",2020-06-03,"not available",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-32x4d, multi-scale)","Siyuan Qiao","",2020-06-03,"not available",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-32x4d, multi-scale)","Liang-Chieh Chen","",2020-06-03,"not available",2020
+"DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution@@@DetectoRS (ResNeXt-101-32x4d, multi-scale)","Alan L. Yuille","",2020-06-03,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Hang Zhang","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Chongruo Wu","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Zhongyue Zhang","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Yi Zhu","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Zhi Zhang","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Haibin Lin","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Yue Sun","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Tong He","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Jonas Mueller","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","R. Manmatha","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Mu Li","",2020-04-19,"not available",2020
+"ResNeSt: Split-Attention Networks@@@ResNeSt-200 (multi-scale)","Alexander J. Smola","",2020-04-19,"not available",2020
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Xianzhi Du","Samsung",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Tsung-Yi Lin","Google",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Pengchong Jin","Purdue University",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Golnaz Ghiasi","Amirkabir University of Technology",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Mingxing Tan","Google",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Yin Cui","Cornell University",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Quoc V. Le","Google",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-190 (Mask R-CNN, single-scale)","Xiaodan Song","Google",2019-12-10,"not available",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (ResNeXt152, CBNet)","Yudong Liu","Peking University",2019-09-09,"not available",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (ResNeXt152, CBNet)","Yongtao Wang","Peking University",2019-09-09,"not available",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (ResNeXt152, CBNet)","Siwei Wang","Peking University",2019-09-09,"not available",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (ResNeXt152, CBNet)","Tingting Liang","Peking University",2019-09-09,"not available",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (ResNeXt152, CBNet)","Qijie Zhao","Peking University",2019-09-09,"not available",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (ResNeXt152, CBNet)","Zhi Tang","Peking University",2019-09-09,"not available",2019
+"CBNet: A Novel Composite Backbone Network Architecture for Object Detection@@@Cascade Mask R-CNN (ResNeXt152, CBNet)","Haibin Ling","Stony Brook University",2019-09-09,"not available",2019
+"Path Aggregation Network for Instance Segmentation@@@PANet","Shu Liu","The Chinese University of Hong Kong",2018-03-05,"not available",2018
+"Path Aggregation Network for Instance Segmentation@@@PANet","Lu Qi","The Chinese University of Hong Kong",2018-03-05,"not available",2018
+"Path Aggregation Network for Instance Segmentation@@@PANet","Haifang Qin","Peking University",2018-03-05,"not available",2018
+"Path Aggregation Network for Instance Segmentation@@@PANet","Jianping Shi","",2018-03-05,"not available",2018
+"Path Aggregation Network for Instance Segmentation@@@PANet","Jiaya Jia","The Chinese University of Hong Kong",2018-03-05,"not available",2018
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + VoVNet99","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + VoVNet99","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"SOLOv2: Dynamic and Fast Instance Segmentation@@@SOLOv2(Res-DCN-101-FPN)","Xinlong Wang","",2020-03-23,"not available",2020
+"SOLOv2: Dynamic and Fast Instance Segmentation@@@SOLOv2(Res-DCN-101-FPN)","Rufeng Zhang","",2020-03-23,"not available",2020
+"SOLOv2: Dynamic and Fast Instance Segmentation@@@SOLOv2(Res-DCN-101-FPN)","Tao Kong","",2020-03-23,"not available",2020
+"SOLOv2: Dynamic and Fast Instance Segmentation@@@SOLOv2(Res-DCN-101-FPN)","Lei Li","",2020-03-23,"not available",2020
+"SOLOv2: Dynamic and Fast Instance Segmentation@@@SOLOv2(Res-DCN-101-FPN)","Chunhua Shen","",2020-03-23,"not available",2020
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r16)","Yue Cao","Microsoft",2019-04-25,"not available",2019
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r16)","Jiarui Xu","Hong Kong University of Science and Technology",2019-04-25,"not available",2019
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r16)","Stephen Lin","Microsoft",2019-04-25,"not available",2019
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r16)","Fangyun Wei","Microsoft",2019-04-25,"not available",2019
+"GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond@@@GCNet (ResNeXt-101 + DCN + cascade + GC r16)","Han Hu","Microsoft",2019-04-25,"not available",2019
+"BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation@@@BlendMask (ResNet-101 + DCN interval=3)","Hao Chen","University of Adelaide",2020-01-02,"not available",2020
+"BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation@@@BlendMask (ResNet-101 + DCN interval=3)","Kunyang Sun","",2020-01-02,"not available",2020
+"BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation@@@BlendMask (ResNet-101 + DCN interval=3)","Zhi Tian","University of Adelaide",2020-01-02,"not available",2020
+"BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation@@@BlendMask (ResNet-101 + DCN interval=3)","Chunhua Shen","University of Adelaide",2020-01-02,"not available",2020
+"BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation@@@BlendMask (ResNet-101 + DCN interval=3)","Yongming Huang","",2020-01-02,"not available",2020
+"BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation@@@BlendMask (ResNet-101 + DCN interval=3)","Youliang Yan","Huawei",2020-01-02,"not available",2020
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Kai Chen","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Wanli Ouyang","University of Sydney",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Chen Change Loy","Nanyang Technological University",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Dahua Lin","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Jiangmiao Pang","Zhejiang University",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Jiaqi Wang","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Yu Xiong","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Ziwei Liu","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Xiaoxiao Li","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Shuyang Sun","University of Sydney",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Jianping Shi","SenseTime",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN + DCN","Wansen Feng","",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Kai Chen","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Wanli Ouyang","University of Sydney",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Chen Change Loy","Nanyang Technological University",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Dahua Lin","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Jiangmiao Pang","Zhejiang University",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Jiaqi Wang","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Yu Xiong","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Ziwei Liu","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Xiaoxiao Li","The Chinese University of Hong Kong",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Shuyang Sun","University of Sydney",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Jianping Shi","SenseTime",2019-01-22,"not available",2019
+"Hybrid Task Cascade for Instance Segmentation@@@HTC + ResNeXt-101-FPN","Wansen Feng","",2019-01-22,"not available",2019
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-57","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-04-22,"not available",2019
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-57","Joong-won Hwang","Electronics and Telecommunications Research Institute",2019-04-22,"not available",2019
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-57","Sangrok Lee","",2019-04-22,"not available",2019
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-57","Yu-Seok Bae","Electronics and Telecommunications Research Institute",2019-04-22,"not available",2019
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-57","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-04-22,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO(Res-DCN-101-FPN)","Xinlong Wang","",2019-12-10,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO(Res-DCN-101-FPN)","Tao Kong","",2019-12-10,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO(Res-DCN-101-FPN)","Chunhua Shen","",2019-12-10,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO(Res-DCN-101-FPN)","Yuning Jiang","",2019-12-10,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO(Res-DCN-101-FPN)","Lei Li","",2019-12-10,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO (ResNet-DCN-101-FPN)","Xinlong Wang","",2019-12-10,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO (ResNet-DCN-101-FPN)","Tao Kong","",2019-12-10,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO (ResNet-DCN-101-FPN)","Chunhua Shen","",2019-12-10,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO (ResNet-DCN-101-FPN)","Yuning Jiang","",2019-12-10,"not available",2019
+"SOLO: Segmenting Objects by Locations@@@SOLO (ResNet-DCN-101-FPN)","Lei Li","",2019-12-10,"not available",2019
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101, single-scale)","Jiale Cao","Tianjin University",2020-06-01,"not available",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101, single-scale)","Hisham Cholakkal","Nanyang Technological University",2020-06-01,"not available",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101, single-scale)","Rao Muhammad Anwer","Aalto University",2020-06-01,"not available",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101, single-scale)","Fahad Shahbaz Khan","Linköping University",2020-06-01,"not available",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101, single-scale)","Yanwei Pang","Tianjin University",2020-06-01,"not available",2020
+"D2Det: Towards High Quality Object Detection and Instance Segmentation@@@D2Det (ResNet-101, single-scale)","Ling Shao","University of East Anglia",2020-06-01,"not available",2020
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-39","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-04-22,"not available",2019
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-39","Joong-won Hwang","Electronics and Telecommunications Research Institute",2019-04-22,"not available",2019
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-39","Sangrok Lee","",2019-04-22,"not available",2019
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-39","Yu-Seok Bae","Electronics and Telecommunications Research Institute",2019-04-22,"not available",2019
+"An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection@@@VoVNetV1-39","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-04-22,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + X101-32x8d (single-scale)","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + X101-32x8d (single-scale)","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"Mask Scoring R-CNN@@@MS R-CNN + ResNet-101 DCN + FPN ","Huang Zhaojin","Huazhong University of Science and Technology",2019-03-01,"not available",2019
+"Mask Scoring R-CNN@@@MS R-CNN + ResNet-101 DCN + FPN ","Lichao Huang","",2019-03-01,"not available",2019
+"Mask Scoring R-CNN@@@MS R-CNN + ResNet-101 DCN + FPN ","Yongchao Gong","",2019-03-01,"not available",2019
+"Mask Scoring R-CNN@@@MS R-CNN + ResNet-101 DCN + FPN ","Chang Huang","",2019-03-01,"not available",2019
+"Mask Scoring R-CNN@@@MS R-CNN + ResNet-101 DCN + FPN ","Xinggang Wang","Huazhong University of Science and Technology",2019-03-01,"not available",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN (ResNet-101-FPN, map-guided)","Hao-Shu Fang","Shanghai Jiao Tong University",2019-08-21,"not available",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN (ResNet-101-FPN, map-guided)","Jianhua Sun","Shanghai Jiao Tong University",2019-08-21,"not available",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN (ResNet-101-FPN, map-guided)","Runzhong Wang","",2019-08-21,"not available",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN (ResNet-101-FPN, map-guided)","Minghao Gou","Shanghai Jiao Tong University",2019-08-21,"not available",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN (ResNet-101-FPN, map-guided)","Yong-Lu Li","Shanghai Jiao Tong University",2019-08-21,"not available",2019
+"InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting@@@Cascade R-CNN (ResNet-101-FPN, map-guided)","Cewu Lu","Shanghai Jiao Tong University",2019-08-21,"not available",2019
+"Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation@@@CPMask","Qi Fan","",2020-07-24,"not available",2020
+"Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation@@@CPMask","Lei Ke","",2020-07-24,"not available",2020
+"Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation@@@CPMask","Wenjie Pei","",2020-07-24,"not available",2020
+"Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation@@@CPMask","Chi-Keung Tang","",2020-07-24,"not available",2020
+"Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation@@@CPMask","Yu-Wing Tai","",2020-07-24,"not available",2020
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + ResNet-101-FPN","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + ResNet-101-FPN","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features@@@MaskLab+ (ResNet-101, JFT)","Liang-Chieh Chen","Google",2017-12-13,"not available",2017
+"MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features@@@MaskLab+ (ResNet-101, JFT)","Alexander Hermans","RWTH Aachen University",2017-12-13,"not available",2017
+"MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features@@@MaskLab+ (ResNet-101, JFT)","George Papandreou","Google",2017-12-13,"not available",2017
+"MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features@@@MaskLab+ (ResNet-101, JFT)","Florian Schroff","Google",2017-12-13,"not available",2017
+"MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features@@@MaskLab+ (ResNet-101, JFT)","Peng Wang","Baidu",2017-12-13,"not available",2017
+"MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features@@@MaskLab+ (ResNet-101, JFT)","Hartwig Adam","Google",2017-12-13,"not available",2017
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask (ResNet-101-FPN)","Hui Ying","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask (ResNet-101-FPN)","Zhaojin Huang","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask (ResNet-101-FPN)","Shu Liu","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask (ResNet-101-FPN)","Tianjia Shao","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask (ResNet-101-FPN)","Kun Zhou","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask (ResNet-101-FPN)","KunZhou","",2019-12-04,"not available",2019
+"TensorMask: A Foundation for Dense Object Segmentation@@@TensorMask (ResNet-101-FPN)","Xinlei Chen","Facebook",2019-03-28,"not available",2019
+"TensorMask: A Foundation for Dense Object Segmentation@@@TensorMask (ResNet-101-FPN)","Ross Girshick","",2019-03-28,"not available",2019
+"TensorMask: A Foundation for Dense Object Segmentation@@@TensorMask (ResNet-101-FPN)","Kaiming He","Facebook",2019-03-28,"not available",2019
+"TensorMask: A Foundation for Dense Object Segmentation@@@TensorMask (ResNet-101-FPN)","Piotr Dollar","",2019-03-28,"not available",2019
+"Mask R-CNN@@@Mask R-CNN (ResNeXt-101-FPN)","Kaiming He","Microsoft",2017-03-20,"not available",2017
+"Mask R-CNN@@@Mask R-CNN (ResNeXt-101-FPN)","Georgia Gkioxari","University of California",2017-03-20,"not available",2017
+"Mask R-CNN@@@Mask R-CNN (ResNeXt-101-FPN)","Piotr Dollar","Facebook",2017-03-20,"not available",2017
+"Mask R-CNN@@@Mask R-CNN (ResNeXt-101-FPN)","Ross Girshick","Facebook",2017-03-20,"not available",2017
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (data aug)","Shaoru Wang","",2019-12-11,"not available",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (data aug)","Yongchao Gong","",2019-12-11,"not available",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (data aug)","Junliang Xing","Chinese Academy of Sciences",2019-12-11,"not available",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (data aug)","Lichao Huang","",2019-12-11,"not available",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (data aug)","Chang Huang","",2019-12-11,"not available",2019
+"RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation@@@RDSNet (data aug)","Weiming Hu","",2019-12-11,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(Mask R-CNN, single-scale)","Xianzhi Du","Samsung",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(Mask R-CNN, single-scale)","Tsung-Yi Lin","Google",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(Mask R-CNN, single-scale)","Pengchong Jin","Purdue University",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(Mask R-CNN, single-scale)","Golnaz Ghiasi","Amirkabir University of Technology",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(Mask R-CNN, single-scale)","Mingxing Tan","Google",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(Mask R-CNN, single-scale)","Yin Cui","Cornell University",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(Mask R-CNN, single-scale)","Quoc V. Le","Google",2019-12-10,"not available",2019
+"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization@@@SpineNet-49S
+(Mask R-CNN, single-scale)","Xiaodan Song","Google",2019-12-10,"not available",2019
+"YOLACT++: Better Real-time Instance Segmentation@@@YOLACT-550++ (ResNet-101-FPN)","Daniel Bolya","",2019-12-03,"not available",2019
+"YOLACT++: Better Real-time Instance Segmentation@@@YOLACT-550++ (ResNet-101-FPN)","Chong Zhou","",2019-12-03,"not available",2019
+"YOLACT++: Better Real-time Instance Segmentation@@@YOLACT-550++ (ResNet-101-FPN)","Fanyi Xiao","",2019-12-03,"not available",2019
+"YOLACT++: Better Real-time Instance Segmentation@@@YOLACT-550++ (ResNet-101-FPN)","Yong Jae Lee","",2019-12-03,"not available",2019
+"torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation@@@Mask R-CNN (Bottleneck-injected ResNet-50, FPN)","","",2020-11-25,"not available",2020
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNeXt-101-FPN)","Enze Xie","Tongji University",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNeXt-101-FPN)","Peize Sun","",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNeXt-101-FPN)","Xiaoge Song","Nanjing University",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNeXt-101-FPN)","Wenhai Wang","Nanjing University",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNeXt-101-FPN)","Xuebo Liu","SenseTime",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNeXt-101-FPN)","Ding Liang","SenseTime",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNeXt-101-FPN)","Chunhua Shen","University of Adelaide",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNeXt-101-FPN)","Ping Luo","University of Hong Kong",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNet-101-FPN)","Enze Xie","Tongji University",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNet-101-FPN)","Peize Sun","",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNet-101-FPN)","Xiaoge Song","Nanjing University",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNet-101-FPN)","Wenhai Wang","Nanjing University",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNet-101-FPN)","Xuebo Liu","SenseTime",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNet-101-FPN)","Ding Liang","SenseTime",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNet-101-FPN)","Chunhua Shen","University of Adelaide",2019-09-29,"not available",2019
+"PolarMask: Single Shot Instance Segmentation with Polar Representation@@@PolarMask (ResNet-101-FPN)","Ping Luo","University of Hong Kong",2019-09-29,"not available",2019
+"YOLACT: Real-time Instance Segmentation@@@YOLACT (ResNet-50-FPN)","Daniel Bolya","University of California, Davis",2019-04-04,"not available",2019
+"YOLACT: Real-time Instance Segmentation@@@YOLACT (ResNet-50-FPN)","Chong Zhou","University of California, Davis",2019-04-04,"not available",2019
+"YOLACT: Real-time Instance Segmentation@@@YOLACT (ResNet-50-FPN)","Fanyi Xiao","University of California, Davis",2019-04-04,"not available",2019
+"YOLACT: Real-time Instance Segmentation@@@YOLACT (ResNet-50-FPN)","Yong Jae Lee","University of California, Davis",2019-04-04,"not available",2019
+"A MultiPath Network for Object Detection@@@MultiPath Network","Sergey Zagoruyko","École des ponts ParisTech",2016-04-07,"not available",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Adam Lerer","Facebook",2016-04-07,"not available",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Tsung-Yi Lin","Cornell University",2016-04-07,"not available",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Pedro O. Pinheiro","Facebook",2016-04-07,"not available",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Sam Gross","Facebook",2016-04-07,"not available",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Soumith Chintala","Facebook",2016-04-07,"not available",2016
+"A MultiPath Network for Object Detection@@@MultiPath Network","Piotr Dollar","Facebook",2016-04-07,"not available",2016
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + VoVNetV2-99 (multi-scale)","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + VoVNetV2-99 (multi-scale)","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + VoVNetV2-99 (single-scale)","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + VoVNetV2-99 (single-scale)","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + VoVNetV2-57 (single-scale)","Youngwan Lee","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"CenterMask : Real-Time Anchor-Free Instance Segmentation@@@CenterMask + VoVNetV2-57 (single-scale)","Jongyoul Park","Electronics and Telecommunications Research Institute",2019-11-15,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask(R-101-FPN)","Hui Ying","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask(R-101-FPN)","Zhaojin Huang","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask(R-101-FPN)","Shu Liu","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask(R-101-FPN)","Tianjia Shao","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask(R-101-FPN)","Kun Zhou","",2019-12-04,"not available",2019
+"EmbedMask: Embedding Coupling for One-stage Instance Segmentation@@@EmbedMask(R-101-FPN)","KunZhou","",2019-12-04,"not available",2019
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS+++  +OHEM","Yi Li","Tsinghua University",2016-11-23,"not available",2016
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS+++  +OHEM","Haozhi Qi","University of California, Berkeley",2016-11-23,"not available",2016
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS+++  +OHEM","Jifeng Dai","Microsoft",2016-11-23,"not available",2016
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS+++  +OHEM","Xiangyang Ji","Tsinghua University",2016-11-23,"not available",2016
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS+++  +OHEM","Yichen Wei","Microsoft",2016-11-23,"not available",2016
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS  +OHEM","Yi Li","Tsinghua University",2016-11-23,"not available",2016
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS  +OHEM","Haozhi Qi","University of California, Berkeley",2016-11-23,"not available",2016
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS  +OHEM","Jifeng Dai","Microsoft",2016-11-23,"not available",2016
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS  +OHEM","Xiangyang Ji","Tsinghua University",2016-11-23,"not available",2016
+"Fully Convolutional Instance-aware Semantic Segmentation@@@FCIS  +OHEM","Yichen Wei","Microsoft",2016-11-23,"not available",2016
+"Instance-aware Semantic Segmentation via Multi-task Network Cascades@@@MNC","Jifeng Dai","Microsoft",2015-12-14,"not available",2015
+"Instance-aware Semantic Segmentation via Multi-task Network Cascades@@@MNC","Kaiming He","Microsoft",2015-12-14,"not available",2015
+"Instance-aware Semantic Segmentation via Multi-task Network Cascades@@@MNC","Jian Sun","Microsoft",2015-12-14,"not available",2015

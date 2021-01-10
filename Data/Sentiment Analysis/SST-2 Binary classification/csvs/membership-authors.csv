@@ -1,0 +1,275 @@
+"author","community"
+"Chunting Zhou",2
+"Chonglin Sun",2
+"Zhiyuan Liu",2
+"Francis C. M. Lau",2
+"Xin Dong",33
+"Gerard de Melo",33
+"Mikhail Khodak",12
+"Nikunj Saunshi",12
+"Yingyu Liang",12
+"Tengyu Ma",12
+"Brandon M. Stewart",12
+"Sanjeev Arora",12
+"Zhenzhong Lan",10
+"Mingda Chen",10
+"Sebastian Goodman",10
+"Kevin Gimpel",10
+"Piyush Sharma",10
+"Radu Soricut",10
+"Ankit Kumar",1
+"Ozan Irsoy",1
+"Peter Ondruska",1
+"Mohit Iyyer",1
+"James Bradbury",1
+"Ishaan Gulrajani",1
+"Victor Zhong",1
+"Romain Paulus",1
+"Richard Socher",1
+"Dinghan Shen",6
+"Guoyin Wang",6
+"Wenlin Wang",6
+"Martin Renqiang Min",6
+"Qinliang Su",6
+"Yizhe Zhang",6
+"Zhang Yizhe",6
+"Chunyuan Li",6
+"Ricardo Henao",6
+"Lawrence Carin",6
+"Manzil Zaheer",5
+"Guru Guruganesh",5
+"Avinava Dubey",5
+"Joshua Ainslie",5
+"Chris Alberti",5
+"Santiago Ontañón",5
+"Philip Pham",5
+"Anirudh Ravula",5
+"Qifan Wang",5
+"Li Yang",5
+"Amr Ahmed",5
+"Jihun Choi",27
+"Taeuk Kim",27
+"Sang-goo Lee",27
+"Alexei Baevski",3
+"Sergey Edunov",3
+"Yinhan Liu",3
+"Luke Zettlemoyer",3
+"Michael Auli",3
+"Yoon Kim",36
+"Yi Yang",35
+"Victor Sanh",21
+"Lysandre Debut",21
+"Julien Chaumond",21
+"Thomas Wolf",21
+"Peng Xu",16
+"Andrea Madotto",16
+"Chien-Sheng Wu",16
+"Ji Ho Park",16
+"Pascale Fung",16
+"Peng Xu",16
+"Andrea Madotto",16
+"Chien-Sheng Wu",16
+"Ji Ho Park",16
+"Pascale Fung",16
+"Yu Sun",8
+"Shuohuan Wang",8
+"Li Yukun",8
+"Shikun Feng",8
+"Hao Tian",8
+"Hua Wu",8
+"Haifeng Wang",8
+"Zhengyan Zhang",2
+"Xu Han",2
+"Zhiyuan Liu",2
+"Xin Jiang",2
+"Maosong Sun",2
+"Qun Liu",2
+"Bita Nejat",30
+"Giuseppe Carenini",30
+"Raymond T. Ng",30
+"Colin Raffel",7
+"Noam Shazeer",7
+"Adam Roberts",7
+"Katherine Lee",7
+"Sharan Narang",7
+"Michael Matena",7
+"Yanqi Zhou",7
+"Wei Li",7
+"Peter J. Liu",7
+"Colin Raffel",7
+"Noam Shazeer",7
+"Adam Roberts",7
+"Katherine Lee",7
+"Sharan Narang",7
+"Michael Matena",7
+"Yanqi Zhou",7
+"Wei Li",7
+"Peter J. Liu",7
+"Colin Raffel",7
+"Noam Shazeer",7
+"Adam Roberts",7
+"Katherine Lee",7
+"Sharan Narang",7
+"Michael Matena",7
+"Yanqi Zhou",7
+"Wei Li",7
+"Peter J. Liu",7
+"Colin Raffel",7
+"Noam Shazeer",7
+"Adam Roberts",7
+"Katherine Lee",7
+"Sharan Narang",7
+"Michael Matena",7
+"Yanqi Zhou",7
+"Wei Li",7
+"Peter J. Liu",7
+"Colin Raffel",7
+"Noam Shazeer",7
+"Adam Roberts",7
+"Katherine Lee",7
+"Sharan Narang",7
+"Michael Matena",7
+"Yanqi Zhou",7
+"Wei Li",7
+"Peter J. Liu",7
+"Manish Munikar",24
+"Sushil Shakya",24
+"Aakash Shrestha",24
+"Manish Munikar",24
+"Sushil Shakya",24
+"Aakash Shrestha",24
+"Xinliang Wang",19
+"Weifeng Liu",19
+"Wei Xue",19
+"Li Wu",19
+"Zhiting Hu",15
+"Xuezhe Ma",15
+"Zhengzhong Liu",15
+"Eduard Hovy",15
+"Eric P. Xing",15
+"Kai Sheng Tai",1
+"Richard Socher",1
+"Christopher D. Manning",1
+"Kai Sheng Tai",1
+"Richard Socher",1
+"Christopher D. Manning",1
+"Siddhartha Brahma",34
+"Jingjing Gong",23
+"Xipeng Qiu",23
+"Shaojing Wang",23
+"Xuanjing Huang",23
+"Jingjing Gong",23
+"Xipeng Qiu",23
+"Shaojing Wang",23
+"Xuanjing Huang",23
+"Min Yang",9
+"Wei Zhao",9
+"Jianbo Ye",9
+"Zeyang Lei",9
+"Suofei Zhang",9
+"Zhou Zhao",9
+"Soufei Zhang",9
+"Bryan McCann",1
+"James Bradbury",1
+"Caiming Xiong",1
+"Richard Socher",1
+"Xuanqing Liu",17
+"Hsiang-Fu Yu",17
+"Inderjit S. Dhillon",17
+"Cho-Jui Hsieh",17
+"Alec Radford",25
+"Rafal Jozefowicz",25
+"Ilya Sutskever",25
+"Giannis Nikolentzos",28
+"Antoine J.-P. Tixier",28
+"Michalis Vazirgiannis",28
+"Xiaodong Liu",18
+"Pengcheng He",18
+"Weizhu Chen",18
+"Jianfeng Gao",18
+"Tsendsuren Munkhdalai",32
+"Hong Yu",32
+"Jose Camacho-Collados",31
+"Mohammad Taher Pilehvar",31
+"Swetha Mandava",26
+"Szymon Migacz",26
+"Alex Fit Florea",26
+"Neel Kant",22
+"Raul Puri",22
+"Nikolai Yakovenko",22
+"Bryan Catanzaro",22
+"Richard Socher",1
+"Alex Perelygin",1
+"Jean Y. Wu",1
+"Jason Chuang",1
+"Christopher D. Manning",1
+"Andrew Y. Ng",1
+"Christopher Potts",1
+"Richard Socher",1
+"Alex Perelygin",1
+"Jean Y. Wu",1
+"Jason Chuang",1
+"Christopher D. Manning",1
+"Andrew Y. Ng",1
+"Christopher Potts",1
+"Yinhan Liu",3
+"Myle Ott",3
+"Naman Goyal",3
+"Jingfei Du",3
+"Mandar Joshi",3
+"Danqi Chen",3
+"Omer Levy",3
+"Mike Lewis",3
+"Luke Zettlemoyer",3
+"Veselin Stoyanov",3
+"Mandar Joshi",3
+"Danqi Chen",3
+"Yinhan Liu",3
+"Daniel S. Weld",3
+"Luke Zettlemoyer",3
+"Omer Levy",3
+"Forrest Iandola",20
+"Albert Shaw",20
+"Ravi Krishna",20
+"Kurt Keutzer",20
+"Qian Liu",14
+"Heyan Huang",14
+"Yang Gao",14
+"Xiaochi Wei",14
+"Yuxin Tian",14
+"Luyang Liu",14
+"Peng Zhou",13
+"Zhenyu Qi",13
+"Suncong Zheng",13
+"Jiaming Xu",13
+"Hongyun Bao",13
+"Bo Xu",13
+"Bonggun Shin",29
+"Hao Yang",29
+"Jinho D. Choi",29
+"Xiaoqi Jiao",2
+"Yichun Yin",2
+"Lifeng Shang",2
+"Xin Jiang",2
+"Xiao Chen",2
+"Linlin Li",2
+"Fang Wang",2
+"Qun Liu",2
+"Daniel Cer",4
+"Yinfei Yang",4
+"Sheng-yi Kong",4
+"Nan Hua",4
+"Nicole Lyn Untalan Limtiaco",4
+"Rhomni St. John",4
+"Noah Constant",4
+"Mario Guajardo-Cespedes",4
+"Steve Yuan",4
+"Chris Tar",4
+"Brian Strope",4
+"Ray Kurzweil",4
+"Zhilin Yang",11
+"Zihang Dai",11
+"Yiming Yang",11
+"Jaime G. Carbonell",11
+"Ruslan Salakhutdinov",11
+"Quoc V. Le",11

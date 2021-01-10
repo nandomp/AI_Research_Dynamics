@@ -1,0 +1,65 @@
+title,communities,metric,paper_date,communities_name
+Image Super-Resolution Using Very Deep Residual Channel Attention Networks@@@RCAN,7,32.63,2018-07-08,"{'University of Rochester', 'Northeastern University', 'Huaqiao University'}"
+Learned Image Downscaling for Upscaling using Content Adaptive Resampler@@@CAR,33,33.88,2019-07-22,{'Wuhan University'}
+Single Image Super-Resolution via a Holistic Attention Network@@@HAN+,5,32.75,2020-08-20,set()
+Image Reconstruction with Predictive Filter Flow@@@PFF,34,32.74,2018-11-28,set()
+Densely Residual Laplacian Super-Resolution@@@DRLN+,35,32.74,2019-06-28,set()
+ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks@@@SRGAN + Residual-in-Residual Dense Block,4,32.73,2018-09-01,"{'The Chinese University of Hong Kong', 'Harbin Institute of Technology', 'Microsoft', 'Chinese Academy of Sciences'}"
+Progressive Perception-Oriented Network for Single Image Super-Resolution@@@RFN,9,32.71,2019-07-24,{'Xidian University'}
+Second-Order Attention Network for Single Image Super-Resolution@@@SAN,1,32.70,2019-06-01,"{'Hong Kong Polytechnic University', 'Graz University of Technology', 'Tsinghua University', 'Harbin Institute of Technology', 'Sun Yat-sen University', ""Xi'an Jiaotong University""}"
+Image Super-Resolution via Attention based Back Projection Networks@@@ABPN,13,32.69,2019-10-10,{'Hong Kong Polytechnic University'}
+Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining@@@CSNLN,2,32.68,2020-06-02,"{'Huazhong University of Science and Technology', 'University of Illinois at Urbana–Champaign', 'IBM'}"
+Deep Back-Projection Networks for Single Image Super-resolution@@@DBPN-RES-MR64-3,18,32.65,2019-04-04,{'Toyota Technological Institute'}
+Hierarchical Back Projection Network for Image Super-Resolution@@@HBPN,13,32.55,2019-06-17,{'Hong Kong Polytechnic University'}
+Gated Multiple Feedback Network for Image Super-Resolution@@@GMFN,6,32.55,2019-07-09,"{'Incheon National University', 'University of California, Santa Barbara', 'University of British Columbia', 'Sichuan University'}"
+Residual Dense Network for Image Super-Resolution@@@RDN,7,32.47,2018-02-24,"{'University of Rochester', 'Northeastern University', 'Huaqiao University'}"
+Progressive Multi-Scale Residual Network for Single Image Super-Resolution@@@PMRN+,14,32.47,2020-07-19,"{'Peking University', 'Dalian University of Technology', 'Chinese Academy of Sciences'}"
+Feedback Network for Image Super-Resolution@@@SRFBN,6,32.47,2019-03-23,"{'Incheon National University', 'University of California, Santa Barbara', 'University of British Columbia', 'Sichuan University'}"
+Deep Back-Projection Networks For Super-Resolution@@@D-DBPN,18,32.47,2018-03-07,{'Toyota Technological Institute'}
+Enhanced Deep Residual Networks for Single Image Super-Resolution@@@EDSR,8,32.46,2017-07-10,{'Seoul National University'}
+Beyond Deep Residual Learning for Image Restoration: Persistent Homology-Guided Manifold Simplification@@@Manifold Simplification,24,32.23,2016-11-19,set()
+Lightweight Image Super-Resolution with Information Multi-distillation Network@@@IMDN,9,32.21,2019-09-26,{'Xidian University'}
+Lightweight and Efficient Image Super-Resolution with Block State-based Recursive Network@@@BSRN,10,32.14,2018-11-30,{'Yonsei University'}
+"Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network@@@CARN",25,32.13,2018-03-23,{'Ajou University'}
+MAMNet: Multi-path Adaptive Modulation Network for Image Super-Resolution@@@SRRAM,10,32.13,2018-11-29,{'Yonsei University'}
+Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers@@@AdaFM-Net,4,32.13,2019-04-17,"{'The Chinese University of Hong Kong', 'Harbin Institute of Technology', 'Microsoft', 'Chinese Academy of Sciences'}"
+Multi-level Wavelet-CNN for Image Restoration@@@MWCNN,1,32.12,2018-05-18,"{'Hong Kong Polytechnic University', 'Graz University of Technology', 'Tsinghua University', 'Harbin Institute of Technology', 'Sun Yat-sen University', ""Xi'an Jiaotong University""}"
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network@@@SRResNet,3,32.05,2016-09-15,"{'Twitter', 'Imperial College London'}"
+Learning a Single Convolutional Super-Resolution Network for Multiple Degradations@@@SRMDNF,1,31.96,2017-12-17,"{'Hong Kong Polytechnic University', 'Graz University of Technology', 'Tsinghua University', 'Harbin Institute of Technology', 'Sun Yat-sen University', ""Xi'an Jiaotong University""}"
+Non-Local Recurrent Network for Image Restoration@@@NLRN,4+2,31.92,2018-06-07,"{'Microsoft', 'Chinese Academy of Sciences', 'Harbin Institute of Technology', 'Huazhong University of Science and Technology', 'The Chinese University of Hong Kong', 'IBM', 'University of Illinois at Urbana–Champaign'}"
+SESR: Single Image Super Resolution with Recursive Squeeze and Excitation Networks@@@SESR,11,31.84,2018-01-31,{'Nanjing University of Science and Technology'}
+Image Super-Resolution via RL-CSC: When Residual Learning Meets Convolutional Sparse Coding@@@RL-CSC,26,31.82,2018-12-31,{'Wuhan University'}
+Fast and Accurate Single Image Super-Resolution via Information Distillation Network@@@IDN,9,31.82,2018-03-26,{'Xidian University'}
+Lightweight Feature Fusion Network for Single Image Super-Resolution@@@LFFN-S,15,31.79,2019-02-15,"{'Tsinghua University', 'China Three Gorges University'}"
+MemNet: A Persistent Memory Network for Image Restoration@@@MemNet,11,31.74,2017-08-07,{'Nanjing University of Science and Technology'}
+EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis@@@ENet-E,19,31.74,2016-12-23,{'Max Planck Society'}
+Blind Super-Resolution With Iterative Kernel Correction@@@IKC,4+1,31.52,2019-04-06,"{'Hong Kong Polytechnic University', 'Microsoft', 'Graz University of Technology', 'Chinese Academy of Sciences', 'Tsinghua University', 'Harbin Institute of Technology', 'Sun Yat-sen University', 'The Chinese University of Hong Kong', ""Xi'an Jiaotong University""}"
+Deeply-Recursive Convolutional Network for Image Super-Resolution@@@DRCN,8,31.52,2015-11-14,{'Seoul National University'}
+Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections@@@RED30,27,31.51,2016-03-30,set()
+Image Restoration Using Convolutional Auto-encoders with Symmetric Skip Connections@@@RED30,27,31.51,2016-06-29,set()
+Neural Nearest Neighbors Networks@@@N3Net,36,31.5,2018-10-30,{'Technische Universität Darmstadt'}
+Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising@@@DnCNN-3,1,31.4,2016-08-13,"{'Hong Kong Polytechnic University', 'Graz University of Technology', 'Tsinghua University', 'Harbin Institute of Technology', 'Sun Yat-sen University', ""Xi'an Jiaotong University""}"
+Image Super-Resolution via Dual-State Recurrent Networks@@@DSRN,2,31.40,2018-05-07,"{'Huazhong University of Science and Technology', 'University of Illinois at Urbana–Champaign', 'IBM'}"
+"""Zero-Shot"" Super-Resolution using Deep Internal Learning@@@ZSSR",28,31.13,2017-12-17,{'Weizmann Institute of Science'}
+Single Image Super-Resolution with Dilated Convolution based Multi-Scale Information Learning Inception Module@@@MSSRNet,20,31.10,2017-07-22,{'Harbin Institute of Technology'}
+Seven ways to improve example-based single image super resolution@@@IA,29,31.10,2015-11-06,{'ETH Zurich'}
+Deep Learning-based Image Super-Resolution Considering Quantitative and Perceptual Quality@@@4PP-EUSR,10,31.0846,2018-09-13,{'Yonsei University'}
+Cascade Convolutional Neural Network for Image Super-Resolution@@@CSRCNN,21,31.01,2020-08-24,set()
+Image Restoration Using Deep Regulated Convolutional Networks@@@RC-Net,16,31.01,2019-10-19,{'University of Florida'}
+Detail-revealing Deep Video Super-resolution@@@SPMC,17,30.96,2017-04-10,"{'The Chinese University of Hong Kong', 'Adobe Systems', 'University of Toronto'}"
+Learning Deep CNN Denoiser Prior for Image Restoration@@@Deep CNN Denoiser,1,30.92,2017-04-11,"{'Hong Kong Polytechnic University', 'Graz University of Technology', 'Tsinghua University', 'Harbin Institute of Technology', 'Sun Yat-sen University', ""Xi'an Jiaotong University""}"
+Trainable Nonlinear Reaction Diffusion: A Flexible Framework for Fast and Effective Image Restoration@@@TNRD,1,30.85,2015-08-12,"{'Hong Kong Polytechnic University', 'Graz University of Technology', 'Tsinghua University', 'Harbin Institute of Technology', 'Sun Yat-sen University', ""Xi'an Jiaotong University""}"
+Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network@@@ESPCN,3,30.76,2016-09-16,"{'Twitter', 'Imperial College London'}"
+DeepRED: Deep Image Prior Powered by RED@@@DeepRED,30,30.72,2019-03-25,"{'University of California, Santa Cruz', 'Technion – Israel Institute of Technology'}"
+Image Super-Resolution Using Deep Convolutional Networks@@@SRCNN,4,30.49,2014-12-31,"{'The Chinese University of Hong Kong', 'Harbin Institute of Technology', 'Microsoft', 'Chinese Academy of Sciences'}"
+Image Super-resolution via Feature-augmented Random Forest@@@FARF*,22,30.45,2017-12-14,"{'Hong Kong Polytechnic University', 'Shenzhen University', 'Guangdong University of Technology'}"
+Structure-Preserving Super Resolution with Gradient Guidance@@@SPSR,12,30.40,2020-03-29,"{'Tsinghua University', 'Tencent'}"
+Joint Maximum Purity Forest with Application to Image Super-Resolution@@@JMPF+,22,30.24,2017-08-30,"{'Hong Kong Polytechnic University', 'Shenzhen University', 'Guangdong University of Technology'}"
+Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform@@@SFT-GAN,4,29.82,2018-04-09,"{'The Chinese University of Hong Kong', 'Harbin Institute of Technology', 'Microsoft', 'Chinese Academy of Sciences'}"
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network@@@SRGAN,3,29.40,2016-09-15,"{'Twitter', 'Imperial College London'}"
+Deep Mean-Shift Priors for Image Restoration@@@Deep Mean-Shift Priors,23,29.16,2017-09-12,"{'University of Maryland, College Park', 'University of Bern'}"
+Edge-Informed Single Image Super-Resolution@@@Edge-informed SR,31,28.59,2019-09-11,{'University of Ontario Institute of Technology'}
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network@@@bicubic,3,28.43,2016-09-15,"{'Twitter', 'Imperial College London'}"
+Perceptual Losses for Real-Time Style Transfer and Super-Resolution@@@Perceptual Loss,32,27.09,2016-03-27,{'Stanford University'}
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network@@@nearest neighbors,3,26.26,2016-09-15,"{'Twitter', 'Imperial College London'}"
+Progressive Perception-Oriented Network for Single Image Super-Resolution@@@S-RFN,9,not available,2019-07-24,{'Xidian University'}

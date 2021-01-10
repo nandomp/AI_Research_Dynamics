@@ -1,0 +1,34 @@
+title,communities,metric,paper_date,communities_name
+"Language Models are Unsupervised Multitask Learners@@@GPT-2 (48 layers, h=1600)",5,0.93,2019-02-14,"{'Boston College', 'Oracle Corporation'}"
+"Dynamic Evaluation of Transformer Language Models@@@Transformer-XL (24 layers, RMS dynamic eval, decay)",9,0.940,2019-04-17,{'University of Edinburgh'}
+Accessing Higher-level Representations in Sequential Transformers with Feedback Memory@@@Feedback Transformer,1,0.96,2020-02-21,{'Facebook'}
+Improving Transformer Models by Reordering their Sublayers@@@Sandwich Transformer (adaptive span),14,0.968,2019-11-10,"{'University of Washington', 'Allen Institute for Artificial Intelligence'}"
+Compressive Transformers for Long-Range Sequence Modelling@@@Compressive Transformer (24 layers),11,0.97,2019-11-13,set()
+"Adaptive Attention Span in Transformers@@@Transformer (24 layers, 8k adaptive span)",1,0.98,2019-05-19,{'Facebook'}
+Augmenting Self-attention with Persistent Memory@@@All-attention network (36 layers),1,0.98,2019-07-02,{'Facebook'}
+Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL (24 layers),3,0.99,2019-01-09,"{'Google', 'Carnegie Mellon University'}"
+"Longformer: The Long-Document Transformer@@@Longformer (30 layers, h=512)",15,0.99,2020-04-10,{'Allen Institute for Artificial Intelligence'}
+"Generating Long Sequences with Sparse Transformers@@@Sparse Transformer (30 layers, fixed attn)",12,0.99,2019-04-23,set()
+Efficient Content-Based Sparse Attention with Routing Transformers@@@Routing Transformer (12 layers),6,0.99,2020-03-12,{'Google'}
+"Longformer: The Long-Document Transformer@@@Longformer (12 layers, h=512)",15,1.00,2020-04-10,{'Allen Institute for Artificial Intelligence'}
+Augmenting Self-attention with Persistent Memory@@@All-attention network (18 layers),1,1.01,2019-07-02,{'Facebook'}
+"Adaptive Attention Span in Transformers@@@Transformer (12 layers, 8k adaptive span)",1,1.02,2019-05-19,{'Facebook'}
+BP-Transformer: Modelling Long-Range Context via Binary Partitioning@@@BP-Transformer (12 layers),7,1.02,2019-11-11,set()
+Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL (18 layers),3,1.03,2019-01-09,"{'Google', 'Carnegie Mellon University'}"
+Character-Level Language Modeling with Deeper Self-Attention@@@Transformer (64 layers),8,1.06,2018-08-09,{'Google'}
+Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL (12 layers),3,1.06,2019-01-09,"{'Google', 'Carnegie Mellon University'}"
+"Single Headed Attention RNN: Stop Thinking With Your Head@@@SHA-RNN (4 layers, h=1024, attention head per layer)",16,1.068,2019-11-26,set()
+"Single Headed Attention RNN: Stop Thinking With Your Head@@@SHA-RNN (4 layers, h=1024, single attention head)",16,1.076,2019-11-26,set()
+Character-Level Language Modeling with Deeper Self-Attention@@@Transformer (12 layers),8,1.11,2018-08-09,{'Google'}
+Mogrifier LSTM@@@Mogrifier LSTM,13,1.146,2019-09-04,{'Google'}
+Mogrifier LSTM@@@LSTM,13,1.195,2019-09-04,{'Google'}
+Cluster-Former: Clustering-based Sparse Transformer for Long-Range Dependency Encoding@@@Cluster-Former (#C=512),2,1.22,2020-09-13,{'Microsoft'}
+An Analysis of Neural Language Modeling at Multiple Scales@@@AWD-LSTM (3 layers),16,1.232,2018-03-22,set()
+Multiplicative LSTM for sequence modelling@@@Large mLSTM,9,1.24,2016-09-26,{'University of Edinburgh'}
+Fast-Slow Recurrent Neural Networks@@@Large FS-LSTM-4,17, 1.25,2017-05-24,{'ETH Zurich'}
+Recurrent Highway Networks@@@Recurrent Highway Networks,10,1.27,2016-07-12,"{'ETH Zurich', 'Dalle Molle Institute for Artificial Intelligence Research'}"
+Neural Machine Translation in Linear Time@@@ByteNet,4,1.31,2016-10-31,{'University of Toronto'}
+Hierarchical Multiscale Recurrent Neural Networks@@@LN HM-LSTM,18,1.32,2016-09-06,{'Université de Montréal'}
+"Single Headed Attention RNN: Stop Thinking With Your Head@@@SHA-LSTM (4 layers, h=1024, no attention head)",16,1.33,2019-11-26,set()
+HyperNetworks@@@Hypernetworks,3,1.34,2016-09-27,"{'Google', 'Carnegie Mellon University'}"
+Generating Sequences With Recurrent Neural Networks@@@LSTM (7 layers),4,1.67,2013-08-04,{'University of Toronto'}

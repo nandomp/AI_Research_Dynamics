@@ -1,0 +1,39 @@
+title,communities,metric,paper_date,communities_name
+Language Models are Few-Shot Learners@@@GPT-3 (Zero-Shot),1,20.5,2020-05-28,set()
+Language Models with Transformers@@@BERT-Large-CAS,9,31.3,2019-04-20,{'Google'}
+Language Models are Unsupervised Multitask Learners@@@GPT-2,5,35.76,2019-02-14,"{'Boston College', 'Oracle Corporation'}"
+Mogrifier LSTM@@@Mogrifier LSTM + dynamic eval,4,44.9,2019-09-04,{'Google'}
+Improving Neural Language Modeling via Adversarial Training@@@adversarial + AWD-LSTM-MoS + dynamic eval,3,46.01,2019-06-10,"{'Microsoft', 'Peking University', 'University of Texas at Austin'}"
+Gradual Learning of Recurrent Neural Networks@@@GL-LWGC + AWD-MoS-LSTM + dynamic eval,14,46.34,2017-08-29,set()
+FRAGE: Frequency-Agnostic Word Representation@@@FRAGE + AWD-LSTM-MoS + dynamic eval,3,46.54,2018-09-18,"{'Microsoft', 'Peking University', 'University of Texas at Austin'}"
+Direct Output Connection for a High-Rank Language Model@@@AWD-LSTM-DOC x5,15,47.17,2018-08-30,"{'Tokyo Institute of Technology', 'Tohoku University', 'Nippon Telegraph and Telephone'}"
+Improved Language Modeling by Decoding the Past@@@Past Decode Reg. + AWD-LSTM-MoS + dyn. eval.,18,47.3,2018-08-14,{'IBM'}
+Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS + dynamic eval,2,47.69,2017-11-10,"{'Carnegie Mellon University', 'Google'}"
+Deep Residual Output Layers for Neural Language Generation@@@AWD-LSTM-DRILL + dynamic eval,16,49.4,2019-05-14,{'Idiap Research Institute'}
+Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN+dynamic eval,6,50.97,2019-10-11,set()
+Dynamic Evaluation of Neural Sequence Models@@@AWD-LSTM + dynamic eval,10,51.1,2017-09-21,{'University of Edinburgh'}
+Partially Shuffling the Training Data to Improve Language Models@@@AWD-LSTM-DOC + Partial Shuffle,19,52.0,2019-03-11,{'University of Washington'}
+Direct Output Connection for a High-Rank Language Model@@@AWD-LSTM-DOC,15,52.38,2018-08-30,"{'Tokyo Institute of Technology', 'Tohoku University', 'Nippon Telegraph and Telephone'}"
+Regularizing and Optimizing LSTM Language Models@@@AWD-LSTM + continuous cache pointer,8,52.8,2017-08-07,"{'Salesforce.com', 'Northwestern University', 'Stanford University'}"
+Partially Shuffling the Training Data to Improve Language Models@@@AWD-LSTM-MoS + Partial Shuffle,19,53.92,2019-03-11,{'University of Washington'}
+Trellis Networks for Sequence Modeling@@@Trellis Network,11,54.19,2018-10-15,set()
+Breaking the Softmax Bottleneck: A High-Rank RNN Language Model@@@AWD-LSTM-MoS,2,54.44,2017-11-10,"{'Carnegie Mellon University', 'Google'}"
+Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context@@@Transformer-XL,2,54.55,2019-01-09,"{'Carnegie Mellon University', 'Google'}"
+Pushing the bounds of dropout@@@2-layer skip-LSTM + dropout tuning ,4,55.3,2018-05-23,{'Google'}
+Deep Residual Output Layers for Neural Language Generation@@@AWD-LSTM-DRILL,16,55.7,2019-05-14,{'Idiap Research Institute'}
+DARTS: Differentiable Architecture Search@@@Differentiable NAS,2,56.1,2018-06-24,"{'Carnegie Mellon University', 'Google'}"
+Deep Independently Recurrent Neural Network (IndRNN)@@@Dense IndRNN,6,56.37,2019-10-11,set()
+Fraternal Dropout@@@AWD-LSTM 3-layer with Fraternal dropout,12,56.8,2017-10-31,"{'North Carolina State University', 'Université de Montréal', 'Jagiellonian University'}"
+Deep Equilibrium Models@@@DEQ-TrellisNet,11,57.1,2019-09-03,set()
+Regularizing and Optimizing LSTM Language Models@@@AWD-LSTM,8,57.3,2017-08-07,"{'Salesforce.com', 'Northwestern University', 'Stanford University'}"
+Efficient Neural Architecture Search via Parameter Sharing@@@Efficient NAS,2, 58.6,2018-02-09,"{'Carnegie Mellon University', 'Google'}"
+Neural Architecture Search with Reinforcement Learning@@@NAS Cell,2,64.0,2016-11-05,"{'Carnegie Mellon University', 'Google'}"
+Recurrent Highway Networks@@@Recurrent highway networks,7,65.4,2016-07-12,"{'Dalle Molle Institute for Artificial Intelligence Research', 'ETH Zurich'}"
+Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling@@@Inan et al. (2016) - Variational RHN,8,66.0,2016-11-04,"{'Salesforce.com', 'Northwestern University', 'Stanford University'}"
+A Theoretically Grounded Application of Dropout in Recurrent Neural Networks@@@Gal & Ghahramani (2016) - Variational LSTM (large),17,75.2,2015-12-16,{'University of Cambridge'}
+Recurrent Neural Network Regularization@@@Zaremba et al. (2014) - LSTM (large),1,78.4,2014-09-08,set()
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@LSTM (Bai et al., 2018)",11,78.93,2018-03-04,set()
+A Theoretically Grounded Application of Dropout in Recurrent Neural Networks@@@Gal & Ghahramani (2016) - Variational LSTM (medium),17,79.7,2015-12-16,{'University of Cambridge'}
+Recurrent Neural Network Regularization@@@Zaremba et al. (2014) - LSTM (medium),1,82.7,2014-09-08,set()
+R-Transformer: Recurrent Neural Network Enhanced Transformer@@@R-Transformer,13,84.38,2019-07-12,{'Michigan State University'}
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling@@@GRU (Bai et al., 2018)",11,92.48,2018-03-04,set()

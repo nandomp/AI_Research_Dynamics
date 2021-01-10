@@ -1,0 +1,111 @@
+title,communities,metric,paper_date,communities_name
+Twin Auxilary Classifiers GAN@@@TAC-GAN,19,not available,2019-12-01,"{'Carnegie Mellon University', 'Microsoft', 'University of Melbourne', 'University of Pittsburgh'}"
+Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game@@@MSGAN,11,not available,2019-11-16,"{'University of Electronic Science and Technology of China', 'Singapore University of Technology and Design'}"
+Learnable Boundary Guided Adversarial Training@@@wideresnet-34-20,44,not available,2020-11-23,"{'University of Technology, Sydney', 'University of Sydney'}"
+Learnable Boundary Guided Adversarial Training@@@wideresnet-34-10,44,not available,2020-11-23,"{'University of Technology, Sydney', 'University of Sydney'}"
+Neural Architecture Transfer@@@NAT-M4,4,88.3,2020-05-12,"{'Massachusetts Institute of Technology', 'Google'}"
+Neural Architecture Transfer@@@NAT-M3,4,87.7,2020-05-12,"{'Massachusetts Institute of Technology', 'Google'}"
+Neural Architecture Transfer@@@NAT-M2,4,87.5,2020-05-12,"{'Massachusetts Institute of Technology', 'Google'}"
+MUXConv: Information Multiplexing in Convolutional Neural Networks@@@MUXNet-m,45,86.1,2020-03-31,{'Michigan State University'}
+Neural Architecture Transfer@@@NAT-M1,4,86.0,2020-05-12,"{'Massachusetts Institute of Technology', 'Google'}"
+SCAN: Learning to Classify Images without Labels@@@SCAN,20,not available,2020-05-25,set()
+SCAN: Learning to Classify Images without Labels@@@SCAN (Avg),20,not available,2020-05-25,set()
+Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction@@@MCR2,21,not available,2020-06-15,set()
+Deep Comprehensive Correlation Mining for Image Clustering@@@DCCM,6,not available,2019-04-15,"{'SenseTime', 'Chinese Academy of Sciences', 'Peking University'}"
+Deep Adaptive Image Clustering@@@DAC,22,not available,2017-10-01,{'Chinese Academy of Sciences'}
+Unsupervised Deep Embedding for Clustering Analysis@@@DEC,46,not available,2015-11-19,"{'Facebook', 'University of Washington'}"
+Auto-Encoding Variational Bayes@@@VAE,28,not available,2013-12-20,"{'University of California, Berkeley'}"
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@GAN,47,not available,2015-11-19,{'Facebook'}
+Joint Unsupervised Learning of Deep Representations and Image Clusters@@@JULE,48,not available,2016-04-13,{'Virginia Tech'}
+Sharpness-Aware Minimization for Efficiently Improving Generalization@@@EffNet-L2 (SAM),29,96.08,2020-10-03,{'Google'}
+Big Transfer (BiT): General Visual Representation Learning@@@BiT-L (ResNet),4,93.51,2019-12-24,"{'Massachusetts Institute of Technology', 'Google'}"
+Big Transfer (BiT): General Visual Representation Learning@@@BiT-M (ResNet),4,92.17,2019-12-24,"{'Massachusetts Institute of Technology', 'Google'}"
+EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks@@@EfficientNet-B7,1,91.7,2019-05-28,{'Google'}
+TResNet: High Performance GPU-Dedicated Architecture@@@TResNet-XL,30,91.5,2020-03-30,set()
+GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE,1,91.3,2018-11-16,{'Google'}
+Sharpness-Aware Minimization for Efficiently Improving Generalization@@@PyramidNet (SAM),29,89.7,2020-10-03,{'Google'}
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4",3,89.46,2020-11-30,{'Alibaba Group'}
+AutoAugment: Learning Augmentation Policies from Data@@@PyramidNet+ShakeDrop,1,89.3,2018-05-24,{'Google'}
+ColorNet: Investigating the importance of color spaces for image classification@@@ColorNet,49,88.4,2019-02-01,{'Tsinghua University'}
+SpinalNet: Deep Neural Network with Gradual Input@@@Wide-ResNet-101 (Spinal FC),7,88.34,2020-07-07,set()
+Fast AutoAugment@@@PyramidNet+ShakeDrop (Fast AA),23,88.3,2019-05-01,set()
+"SplitNet: Divide and Co-training@@@DenseNet-BC-190, S=4",3,87.44,2020-11-30,{'Alibaba Group'}
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4",3,86.90,2020-11-30,{'Alibaba Group'}
+CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features@@@PyramidNet-200 + Shakedrop + Cutmix,12,86.19,2019-05-13,"{'Naver Corporation', 'Yonsei University'}"
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4",3,85.74,2020-11-30,{'Alibaba Group'}
+Squeeze-and-Excitation Networks@@@SENet + ShakeEven + Cutout,50,84.59,2017-09-05,{'University of Oxford'}
+Averaging Weights Leads to Wider Optima and Better Generalization@@@PyramidNet-272 + SWA,13,84.16,2018-03-14,"{'Moscow State University', 'Cornell University', 'National Research University – Higher School of Economics'}"
+Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup@@@WRN28-10,31,84.05,2020-09-15,{'Seoul National University'}
+FMix: Enhancing Mixed Sample Data Augmentation@@@DenseNet-BC-190 + FMix,14,83.95,2020-02-27,{'University of Southampton'}
+Grafit: Learning fine-grained image representations with coarse labels@@@Grafit (ResNet-50),51,83.7,2020-11-25,"{'Microsoft', 'University of Science and Technology of China'}"
+Res2Net: A New Multi-scale Backbone Architecture@@@Res2NeXt-29,15,83.44,2019-04-02,"{'University of California, Merced', 'Nankai University', 'University of Oxford'}"
+mixup: Beyond Empirical Risk Minimization@@@DenseNet-BC-190 + Mixup,2,83.20,2017-10-25,"{'Aalto University', 'Université de Montréal', 'Sharif University of Technology', 'Google', 'Massachusetts Institute of Technology', 'Facebook'}"
+EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning@@@EnAET,32,83.13,2019-11-21,set()
+Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems@@@Wide ResNet+Cutout+no BN scale/offset learning,24,82.95,2019-07-16,"{'University of California, San Diego', 'University of Sydney', 'University of South Australia'}"
+"Selective Kernel Networks@@@SKNet-29 (ResNeXt-29, 16×32d)",33,82.67,2019-03-15,"{'Nanjing University of Science and Technology', 'Nanjing University', 'Tsinghua University'}"
+Densely Connected Convolutional Networks@@@DenseNet,17,82.62,2016-08-25,"{'Facebook', 'Tsinghua University', 'Cornell University'}"
+Attend and Rectify: a Gated Attention Mechanism for Fine-Grained Recovery@@@WARN,8,82.18,2018-07-19,{'Autonomous University of Barcelona'}
+Averaging Weights Leads to Wider Optima and Better Generalization@@@WRN+SWA,13,82.15,2018-03-14,"{'Moscow State University', 'Cornell University', 'National Research University – Higher School of Economics'}"
+Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup,2,81.96,2018-06-13,"{'Aalto University', 'Université de Montréal', 'Sharif University of Technology', 'Google', 'Massachusetts Institute of Technology', 'Facebook'}"
+Learning Identity Mappings with Residual Gates@@@Residual Gates + WRN,42,81.73,2016-11-04,"{'Toyota Technological Institute at Chicago', 'University of Chicago', 'Federal University of Rio de Janeiro'}"
+Attention Augmented Convolutional Networks@@@AA-Wide-ResNet,1,81.6,2019-04-22,{'Google'}
+Wide Residual Networks@@@Wide ResNet,57,81.15,2016-05-23,set()
+Deep Competitive Pathway Networks@@@CoPaNet-R-164,58,81.10,2017-09-29,set()
+Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet@@@SimpleNetv2,16,80.29,2018-02-17,set()
+Training Neural Networks with Local Error Signals@@@VGG11B(3x) + LocalLearning,59,79.9,2019-01-20,{'Columbia University'}
+Regularizing Neural Networks via Adversarial Model Perturbation@@@PreActResNet18+AMP,52,78.49,2020-10-10,set()
+"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures@@@SimpleNetv1",16,78.37,2016-08-22,set()
+Rethinking Depthwise Separable Convolutions: How Intra-Kernel Correlations Lead to Improved MobileNets@@@MobileNetV3-large x1.0 (BSConv-U),60,77.7,2020-03-30,{'University of Jena'}
+Identity Mappings in Deep Residual Networks@@@ResNet-1001,34,77.3,2016-03-16,{'Microsoft'}
+Large-Scale Evolution of Image Classifiers@@@Evolution,1,77,2017-03-03,{'Google'}
+DIANet: Dense-and-Implicit Attention Network@@@DIANet,35,76.98,2019-05-25,"{'National University of Singapore', 'Northwestern University', 'Tsinghua University'}"
+Encoding the latent posterior of Bayesian Neural Networks for uncertainty quantification@@@LP-BNN (ours) + cutout,61,76.85,2020-12-04,{'University of Notre Dame'}
+Spatially-sparse convolutional neural networks@@@SSCNN,67,75.7,2014-09-22,{'University of Warwick'}
+Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)@@@Exponential Linear Units,53,75.7,2015-11-23,{'Johannes Kepler University of Linz'}
+Deep Networks with Stochastic Depth@@@Stochastic Depth,17,75.42,2016-03-30,"{'Facebook', 'Tsinghua University', 'Cornell University'}"
+Mish: A Self Regularized Non-Monotonic Activation Function@@@ResNet v2-110 (Mish activation),68,74.41,2019-08-23,set()
+MixMatch: A Holistic Approach to Semi-Supervised Learning@@@MixMatch,2,74.1,2019-05-06,"{'Aalto University', 'Université de Montréal', 'Sharif University of Technology', 'Google', 'Massachusetts Institute of Technology', 'Facebook'}"
+Fractional Max-Pooling@@@Fractional MP,67,73.6,2014-12-18,{'University of Warwick'}
+Deep Residual Networks with Exponential Linear Unit@@@ResNet+ELU,25,73.5,2016-04-14,{'Beijing University of Posts and Telecommunications'}
+Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods@@@SOPCNN,69,72.96,2020-01-24,{'Pace University'}
+@@@Deep Complex,,,,set()
+Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN,5,72.6,2015-02-19,"{'Harvard University', 'Intel', 'University of Toronto', 'Lawrence Berkeley National Laboratory', 'Massachusetts Institute of Technology'}"
+Competitive Multi-scale Convolution@@@CMsC,62,72.4,2015-11-18,{'University of Adelaide'}
+All you need is a good init@@@Fitnet4-LSUV,63,72.3,2015-11-19,{'Czech Technical University in Prague'}
+Batch-normalized Maxout Network in Network@@@BNM NiN,58,71.1,2015-11-09,set()
+On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units@@@MIM,62,70.8,2015-08-03,{'University of Adelaide'}
+Learning Activation Functions to Improve Deep Neural Networks@@@NiN+APL,36,69.2,2014-12-21,"{'University of California, Irvine', 'Adobe Systems', 'University of Michigan'}"
+Stacked What-Where Auto-encoders@@@SWWAE,18,69.1,2015-06-08,{'New York University'}
+Deep Convolutional Decision Jungle for Image Classification@@@NiN+Superclass+CDJ,54,69,2017-06-06,set()
+@@@MLR DNN,,,,set()
+Spectral Representations for Convolutional Neural Networks@@@Spectral Representations for Convolutional Neural Networks,5,68.4,2015-06-11,"{'Harvard University', 'Intel', 'University of Toronto', 'Lawrence Berkeley National Laboratory', 'Massachusetts Institute of Technology'}"
+@@@RCNN-96,,,,set()
+Training Very Deep Networks@@@VDN,37,67.8,2015-07-22,{'Dalle Molle Institute for Artificial Intelligence Research'}
+Deep Convolutional Neural Networks as Generic Feature Extractors@@@DCNN+GFE,38,67.7,2017-10-06,set()
+"Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree@@@Tree+Max-Avg pooling",26,67.6,2015-09-30,"{'Microsoft', 'University of California, San Diego'}"
+HD-CNN: Hierarchical Deep Convolutional Neural Network for Large Scale Visual Recognition@@@HD-CNN,9,67.4,2014-10-03,set()
+Universum Prescription: Regularization using Unlabeled Data@@@Universum Prescription,18,67.2,2015-11-11,{'New York University'}
+ResNet50_on_Cifar_100_Without_Transfer_Learning@@@ResNet50 Without Transfer Learning,1,67.060,2020-08-03,{'Google'}
+Striving for Simplicity: The All Convolutional Net@@@ACN,39,66.3,2014-12-21,{'University of Freiburg'}
+Deeply-Supervised Nets@@@DSN,26,65.4,2014-09-18,"{'Microsoft', 'University of California, San Diego'}"
+SpinalNet: Deep Neural Network with Gradual Input@@@VGG-16(Spinal FC),7,64.99,2020-07-07,set()
+@@@Deep Representation Learning with Target Coding,,,,set()
+Network In Network@@@NiN,10,64.3,2013-12-16,"{'Microsoft', 'University of Washington'}"
+Discriminative Transfer Learning with Tree-based Priors@@@Tree Priors,64,63.2,2013-12-01,{'University of Toronto'}
+Improving Deep Neural Networks with Probabilistic Maxout Units@@@DNN+Probabilistic Maxout,39,61.9,2013-12-20,{'University of Freiburg'}
+Maxout Networks@@@Maxout Network (k=2),2,61.43,2013-02-18,"{'Aalto University', 'Université de Montréal', 'Sharif University of Technology', 'Google', 'Massachusetts Institute of Technology', 'Facebook'}"
+@@@Stable and Efficient Representation Learning with Nonnegativity Constraints ,,,,set()
+Unsharp Masking Layer: Injecting Prior Knowledge in Convolutional Networks for Image Classification@@@ResNet20+UnsharpMaskLayer,27,60.36,2019-09-29,"{'Costa Rica Institute of Technology', 'Rovira i Virgili University'}"
+Empirical Evaluation of Rectified Activations in Convolutional Network@@@RReLU,40,59.8,2015-05-05,set()
+Stochastic Pooling for Regularization of Deep Convolutional Neural Networks@@@Stochastic Pooling,65,57.5,2013-01-16,{'New York University'}
+@@@Smooth Pooling Regions,,,,set()
+@@@Receptive Field Learning,,,,set()
+Improving Neural Architecture Search Image Classifiers via Ensemble Learning@@@ASANas,41,not available,2019-03-14,set()
+Densely Connected Convolutional Networks@@@DenseNet-BC,17,not available,2016-08-25,"{'Facebook', 'Tsinghua University', 'Cornell University'}"
+Learning Implicitly Recurrent CNNs Through Parameter Sharing@@@Shared WRN,42,not available,2019-02-26,"{'Toyota Technological Institute at Chicago', 'University of Chicago', 'Federal University of Rio de Janeiro'}"
+How Important is Weight Symmetry in Backpropagation?@@@Sign-symmetry,55,not available,2015-10-17,{'Massachusetts Institute of Technology'}
+Outlier Exposure with Confidence Control for Out-of-Distribution Detection@@@WRN 40-2 + OECC,43,not available,2019-06-08,{'University of Southern California'}
+Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 + OE,56,not available,2018-12-11,"{'University of California, Berkeley', 'University of Chicago', 'Oregon State University'}"
+Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 (MSP Baseline),56,not available,2018-12-11,"{'University of California, Berkeley', 'University of Chicago', 'Oregon State University'}"
+@@@PreResNet-101,,,,set()
+Network Pruning via Transformable Architecture Search@@@TAS-pruned ResNet-110,66,not available,2019-05-23,"{'University of Technology, Sydney'}"

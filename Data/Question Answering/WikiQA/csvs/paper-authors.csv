@@ -1,0 +1,70 @@
+"title","authors","affiliations","paper_date","metric","year"
+"TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection@@@TANDA-RoBERTa (ASNQ, WikiQA)","Siddhant Garg","University of Wisconsin-Madison",2019-11-11,"0.920",2019
+"TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection@@@TANDA-RoBERTa (ASNQ, WikiQA)","Thuy Vu","Amazon.com",2019-11-11,"0.920",2019
+"TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection@@@TANDA-RoBERTa (ASNQ, WikiQA)","Alessandro Moschitti","Amazon.com",2019-11-11,"0.920",2019
+"A Compare-Aggregate Model with Latent Clustering for Answer Selection@@@Comp-Clip + LM + LC","Seunghyun Yoon","Seoul National University",2019-05-30,"0.764",2019
+"A Compare-Aggregate Model with Latent Clustering for Answer Selection@@@Comp-Clip + LM + LC","Franck Dernoncourt","Adobe Systems",2019-05-30,"0.764",2019
+"A Compare-Aggregate Model with Latent Clustering for Answer Selection@@@Comp-Clip + LM + LC","Doo Soon Kim","Adobe Systems",2019-05-30,"0.764",2019
+"A Compare-Aggregate Model with Latent Clustering for Answer Selection@@@Comp-Clip + LM + LC","Trung Bui","Adobe Systems",2019-05-30,"0.764",2019
+"A Compare-Aggregate Model with Latent Clustering for Answer Selection@@@Comp-Clip + LM + LC","Kyomin Jung","Seoul National University",2019-05-30,"0.764",2019
+"Simple and Effective Text Matching with Richer Alignment Features@@@RE2","Runqi Yang","",2019-08-01,"0.7452",2019
+"Simple and Effective Text Matching with Richer Alignment Features@@@RE2","Jianhai Zhang","",2019-08-01,"0.7452",2019
+"Simple and Effective Text Matching with Richer Alignment Features@@@RE2","Xing Gao","",2019-08-01,"0.7452",2019
+"Simple and Effective Text Matching with Richer Alignment Features@@@RE2","Feng Ji","Alibaba Group",2019-08-01,"0.7452",2019
+"Simple and Effective Text Matching with Richer Alignment Features@@@RE2","Haiqing Chen","Alibaba Group",2019-08-01,"0.7452",2019
+"Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering@@@HyperQA","Yi Tay","Nanyang Technological University",2017-07-25,"0.712",2017
+"Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering@@@HyperQA","Luu Anh Tuan","Institute for Infocomm Research Singapore",2017-07-25,"0.712",2017
+"Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering@@@HyperQA","Siu Cheung Hui","Nanyang Technological University",2017-07-25,"0.712",2017
+"Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement@@@PWIM","Hua He","University of Maryland, College Park",2016-06-01,"0.7090",2016
+"Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement@@@PWIM","James Jeng-Weei Lin","University of Waterloo",2016-06-01,"0.7090",2016
+"Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement@@@PWIM","Jimmy Lin","University of Waterloo",2016-06-01,"0.7090",2016
+"Key-Value Memory Networks for Directly Reading Documents@@@Key-Value Memory Network","Alexander H. Miller","Facebook",2016-06-09,"0.7069",2016
+"Key-Value Memory Networks for Directly Reading Documents@@@Key-Value Memory Network","Adam Fisch","Facebook",2016-06-09,"0.7069",2016
+"Key-Value Memory Networks for Directly Reading Documents@@@Key-Value Memory Network","Jesse Dodge","Carnegie Mellon University",2016-06-09,"0.7069",2016
+"Key-Value Memory Networks for Directly Reading Documents@@@Key-Value Memory Network","Amir-Hossein Karimi","University of Waterloo",2016-06-09,"0.7069",2016
+"Key-Value Memory Networks for Directly Reading Documents@@@Key-Value Memory Network","Antoine Bordes","Facebook",2016-06-09,"0.7069",2016
+"Key-Value Memory Networks for Directly Reading Documents@@@Key-Value Memory Network","Jason Weston","Facebook",2016-06-09,"0.7069",2016
+"Sentence Similarity Learning by Lexical Decomposition and Composition@@@LDC","Zhiguo Wang","IBM",2016-02-23,"0.7058",2016
+"Sentence Similarity Learning by Lexical Decomposition and Composition@@@LDC","Haitao Mi","IBM",2016-02-23,"0.7058",2016
+"Sentence Similarity Learning by Lexical Decomposition and Composition@@@LDC","Abraham Ittycheriah","IBM",2016-02-23,"0.7058",2016
+"Noise Contrastive Estimation and Negative Sampling for Conditional Models: Consistency and Statistical Efficiency@@@PairwiseRank +  Multi-Perspective CNN","Zhuang Ma","University of Pennsylvania",2018-09-06,"0.7010",2018
+"Noise Contrastive Estimation and Negative Sampling for Conditional Models: Consistency and Statistical Efficiency@@@PairwiseRank +  Multi-Perspective CNN","Michael Collins","Columbia University",2018-09-06,"0.7010",2018
+"Neural Variational Inference for Text Processing@@@Attentive LSTM","Yishu Miao","University of Oxford",2015-11-19,"0.6886",2015
+"Neural Variational Inference for Text Processing@@@Attentive LSTM","Lei Yu","University of Oxford",2015-11-19,"0.6886",2015
+"Neural Variational Inference for Text Processing@@@Attentive LSTM","Phil Blunsom","University of Oxford",2015-11-19,"0.6886",2015
+"Attentive Pooling Networks@@@AP-CNN","Shuangjie Xu","Huazhong University of Science and Technology",2016-02-11,"0.6886",2016
+"Attentive Pooling Networks@@@AP-CNN","Yu Cheng","IBM",2016-02-11,"0.6886",2016
+"Attentive Pooling Networks@@@AP-CNN","Kang Gu","",2016-02-11,"0.6886",2016
+"Attentive Pooling Networks@@@AP-CNN","Yang Yang","Northwestern University",2016-02-11,"0.6886",2016
+"Attentive Pooling Networks@@@AP-CNN","Shiyu Chang","IBM",2016-02-11,"0.6886",2016
+"Attentive Pooling Networks@@@AP-CNN","Pan Zhou","Huazhong University of Science and Technology",2016-02-11,"0.6886",2016
+"Neural Variational Inference for Text Processing@@@LSTM (lexical overlap + dist output)","Yishu Miao","University of Oxford",2015-11-19,"0.682",2015
+"Neural Variational Inference for Text Processing@@@LSTM (lexical overlap + dist output)","Lei Yu","University of Oxford",2015-11-19,"0.682",2015
+"Neural Variational Inference for Text Processing@@@LSTM (lexical overlap + dist output)","Phil Blunsom","University of Oxford",2015-11-19,"0.682",2015
+"Neural Semantic Encoders@@@MMA-NSE attention","Tsendsuren Munkhdalai","University of Massachusetts Medical School",2016-07-14,"0.6811",2016
+"Neural Semantic Encoders@@@MMA-NSE attention","Hong Yu","University of Massachusetts Medical School",2016-07-14,"0.6811",2016
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Dinghan Shen","Duke University",2018-05-24,"0.6788",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Guoyin Wang","Duke University",2018-05-24,"0.6788",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Wenlin Wang","Duke University",2018-05-24,"0.6788",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Martin Renqiang Min","Princeton University",2018-05-24,"0.6788",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Qinliang Su","Duke University",2018-05-24,"0.6788",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Zhang Yizhe","University of Notre Dame",2018-05-24,"0.6788",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Yizhe Zhang","University of Notre Dame",2018-05-24,"0.6788",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Chunyuan Li","Duke University",2018-05-24,"0.6788",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Ricardo Henao","Duke University",2018-05-24,"0.6788",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Lawrence Carin","Duke University",2018-05-24,"0.6788",2018
+"Neural Variational Inference for Text Processing@@@LSTM","Yishu Miao","University of Oxford",2015-11-19,"0.6552",2015
+"Neural Variational Inference for Text Processing@@@LSTM","Lei Yu","University of Oxford",2015-11-19,"0.6552",2015
+"Neural Variational Inference for Text Processing@@@LSTM","Phil Blunsom","University of Oxford",2015-11-19,"0.6552",2015
+"Deep Learning for Answer Sentence Selection@@@Bigram-CNN (lexical overlap + dist output)","Lei Yu","",2014-12-04,"0.6520",2014
+"Deep Learning for Answer Sentence Selection@@@Bigram-CNN (lexical overlap + dist output)","Karl Moritz Hermann","",2014-12-04,"0.6520",2014
+"Deep Learning for Answer Sentence Selection@@@Bigram-CNN (lexical overlap + dist output)","Phil Blunsom","",2014-12-04,"0.6520",2014
+"Deep Learning for Answer Sentence Selection@@@Bigram-CNN (lexical overlap + dist output)","Stephen Pulman","",2014-12-04,"0.6520",2014
+"Deep Learning for Answer Sentence Selection@@@Bigram-CNN","Lei Yu","",2014-12-04,"0.6190",2014
+"Deep Learning for Answer Sentence Selection@@@Bigram-CNN","Karl Moritz Hermann","",2014-12-04,"0.6190",2014
+"Deep Learning for Answer Sentence Selection@@@Bigram-CNN","Phil Blunsom","",2014-12-04,"0.6190",2014
+"Deep Learning for Answer Sentence Selection@@@Bigram-CNN","Stephen Pulman","",2014-12-04,"0.6190",2014
+"Distributed Representations of Sentences and Documents@@@Paragraph vector (lexical overlap + dist output)","Quoc V. Le","Google",2014-05-16,"0.5976",2014
+"Distributed Representations of Sentences and Documents@@@Paragraph vector (lexical overlap + dist output)","Tomas Mikolov","Google",2014-05-16,"0.5976",2014
+"Distributed Representations of Sentences and Documents@@@Paragraph vector","Quoc V. Le","Google",2014-05-16,"0.5110",2014
+"Distributed Representations of Sentences and Documents@@@Paragraph vector","Tomas Mikolov","Google",2014-05-16,"0.5110",2014

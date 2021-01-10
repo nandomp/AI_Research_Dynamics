@@ -1,0 +1,197 @@
+title,communities,metric,paper_date,communities_name
+LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE,11,95.4,2020-10-02,"{'National Institute of Informatics', 'Nara Institute of Science and Technology', 'University of Washington'}"
+@@@XLNet (single model),,,,set()
+XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model),3,95.080,2019-06-19,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+@@@XLNET-123++ (single model),,,,set()
+@@@XLNET-123+ (single model),,,,set()
+@@@XLNET-123 (single model),,,,set()
+@@@Unnamed submission by NMC,,,,set()
+@@@BERTSP (single model),,,,set()
+@@@SpanBERT (single model),,,,set()
+SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT (single model),2,94.6,2019-07-24,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+@@@BERT+WWM+MT (single model),,,,set()
+@@@Tuned BERT-1seq Large Cased (single model),,,,set()
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (ensemble),2,93.16,2018-10-11,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+@@@ATB (single model),,,,set()
+@@@Tuned BERT Large Cased (single model),,,,set()
+@@@BERT+MT (single model),,,,set()
+@@@Knowledge-enhanced BERT (single model),,,,set()
+@@@KT-NET (single model),,,,set()
+@@@ST_bl,,,,set()
+@@@nlnet (ensemble),,,,set()
+@@@EL-BERT (single model),,,,set()
+@@@BISAN (single model),,,,set()
+@@@BERT+Sparse-Transformer,,,,set()
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT (single model),2,91.835,2018-10-11,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+@@@DPN (single model),,,,set()
+@@@BERT-uncased (single model),,,,set()
+@@@WD (single model),,,,set()
+@@@Original BERT Large Cased (single model),,,,set()
+@@@MARS (ensemble),,,,set()
+@@@WD1 (single model),,,,set()
+@@@nlnet (single model),,,,set()
+@@@Common-sense Governed BERT-123 (single model),,,,set()
+@@@Reinforced Mnemonic Reader + A2D (ensemble model),,,,set()
+@@@QANet (ensemble),,,,set()
+@@@r-net+ (ensemble),,,,set()
+@@@Hybrid AoA Reader (ensemble),,,,set()
+@@@QANet (single),,,,set()
+@@@SLQA+ (ensemble),,,,set()
+Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (ensemble model),1,88.533,2017-05-08,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+@@@r-net (ensemble),,,,set()
+@@@BERT (single model),,,,set()
+@@@AttentionReader+ (ensemble),,,,set()
+@@@MMIPN,,,,set()
+@@@KACTEIL-MRC(GF-Net+) (ensemble),,,,set()
+@@@Reinforced Mnemonic Reader + A2D + DA (single model),,,,set()
+@@@ARSG-BERT (single model),,,,set()
+@@@BERT-COMPOUND-DSS (single model),,,,set()
+Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (ensemble),2,87.432,2018-02-15,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+@@@BiDAF + Self Attention + ELMo (ensemble),,,,set()
+@@@QANet (single model),,,,set()
+@@@BERT-COMPOUND (single model),,,,set()
+@@@AVIQA+ (ensemble),,,,set()
+@@@Reinforced Mnemonic Reader + A2D (single model),,,,set()
+@@@SLQA+,,,,set()
+@@@{EAZI} (ensemble),,,,set()
+@@@EAZI+ (ensemble),,,,set()
+@@@DNET (ensemble),,,,set()
+@@@Hybrid AoA Reader (single model),,,,set()
+@@@BiDAF + Self Attention + ELMo + A2D (single model),,,,set()
+@@@r-net+ (single model),,,,set()
+@@@batch (single model),,,,set()
+A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension@@@MAMCN+ (single model),15,86.727,2018-07-01,{'Samsung'}
+@@@MAMCN+ (single model),,,,set()
+Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (ensemble model),1,86.496,2017-12-10,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+@@@BERT-INDEPENDENT-DSS-FILTERED (single model),,,,set()
+Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Reinforced Mnemonic Reader (single model),1,86.654,2017-05-08,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+@@@SLQA+ (single model),,,,set()
+@@@Interactive AoA Reader+ (ensemble),,,,set()
+@@@MIR-MRC(F-Net) (single model),,,,set()
+@@@KACTEIL-MRC(GF-Net+Distillation) (single model),,,,set()
+@@@MDReader,,,,set()
+FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension@@@FusionNet (ensemble),,,,set()
+DCN+: Mixed Objective and Deep Residual Coattention for Question Answering@@@DCN+ (ensemble),13,85.996,2017-10-31,{'Salesforce.com'}
+@@@KACTEIL-MRC(GF-Net+) (single model),,,,set()
+@@@BERT-INDEPENDENT (single model),,,,set()
+Deep contextualized word representations@@@BiDAF + Self Attention + ELMo (single model),2,85.833,2018-02-15,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+@@@BiDAF + Self Attention + ELMo (single model),,,,set()
+@@@aviqa (ensemble),,,,set()
+@@@KakaoNet (single model),,,,set()
+@@@SLQA(ensemble),,,,set()
+@@@SLQA (ensemble),,,,set()
+MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN  (single model),4,85.344,2017-07-28,set()
+MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (single model),4,85.344,2017-07-28,set()
+@@@BiDAF++ with pair2vec (single model),,,,set()
+@@@MDReader0,,,,set()
+@@@test,,,,set()
+@@@Interactive AoA Reader (ensemble),,,,set()
+@@@DNET (single model),,,,set()
+Contextualized Word Representations for Reading Comprehension@@@RaSoR + TR + LM (single model),2,84.163,2017-12-10,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+@@@BiDAF++ (single model),,,,set()
+@@@AttentionReader+ (single),,,,set()
+@@@Jenga (ensemble),,,,set()
+@@@{gqa} (single model),,,,set()
+Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (ensemble),3,84.630,2017-10-28,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+@@@MARS (single model),,,,set()
+Stochastic Answer Networks for Machine Reading Comprehension@@@SAN (single model),1,84.396,2017-12-10,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+@@@VS^3-NET (single model),,,,set()
+@@@r-net (single model),,,,set()
+Gated Self-Matching Networks for Reading Comprehension and Question Answering@@@r-net (single model),1,84.265,2017-07-01,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+@@@FRC (single model),,,,set()
+QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension@@@QANet + data augmentation ×3,3,84.6,2018-04-23,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+@@@Conductor-net (ensemble),,,,set()
+Explicit Utilization of General Knowledge in Machine Reading Comprehension@@@KAR (single model),5,83.538,2018-09-10,set()
+@@@smarnet (ensemble),,,,set()
+FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension@@@FusionNet (single model),1,83.900,2017-11-16,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+@@@AVIQA-v2 (single model),,,,set()
+@@@Interactive AoA Reader+ (single model),,,,set()
+Contextualized Word Representations for Reading Comprehension@@@RaSoR + TR (single model),2,83.261,2017-12-10,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension@@@MEMEN (ensemble),4,82.658,2017-07-28,set()
+@@@Mixed model (ensemble),,,,set()
+@@@two-attention-self-attention (ensemble),,,,set()
+@@@Kbs (single model),,,,set()
+ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (ensemble),1,82.552,2016-09-17,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+DCN+: Mixed Objective and Deep Residual Coattention for Question Answering@@@DCN+ (single model),13,82.806,2017-10-31,{'Salesforce.com'}
+@@@eeAttNet (single model),,,,set()
+@@@SLQA (single model),,,,set()
+Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single model),3,82.742,2017-10-28,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (ensemble),1,82.371,2017-05-08,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+@@@S^3-Net (ensemble),,,,set()
+Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (ensemble model),3,81.761,2017-03-02,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+@@@SSAE (ensemble),,,,set()
+Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (ensemble),7,81.257,2016-12-13,"{'Singapore University of Technology and Design', 'University of Rochester', 'Amazon.com', 'IBM'}"
+Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (ensemble),14,81.525,2016-11-05,"{'Korea University', 'University of Washington', 'Allen Institute for Artificial Intelligence'}"
+Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (ensemble),3,81.530,2017-03-02,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+@@@Interactive AoA Reader (single model),,,,set()
+@@@Jenga (single model),,,,set()
+Phase Conductor on Multi-layered Attentions for Machine Comprehension@@@Conductor-net (single),3,81.933,2017-10-28,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (ensemble),5,81.517,2017-03-14,set()
+@@@T-gating (ensemble),,,,set()
+@@@two-attention-self-attention (single model),,,,set()
+@@@Conductor-net (single),,,,set()
+@@@AVIQA (single model),,,,set()
+Simple and Effective Multi-Paragraph Reading Comprehension@@@BiDAF + Self Attention (single model),2,81.048,2017-10-29,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+@@@S^3-Net (single model),,,,set()
+@@@QFASE,,,,set()
+@@@attention+self-attention (single model),,,,set()
+Dynamic Coattention Networks For Question Answering@@@Dynamic Coattention Networks (ensemble),13,80.383,2016-11-05,{'Salesforce.com'}
+Smarnet: Teaching Machines to Read and Comprehend Like Human@@@smarnet (single model),4,80.160,2017-10-08,set()
+Simple Recurrent Units for Highly Parallelizable Recurrence@@@SRU,12,80.2,2017-09-08,"{'Cornell University', 'Massachusetts Institute of Technology', 'Stanford University'}"
+@@@AttReader (single),,,,set()
+Learned in Translation: Contextualized Word Vectors@@@DCN + Char + CoVe,13,79.9,2017-08-01,{'Salesforce.com'}
+@@@M-NET (single),,,,set()
+Reinforced Mnemonic Reader for Machine Reading Comprehension@@@Mnemonic Reader (single model),1,80.146,2017-05-08,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+@@@MAMCN (single model),,,,set()
+Making Neural QA as Simple as Possible but not Simpler@@@FastQAExt,16,78.857,2017-03-14,{'German Research Centre for Artificial Intelligence'}
+Learning Recurrent Span Representations for Extractive Question Answering@@@RaSoR (single model),2,78.741,2016-11-04,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+Reading Wikipedia to Answer Open-Domain Questions@@@Document Reader (single model),2,79.353,2017-03-31,"{'Google', 'Carnegie Mellon University', 'Facebook', 'Allen Institute for Artificial Intelligence', 'University of Washington', 'Stanford University'}"
+Ruminating Reader: Reasoning with Gated Multi-Hop Attention@@@Ruminating Reader (single model),18,79.456,2017-04-24,{'Google'}
+Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering@@@jNet (single model),5,79.821,2017-03-14,set()
+ReasoNet: Learning to Stop Reading in Machine Comprehension@@@ReasoNet (single model),1,79.364,2016-09-17,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+Multi-Perspective Context Matching for Machine Comprehension@@@Multi-Perspective Matching (single model),7,78.784,2016-12-13,"{'Singapore University of Technology and Design', 'University of Rochester', 'Amazon.com', 'IBM'}"
+@@@SimpleBaseline (single model),,,,set()
+@@@SSR-BiDAF,,,,set()
+Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT+BiDAF (single model),3,77.971,2017-03-02,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+Making Neural QA as Simple as Possible but not Simpler@@@FastQA,16,77.070,2017-03-14,{'German Research Centre for Artificial Intelligence'}
+@@@PQMN (single model),,,,set()
+Structural Embedding of Syntactic Trees for Machine Comprehension@@@SEDT (single model),3,77.527,2017-03-02,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+@@@T-gating (single model),,,,set()
+Bidirectional Attention Flow for Machine Comprehension@@@BiDAF (single model),14,77.323,2016-11-05,"{'Korea University', 'University of Washington', 'Allen Institute for Artificial Intelligence'}"
+Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Ans-Ptr (Boundary) (ensemble),19,77.022,2016-08-29,{'Singapore Management University'}
+A Fully Attention-Based Information Retriever@@@FABIR,8,77.605,2018-10-22,{'University of São Paulo'}
+@@@AllenNLP BiDAF (single model),,,,set()
+@@@BIDAF-COMPOUND-DSS (single model),,,,set()
+@@@Iterative Co-attention Network,,,,set()
+@@@newtest,,,,set()
+@@@BIDAF-INDEPENDENT-DSS (single model),,,,set()
+Dynamic Coattention Networks For Question Answering@@@Dynamic Coattention Networks (single model),13,75.896,2016-11-05,{'Salesforce.com'}
+@@@BIDAF-COMPOUND (single model),,,,set()
+@@@BIDAF-INDEPENDENT (single model),,,,set()
+Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Bi-Ans-Ptr (Boundary),19,73.743,2016-08-29,{'Singapore Management University'}
+@@@Unnamed submission by ravioncodalab,,,,set()
+Learning to Compute Word Embeddings On the Fly@@@OTF dict+spelling (single),9,73.056,2017-06-01,"{'Université de Montréal', 'Google'}"
+@@@Attentive CNN context with LSTM,,,,set()
+Learning to Compute Word Embeddings On the Fly@@@OTF spelling (single),9,72.016,2017-06-01,"{'Université de Montréal', 'Google'}"
+Learning to Compute Word Embeddings On the Fly@@@OTF spelling+lemma (single),9,71.968,2017-06-01,"{'Université de Montréal', 'Google'}"
+End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension@@@Dynamic Chunk Reader,10,70.956,2016-10-31,{'IBM'}
+Words or Characters? Fine-grained Gating for Reading Comprehension@@@Fine-Grained Gating,3,73.327,2016-11-06,"{'Beihang University', 'Google', 'Carnegie Mellon University'}"
+@@@RQA+IDR (single model),,,,set()
+Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Ans-Ptr (Boundary),19,70.695,2016-08-29,{'Singapore Management University'}
+@@@Unnamed submission by Will_Wu,,,,set()
+@@@RQA (single model),,,,set()
+Machine Comprehension Using Match-LSTM and Answer Pointer@@@Match-LSTM with Ans-Ptr (Sentence),19,67.748,2016-08-29,{'Singapore Management University'}
+@@@UQA (single model),,,,set()
+@@@Unnamed submission by jinhyuklee,,,,set()
+@@@Unnamed submission by minjoon,,,,set()
+Adaptation of Deep Bidirectional Multilingual Transformers for Russian Language@@@RuBERT,20,84.6,2019-05-17,{'Moscow Institute of Physics and Technology'}
+Pay Attention when Required@@@PAR BERT Base,17,not available,2020-09-09,{'Nvidia'}
+ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (large-scale text corpora),6,not available,2020-01-26,{'Baidu'}
+ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation@@@ERNIE-GENLARGE (beam size=5),6,not available,2020-01-26,{'Baidu'}
+UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training@@@UniLMv2,1,not available,2020-02-28,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training@@@ProphetNet,1,not available,2020-01-13,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+Unified Language Model Pre-training for Natural Language Understanding and Generation@@@UniLM,1,not available,2019-05-08,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"
+Mixture Content Selection for Diverse Sequence Generation@@@Selector & NQG++,14,not available,2019-09-04,"{'Korea University', 'University of Washington', 'Allen Institute for Artificial Intelligence'}"
+Leveraging Context Information for Natural Question Generation@@@MPQG,7,not available,2018-06-01,"{'Singapore University of Technology and Design', 'University of Rochester', 'Amazon.com', 'IBM'}"
+Evaluating Rewards for Question Generation Models@@@RNN +attn +copy,21,not available,2019-02-28,"{'University College London', 'Facebook'}"
+Neural Question Generation from Text: A Preliminary Study@@@NQG++,1,not available,2017-04-06,"{'Fudan University', 'Beihang University', 'National University of Defense Technology', 'Microsoft', 'Harbin Institute of Technology', 'Peking University', 'Johns Hopkins University'}"

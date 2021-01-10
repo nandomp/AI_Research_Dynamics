@@ -1,0 +1,72 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Xiaoya Li","",2019-11-07,"92.07",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Xiaofei Sun","Stony Brook University",2019-11-07,"92.07",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Yuxian Meng","",2019-11-07,"92.07",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Junjun Liang","",2019-11-07,"92.07",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Fei Wu","Zhejiang University",2019-11-07,"92.07",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Jiwei Li","",2019-11-07,"92.07",2019
+"Named Entity Recognition as Dependency Parsing@@@Biaffine-NER","Juntao Yu","Queen Mary University of London",2020-05-14,"91.3",2020
+"Named Entity Recognition as Dependency Parsing@@@Biaffine-NER","Bernd Bohnet","Google",2020-05-14,"91.3",2020
+"Named Entity Recognition as Dependency Parsing@@@Biaffine-NER","Massimo Poesio","Queen Mary University of London",2020-05-14,"91.3",2020
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Xiaoya Li","",2019-10-25,"91.11",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Jingrong Feng","",2019-10-25,"91.11",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Yuxian Meng","",2019-10-25,"91.11",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Qinghong Han","",2019-10-25,"91.11",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Fei Wu","Zhejiang University",2019-10-25,"91.11",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Jiwei Li","",2019-10-25,"91.11",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical + BERT","Ying Luo","Shanghai Jiao Tong University",2019-11-06,"90.30",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical + BERT","Fengshun Xiao","Shanghai Jiao Tong University",2019-11-06,"90.30",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical + BERT","Hai Zhao","Shanghai Jiao Tong University",2019-11-06,"90.30",2019
+"Towards Improving Neural Named Entity Recognition with Gazetteers@@@HSCRF + softdict","Tianyu Liu","",2019-07-01,"89.94",2019
+"Towards Improving Neural Named Entity Recognition with Gazetteers@@@HSCRF + softdict","Jin-Ge Yao","Microsoft",2019-07-01,"89.94",2019
+"Towards Improving Neural Named Entity Recognition with Gazetteers@@@HSCRF + softdict","Chin-Yew Lin","Microsoft",2019-07-01,"89.94",2019
+"Dependency-Guided LSTM-CRF for Named Entity Recognition@@@DGLSTM-CRF + ELMo","Zhanming Jie","Singapore University of Technology and Design",2019-09-23,"89.88",2019
+"Dependency-Guided LSTM-CRF for Named Entity Recognition@@@DGLSTM-CRF + ELMo","Wei Lu","Singapore University of Technology and Design",2019-09-23,"89.88",2019
+"Contextual String Embeddings for Sequence Labeling@@@Flair embeddings","Alan Akbik","IBM",2018-08-01,"89.3",2018
+"Contextual String Embeddings for Sequence Labeling@@@Flair embeddings","Duncan A. J. Blythe","German Center for Neurodegenerative Diseases",2018-08-01,"89.3",2018
+"Contextual String Embeddings for Sequence Labeling@@@Flair embeddings","Roland Vollgraf","",2018-08-01,"89.3",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large","Kevin Clark","Stanford University",2018-09-22,"88.81",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large","Minh-Thang Luong","Google",2018-09-22,"88.81",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large","Christopher D. Manning","Stanford University",2018-09-22,"88.81",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large","Quoc V. Le","Google",2018-09-22,"88.81",2018
+"Dependency-Guided LSTM-CRF for Named Entity Recognition@@@DGLSTM-CRF","Zhanming Jie","Singapore University of Technology and Design",2019-09-23,"88.52",2019
+"Dependency-Guided LSTM-CRF for Named Entity Recognition@@@DGLSTM-CRF","Wei Lu","Singapore University of Technology and Design",2019-09-23,"88.52",2019
+"Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER@@@Att-BiLSTM-CNN","Peng-Hsuan Li","Academia Sinica",2019-08-29,"88.4",2019
+"Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER@@@Att-BiLSTM-CNN","Tsu-Jui Fu","National Tsing Hua University",2019-08-29,"88.4",2019
+"Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER@@@Att-BiLSTM-CNN","Wei-Yun Ma","",2019-08-29,"88.4",2019
+"Hierarchically-Refined Label Attention Network for Sequence Labeling@@@BiLSTM-LAN","Leyang Cui","Zhejiang University",2019-08-23,"88.16",2019
+"Hierarchically-Refined Label Attention Network for Sequence Labeling@@@BiLSTM-LAN","Yue Zhang","Singapore University of Technology and Design",2019-08-23,"88.16",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical","Ying Luo","Shanghai Jiao Tong University",2019-11-06,"87.98",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical","Fengshun Xiao","Shanghai Jiao Tong University",2019-11-06,"87.98",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical","Hai Zhao","Shanghai Jiao Tong University",2019-11-06,"87.98",2019
+"Robust Lexical Features for Improved Neural Network Named-Entity Recognition@@@Bi-LSTM-CRF + Lexical Features","Abbas Ghaddar","",2018-06-09,"87.95",2018
+"Robust Lexical Features for Improved Neural Network Named-Entity Recognition@@@Bi-LSTM-CRF + Lexical Features","Philippe Langlais","Université de Montréal",2018-06-09,"87.95",2018
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Hui Chen","Tsinghua University",2019-07-12,"87.67",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Zijia Lin","Microsoft",2019-07-12,"87.67",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Guiguang Ding","Tsinghua University",2019-07-12,"87.67",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Jian-Guang Lou","Microsoft",2019-07-12,"87.67",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Yusen Zhang","Beijing Institute of Technology",2019-07-12,"87.67",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Börje F. Karlsson","Microsoft",2019-07-12,"87.67",2019
+"Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@BiLSTM-CRF","Emma Strubell","University of Maine",2017-02-07,"86.99",2017
+"Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@BiLSTM-CRF","Patrick Verga","University of Massachusetts Amherst",2017-02-07,"86.99",2017
+"Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@BiLSTM-CRF","David Belanger","University of Massachusetts Amherst",2017-02-07,"86.99",2017
+"Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@BiLSTM-CRF","Andrew McCallum","University of Massachusetts Amherst",2017-02-07,"86.99",2017
+"Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@Iterated Dilated CNN","Emma Strubell","University of Maine",2017-02-07,"86.84",2017
+"Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@Iterated Dilated CNN","Patrick Verga","University of Massachusetts Amherst",2017-02-07,"86.84",2017
+"Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@Iterated Dilated CNN","David Belanger","University of Massachusetts Amherst",2017-02-07,"86.84",2017
+"Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@Iterated Dilated CNN","Andrew McCallum","University of Massachusetts Amherst",2017-02-07,"86.84",2017
+"Named Entity Recognition with Bidirectional LSTM-CNNs@@@Chiu and Nichols (2016)","Fabrice Dugas","",2015-11-26,"86.19",2015
+"Named Entity Recognition with Bidirectional LSTM-CNNs@@@Chiu and Nichols (2016)","Eric Nichols","Tohoku University",2015-11-26,"86.19",2015
+"Learning to Denoise Distantly-Labeled Data for Entity Typing@@@ELMo (distant denoising data)","Yasumasa Onoe","University of Texas at Austin",2019-05-04,"40.2",2019
+"Learning to Denoise Distantly-Labeled Data for Entity Typing@@@ELMo (distant denoising data)","Greg Durrett","University of Texas at Austin",2019-05-04,"40.2",2019
+"Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing@@@LabelGCN Xiong et al. (2019)","Wenhan Xiong","University of California, Santa Barbara",2019-03-06,"36.9",2019
+"Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing@@@LabelGCN Xiong et al. (2019)","Jiawei Wu","University of California, Santa Barbara",2019-03-06,"36.9",2019
+"Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing@@@LabelGCN Xiong et al. (2019)","Deren Lei","",2019-03-06,"36.9",2019
+"Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing@@@LabelGCN Xiong et al. (2019)","Mo Yu","IBM",2019-03-06,"36.9",2019
+"Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing@@@LabelGCN Xiong et al. (2019)","Shiyu Chang","IBM",2019-03-06,"36.9",2019
+"Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing@@@LabelGCN Xiong et al. (2019)","Xiaoxiao Guo","IBM",2019-03-06,"36.9",2019
+"Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing@@@LabelGCN Xiong et al. (2019)","William Yang Wang","University of California, Santa Barbara",2019-03-06,"36.9",2019
+"Ultra-Fine Entity Typing@@@Choi et al. (2018) w augmentation","Eunsol Choi","University of Washington",2018-07-13,"32.0",2018
+"Ultra-Fine Entity Typing@@@Choi et al. (2018) w augmentation","Omer Levy","University of Washington",2018-07-13,"32.0",2018
+"Ultra-Fine Entity Typing@@@Choi et al. (2018) w augmentation","Yejin Choi","University of Washington",2018-07-13,"32.0",2018
+"Ultra-Fine Entity Typing@@@Choi et al. (2018) w augmentation","Luke Zettlemoyer","University of Washington",2018-07-13,"32.0",2018

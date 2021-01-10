@@ -1,0 +1,24 @@
+number,name
+1,"('Google', 10)&('Johns Hopkins University', 2)&('French Institute for Research in Computer Science and Automation', 1)&('Stanford University', 1)&('University College London', 1)"
+2,"('Amazon.com', 6)&('The Chinese University of Hong Kong', 4)&('Rutgers University', 2)&('SenseTime', 1)"
+3,"('Huazhong University of Science and Technology', 3)&('Microsoft', 3)&('Fudan University', 2)&('Tsinghua University', 2)&('Peking University', 1)"
+4,"('Chinese Academy of Sciences', 4)&('Academy of Military Medical Sciences', 2)"
+5,"('University of Waterloo', 5)&('Xiamen University', 1)&('University of California, Los Angeles', 1)&('Chinese Ministry of Education', 1)"
+6,"('University of Oxford', 4)&('Baidu', 1)&('Stanford University', 1)"
+7,"('Max Planck Society', 7)&('Saarland University', 1)"
+8,"('University of Adelaide', 6)&('Nanyang Technological University', 1)"
+9,"('Samsung', 3)&('University of Electronic Science and Technology of China', 1)"
+10,
+11,
+12,"('The Chinese University of Hong Kong', 4)"
+13,"(""Xi'an Jiaotong-Liverpool University"", 4)&('University of Technology, Sydney', 1)"
+14,"('University of Washington', 4)&('Allen Institute for Artificial Intelligence', 1)"
+15,"('Yale University', 3)"
+16,
+17,"('Katholieke Universiteit Leuven', 3)"
+18,"('University of North Carolina at Chapel Hill', 2)"
+19,"('Singapore University of Technology and Design', 1)&('University of Tokyo', 1)&('Hong Kong University of Science and Technology', 1)"
+20,"('Intel', 2)&('Princeton University', 1)"
+21,"('University of California, Berkeley', 3)"
+22,"('Michigan State University', 2)"
+23,"('University of Electro-Communications', 1)"

@@ -1,0 +1,21 @@
+title,communities,metric,paper_date,communities_name
+Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC,1,92.07,2019-11-07,"{'Zhejiang University', 'Stony Brook University'}"
+Named Entity Recognition as Dependency Parsing@@@Biaffine-NER,7,91.3,2020-05-14,"{'Google', 'Queen Mary University of London'}"
+A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC,1,91.11,2019-10-25,"{'Zhejiang University', 'Stony Brook University'}"
+Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical + BERT,8,90.30,2019-11-06,{'Shanghai Jiao Tong University'}
+Towards Improving Neural Named Entity Recognition with Gazetteers@@@HSCRF + softdict,9,89.94,2019-07-01,{'Microsoft'}
+Dependency-Guided LSTM-CRF for Named Entity Recognition@@@DGLSTM-CRF + ELMo,12,89.88,2019-09-23,{'Singapore University of Technology and Design'}
+Contextual String Embeddings for Sequence Labeling@@@Flair embeddings,10,89.3,2018-08-01,"{'IBM', 'German Center for Neurodegenerative Diseases'}"
+Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large,4,88.81,2018-09-22,"{'Google', 'Stanford University'}"
+Dependency-Guided LSTM-CRF for Named Entity Recognition@@@DGLSTM-CRF,12,88.52,2019-09-23,{'Singapore University of Technology and Design'}
+Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER@@@Att-BiLSTM-CNN,11,88.4,2019-08-29,"{'National Tsing Hua University', 'Academia Sinica'}"
+Hierarchically-Refined Label Attention Network for Sequence Labeling@@@BiLSTM-LAN,13,88.16,2019-08-23,"{'Zhejiang University', 'Singapore University of Technology and Design'}"
+Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical,8,87.98,2019-11-06,{'Shanghai Jiao Tong University'}
+Robust Lexical Features for Improved Neural Network Named-Entity Recognition@@@Bi-LSTM-CRF + Lexical Features,14,87.95,2018-06-09,{'Université de Montréal'}
+GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN,3,87.67,2019-07-12,"{'Microsoft', 'Beijing Institute of Technology', 'Tsinghua University'}"
+Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@BiLSTM-CRF,5,86.99,2017-02-07,"{'University of Massachusetts Amherst', 'University of Maine'}"
+Fast and Accurate Entity Recognition with Iterated Dilated Convolutions@@@Iterated Dilated CNN,5,86.84,2017-02-07,"{'University of Massachusetts Amherst', 'University of Maine'}"
+Named Entity Recognition with Bidirectional LSTM-CNNs@@@Chiu and Nichols (2016),15,86.19,2015-11-26,{'Tohoku University'}
+Learning to Denoise Distantly-Labeled Data for Entity Typing@@@ELMo (distant denoising data),16,40.2,2019-05-04,{'University of Texas at Austin'}
+Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing@@@LabelGCN Xiong et al. (2019),2,36.9,2019-03-06,"{'IBM', 'University of California, Santa Barbara'}"
+Ultra-Fine Entity Typing@@@Choi et al. (2018) w augmentation,6,32.0,2018-07-13,{'University of Washington'}

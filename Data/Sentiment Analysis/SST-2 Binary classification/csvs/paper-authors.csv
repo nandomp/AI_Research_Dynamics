@@ -1,0 +1,276 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B","Colin Raffel","",2019-10-23,"97.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B","Noam Shazeer","",2019-10-23,"97.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B","Adam Roberts","",2019-10-23,"97.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B","Katherine Lee","",2019-10-23,"97.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B","Sharan Narang","",2019-10-23,"97.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B","Michael Matena","",2019-10-23,"97.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B","Yanqi Zhou","",2019-10-23,"97.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B","Wei Li","",2019-10-23,"97.4",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B","Peter J. Liu","",2019-10-23,"97.4",2019
+"ALBERT: A Lite BERT for Self-supervised Learning of Language Representations@@@ALBERT","Zhenzhong Lan","Google",2019-09-26,"97.1",2019
+"ALBERT: A Lite BERT for Self-supervised Learning of Language Representations@@@ALBERT","Mingda Chen","Toyota Technological Institute at Chicago",2019-09-26,"97.1",2019
+"ALBERT: A Lite BERT for Self-supervised Learning of Language Representations@@@ALBERT","Sebastian Goodman","Google",2019-09-26,"97.1",2019
+"ALBERT: A Lite BERT for Self-supervised Learning of Language Representations@@@ALBERT","Kevin Gimpel","New York University",2019-09-26,"97.1",2019
+"ALBERT: A Lite BERT for Self-supervised Learning of Language Representations@@@ALBERT","Piyush Sharma","Google",2019-09-26,"97.1",2019
+"ALBERT: A Lite BERT for Self-supervised Learning of Language Representations@@@ALBERT","Radu Soricut","Google",2019-09-26,"97.1",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B","Colin Raffel","",2019-10-23,"97.1",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B","Noam Shazeer","",2019-10-23,"97.1",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B","Adam Roberts","",2019-10-23,"97.1",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B","Katherine Lee","",2019-10-23,"97.1",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B","Sharan Narang","",2019-10-23,"97.1",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B","Michael Matena","",2019-10-23,"97.1",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B","Yanqi Zhou","",2019-10-23,"97.1",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B","Wei Li","",2019-10-23,"97.1",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B","Peter J. Liu","",2019-10-23,"97.1",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Zhilin Yang","Carnegie Mellon University",2019-06-19,"97",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Zihang Dai","Carnegie Mellon University",2019-06-19,"97",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Yiming Yang","Carnegie Mellon University",2019-06-19,"97",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Jaime G. Carbonell","Carnegie Mellon University",2019-06-19,"97",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Ruslan Salakhutdinov","Carnegie Mellon University",2019-06-19,"97",2019
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model)","Quoc V. Le","Google",2019-06-19,"97",2019
+"@@@ELECTRA","","",NA,"96.9",NA
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Yinhan Liu","",2019-07-26,"96.7",2019
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Myle Ott","",2019-07-26,"96.7",2019
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Naman Goyal","",2019-07-26,"96.7",2019
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Jingfei Du","",2019-07-26,"96.7",2019
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Mandar Joshi","",2019-07-26,"96.7",2019
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Danqi Chen","",2019-07-26,"96.7",2019
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Omer Levy","",2019-07-26,"96.7",2019
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Mike Lewis","",2019-07-26,"96.7",2019
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Luke Zettlemoyer","",2019-07-26,"96.7",2019
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa","Veselin Stoyanov","",2019-07-26,"96.7",2019
+"Learning to Encode Position for Transformer with Continuous Dynamical Model@@@FLOATER-large","Xuanqing Liu","University of California, Los Angeles",2020-03-13,"96.7",2020
+"Learning to Encode Position for Transformer with Continuous Dynamical Model@@@FLOATER-large","Hsiang-Fu Yu","Amazon.com",2020-03-13,"96.7",2020
+"Learning to Encode Position for Transformer with Continuous Dynamical Model@@@FLOATER-large","Inderjit S. Dhillon","University of Texas at Austin",2020-03-13,"96.7",2020
+"Learning to Encode Position for Transformer with Continuous Dynamical Model@@@FLOATER-large","Cho-Jui Hsieh","University of California, Los Angeles",2020-03-13,"96.7",2020
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large","Colin Raffel","",2019-10-23,"96.3",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large","Noam Shazeer","",2019-10-23,"96.3",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large","Adam Roberts","",2019-10-23,"96.3",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large","Katherine Lee","",2019-10-23,"96.3",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large","Sharan Narang","",2019-10-23,"96.3",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large","Michael Matena","",2019-10-23,"96.3",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large","Yanqi Zhou","",2019-10-23,"96.3",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large","Wei Li","",2019-10-23,"96.3",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large","Peter J. Liu","",2019-10-23,"96.3",2019
+"Multi-Task Deep Neural Networks for Natural Language Understanding@@@MT-DNN","Xiaodong Liu","Microsoft",2019-01-31,"95.6",2019
+"Multi-Task Deep Neural Networks for Natural Language Understanding@@@MT-DNN","Pengcheng He","Microsoft",2019-01-31,"95.6",2019
+"Multi-Task Deep Neural Networks for Natural Language Understanding@@@MT-DNN","Weizhu Chen","Microsoft",2019-01-31,"95.6",2019
+"Multi-Task Deep Neural Networks for Natural Language Understanding@@@MT-DNN","Jianfeng Gao","Microsoft",2019-01-31,"95.6",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base","Colin Raffel","",2019-10-23,"95.2",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base","Noam Shazeer","",2019-10-23,"95.2",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base","Adam Roberts","",2019-10-23,"95.2",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base","Katherine Lee","",2019-10-23,"95.2",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base","Sharan Narang","",2019-10-23,"95.2",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base","Michael Matena","",2019-10-23,"95.2",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base","Yanqi Zhou","",2019-10-23,"95.2",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base","Wei Li","",2019-10-23,"95.2",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base","Peter J. Liu","",2019-10-23,"95.2",2019
+"ERNIE 2.0: A Continual Pre-training Framework for Language Understanding@@@ERNIE 2.0 Base","Yu Sun","Baidu",2019-07-29,"95",2019
+"ERNIE 2.0: A Continual Pre-training Framework for Language Understanding@@@ERNIE 2.0 Base","Shuohuan Wang","Baidu",2019-07-29,"95",2019
+"ERNIE 2.0: A Continual Pre-training Framework for Language Understanding@@@ERNIE 2.0 Base","Li Yukun","Baidu",2019-07-29,"95",2019
+"ERNIE 2.0: A Continual Pre-training Framework for Language Understanding@@@ERNIE 2.0 Base","Shikun Feng","Baidu",2019-07-29,"95",2019
+"ERNIE 2.0: A Continual Pre-training Framework for Language Understanding@@@ERNIE 2.0 Base","Hao Tian","Baidu",2019-07-29,"95",2019
+"ERNIE 2.0: A Continual Pre-training Framework for Language Understanding@@@ERNIE 2.0 Base","Hua Wu","Baidu",2019-07-29,"95",2019
+"ERNIE 2.0: A Continual Pre-training Framework for Language Understanding@@@ERNIE 2.0 Base","Haifeng Wang","Baidu",2019-07-29,"95",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT","Mandar Joshi","University of Washington",2019-07-24,"94.8",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT","Danqi Chen","Princeton University",2019-07-24,"94.8",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT","Yinhan Liu","Facebook",2019-07-24,"94.8",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT","Daniel S. Weld","University of Washington",2019-07-24,"94.8",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT","Luke Zettlemoyer","University of Washington",2019-07-24,"94.8",2019
+"SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT","Omer Levy","Facebook",2019-07-24,"94.8",2019
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large","Alexei Baevski","Facebook",2019-03-19,"94.6",2019
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large","Sergey Edunov","Facebook",2019-03-19,"94.6",2019
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large","Yinhan Liu","Facebook",2019-03-19,"94.6",2019
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large","Luke Zettlemoyer","Facebook",2019-03-19,"94.6",2019
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large","Michael Auli","Facebook",2019-03-19,"94.6",2019
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Manzil Zaheer","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Guru Guruganesh","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Avinava Dubey","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Joshua Ainslie","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Chris Alberti","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Santiago Ontañón","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Philip Pham","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Anirudh Ravula","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Qifan Wang","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Li Yang","",2020-07-28,"94.6",2020
+"Big Bird: Transformers for Longer Sequences@@@BigBird","Amr Ahmed","",2020-07-28,"94.6",2020
+"ERNIE: Enhanced Language Representation with Informative Entities@@@ERNIE","Zhengyan Zhang","Tsinghua University",2019-05-17,"93.5",2019
+"ERNIE: Enhanced Language Representation with Informative Entities@@@ERNIE","Xu Han","Tsinghua University",2019-05-17,"93.5",2019
+"ERNIE: Enhanced Language Representation with Informative Entities@@@ERNIE","Zhiyuan Liu","Tsinghua University",2019-05-17,"93.5",2019
+"ERNIE: Enhanced Language Representation with Informative Entities@@@ERNIE","Xin Jiang","Huawei",2019-05-17,"93.5",2019
+"ERNIE: Enhanced Language Representation with Informative Entities@@@ERNIE","Maosong Sun","Tsinghua University",2019-05-17,"93.5",2019
+"ERNIE: Enhanced Language Representation with Informative Entities@@@ERNIE","Qun Liu","Huawei",2019-05-17,"93.5",2019
+"GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM","Xinliang Wang","Tsinghua University",2017-12-01,"93.2",2017
+"GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM","Weifeng Liu","Norwegian University of Science and Technology",2017-12-01,"93.2",2017
+"GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM","Wei Xue","Tsinghua University",2017-12-01,"93.2",2017
+"GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM","Li Wu","Tsinghua University",2017-12-01,"93.2",2017
+"Fine-grained Sentiment Classification using BERT@@@BERT Large","Manish Munikar","Tribhuvan University",2019-10-04,"93.1",2019
+"Fine-grained Sentiment Classification using BERT@@@BERT Large","Sushil Shakya","Tribhuvan University",2019-10-04,"93.1",2019
+"Fine-grained Sentiment Classification using BERT@@@BERT Large","Aakash Shrestha","Tribhuvan University",2019-10-04,"93.1",2019
+"TinyBERT: Distilling BERT for Natural Language Understanding@@@TinyBERT","Xiaoqi Jiao","",2019-09-23,"92.6",2019
+"TinyBERT: Distilling BERT for Natural Language Understanding@@@TinyBERT","Yichun Yin","",2019-09-23,"92.6",2019
+"TinyBERT: Distilling BERT for Natural Language Understanding@@@TinyBERT","Lifeng Shang","",2019-09-23,"92.6",2019
+"TinyBERT: Distilling BERT for Natural Language Understanding@@@TinyBERT","Xin Jiang","",2019-09-23,"92.6",2019
+"TinyBERT: Distilling BERT for Natural Language Understanding@@@TinyBERT","Xiao Chen","",2019-09-23,"92.6",2019
+"TinyBERT: Distilling BERT for Natural Language Understanding@@@TinyBERT","Linlin Li","",2019-09-23,"92.6",2019
+"TinyBERT: Distilling BERT for Natural Language Understanding@@@TinyBERT","Fang Wang","",2019-09-23,"92.6",2019
+"TinyBERT: Distilling BERT for Natural Language Understanding@@@TinyBERT","Qun Liu","",2019-09-23,"92.6",2019
+"Learning to Generate Reviews and Discovering Sentiment@@@bmLSTM","Alec Radford","OpenAI",2017-04-05,"91.8",2017
+"Learning to Generate Reviews and Discovering Sentiment@@@bmLSTM","Rafal Jozefowicz","OpenAI",2017-04-05,"91.8",2017
+"Learning to Generate Reviews and Discovering Sentiment@@@bmLSTM","Ilya Sutskever","OpenAI",2017-04-05,"91.8",2017
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small","Colin Raffel","",2019-10-23,"91.8",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small","Noam Shazeer","",2019-10-23,"91.8",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small","Adam Roberts","",2019-10-23,"91.8",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small","Katherine Lee","",2019-10-23,"91.8",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small","Sharan Narang","",2019-10-23,"91.8",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small","Michael Matena","",2019-10-23,"91.8",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small","Yanqi Zhou","",2019-10-23,"91.8",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small","Wei Li","",2019-10-23,"91.8",2019
+"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small","Peter J. Liu","",2019-10-23,"91.8",2019
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Mikhail Khodak","Princeton University",2018-05-14,"91.7",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Nikunj Saunshi","Princeton University",2018-05-14,"91.7",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Yingyu Liang","University of Wisconsin-Madison",2018-05-14,"91.7",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Tengyu Ma","Facebook",2018-05-14,"91.7",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Brandon M. Stewart","Princeton University",2018-05-14,"91.7",2018
+"A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7","Sanjeev Arora","",2018-05-14,"91.7",2018
+"Pay Attention when Required@@@PAR BERT Base","Swetha Mandava","Nvidia",2020-09-09,"91.6",2020
+"Pay Attention when Required@@@PAR BERT Base","Szymon Migacz","Nvidia",2020-09-09,"91.6",2020
+"Pay Attention when Required@@@PAR BERT Base","Alex Fit Florea","Nvidia",2020-09-09,"91.6",2020
+"SqueezeBERT: What can computer vision teach NLP about efficient neural networks?@@@SqueezeBERT","Forrest Iandola","University of California, Berkeley",2020-06-19,"91.4",2020
+"SqueezeBERT: What can computer vision teach NLP about efficient neural networks?@@@SqueezeBERT","Albert Shaw","",2020-06-19,"91.4",2020
+"SqueezeBERT: What can computer vision teach NLP about efficient neural networks?@@@SqueezeBERT","Ravi Krishna","University of California, Berkeley",2020-06-19,"91.4",2020
+"SqueezeBERT: What can computer vision teach NLP about efficient neural networks?@@@SqueezeBERT","Kurt Keutzer","University of California, Berkeley",2020-06-19,"91.4",2020
+"Cell-aware Stacked LSTMs for Modeling Sentences@@@Bi-CAS-LSTM","Jihun Choi","Seoul National University",2018-09-07,"91.3",2018
+"Cell-aware Stacked LSTMs for Modeling Sentences@@@Bi-CAS-LSTM","Taeuk Kim","Seoul National University",2018-09-07,"91.3",2018
+"Cell-aware Stacked LSTMs for Modeling Sentences@@@Bi-CAS-LSTM","Sang-goo Lee","Seoul National University",2018-09-07,"91.3",2018
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT","Victor Sanh","",2019-10-02,"91.3",2019
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT","Lysandre Debut","",2019-10-02,"91.3",2019
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT","Julien Chaumond","",2019-10-02,"91.3",2019
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT","Thomas Wolf","",2019-10-02,"91.3",2019
+"On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis@@@CNN","Jose Camacho-Collados","Cardiff University",2017-07-06,"91.2",2017
+"On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis@@@CNN","Mohammad Taher Pilehvar","University of Cambridge",2017-07-06,"91.2",2017
+"Improved Sentence Modeling using Suffix Bidirectional LSTM@@@Suffix BiLSTM","Siddhartha Brahma","",2018-05-18,"91.2",2018
+"Fine-grained Sentiment Classification using BERT@@@BERT Base","Manish Munikar","Tribhuvan University",2019-10-04,"91.2",2019
+"Fine-grained Sentiment Classification using BERT@@@BERT Base","Sushil Shakya","Tribhuvan University",2019-10-04,"91.2",2019
+"Fine-grained Sentiment Classification using BERT@@@BERT Base","Aakash Shrestha","Tribhuvan University",2019-10-04,"91.2",2019
+"Practical Text Classification With Large Pre-Trained Language Models@@@Transformer (finetune)","Neel Kant","",2018-12-04,"90.9",2018
+"Practical Text Classification With Large Pre-Trained Language Models@@@Transformer (finetune)","Raul Puri","",2018-12-04,"90.9",2018
+"Practical Text Classification With Large Pre-Trained Language Models@@@Transformer (finetune)","Nikolai Yakovenko","",2018-12-04,"90.9",2018
+"Practical Text Classification With Large Pre-Trained Language Models@@@Transformer (finetune)","Bryan Catanzaro","",2018-12-04,"90.9",2018
+"Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe","Bryan McCann","Salesforce.com",2017-08-01,"90.3",2017
+"Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe","James Bradbury","Salesforce.com",2017-08-01,"90.3",2017
+"Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe","Caiming Xiong","Salesforce.com",2017-08-01,"90.3",2017
+"Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe","Richard Socher","Salesforce.com",2017-08-01,"90.3",2017
+"Convolutional Neural Networks with Recurrent Neural Filters@@@CNN-RNF-LSTM","Yi Yang","",2018-08-28,"90.0",2018
+"Neural Semantic Encoders@@@Neural Semantic Encoder","Tsendsuren Munkhdalai","University of Massachusetts Medical School",2016-07-14,"89.7",2016
+"Neural Semantic Encoders@@@Neural Semantic Encoder","Hong Yu","University of Massachusetts Medical School",2016-07-14,"89.7",2016
+"Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling@@@BLSTM-2DCNN","Peng Zhou","Chinese Academy of Sciences",2016-11-21,"89.5",2016
+"Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling@@@BLSTM-2DCNN","Zhenyu Qi","Chinese Academy of Sciences",2016-11-21,"89.5",2016
+"Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling@@@BLSTM-2DCNN","Suncong Zheng","Chinese Academy of Sciences",2016-11-21,"89.5",2016
+"Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling@@@BLSTM-2DCNN","Jiaming Xu","Chinese Academy of Sciences",2016-11-21,"89.5",2016
+"Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling@@@BLSTM-2DCNN","Hongyun Bao","Chinese Academy of Sciences",2016-11-21,"89.5",2016
+"Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling@@@BLSTM-2DCNN","Bo Xu","Chinese Academy of Sciences",2016-11-21,"89.5",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@CNN + Logic rules","Zhiting Hu","Carnegie Mellon University",2016-03-21,"89.3",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@CNN + Logic rules","Xuezhe Ma","Carnegie Mellon University",2016-03-21,"89.3",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@CNN + Logic rules","Zhengzhong Liu","Carnegie Mellon University",2016-03-21,"89.3",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@CNN + Logic rules","Eduard Hovy","Carnegie Mellon University",2016-03-21,"89.3",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@CNN + Logic rules","Eric P. Xing","Carnegie Mellon University",2016-03-21,"89.3",2016
+"Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16]","Ankit Kumar","Salesforce.com",2015-06-24,"88.6",2015
+"Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16]","Ozan Irsoy","Salesforce.com",2015-06-24,"88.6",2015
+"Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16]","Peter Ondruska","Salesforce.com",2015-06-24,"88.6",2015
+"Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16]","Mohit Iyyer","Salesforce.com",2015-06-24,"88.6",2015
+"Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16]","James Bradbury","Salesforce.com",2015-06-24,"88.6",2015
+"Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16]","Ishaan Gulrajani","Salesforce.com",2015-06-24,"88.6",2015
+"Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16]","Victor Zhong","Salesforce.com",2015-06-24,"88.6",2015
+"Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16]","Romain Paulus","Salesforce.com",2015-06-24,"88.6",2015
+"Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16]","Richard Socher","Salesforce.com",2015-06-24,"88.6",2015
+"Convolutional Neural Networks for Sentence Classification@@@CNN-MC [kim:13]","Yoon Kim","New York University",2014-08-25,"88.1",2014
+"Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks@@@CT-LSTM[tai2015improved]","Kai Sheng Tai","Stanford University",2015-02-28,"88.0",2015
+"Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks@@@CT-LSTM[tai2015improved]","Richard Socher","University of Colorado Boulder",2015-02-28,"88.0",2015
+"Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks@@@CT-LSTM[tai2015improved]","Christopher D. Manning","Stanford University",2015-02-28,"88.0",2015
+"A C-LSTM Neural Network for Text Classification@@@C-LSTM","Chunting Zhou","",2015-11-27,"87.8",2015
+"A C-LSTM Neural Network for Text Classification@@@C-LSTM","Chonglin Sun","",2015-11-27,"87.8",2015
+"A C-LSTM Neural Network for Text Classification@@@C-LSTM","Zhiyuan Liu","",2015-11-27,"87.8",2015
+"A C-LSTM Neural Network for Text Classification@@@C-LSTM","Francis C. M. Lau","",2015-11-27,"87.8",2015
+"Message Passing Attention Networks for Document Understanding@@@MPAD-path","Giannis Nikolentzos","École Polytechnique",2019-08-17,"87.75",2019
+"Message Passing Attention Networks for Document Understanding@@@MPAD-path","Antoine J.-P. Tixier","École Polytechnique",2019-08-17,"87.75",2019
+"Message Passing Attention Networks for Document Understanding@@@MPAD-path","Michalis Vazirgiannis","École Polytechnique",2019-08-17,"87.75",2019
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG","Jingjing Gong","Fudan University",2018-06-05,"87.6",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG","Xipeng Qiu","Fudan University",2018-06-05,"87.6",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG","Shaojing Wang","",2018-06-05,"87.6",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG","Xuanjing Huang","Fudan University",2018-06-05,"87.6",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Daniel Cer","Google",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Yinfei Yang","Google",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Sheng-yi Kong","",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Nan Hua","",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Nicole Lyn Untalan Limtiaco","",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Rhomni St. John","",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Noah Constant","Google",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Mario Guajardo-Cespedes","",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Steve Yuan","Google",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Chris Tar","Google",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Brian Strope","Google",2018-03-29,"87.21",2018
+"Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ","Ray Kurzweil","Google",2018-03-29,"87.21",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG","Jingjing Gong","Fudan University",2018-06-05,"87.2",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG","Xipeng Qiu","Fudan University",2018-06-05,"87.2",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG","Shaojing Wang","",2018-06-05,"87.2",2018
+"Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG","Xuanjing Huang","Fudan University",2018-06-05,"87.2",2018
+"A Helping Hand: Transfer Learning for Deep Sentiment Analysis@@@DC-MCNN","Xin Dong","",2018-07-01,"86.99",2018
+"A Helping Hand: Transfer Learning for Deep Sentiment Analysis@@@DC-MCNN","Gerard de Melo","",2018-07-01,"86.99",2018
+"The Pupil Has Become the Master: Teacher-Student Model-Based Word Embedding Distillation with Ensemble Learning@@@STM+TSED+PT+2L","Bonggun Shin","Emory University",2019-05-31,"86.95",2019
+"The Pupil Has Become the Master: Teacher-Student Model-Based Word Embedding Distillation with Ensemble Learning@@@STM+TSED+PT+2L","Hao Yang","",2019-05-31,"86.95",2019
+"The Pupil Has Become the Master: Teacher-Student Model-Based Word Embedding Distillation with Ensemble Learning@@@STM+TSED+PT+2L","Jinho D. Choi","Emory University",2019-05-31,"86.95",2019
+"Investigating Capsule Networks with Dynamic Routing for Text Classification@@@Capsule-B ","Min Yang","University of Hong Kong",2018-03-29,"86.8",2018
+"Investigating Capsule Networks with Dynamic Routing for Text Classification@@@Capsule-B ","Wei Zhao","Nanjing University of Posts and Telecommunications",2018-03-29,"86.8",2018
+"Investigating Capsule Networks with Dynamic Routing for Text Classification@@@Capsule-B ","Jianbo Ye","Penn State College of Information Sciences and Technology",2018-03-29,"86.8",2018
+"Investigating Capsule Networks with Dynamic Routing for Text Classification@@@Capsule-B ","Zeyang Lei","Tsinghua University",2018-03-29,"86.8",2018
+"Investigating Capsule Networks with Dynamic Routing for Text Classification@@@Capsule-B ","Suofei Zhang","Nanjing University of Posts and Telecommunications",2018-03-29,"86.8",2018
+"Investigating Capsule Networks with Dynamic Routing for Text Classification@@@Capsule-B ","Zhou Zhao","Zhejiang University",2018-03-29,"86.8",2018
+"Investigating Capsule Networks with Dynamic Routing for Text Classification@@@Capsule-B ","Soufei Zhang","",2018-03-29,"86.8",2018
+"Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks@@@2-layer LSTM[tai2015improved]","Kai Sheng Tai","Stanford University",2015-02-28,"86.3",2015
+"Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks@@@2-layer LSTM[tai2015improved]","Richard Socher","University of Colorado Boulder",2015-02-28,"86.3",2015
+"Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks@@@2-layer LSTM[tai2015improved]","Christopher D. Manning","Stanford University",2015-02-28,"86.3",2015
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@RNTN","Richard Socher","Stanford University",2013-10-01,"85.4",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@RNTN","Alex Perelygin","",2013-10-01,"85.4",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@RNTN","Jean Y. Wu","Stanford University",2013-10-01,"85.4",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@RNTN","Jason Chuang","University of Washington",2013-10-01,"85.4",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@RNTN","Christopher D. Manning","Stanford University",2013-10-01,"85.4",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@RNTN","Andrew Y. Ng","Stanford University",2013-10-01,"85.4",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@RNTN","Christopher Potts","Stanford University",2013-10-01,"85.4",2013
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Dinghan Shen","Duke University",2018-05-24,"84.3",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Guoyin Wang","Duke University",2018-05-24,"84.3",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Wenlin Wang","Duke University",2018-05-24,"84.3",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Martin Renqiang Min","Princeton University",2018-05-24,"84.3",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Qinliang Su","Duke University",2018-05-24,"84.3",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Yizhe Zhang","University of Notre Dame",2018-05-24,"84.3",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Zhang Yizhe","University of Notre Dame",2018-05-24,"84.3",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Chunyuan Li","Duke University",2018-05-24,"84.3",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Ricardo Henao","Duke University",2018-05-24,"84.3",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat","Lawrence Carin","Duke University",2018-05-24,"84.3",2018
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@MV-RNN","Richard Socher","Stanford University",2013-10-01,"82.9",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@MV-RNN","Alex Perelygin","",2013-10-01,"82.9",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@MV-RNN","Jean Y. Wu","Stanford University",2013-10-01,"82.9",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@MV-RNN","Jason Chuang","University of Washington",2013-10-01,"82.9",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@MV-RNN","Christopher D. Manning","Stanford University",2013-10-01,"82.9",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@MV-RNN","Andrew Y. Ng","Stanford University",2013-10-01,"82.9",2013
+"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@MV-RNN","Christopher Potts","Stanford University",2013-10-01,"82.9",2013
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@GloVe+Emo2Vec","Peng Xu","Hong Kong University of Science and Technology",2018-09-12,"82.3",2018
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@GloVe+Emo2Vec","Andrea Madotto","Hong Kong University of Science and Technology",2018-09-12,"82.3",2018
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@GloVe+Emo2Vec","Chien-Sheng Wu","Salesforce.com",2018-09-12,"82.3",2018
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@GloVe+Emo2Vec","Ji Ho Park","",2018-09-12,"82.3",2018
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@GloVe+Emo2Vec","Pascale Fung","Hong Kong University of Science and Technology",2018-09-12,"82.3",2018
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@Emo2Vec","Peng Xu","Hong Kong University of Science and Technology",2018-09-12,"81.2",2018
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@Emo2Vec","Andrea Madotto","Hong Kong University of Science and Technology",2018-09-12,"81.2",2018
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@Emo2Vec","Chien-Sheng Wu","Salesforce.com",2018-09-12,"81.2",2018
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@Emo2Vec","Ji Ho Park","",2018-09-12,"81.2",2018
+"Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@Emo2Vec","Pascale Fung","Hong Kong University of Science and Technology",2018-09-12,"81.2",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-CBOW","Qian Liu","",2018-08-01,"78.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-CBOW","Heyan Huang","Beijing Institute of Technology",2018-08-01,"78.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-CBOW","Yang Gao","Beijing Institute of Technology",2018-08-01,"78.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-CBOW","Xiaochi Wei","Beijing Institute of Technology",2018-08-01,"78.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-CBOW","Yuxin Tian","",2018-08-01,"78.8",2018
+"Task-oriented Word Embedding for Text Classification@@@ToWE-CBOW","Luyang Liu","Beijing Institute of Technology",2018-08-01,"78.8",2018
+"Exploring Joint Neural Model for Sentence Level Discourse Parsing and Sentiment Analysis@@@Joined Model Multi-tasking","Bita Nejat","University of British Columbia",2017-08-01," 54.72 ",2017
+"Exploring Joint Neural Model for Sentence Level Discourse Parsing and Sentiment Analysis@@@Joined Model Multi-tasking","Giuseppe Carenini","University of British Columbia",2017-08-01," 54.72 ",2017
+"Exploring Joint Neural Model for Sentence Level Discourse Parsing and Sentiment Analysis@@@Joined Model Multi-tasking","Raymond T. Ng","University of British Columbia",2017-08-01," 54.72 ",2017

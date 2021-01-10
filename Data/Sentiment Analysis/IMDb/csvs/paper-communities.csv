@@ -1,0 +1,37 @@
+title,communities,metric,paper_date,communities_name
+Representation Learning for Heterogeneous Information Networks via Embedding Events@@@Event2vec,10,not available,2019-01-29,{'Southern University of Science and Technology'}
+Sentiment Classification Using Document Embeddings Trained with Cosine Similarity@@@NB-weighted-BON + dv-cosine,19,97.4,2019-07-01,"{'Mahidol University', 'Mahidol University International College'}"
+Graph Star Net for Generalized Multi-Task Learning@@@GraphStar,11,96.0,2019-06-21,{'Huawei'}
+Unsupervised Data Augmentation for Consistency Training@@@BERT large finetune UDA,3,95.8,2019-04-29,"{'Carnegie Mellon University', 'Google'}"
+Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function@@@L MIXED,3,95.68,2020-09-08,"{'Carnegie Mellon University', 'Google'}"
+Unsupervised Data Augmentation for Consistency Training@@@BERT large,3,95.49,2019-04-29,"{'Carnegie Mellon University', 'Google'}"
+Universal Language Model Fine-tuning for Text Classification@@@ULMFiT,20,95.4,2018-01-18,"{'National University of Ireland, Galway'}"
+GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM,12,94.99,2017-12-01,"{'Norwegian University of Science and Technology', 'Tsinghua University'}"
+Contextual Explanation Networks@@@CEN-tpc,2,94.52,2017-05-29,{'Carnegie Mellon University'}
+Supervised and Semi-Supervised Text Categorization using LSTM for Region Embeddings@@@oh-LSTM,21,94.1,2016-02-07,{'Rutgers University'}
+Adversarial Training Methods for Semi-Supervised Text Classification@@@Virtual adversarial training,16,94.1,2016-05-25,"{'OpenAI', 'Google', 'Kyoto University'}"
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT",13,92.82,2019-10-02,set()
+Effective Use of Word Order for Text Categorization with Convolutional Neural Networks@@@seq2-bown-CNN,21,92.33,2014-12-01,{'Rutgers University'}
+BP-Transformer: Modelling Long-Range Context via Binary Partitioning@@@BP-Transformer + GloVe,1,92.12,2019-11-11,{'Fudan University'}
+Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe,14,91.8,2017-08-01,{'Salesforce.com'}
+Task-oriented Word Embedding for Text Classification@@@ToWE-SG,4,90.8,2018-08-01,{'Beijing Institute of Technology'}
+Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip,1,90.1,2018-11-09,{'Fudan University'}
+On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis@@@CNN+LSTM,22,88.9,2017-07-06,"{'University of Cambridge', 'Cardiff University'}"
+Efficient Vector Representation for Documents through Corruption@@@Doc2VecC,24,88.3,2017-07-08,set()
+Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies@@@coRNN,23,87.4%,2020-10-02,set()
+Sentence-State LSTM for Text Representation@@@S-LSTM,17,87.15,2018-05-07,"{'University of Rochester', 'National University of Singapore'}"
+Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG,1,45.1,2018-06-05,{'Fudan University'}
+Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG,1,44.5,2018-06-05,{'Fudan University'}
+SimGNN: A Neural Network Approach to Fast Graph Similarity Computation@@@SimGNN,5,not available,2018-08-16,"{'Purdue University', 'Zhejiang University', 'University of California, Los Angeles'}"
+XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet,3,96.8,2019-06-19,"{'Carnegie Mellon University', 'Google'}"
+Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining@@@In-domain Pretraining+Semi-supervised,6,96.6,2020-11-17,"{'Massachusetts Institute of Technology', 'Harvard University'}"
+Unsupervised Data Augmentation for Consistency Training@@@BERT Finetune + UDA,3,95.8,2019-04-29,"{'Carnegie Mellon University', 'Google'}"
+How to Fine-Tune BERT for Text Classification?@@@BERT-ITPT-FiT,1,95.63,2019-05-14,{'Fudan University'}
+Big Bird: Transformers for Longer Sequences@@@BigBird,2+3,95.2,2020-07-28,"{'Carnegie Mellon University', 'Google'}"
+Hierarchical Attentional Hybrid Neural Networks for Document Classification@@@HAHNN (CNN),15,95.17,2019-01-20,{'Federal University of Pernambuco'}
+Distributed Representations of Sentences and Documents@@@Paragraph Vectors Le & Mikolov (2014),3,92.58,2014-05-16,"{'Carnegie Mellon University', 'Google'}"
+A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7,7,92.2,2018-05-14,"{'University of Wisconsin-Madison', 'Facebook', 'Princeton University'}"
+Message Passing Attention Networks for Document Understanding@@@MPAD-path,18,91.84,2019-08-17,{'École Polytechnique'}
+RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (15 RDLs),8,90.79,2018-05-03,{'University of Virginia'}
+Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding@@@Transductive SVM Johnson & Zhang ([2015b]),21,90.01,2015-04-06,{'Rutgers University'}
+DocBERT: BERT for Document Classification@@@KD-LSTMreg,9,53.7,2019-04-17,{'University of Waterloo'}

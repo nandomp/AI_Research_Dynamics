@@ -1,0 +1,41 @@
+title,communities,metric,paper_date,communities_name
+Very Deep Transformers for Neural Machine Translation@@@Transformer+BT (ADMIN init),11,46.4,2020-08-18,"{'Johns Hopkins University', 'Microsoft', 'University of Illinois at Urbana–Champaign'}"
+Understanding Back-Translation at Scale@@@Noisy back-translation,2,45.6,2018-08-28,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information@@@mRASP+Fine-Tune,4,44.3,2020-10-07,{'Fudan University'}
+Very Deep Transformers for Neural Machine Translation@@@Transformer (ADMIN init),11,43.8,2020-08-18,"{'Johns Hopkins University', 'Microsoft', 'University of Illinois at Urbana–Champaign'}"
+MUSE: Parallel Multi-Scale Attention for Sequence to Sequence Learning@@@MUSE(Paralllel Multi-scale Attention),9,43.5,2019-11-17,set()
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5,5+1,43.4,2019-10-23,"{'University of Southern California', 'Google', 'University of Oxford'}"
+Joint Source-Target Self Attention with Locality Constraints@@@Local Joint Self-attention,12,43.3,2019-05-16,{'Polytechnic University of Catalonia'}
+Depth Growing for Neural Machine Translation@@@Depth Growing,6,43.27,2019-07-03,"{'Sun Yat-sen University', 'Microsoft', 'University of Illinois at Urbana–Champaign'}"
+Scaling Neural Machine Translation@@@Transformer Big,2,43.2,2018-06-01,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Time-aware Large Kernel Convolutions@@@TaLK Convolutions,16,43.2,2020-02-08,{'Carleton University'}
+Pay Less Attention with Lightweight and Dynamic Convolutions@@@LightConv,2,43.1,2019-01-29,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Fast and Simple Mixture of Softmaxes with BPE and Hybrid-LightRNN for Language Generation@@@Transformer Big + MoS,13,42.1,2018-09-25,{'Carnegie Mellon University'}
+Synthesizer: Rethinking Self-Attention in Transformer Models@@@Synthesizer (Random + Vanilla),8,41.85,2020-05-02,{'Google'}
+Self-Attention with Relative Position Representations@@@Transformer (big) + Relative Position Representations,1,41.5,2018-03-06,"{'University of Southern California', 'Google', 'University of Oxford'}"
+Weighted Transformer Network for Machine Translation@@@Weighted Transformer (large),14,41.4,2017-11-06,{'Northwestern University'}
+Convolutional Sequence to Sequence Learning@@@ConvS2S (ensemble),2,41.3,2017-05-08,"{'Harvard University', 'Cornell University', 'Facebook'}"
+The Evolved Transformer@@@Evolved Transformer Big,3,41.3,2019-01-30,"{'Jagiellonian University', 'Google', 'Stanford University'}"
+The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation@@@RNMT+,1,41.0,2018-04-26,"{'University of Southern California', 'Google', 'University of Oxford'}"
+Attention Is All You Need@@@Transformer Big,1,41.0,2017-06-12,"{'University of Southern California', 'Google', 'University of Oxford'}"
+The Evolved Transformer@@@Evolved Transformer Base,3,40.6,2019-01-30,"{'Jagiellonian University', 'Google', 'Stanford University'}"
+Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer@@@MoE,3+1,40.56,2017-01-23,"{'Google', 'University of Oxford', 'Jagiellonian University', 'University of Southern California', 'Stanford University'}"
+Convolutional Sequence to Sequence Learning@@@ConvS2S,2,40.46,2017-05-08,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation@@@GNMT+RL,3+1,39.9,2016-09-26,"{'Google', 'University of Oxford', 'Jagiellonian University', 'University of Southern California', 'Stanford University'}"
+Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att + PosUnk,10,39.2,2016-06-14,{'Baidu'}
+Attention Is All You Need@@@Transformer Base,1,38.1,2017-06-12,"{'University of Southern California', 'Google', 'University of Oxford'}"
+Addressing the Rare Word Problem in Neural Machine Translation@@@LSTM6 + PosUnk,3,37.5,2014-10-30,"{'Jagiellonian University', 'Google', 'Stanford University'}"
+@@@PBMT,,,,set()
+Sequence to Sequence Learning with Neural Networks@@@SMT+LSTM5,3,36.5,2014-09-10,"{'Jagiellonian University', 'Google', 'Stanford University'}"
+Neural Machine Translation by Jointly Learning to Align and Translate@@@RNN-search50*,7,36.2,2014-09-01,"{'Université de Montréal', 'École Polytechnique de Montréal'}"
+Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation@@@Deep-Att,10,35.9,2016-06-14,{'Baidu'}
+A Convolutional Encoder Model for Neural Machine Translation@@@Deep Convolutional Encoder; single-layer decoder,2,35.7,2016-11-07,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Sequence to Sequence Learning with Neural Networks@@@LSTM,3,34.8,2014-09-10,"{'Jagiellonian University', 'Google', 'Stanford University'}"
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation@@@CSLM + RNN + WP,7,34.54,2014-06-03,"{'Université de Montréal', 'École Polytechnique de Montréal'}"
+Recurrent Neural Network Regularization@@@Regularized LSTM,3,29.03,2014-09-08,"{'Jagiellonian University', 'Google', 'Stanford University'}"
+Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised PBSMT,2,28.11,2018-04-20,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Phrase-Based & Neural Unsupervised Machine Translation@@@PBSMT + NMT,2,27.6,2018-04-20,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Can Active Memory Replace Attention?@@@GRU+Attention,1,26.4,2016-10-27,"{'University of Southern California', 'Google', 'University of Oxford'}"
+Unsupervised Statistical Machine Translation@@@SMT + iterative backtranslation (unsupervised),15,26.22,2018-09-04,{'University of the Basque Country'}
+Phrase-Based & Neural Unsupervised Machine Translation@@@Unsupervised NMT + Transformer,2,25.14,2018-04-20,"{'Harvard University', 'Cornell University', 'Facebook'}"
+Unsupervised Neural Machine Translation@@@Unsupervised attentional encoder-decoder + BPE,2,14.36,2017-10-30,"{'Harvard University', 'Cornell University', 'Facebook'}"

@@ -1,0 +1,32 @@
+title,communities,metric,paper_date,communities_name
+Late Temporal Modeling in 3D CNN Architectures with BERT for Action Recognition@@@R2+1D-BERT,16,85.10,2020-08-03,{'Middle East Technical University'}
+Omni-sourced Webly-supervised Learning for Video Recognition@@@OmniSource (SlowOnly-8x8-R101-RGB + I3D Flow),7,83.8,2020-03-29,set()
+@@@BubbleNET,,,,set()
+Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition with CNNs@@@HAF+BoW/FV halluc,17,82.48,2019-06-13,"{'University of Western Australia', 'Commonwealth Scientific and Industrial Research Organisation'}"
+Cooperative Cross-Stream Network for Discriminative Action Representation@@@CCS + TSN (ImageNet+Kinetics pretrained),12,81.9,2019-08-27,{'University of Electronic Science and Technology of China'}
+Representation Flow for Action Recognition@@@RepFlow-50,20,81.1,2018-10-02,{'Indiana University'}
+Contextual Action Cues from Camera Sensor for Multi-Stream Action Recognition@@@Multi-stream I3D ,13,80.92,2019-03-20,{'Yonsei University'}
+"MARS: Motion-Augmented RGB Stream for Action Recognition@@@MARS+RGB+FLow (64 frames, Kinetics pretrained)",5,80.9,2019-06-01,"{'French Institute for Research in Computer Science and Automation', 'École Normale Supérieure'}"
+"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset@@@Two-stream I3D",6,80.9,2017-05-22,"{'Graz University of Technology', 'Google', 'York University', 'University of Oxford'}"
+Learning Spatio-Temporal Representation with Local and Global Diffusion@@@LGD-3D Two-stream,8,80.5,2019-06-13,"{'City University of Hong Kong', 'University of Science and Technology of China'}"
+Hidden Two-Stream Convolutional Networks for Action Recognition@@@Hidden Two-Stream,3,78.7,2017-04-02,"{'Newcastle University', 'University of California, Merced', 'Carnegie Mellon University', 'University of East Anglia'}"
+"MotionSqueeze: Neural Motion Feature Learning for Video Understanding@@@MSNet-R50 (16 frames, ImageNet pretrained)",14,77.4,2020-07-20,set()
+Large Scale Holistic Video Understanding@@@HATNet (32 frames),2,76.5,2019-04-25,{'ETH Zurich'}
+FASTER Recurrent Networks for Efficient Video Classification@@@FASTER32 (Kinetics pretrain),1,75.7,2019-06-10,"{'University of Technology, Sydney', 'Facebook', 'Carnegie Mellon University'}"
+Contrastive Video Representation Learning via Adversarial Perturbations@@@ADL+ResNet+IDT,21,74.3,2018-07-24,"{'Australian National University', 'Mitsubishi Electric Research Laboratories'}"
+Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition@@@Optical Flow Guided Feature,9,74.2,2017-11-29,"{'The Chinese University of Hong Kong', 'University of Sydney', 'SenseTime'}"
+Spatiotemporal Multiplier Networks for Video Action Recognition@@@STM Network+IDT,6,72.2,2017-07-01,"{'Graz University of Technology', 'Google', 'York University', 'University of Oxford'}"
+STM: SpatioTemporal and Motion Encoding for Action Recognition@@@STM (ImageNet+Kinetics pretrain),10,72.2,2019-08-07,"{'Zhejiang University', 'SenseTime'}"
+Attention Distillation for Learning Video Representations@@@Prob-Distill,11,72.0,2019-04-05,"{'Georgia Institute of Technology', 'University of Wisconsin-Madison'}"
+Learning spatio-temporal representations with temporal squeeze pooling@@@TesNet (ImageNet pretrained),22,71.5,2020-02-11,{'University of York'}
+Hierarchical Feature Aggregation Networks for Video Action Recognition@@@HF-ECOLite (ImageNet+Kinetics pretrain),18,71.13,2019-05-29,{'University of Barcelona'}
+TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for Activity Recognition@@@TS-LSTM,15,69,2017-03-30,"{'Georgia Institute of Technology', 'Georgia Tech Research Institute'}"
+"Convolutional Two-Stream Network Fusion for Video Action Recognition@@@S:VGG-16, T:VGG-16",6,65.4,2016-04-22,"{'Graz University of Technology', 'Google', 'York University', 'University of Oxford'}"
+Long-term Temporal Convolutions for Action Recognition@@@LTC,5,64.8,2016-04-15,"{'French Institute for Research in Computer Science and Automation', 'École Normale Supérieure'}"
+R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition@@@R-STAN-50,19,62.8,2019-06-19,{'Jilin University'}
+"SUSiNet: See, Understand and Summarize it@@@SUSiNet (multi, Kinetics pretrained)",23,62.7,2018-12-03,{'National Technical University of Athens'}
+Two-Stream Convolutional Networks for Action Recognition in Videos@@@Two-stream,6,59.4,2014-06-09,"{'Graz University of Technology', 'Google', 'York University', 'University of Oxford'}"
+R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition@@@R-STAN-152,19,55.16,2019-06-19,{'Jilin University'}
+DistInit: Learning Video Representations Without a Single Labeled Video@@@R(2+1)D-18 (DistInit pretraining),1,54.8,2019-01-26,"{'University of Technology, Sydney', 'Facebook', 'Carnegie Mellon University'}"
+Towards Universal Representation for Unseen Action Recognition@@@CD-UAR,3,51.8,2018-03-22,"{'Newcastle University', 'University of California, Merced', 'Carnegie Mellon University', 'University of East Anglia'}"
+Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics@@@Pretrained on Kinetics,4,33.4,2019-04-07,"{'The Chinese University of Hong Kong', 'University of Oxford', 'Tencent', 'South China University of Technology'}"

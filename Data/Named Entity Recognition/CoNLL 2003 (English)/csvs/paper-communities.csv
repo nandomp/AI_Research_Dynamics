@@ -1,0 +1,53 @@
+title,communities,metric,paper_date,communities_name
+LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE,12,94.3,2020-10-02,"{'Nara Institute of Science and Technology', 'University of Washington', 'National Institute of Informatics'}"
+Automated Concatenation of Embeddings for Structured Prediction@@@ACE + document-context,7,94.14,2020-10-10,"{'ShanghaiTech University', 'Alibaba Group'}"
+Automated Concatenation of Embeddings for Structured Prediction@@@ACE,7,92.5,2020-10-10,"{'ShanghaiTech University', 'Alibaba Group'}"
+Cloze-driven Pretraining of Self-attention Networks@@@CNN Large + fine-tune,1,93.5,2019-03-19,"{'Carnegie Mellon University', 'Google', 'University of Washington', 'Facebook', 'Allen Institute for Artificial Intelligence', 'Northwestern University'}"
+Named Entity Recognition as Dependency Parsing@@@Biaffine-NER,24,93.5,2020-05-14,"{'Google', 'Queen Mary University of London'}"
+GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT + BERT-L,9,93.47,2019-06-06,"{'Tencent', 'Beijing Jiaotong University'}"
+Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition@@@I-DARTS + Flair,13,93.47,2019-11-01,{'Northeastern University'}
+CrossWeigh: Training Named Entity Tagger from Imperfect Annotations@@@CrossWeigh + Pooled Flair,3,93.43,2019-09-03,"{'Facebook', 'University of Illinois at Urbana–Champaign', 'Shanghai Jiao Tong University', 'University of Southern California'}"
+Neural Architectures for Nested NER through Linearization@@@LSTM-CRF+ELMo+BERT+Flair,17,93.38,2019-08-19,{'Charles University in Prague'}
+Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical + BERT,25,93.37,2019-11-06,{'Shanghai Jiao Tong University'}
+Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC,6,93.33,2019-11-07,"{'Zhejiang University', 'Stony Brook University'}"
+Pooled Contextualized Embeddings for Named Entity Recognition@@@Flair embeddings + Pooling,18,93.18,2019-06-01,"{'IBM', 'German Center for Neurodegenerative Diseases'}"
+Contextual String Embeddings for Sequence Labeling@@@Flair embeddings,18,93.09,2018-08-01,"{'IBM', 'German Center for Neurodegenerative Diseases'}"
+A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC,6,93.04,2019-10-25,"{'Zhejiang University', 'Stony Brook University'}"
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Large,1,92.8,2018-10-11,"{'Carnegie Mellon University', 'Google', 'University of Washington', 'Facebook', 'Allen Institute for Artificial Intelligence', 'Northwestern University'}"
+Towards Improving Neural Named Entity Recognition with Gazetteers@@@HSCRF + softdict,26,92.75,2019-07-01,{'Microsoft'}
+TENER: Adapting Transformer Encoder for Named Entity Recognition@@@TENER,19,92.62,2019-11-10,{'Fudan University'}
+Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task,20,92.61,2018-09-22,"{'Google', 'Stanford University'}"
+Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large,20,92.61,2018-09-22,"{'Google', 'Stanford University'}"
+Joint Learning of Named Entity Recognition and Entity Linking@@@Stack LSTM,27,92.43,2019-07-18,{'University of Lisbon'}
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Base,1,92.4,2018-10-11,"{'Carnegie Mellon University', 'Google', 'University of Washington', 'Facebook', 'Allen Institute for Artificial Intelligence', 'Northwestern University'}"
+GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN,10,92.34,2019-07-12,"{'Microsoft', 'Beijing Institute of Technology', 'Tsinghua University'}"
+Evaluating the Utility of Hand-crafted Features in Sequence Labelling@@@Neural-CRF+AE,28,92.29,2018-08-28,"{'University of Melbourne', 'Xerox'}"
+Multi-Grained Named Entity Recognition@@@MGNER,5,92.28,2019-06-20,"{'Tencent', 'Penn State College of Information Sciences and Technology', 'University of Illinois at Chicago', 'Alibaba Group'}"
+Deep contextualized word representations@@@BiLSTM-CRF+ELMo,1,92.22,2018-02-15,"{'Carnegie Mellon University', 'Google', 'University of Washington', 'Facebook', 'Allen Institute for Artificial Intelligence', 'Northwestern University'}"
+DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO),2,92.2,2019-08-02,set()
+Generalizing Natural Language Analysis through Span-relation Representations@@@SpanRel,21,92.2,2019-11-10,"{'Carnegie Mellon University', 'Ohio State University', 'University of California, San Diego', 'Bosch'}"
+Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling@@@LD-Net,3,92.03,2018-04-20,"{'Facebook', 'University of Illinois at Urbana–Champaign', 'Shanghai Jiao Tong University', 'University of Southern California'}"
+GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT,9,91.96,2019-06-06,"{'Tencent', 'Beijing Jiaotong University'}"
+Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical,25,91.96,2019-11-06,{'Shanghai Jiao Tong University'}
+Semi-supervised sequence tagging with bidirectional language models@@@TagLM,1,91.93,2017-04-29,"{'Carnegie Mellon University', 'Google', 'University of Washington', 'Facebook', 'Allen Institute for Artificial Intelligence', 'Northwestern University'}"
+Evaluating the Utility of Hand-crafted Features in Sequence Labelling@@@CRF + AutoEncoder,28,91.87,2018-08-28,"{'University of Melbourne', 'Xerox'}"
+A Prism Module for Semantic Disentanglement in Name Entity Recognition@@@PRISM,11,91.8,2019-07-01,"{'Beijing University of Posts and Telecommunications', 'Beijing Normal University'}"
+@@@GraphIE (GCN+BiLSTM),,,,set()
+Learning Better Internal Structure of Words for Sequence Labeling@@@IntNet + BiLSTM-CRF,22,91.64,2018-10-29,{'eBay'}
+Neural Reranking for Named Entity Recognition@@@Yang et al. ([2017a]),14,91.62,2017-07-17,"{'University of Rochester', ""Brigham and Women's Hospital"", 'Singapore University of Technology and Design', 'University of Science and Technology of China'}"
+Sentence-State LSTM for Text Representation@@@S-LSTM,14,91.57,2018-05-07,"{'University of Rochester', ""Brigham and Women's Hospital"", 'Singapore University of Technology and Design', 'University of Science and Technology of China'}"
+Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip,8,91.56,2018-11-09,{'Fudan University'}
+Robust Multilingual Part-of-Speech Tagging via Adversarial Training@@@Adversarial Bi-LSTM,29,91.56,2017-11-14,"{'Yale University', 'University of Washington'}"
+Hybrid semi-Markov CRF for Neural Sequence Labeling@@@HSCRF,32,91.38,2018-05-10,{'University of Science and Technology of China'}
+NCRF++: An Open-source Neural Sequence Labeling Toolkit@@@NCRF++,14,91.35,2018-06-14,"{'University of Rochester', ""Brigham and Women's Hospital"", 'Singapore University of Technology and Design', 'University of Science and Technology of China'}"
+Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks@@@Yang et al.,30,91.26,2017-03-18,{'Carnegie Mellon University'}
+Empower Sequence Labeling with Task-Aware Neural Language Model@@@LM-LSTM-CRF,3,91.24,2017-09-13,"{'Facebook', 'University of Illinois at Urbana–Champaign', 'Shanghai Jiao Tong University', 'University of Southern California'}"
+A Deep Neural Network Model for the Task of Named Entity Recognition@@@Bi-LSTM-CNN-CRF,31,91.22,2018-02-01,"{'Dublin City University', 'University of Freiburg', 'University of Düsseldorf'}"
+End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF@@@BLSTM-CNN-CRF,15,91.21,2016-03-04,{'Carnegie Mellon University'}
+Harnessing Deep Neural Networks with Logic Rules@@@Bi-LSTM + Logic rules,15,91.18,2016-03-21,{'Carnegie Mellon University'}
+Neural Architectures for Named Entity Recognition@@@LSTM-CRF,16,90.94,2016-03-04,"{'Carnegie Mellon University', 'Pompeu Fabra University', 'Google'}"
+Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF,4,86.28,2018-05-24,"{'University of Notre Dame', 'Duke University', 'Princeton University'}"
+Variational Sequential Labelers for Semi-Supervised Learning@@@VSL-GG-Hier,23,84.7,2019-06-23,{'Toyota Technological Institute at Chicago'}
+DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF),2,84.6,2019-08-02,set()
+"More Embeddings, Better Sequence Labelers?@@@Wang et al., 2020",7,92.0,2020-09-17,"{'ShanghaiTech University', 'Alibaba Group'}"
+AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network@@@AIN,7,91.71,2020-09-17,"{'ShanghaiTech University', 'Alibaba Group'}"

@@ -1,0 +1,19 @@
+number,name
+1,"('Facebook', 7)"
+2,"('Microsoft', 8)"
+3,"('Google', 4)&('Carnegie Mellon University', 4)"
+4,"('University of Toronto', 1)"
+5,"('Oracle Corporation', 4)&('Boston College', 1)"
+6,"('Google', 1)"
+7,
+8,"('Google', 5)"
+9,"('University of Edinburgh', 1)"
+10,"('Dalle Molle Institute for Artificial Intelligence Research', 4)&('ETH Zurich', 1)"
+11,
+12,
+13,"('Google', 4)"
+14,"('University of Washington', 2)&('Allen Institute for Artificial Intelligence', 1)"
+15,"('Allen Institute for Artificial Intelligence', 3)"
+16,
+17,"('ETH Zurich', 3)"
+18,"('Université de Montréal', 3)"

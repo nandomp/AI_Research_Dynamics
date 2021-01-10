@@ -1,0 +1,54 @@
+title,communities,metric,paper_date,communities_name
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-3B,7,97.4,2019-10-23,set()
+ALBERT: A Lite BERT for Self-supervised Learning of Language Representations@@@ALBERT,10,97.1,2019-09-26,"{'Google', 'Toyota Technological Institute at Chicago', 'New York University'}"
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-11B,7,97.1,2019-10-23,set()
+XLNet: Generalized Autoregressive Pretraining for Language Understanding@@@XLNet (single model),11,97,2019-06-19,"{'Carnegie Mellon University', 'Google'}"
+@@@ELECTRA,,,,set()
+RoBERTa: A Robustly Optimized BERT Pretraining Approach@@@RoBERTa,3,96.7,2019-07-26,"{'Facebook', 'University of Washington', 'Princeton University'}"
+Learning to Encode Position for Transformer with Continuous Dynamical Model@@@FLOATER-large,17,96.7,2020-03-13,"{'Amazon.com', 'University of California, Los Angeles', 'University of Texas at Austin'}"
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Large,7,96.3,2019-10-23,set()
+Multi-Task Deep Neural Networks for Natural Language Understanding@@@MT-DNN,18,95.6,2019-01-31,{'Microsoft'}
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Base,7,95.2,2019-10-23,set()
+ERNIE 2.0: A Continual Pre-training Framework for Language Understanding@@@ERNIE 2.0 Base,8,95,2019-07-29,{'Baidu'}
+SpanBERT: Improving Pre-training by Representing and Predicting Spans@@@SpanBERT,3,94.8,2019-07-24,"{'Facebook', 'University of Washington', 'Princeton University'}"
+Cloze-driven Pretraining of Self-attention Networks@@@CNN Large,3,94.6,2019-03-19,"{'Facebook', 'University of Washington', 'Princeton University'}"
+Big Bird: Transformers for Longer Sequences@@@BigBird,5,94.6,2020-07-28,set()
+ERNIE: Enhanced Language Representation with Informative Entities@@@ERNIE,2,93.5,2019-05-17,{'Tsinghua University'}
+GPU Kernels for Block-Sparse Weights@@@Block-sparse LSTM,19,93.2,2017-12-01,"{'Norwegian University of Science and Technology', 'Tsinghua University'}"
+Fine-grained Sentiment Classification using BERT@@@BERT Large,24,93.1,2019-10-04,{'Tribhuvan University'}
+TinyBERT: Distilling BERT for Natural Language Understanding@@@TinyBERT,2,92.6,2019-09-23,{'Tsinghua University'}
+Learning to Generate Reviews and Discovering Sentiment@@@bmLSTM,25,91.8,2017-04-05,{'OpenAI'}
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer@@@T5-Small,7,91.8,2019-10-23,set()
+A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors@@@byte mLSTM7,12,91.7,2018-05-14,"{'University of Wisconsin-Madison', 'Facebook', 'Princeton University'}"
+Pay Attention when Required@@@PAR BERT Base,26,91.6,2020-09-09,{'Nvidia'}
+SqueezeBERT: What can computer vision teach NLP about efficient neural networks?@@@SqueezeBERT,20,91.4,2020-06-19,"{'University of California, Berkeley'}"
+Cell-aware Stacked LSTMs for Modeling Sentences@@@Bi-CAS-LSTM,27,91.3,2018-09-07,{'Seoul National University'}
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter@@@DistilBERT",21,91.3,2019-10-02,set()
+On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis@@@CNN,31,91.2,2017-07-06,"{'University of Cambridge', 'Cardiff University'}"
+Improved Sentence Modeling using Suffix Bidirectional LSTM@@@Suffix BiLSTM,34,91.2,2018-05-18,set()
+Fine-grained Sentiment Classification using BERT@@@BERT Base,24,91.2,2019-10-04,{'Tribhuvan University'}
+Practical Text Classification With Large Pre-Trained Language Models@@@Transformer (finetune),22,90.9,2018-12-04,set()
+Learned in Translation: Contextualized Word Vectors@@@BCN+Char+CoVe,1,90.3,2017-08-01,"{'Salesforce.com', 'University of Washington', 'Stanford University'}"
+Convolutional Neural Networks with Recurrent Neural Filters@@@CNN-RNF-LSTM,35,90.0,2018-08-28,set()
+Neural Semantic Encoders@@@Neural Semantic Encoder,32,89.7,2016-07-14,{'University of Massachusetts Medical School'}
+Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling@@@BLSTM-2DCNN,13,89.5,2016-11-21,{'Chinese Academy of Sciences'}
+Harnessing Deep Neural Networks with Logic Rules@@@CNN + Logic rules,15,89.3,2016-03-21,{'Carnegie Mellon University'}
+Ask Me Anything: Dynamic Memory Networks for Natural Language Processing@@@DMN [ankit16],1,88.6,2015-06-24,"{'Salesforce.com', 'University of Washington', 'Stanford University'}"
+Convolutional Neural Networks for Sentence Classification@@@CNN-MC [kim:13],36,88.1,2014-08-25,{'New York University'}
+Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks@@@CT-LSTM[tai2015improved],1,88.0,2015-02-28,"{'Salesforce.com', 'University of Washington', 'Stanford University'}"
+A C-LSTM Neural Network for Text Classification@@@C-LSTM,2,87.8,2015-11-27,{'Tsinghua University'}
+Message Passing Attention Networks for Document Understanding@@@MPAD-path,28,87.75,2019-08-17,{'École Polytechnique'}
+Information Aggregation via Dynamic Routing for Sequence Encoding@@@Standard DR-AGG,23,87.6,2018-06-05,{'Fudan University'}
+Universal Sentence Encoder@@@USE_T+CNN (lrn w.e.) ,4,87.21,2018-03-29,{'Google'}
+Information Aggregation via Dynamic Routing for Sequence Encoding@@@Reverse DR-AGG,23,87.2,2018-06-05,{'Fudan University'}
+A Helping Hand: Transfer Learning for Deep Sentiment Analysis@@@DC-MCNN,33,86.99,2018-07-01,set()
+The Pupil Has Become the Master: Teacher-Student Model-Based Word Embedding Distillation with Ensemble Learning@@@STM+TSED+PT+2L,29,86.95,2019-05-31,{'Emory University'}
+Investigating Capsule Networks with Dynamic Routing for Text Classification@@@Capsule-B ,9,86.8,2018-03-29,"{'Penn State College of Information Sciences and Technology', 'Tsinghua University', 'University of Hong Kong', 'Nanjing University of Posts and Telecommunications', 'Zhejiang University'}"
+Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks@@@2-layer LSTM[tai2015improved],1,86.3,2015-02-28,"{'Salesforce.com', 'University of Washington', 'Stanford University'}"
+Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@RNTN,1,85.4,2013-10-01,"{'Salesforce.com', 'University of Washington', 'Stanford University'}"
+Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-concat,6,84.3,2018-05-24,"{'University of Notre Dame', 'Duke University', 'Princeton University'}"
+Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank@@@MV-RNN,1,82.9,2013-10-01,"{'Salesforce.com', 'University of Washington', 'Stanford University'}"
+Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@GloVe+Emo2Vec,16,82.3,2018-09-12,"{'Salesforce.com', 'Hong Kong University of Science and Technology'}"
+Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training@@@Emo2Vec,16,81.2,2018-09-12,"{'Salesforce.com', 'Hong Kong University of Science and Technology'}"
+Task-oriented Word Embedding for Text Classification@@@ToWE-CBOW,14,78.8,2018-08-01,{'Beijing Institute of Technology'}
+Exploring Joint Neural Model for Sentence Level Discourse Parsing and Sentiment Analysis@@@Joined Model Multi-tasking,30, 54.72 ,2017-08-01,{'University of British Columbia'}

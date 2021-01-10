@@ -1,0 +1,235 @@
+"title","authors","affiliations","paper_date","metric","year"
+"Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition@@@Conformer + Wav2vec 2.0 + SpecAugment-based Noisy Student Training with Libri-Light","Yu Zhang","Google",2020-10-20,"1.4",2020
+"Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition@@@Conformer + Wav2vec 2.0 + SpecAugment-based Noisy Student Training with Libri-Light","James Qin","",2020-10-20,"1.4",2020
+"Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition@@@Conformer + Wav2vec 2.0 + SpecAugment-based Noisy Student Training with Libri-Light","Daniel S. Park","",2020-10-20,"1.4",2020
+"Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition@@@Conformer + Wav2vec 2.0 + SpecAugment-based Noisy Student Training with Libri-Light","Wei Han","",2020-10-20,"1.4",2020
+"Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition@@@Conformer + Wav2vec 2.0 + SpecAugment-based Noisy Student Training with Libri-Light","Chung-Cheng Chiu","",2020-10-20,"1.4",2020
+"Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition@@@Conformer + Wav2vec 2.0 + SpecAugment-based Noisy Student Training with Libri-Light","Ruoming Pang","",2020-10-20,"1.4",2020
+"Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition@@@Conformer + Wav2vec 2.0 + SpecAugment-based Noisy Student Training with Libri-Light","Quoc V. Le","",2020-10-20,"1.4",2020
+"Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition@@@Conformer + Wav2vec 2.0 + SpecAugment-based Noisy Student Training with Libri-Light","Yonghui Wu","",2020-10-20,"1.4",2020
+"Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light","Daniel S. Park","",2020-05-19,"1.7",2020
+"Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light","Yu-Jin Zhang","",2020-05-19,"1.7",2020
+"Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light","Yu Zhang","",2020-05-19,"1.7",2020
+"Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light","Ye Jia","",2020-05-19,"1.7",2020
+"Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light","Wei Han","",2020-05-19,"1.7",2020
+"Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light","Chung-Cheng Chiu","",2020-05-19,"1.7",2020
+"Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light","Bo Li","",2020-05-19,"1.7",2020
+"Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light","Yonghui Wu","",2020-05-19,"1.7",2020
+"Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light","Quoc V. Le","Google",2020-05-19,"1.7",2020
+"ASAPP-ASR: Multistream CNN and Self-Attentive SRU for SOTA Speech Recognition@@@Multistream CNN with Self-Attentive SRU","Jing Pan","",2020-05-21,"1.75",2020
+"ASAPP-ASR: Multistream CNN and Self-Attentive SRU for SOTA Speech Recognition@@@Multistream CNN with Self-Attentive SRU","Joshua Shapiro","",2020-05-21,"1.75",2020
+"ASAPP-ASR: Multistream CNN and Self-Attentive SRU for SOTA Speech Recognition@@@Multistream CNN with Self-Attentive SRU","Jeremy Wohlwend","",2020-05-21,"1.75",2020
+"ASAPP-ASR: Multistream CNN and Self-Attentive SRU for SOTA Speech Recognition@@@Multistream CNN with Self-Attentive SRU","Kyu J. Han","",2020-05-21,"1.75",2020
+"ASAPP-ASR: Multistream CNN and Self-Attentive SRU for SOTA Speech Recognition@@@Multistream CNN with Self-Attentive SRU","Kyu Jeong Han","",2020-05-21,"1.75",2020
+"ASAPP-ASR: Multistream CNN and Self-Attentive SRU for SOTA Speech Recognition@@@Multistream CNN with Self-Attentive SRU","Tao Lei","",2020-05-21,"1.75",2020
+"ASAPP-ASR: Multistream CNN and Self-Attentive SRU for SOTA Speech Recognition@@@Multistream CNN with Self-Attentive SRU","Tao Ma","",2020-05-21,"1.75",2020
+"wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations@@@wav2vec 2.0 with Libri-Light","Alexei Baevski","Facebook",2020-06-20,"1.8",2020
+"wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations@@@wav2vec 2.0 with Libri-Light","Henry Zhou","Facebook",2020-06-20,"1.8",2020
+"wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations@@@wav2vec 2.0 with Libri-Light","Abdel-rahman Mohamed","Facebook",2020-06-20,"1.8",2020
+"wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations@@@wav2vec 2.0 with Libri-Light","Michael Auli","Facebook",2020-06-20,"1.8",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","Wei Han","",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","Zhengdong Zhang","Google",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","Yu Zhang","",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","Yu-Jin Zhang","",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","Jiahui Yu","",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","Chung-Cheng Chiu","",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","James Qin","",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","Anmol Gulati","",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","Ruoming Pang","",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L)","Yonghui Wu","",2020-05-07,"1.9",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","Wei Han","",2020-05-07,"2",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","Zhengdong Zhang","Google",2020-05-07,"2",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","Yu Zhang","",2020-05-07,"2",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","Yu-Jin Zhang","",2020-05-07,"2",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","Jiahui Yu","",2020-05-07,"2",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","Chung-Cheng Chiu","",2020-05-07,"2",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","James Qin","",2020-05-07,"2",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","Anmol Gulati","",2020-05-07,"2",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","Ruoming Pang","",2020-05-07,"2",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M)","Yonghui Wu","",2020-05-07,"2",2020
+"Improving RNN Transducer Based ASR with Auxiliary Tasks@@@Transformer Transducer","Yajie Miao","Carnegie Mellon University",2020-11-05,"2.0",2020
+"Improving RNN Transducer Based ASR with Auxiliary Tasks@@@Transformer Transducer","Mohammad Gowayyed","Carnegie Mellon University",2020-11-05,"2.0",2020
+"Improving RNN Transducer Based ASR with Auxiliary Tasks@@@Transformer Transducer","Florian Metze","Carnegie Mellon University",2020-11-05,"2.0",2020
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)","Gabriel Synnaeve","Facebook",2019-11-19,"2.03",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)","Qiantong Xu","Facebook",2019-11-19,"2.03",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)","Jacob Kahn","Facebook",2019-11-19,"2.03",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)","Edouard Grave","Facebook",2019-11-19,"2.03",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)","Tatiana Likhomanenko","Facebook",2019-11-19,"2.03",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)","Vineel Pratap","Facebook",2019-11-19,"2.03",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)","Anuroop Sriram","Facebook",2019-11-19,"2.03",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)","Vitaliy Liptchinsky","Facebook",2019-11-19,"2.03",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring)","Ronan Collobert","Facebook",2019-11-19,"2.03",2019
+"Iterative Pseudo-Labeling for Speech Recognition@@@Conv + Transformer AM + Iterative Pseudo-Labeling (n-gram LM + Transformer Rescoring)","Qiantong Xu","Facebook",2020-05-19,"2.10",2020
+"Iterative Pseudo-Labeling for Speech Recognition@@@Conv + Transformer AM + Iterative Pseudo-Labeling (n-gram LM + Transformer Rescoring)","Tatiana Likhomanenko","Facebook",2020-05-19,"2.10",2020
+"Iterative Pseudo-Labeling for Speech Recognition@@@Conv + Transformer AM + Iterative Pseudo-Labeling (n-gram LM + Transformer Rescoring)","Jacob Kahn","Facebook",2020-05-19,"2.10",2020
+"Iterative Pseudo-Labeling for Speech Recognition@@@Conv + Transformer AM + Iterative Pseudo-Labeling (n-gram LM + Transformer Rescoring)","Awni Hannun","Facebook",2020-05-19,"2.10",2020
+"Iterative Pseudo-Labeling for Speech Recognition@@@Conv + Transformer AM + Iterative Pseudo-Labeling (n-gram LM + Transformer Rescoring)","Gabriel Synnaeve","Facebook",2020-05-19,"2.10",2020
+"Iterative Pseudo-Labeling for Speech Recognition@@@Conv + Transformer AM + Iterative Pseudo-Labeling (n-gram LM + Transformer Rescoring)","Ronan Collobert","Facebook",2020-05-19,"2.10",2020
+"Faster, Simpler and More Accurate Hybrid ASR Systems Using Wordpieces@@@CTC + Transformer LM rescoring","Frank Zhang","Facebook",2020-05-19,"2.10",2020
+"Faster, Simpler and More Accurate Hybrid ASR Systems Using Wordpieces@@@CTC + Transformer LM rescoring","Yongqiang Wang","Facebook",2020-05-19,"2.10",2020
+"Faster, Simpler and More Accurate Hybrid ASR Systems Using Wordpieces@@@CTC + Transformer LM rescoring","Xiaohui Zhang","Facebook",2020-05-19,"2.10",2020
+"Faster, Simpler and More Accurate Hybrid ASR Systems Using Wordpieces@@@CTC + Transformer LM rescoring","Chunxi Liu","Facebook",2020-05-19,"2.10",2020
+"Faster, Simpler and More Accurate Hybrid ASR Systems Using Wordpieces@@@CTC + Transformer LM rescoring","Yatharth Saraf","Facebook",2020-05-19,"2.10",2020
+"Faster, Simpler and More Accurate Hybrid ASR Systems Using Wordpieces@@@CTC + Transformer LM rescoring","Geoffrey Zweig","Facebook",2020-05-19,"2.10",2020
+"State-of-the-Art Speech Recognition Using Multi-Stream Self-Attention With Dilated 1D Convolutions@@@Multi-Stream Self-Attention With Dilated 1D Convolutions","Kyu Jeong Han","",2019-10-01,"2.20",2019
+"State-of-the-Art Speech Recognition Using Multi-Stream Self-Attention With Dilated 1D Convolutions@@@Multi-Stream Self-Attention With Dilated 1D Convolutions","Ramon Prieto","",2019-10-01,"2.20",2019
+"State-of-the-Art Speech Recognition Using Multi-Stream Self-Attention With Dilated 1D Convolutions@@@Multi-Stream Self-Attention With Dilated 1D Convolutions","Kaixing Wu","",2019-10-01,"2.20",2019
+"State-of-the-Art Speech Recognition Using Multi-Stream Self-Attention With Dilated 1D Convolutions@@@Multi-Stream Self-Attention With Dilated 1D Convolutions","Tao Ma","",2019-10-01,"2.20",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Yongqiang Wang","Facebook",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Abdel-rahman Mohamed","Facebook",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Due Le","Facebook",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Duc Le","Facebook",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Chunxi Liu","Facebook",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Alex Xiao","Facebook",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Jay Mahadeokar","Facebook",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Hongzhao Huang","",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Andros Tjandra","Nara Institute of Science and Technology",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Xiaohui Zhang","Facebook",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Frank Zhang","Facebook",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Geoffrey Zweig","",2019-10-22,"2.26",2019
+"Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring","Michael L. Seltzer","",2019-10-22,"2.26",2019
+"RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation@@@Hybrid model with Transformer rescoring","Christoph Lüscher","",2019-05-08,"2.3",2019
+"RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation@@@Hybrid model with Transformer rescoring","Eugen Beck","RWTH Aachen University",2019-05-08,"2.3",2019
+"RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation@@@Hybrid model with Transformer rescoring","Kazuki Irie","RWTH Aachen University",2019-05-08,"2.3",2019
+"RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation@@@Hybrid model with Transformer rescoring","Markus Kitza","RWTH Aachen University",2019-05-08,"2.3",2019
+"RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation@@@Hybrid model with Transformer rescoring","Wilfried Michel","RWTH Aachen University",2019-05-08,"2.3",2019
+"RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation@@@Hybrid model with Transformer rescoring","Albert Zeyer","RWTH Aachen University",2019-05-08,"2.3",2019
+"RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation@@@Hybrid model with Transformer rescoring","Ralf Schlüter","RWTH Aachen University",2019-05-08,"2.3",2019
+"RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation@@@Hybrid model with Transformer rescoring","Hermann Ney","RWTH Aachen University",2019-05-08,"2.3",2019
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","Wei Han","",2020-05-07,"2.3",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","Zhengdong Zhang","Google",2020-05-07,"2.3",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","Yu Zhang","",2020-05-07,"2.3",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","Yu-Jin Zhang","",2020-05-07,"2.3",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","Jiahui Yu","",2020-05-07,"2.3",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","Chung-Cheng Chiu","",2020-05-07,"2.3",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","James Qin","",2020-05-07,"2.3",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","Anmol Gulati","",2020-05-07,"2.3",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","Ruoming Pang","",2020-05-07,"2.3",2020
+"ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S)","Yonghui Wu","",2020-05-07,"2.3",2020
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only)","Gabriel Synnaeve","Facebook",2019-11-19,"2.31",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only)","Qiantong Xu","Facebook",2019-11-19,"2.31",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only)","Jacob Kahn","Facebook",2019-11-19,"2.31",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only)","Edouard Grave","Facebook",2019-11-19,"2.31",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only)","Tatiana Likhomanenko","Facebook",2019-11-19,"2.31",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only)","Vineel Pratap","Facebook",2019-11-19,"2.31",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only)","Anuroop Sriram","Facebook",2019-11-19,"2.31",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only)","Vitaliy Liptchinsky","Facebook",2019-11-19,"2.31",2019
+"End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only)","Ronan Collobert","Facebook",2019-11-19,"2.31",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS + SpecAugment ","Daniel S. Park","Google",2019-04-18,"2.5",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS + SpecAugment ","William Chan","Google",2019-04-18,"2.5",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS + SpecAugment ","Yu Zhang","Google",2019-04-18,"2.5",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS + SpecAugment ","Chung-Cheng Chiu","Google",2019-04-18,"2.5",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS + SpecAugment ","Barret Zoph","Google",2019-04-18,"2.5",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS + SpecAugment ","Ekin D. Cubuk","Google",2019-04-18,"2.5",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS + SpecAugment ","Quoc V. Le","Google",2019-04-18,"2.5",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Shigeki Karita","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Nanxin Chen","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Tomoki Hayashi","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Takaaki Hori","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Hirofumi Inaguma","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Ziyan Jiang","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Masao Someki","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Nelson Enrique Yalta Soplin","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Nelson Yalta","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Ryuichi Yamamoto","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Xiaofei Wang","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Takenori Yoshimura","",2019-09-13,"2.60",2019
+"A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer","Wangyou Zhang","",2019-09-13,"2.60",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS (no LM)","Daniel S. Park","Google",2019-04-18,"2.7",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS (no LM)","William Chan","Google",2019-04-18,"2.7",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS (no LM)","Yu Zhang","Google",2019-04-18,"2.7",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS (no LM)","Chung-Cheng Chiu","Google",2019-04-18,"2.7",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS (no LM)","Barret Zoph","Google",2019-04-18,"2.7",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS (no LM)","Ekin D. Cubuk","Google",2019-04-18,"2.7",2019
+"SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS (no LM)","Quoc V. Le","Google",2019-04-18,"2.7",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Yiming Wang","",2019-09-18,"2.8",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Tongfei Chen","",2019-09-18,"2.8",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Hainan Xu","",2019-09-18,"2.8",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Shuoyang Ding","",2019-09-18,"2.8",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Hang Lv","",2019-09-18,"2.8",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Yiwen Shao","",2019-09-18,"2.8",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Nanyun Peng","",2019-09-18,"2.8",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Lei Xie","",2019-09-18,"2.8",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Shinji Watanabe","",2019-09-18,"2.8",2019
+"Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso","Sanjeev Khudanpur","",2019-09-18,"2.8",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5 (+ Time/Freq Masks)","Jason Li","Nvidia",2019-04-05,"2.84",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5 (+ Time/Freq Masks)","Vitaly Lavrukhin","Nvidia",2019-04-05,"2.84",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5 (+ Time/Freq Masks)","Boris Ginsburg","Nvidia",2019-04-05,"2.84",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5 (+ Time/Freq Masks)","Ryan Leary","Nvidia",2019-04-05,"2.84",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5 (+ Time/Freq Masks)","Oleksii Kuchaiev","Nvidia",2019-04-05,"2.84",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5 (+ Time/Freq Masks)","Jonathan M. Cohen","Nvidia",2019-04-05,"2.84",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5 (+ Time/Freq Masks)","Huyen Nguyen","",2019-04-05,"2.84",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5 (+ Time/Freq Masks)","Ravi Teja Gadde","",2019-04-05,"2.84",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5","Jason Li","Nvidia",2019-04-05,"2.95",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5","Vitaly Lavrukhin","Nvidia",2019-04-05,"2.95",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5","Boris Ginsburg","Nvidia",2019-04-05,"2.95",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5","Ryan Leary","Nvidia",2019-04-05,"2.95",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5","Oleksii Kuchaiev","Nvidia",2019-04-05,"2.95",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5","Jonathan M. Cohen","Nvidia",2019-04-05,"2.95",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5","Huyen Nguyen","Nvidia",2019-04-05,"2.95",2019
+"Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5","Ravi Teja Gadde","",2019-04-05,"2.95",2019
+"Neural Network Language Modeling with Letter-based Features and Importance Sampling@@@tdnn + chain + rnnlm rescoring","Hainan Xu","Johns Hopkins University",2018-04-15,"3.06",2018
+"Neural Network Language Modeling with Letter-based Features and Importance Sampling@@@tdnn + chain + rnnlm rescoring","Ke Li","Johns Hopkins University",2018-04-15,"3.06",2018
+"Neural Network Language Modeling with Letter-based Features and Importance Sampling@@@tdnn + chain + rnnlm rescoring","Yiming Wang","Johns Hopkins University",2018-04-15,"3.06",2018
+"Neural Network Language Modeling with Letter-based Features and Importance Sampling@@@tdnn + chain + rnnlm rescoring","Jian Wang","",2018-04-15,"3.06",2018
+"Neural Network Language Modeling with Letter-based Features and Importance Sampling@@@tdnn + chain + rnnlm rescoring","Shiyin Kang","Tencent",2018-04-15,"3.06",2018
+"Neural Network Language Modeling with Letter-based Features and Importance Sampling@@@tdnn + chain + rnnlm rescoring","Xie Chen","University of Cambridge",2018-04-15,"3.06",2018
+"Neural Network Language Modeling with Letter-based Features and Importance Sampling@@@tdnn + chain + rnnlm rescoring","Daniel Povey","Johns Hopkins University",2018-04-15,"3.06",2018
+"Neural Network Language Modeling with Letter-based Features and Importance Sampling@@@tdnn + chain + rnnlm rescoring","Sanjeev Khudanpur","Johns Hopkins University",2018-04-15,"3.06",2018
+"Fully Convolutional Speech Recognition@@@Convolutional Speech Recognition","Neil Zeghidour","",2018-12-17,"3.26",2018
+"Fully Convolutional Speech Recognition@@@Convolutional Speech Recognition","Qiantong Xu","",2018-12-17,"3.26",2018
+"Fully Convolutional Speech Recognition@@@Convolutional Speech Recognition","Vitaliy Liptchinsky","",2018-12-17,"3.26",2018
+"Fully Convolutional Speech Recognition@@@Convolutional Speech Recognition","Nicolas Usunier","",2018-12-17,"3.26",2018
+"Fully Convolutional Speech Recognition@@@Convolutional Speech Recognition","Gabriel Synnaeve","",2018-12-17,"3.26",2018
+"Fully Convolutional Speech Recognition@@@Convolutional Speech Recognition","Ronan Collobert","",2018-12-17,"3.26",2018
+"On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition@@@Model Unit Exploration","Kazuki Irie","RWTH Aachen University",2019-02-05,"3.60",2019
+"On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition@@@Model Unit Exploration","Rohit Prabhavalkar","Google",2019-02-05,"3.60",2019
+"On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition@@@Model Unit Exploration","Anjuli Kannan","Google",2019-02-05,"3.60",2019
+"On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition@@@Model Unit Exploration","Antoine Bruguier","Google",2019-02-05,"3.60",2019
+"On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition@@@Model Unit Exploration","David Rybach","Google",2019-02-05,"3.60",2019
+"On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition@@@Model Unit Exploration","Patrick Nguyen","Google",2019-02-05,"3.60",2019
+"Improved training of end-to-end attention models for speech recognition@@@Seq-to-seq attention","Albert Zeyer","RWTH Aachen University",2018-05-08,"3.82",2018
+"Improved training of end-to-end attention models for speech recognition@@@Seq-to-seq attention","Kazuki Irie","RWTH Aachen University",2018-05-08,"3.82",2018
+"Improved training of end-to-end attention models for speech recognition@@@Seq-to-seq attention","Ralf Schlüter","RWTH Aachen University",2018-05-08,"3.82",2018
+"Improved training of end-to-end attention models for speech recognition@@@Seq-to-seq attention","Hermann Ney","RWTH Aachen University",2018-05-08,"3.82",2018
+"@@@HMM-TDNN trained with MMI + data augmentation (speed) + iVectors + 3 regularizations","","",NA,"4.3",NA
+"@@@HMM-TDNN + iVectors","","",NA,"4.8",NA
+"Letter-Based Speech Recognition with Gated ConvNets@@@Gated ConvNets","Vitaliy Liptchinsky","Facebook",2017-12-22,"4.8",2017
+"Letter-Based Speech Recognition with Gated ConvNets@@@Gated ConvNets","Gabriel Synnaeve","Facebook",2017-12-22,"4.8",2017
+"Letter-Based Speech Recognition with Gated ConvNets@@@Gated ConvNets","Ronan Collobert","Facebook",2017-12-22,"4.8",2017
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Dario Amodei","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Sundaram Ananthanarayanan","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Rishita Anubhai","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Jingliang Bai","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Eric Battenberg","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Carl Case","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Jared Casper","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Bryan Catanzaro","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Qiang Cheng","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Guoliang Chen","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Jun Zhan","Baidu",2015-12-08,"5.33",2015
+"Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2","Zhenyao Zhu","Baidu",2015-12-08,"5.33",2015
+"Improving End-to-End Speech Recognition with Policy Learning@@@CTC + policy learning","Yingbo Zhou","Salesforce.com",2017-12-19,"5.42",2017
+"Improving End-to-End Speech Recognition with Policy Learning@@@CTC + policy learning","Caiming Xiong","Salesforce.com",2017-12-19,"5.42",2017
+"Improving End-to-End Speech Recognition with Policy Learning@@@CTC + policy learning","Richard Socher","Salesforce.com",2017-12-19,"5.42",2017
+"@@@HMM-DNN + pNorm*","","",NA,"5.5",NA
+"The PyTorch-Kaldi Speech Recognition Toolkit@@@Li-GRU","Mirco Ravanelli","Université de Montréal",2018-11-19,"6.2",2018
+"The PyTorch-Kaldi Speech Recognition Toolkit@@@Li-GRU","Titouan Parcollet","",2018-11-19,"6.2",2018
+"The PyTorch-Kaldi Speech Recognition Toolkit@@@Li-GRU","Yoshua Bengio","Université de Montréal",2018-11-19,"6.2",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Alice Coucke","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Alaa Saade","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Adrien Ball","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Théodore Bluche","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Alexandre Caulier","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","David Leroy","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Clément Doumouro","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Thibault Gisselbrecht","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Francesco Caltagirone","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Thibaut Lavril","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Maël Primet","",2018-05-25,"6.4",2018
+"Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips","Joseph Dureau","",2018-05-25,"6.4",2018
+"Semi-Supervised Speech Recognition via Local Prior Matching@@@Local Prior Matching (Large Model)","Wei-Ning Hsu","",2020-02-24,"7.19",2020
+"Semi-Supervised Speech Recognition via Local Prior Matching@@@Local Prior Matching (Large Model)","Ann Lee","",2020-02-24,"7.19",2020
+"Semi-Supervised Speech Recognition via Local Prior Matching@@@Local Prior Matching (Large Model)","Gabriel Synnaeve","",2020-02-24,"7.19",2020
+"Semi-Supervised Speech Recognition via Local Prior Matching@@@Local Prior Matching (Large Model)","Awni Hannun","",2020-02-24,"7.19",2020
+"@@@HMM-(SAT)GMM","","",NA,"8.0",NA

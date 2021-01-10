@@ -1,0 +1,240 @@
+title,communities,metric,paper_date,communities_name
+Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (8 blocks/resolution),32,2.2,2020-11-26,{'Télécom ParisTech'}
+Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ cont. (4 blocks/resolution) ,32,2.38,2020-11-26,{'Télécom ParisTech'}
+Score-Based Generative Modeling through Stochastic Differential Equations@@@NCSN++ (4 blocks/resolution),32,2.45,2020-11-26,{'Télécom ParisTech'}
+Denoising Diffusion Probabilistic Models@@@Denoising Diffusion,2,3.17,2020-06-19,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Adversarial score matching and improved sampling for image generation@@@DSM-ALS,1,3.65,2020-09-11,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM (probability flow),32,3.77,2020-11-26,{'Télécom ParisTech'}
+Score-Based Generative Modeling through Stochastic Differential Equations@@@DDPM cont. (probability flow),32,4.02,2020-11-26,{'Télécom ParisTech'}
+Lessons Learned from the Training of GANs on Artificial Datasets@@@MIX-BigGAN,100,8.17,2020-07-13,set()
+Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-CR-BigGAN,5,8.49,2020-06-18,"{'East China Normal University', 'Shanghai Jiao Tong University', 'Massachusetts Institute of Technology'}"
+Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-BigGAN,5,8.7,2020-06-18,"{'East China Normal University', 'Shanghai Jiao Tong University', 'Massachusetts Institute of Technology'}"
+Differentiable Augmentation for Data-Efficient GAN Training@@@DiffAugment-StyleGAN2,5,9.89,2020-06-18,"{'East China Normal University', 'Shanghai Jiao Tong University', 'Massachusetts Institute of Technology'}"
+Improving GAN Training with Probability Ratio Clipping and Sample Reweighting@@@PPOGAN,9,10.7,2020-06-12,"{'Cornell University', 'Carnegie Mellon University', 'Salesforce.com', 'National Research University – Higher School of Economics', 'Moscow State University'}"
+Improved Techniques for Training Score-Based Generative Models@@@NCSNv2,67,10.87,2020-06-16,{'Stanford University'}
+Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search@@@E2GAN,5,11.26,2020-07-17,"{'East China Normal University', 'Shanghai Jiao Tong University', 'Massachusetts Institute of Technology'}"
+Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game@@@MSGAN,18,11.40,2019-11-16,"{'Singapore University of Technology and Design', 'University of Electronic Science and Technology of China'}"
+DEGAS: Differentiable Efficient Generator Search@@@DEGAS,83,12.01,2019-12-02,{'Tel Aviv University'}
+VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/ persistent chain,7,12.19,2020-10-01,"{'Nvidia', 'D-Wave Systems', 'University of Chicago', 'University of Illinois at Urbana–Champaign'}"
+VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models@@@VAEBM w/o persistent chain,7,12.26,2020-10-01,"{'Nvidia', 'D-Wave Systems', 'University of Chicago', 'University of Illinois at Urbana–Champaign'}"
+AutoGAN: Neural Architecture Search for Generative Adversarial Networks@@@AutoGAN,43,12.42,2019-08-11,"{'Texas A&M University', 'Huazhong University of Science and Technology', 'IBM'}"
+Adversarial Lipschitz Regularization@@@WGAN-ALP,84,12.96,2019-07-12,{'Saarland University'}
+Denoising Diffusion Probabilistic Models@@@DDPM (L),2,13.51,2020-06-19,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Consistency Regularization for Generative Adversarial Networks@@@CR-GAN (ResNet),44,14.56,2019-10-26,"{'Google', 'University of Michigan'}"
+Large Scale GAN Training for High Fidelity Natural Image Synthesis@@@BigGAN,63,14.73,2018-09-28,"{'Heriot-Watt University', 'Google'}"
+Self-Supervised GANs via Auxiliary Rotation Loss@@@SS-GAN (sBN),3,15.65,2018-11-27,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Progressive Augmentation of GANs@@@PA-GAN,85,16.1,2019-01-29,{'Bosch'}
+Improving MMD-GAN Training with Repulsive Loss Function@@@MMD-GAN-rep,64,16.21,2018-12-24,"{'Australian National University', 'University of Melbourne', 'RMIT University'}"
+$Π-$nets: Deep Polynomial Neural Networks@@@Pi-net,24,16.79,2020-03-08,"{'National and Kapodistrian University of Athens', 'Imperial College London'}"
+Dist-GAN: An Improved GAN using Distance Constraints@@@Dist-GAN,18,17.61,2018-03-23,"{'Singapore University of Technology and Design', 'University of Electronic Science and Technology of China'}"
+Dual Contradistinctive Generative Autoencoder@@@DC-VAE,9,17.9,2020-11-19,"{'Cornell University', 'Carnegie Mellon University', 'Salesforce.com', 'National Research University – Higher School of Economics', 'Moscow State University'}"
+Stable Rank Normalization for Improved Generalization in Neural Networks and GANs@@@SRN-GANs,12,19.83,2019-06-11,"{'Stanford University', 'Baidu', 'University of Oxford'}"
+Spectral Normalization for Generative Adversarial Networks@@@SN-GANs,45,21.7,2018-02-16,"{'National Institute of Informatics', 'Kyoto University', 'Ritsumeikan University'}"
+NCP-VAE: Variational Autoencoders with Noise Contrastive Priors@@@NCP-VAE,7,24.08,2020-10-06,"{'Nvidia', 'D-Wave Systems', 'University of Chicago', 'University of Illinois at Urbana–Champaign'}"
+GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium@@@WGAN-GP + TT Update Rule,3,24.8,2017-06-26,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+On gradient regularizers for MMD GANs@@@SN-SMMDGAN,46,25.0,2018-05-29,"{'University College London', 'Imperial College London'}"
+Generative Modeling by Estimating Gradients of the Data Distribution@@@NCSN,67,25.32,2019-07-12,{'Stanford University'}
+The relativistic discriminator: a key element missing from standard GAN@@@RSGAN-GP,1,25.60,2018-07-02,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Gradient penalty from a maximum margin perspective@@@HingeGAN,65,27.12,2019-10-15,"{'IBM', 'Stanford University'}"
+First Order Generative Adversarial Networks@@@FOGAN,3,27.4,2018-02-13,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis@@@MSGAN,33,28.73,2019-03-13,"{'Peking University', 'University of California, Merced'}"
+Improved Training of Wasserstein GANs@@@WGAN-GP,1,29.3,2017-03-31,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Generative Latent Flow@@@GLF+perceptual loss (ours),86,44.6,2019-05-24,"{'OpenAI', 'Google'}"
+Residual Flows for Invertible Generative Modeling@@@Residual Flow,2,46.37,2019-06-06,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Prescribed Generative Adversarial Networks@@@PresGAN,47,52.202,2019-10-09,set()
+"Progressive Growing of GANs for Improved Quality, Stability, and Variation@@@PGGAN",48,not available,2017-10-27,{'Nvidia'}
+Understanding and Stabilizing GANs' Training Dynamics with Control Theory@@@CLC-GAN,8,not available,2019-09-29,"{'Tsinghua University', 'Xiaomi'}"
+MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks@@@MSG-ProGAN,87,not available,2019-03-14,{'Adobe Systems'}
+Class-Splitting Generative Adversarial Networks@@@Splitting GAN,66,not available,2017-09-21,set()
+Image Synthesis with a Single (Robust) Classifier@@@Single Classifier,19,not available,2019-06-06,{'Massachusetts Institute of Technology'}
+LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation@@@LR-GAN,49,not available,2017-03-05,"{'Virginia Tech', 'Facebook'}"
+Calibrating Energy-based Generative Adversarial Networks@@@CEGAN-Ent-VI,1,not available,2017-02-06,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Improved Techniques for Training GANs@@@Improved GAN,2,not available,2016-06-10,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Generative Multi-Adversarial Networks@@@GMAN,88,not available,2016-11-05,{'Mitsubishi Electric Research Laboratories'}
+BEGAN: Boundary Equilibrium Generative Adversarial Networks@@@BEGAN,2,not available,2017-03-31,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Adversarially Learned Inference@@@ALI,1,not available,2016-06-02,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+@@@DistAug-Sparse Transformer 152M,,,,set()
+@@@DistAug-Sparse Transformer 58M,,,,set()
+Generating Long Sequences with Sparse Transformers@@@Sparse Transformer 59M (strided),2,not available,2019-04-23,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Preventing Posterior Collapse with delta-VAEs@@@δ-VAE,6+1,not available,2019-01-10,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'University of California, Berkeley', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Ghent University', 'Sharif University of Technology', 'Stanford University'}"
+Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images@@@Very Deep VAE,50,not available,2020-11-20,"{'Technical University of Denmark', 'Delhi Technological University'}"
+Image Transformer@@@Image Transformer,3,not available,2018-02-15,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+"Locally Masked Convolution for Autoregressive Models@@@Locally Masked PixelCNN, 8 orders",2,not available,2020-06-22,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+PixelVAE++: Improved PixelVAE with Discrete Prior@@@PixelVAE++ Sadeghi et al. (2019),7,not available,2019-08-26,"{'Nvidia', 'D-Wave Systems', 'University of Chicago', 'University of Illinois at Urbana–Champaign'}"
+NVAE: A Deep Hierarchical Variational Autoencoder@@@NVAE w/ flow,7,not available,2020-07-08,"{'Nvidia', 'D-Wave Systems', 'University of Chicago', 'University of Illinois at Urbana–Champaign'}"
+VFlow: More Expressive Generative Flows with Variational Data Augmentation@@@VFlow,8,not available,2020-02-22,"{'Tsinghua University', 'Xiaomi'}"
+Pixel Recurrent Neural Networks@@@PixelRNN,12,not available,2016-01-25,"{'Stanford University', 'Baidu', 'University of Oxford'}"
+Conditional Image Generation with PixelCNN Decoders@@@Gated PixelCNN,6,not available,2016-06-16,"{'Ghent University', 'Microsoft', 'Google', 'University of California, Berkeley'}"
+Augmented Normalizing Flows: Bridging the Gap Between Generative Flows and Latent Variable Models@@@ANF Huang et al. (2020),1,not available,2020-02-17,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design@@@Flow++,2,not available,2019-02-01,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling@@@BIVA Maaloe et al. (2019),50,not available,2019-02-06,"{'Technical University of Denmark', 'Delhi Technological University'}"
+Improved Variational Inference with Inverse Autoregressive Flow@@@VAE with IAF,2,not available,2016-12-01,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Pixel Recurrent Neural Networks@@@PixelCNN,12,not available,2016-01-25,"{'Stanford University', 'Baidu', 'University of Oxford'}"
+MaCow: Masked Convolutional Generative Flow@@@MaCow (Var),1,not available,2019-02-12,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+MintNet: Building Invertible Neural Networks with Masked Convolutions@@@MintNet,67,not available,2019-07-18,{'Stanford University'}
+"Glow: Generative Flow with Invertible 1x1 Convolutions@@@Glow (Kingma and Dhariwal, 2018)",86,not available,2018-07-09,"{'OpenAI', 'Google'}"
+DVAE++: Discrete Variational Autoencoders with Overlapping Transformations@@@DVAE++ Vahdat et al. ([2018b]),7,not available,2018-02-14,"{'Nvidia', 'D-Wave Systems', 'University of Chicago', 'University of Illinois at Urbana–Champaign'}"
+FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models@@@FFJORD,2,not available,2018-10-02,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Invertible Residual Networks@@@i-ResNet,2,not available,2018-11-02,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Generative Image Modeling Using Spatial LSTMs@@@RIDE,89,not available,2015-06-10,{'University of Tübingen'}
+"Density estimation using Real NVP@@@Real NVP (Dinh et al., 2017)",1,not available,2016-05-27,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Density estimation using Real NVP@@@Real NVP,1,not available,2016-05-27,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Super-resolution Variational Auto-Encoders@@@VAE+RealNVP,68,not available,2020-06-09,set()
+Towards Conceptual Compression@@@Conv DRAW,6,not available,2016-04-29,"{'Ghent University', 'Microsoft', 'Google', 'University of California, Berkeley'}"
+Super-resolution Variational Auto-Encoders@@@srVAE,68,not available,2020-06-09,set()
+Factoring Variations in Natural Images with Deep Gaussian Mixture Models@@@Deep GMM,6,not available,2014-12-01,"{'Ghent University', 'Microsoft', 'Google', 'University of California, Berkeley'}"
+DRAW: A Recurrent Neural Network For Image Generation@@@DRAW,6,not available,2015-02-16,"{'Ghent University', 'Microsoft', 'Google', 'University of California, Berkeley'}"
+Pixel Recurrent Neural Networks@@@NICE,12,not available,2016-01-25,"{'Stanford University', 'Baidu', 'University of Oxford'}"
+NICE: Non-linear Independent Components Estimation@@@NICE,1,not available,2014-10-30,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+"Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks@@@PCL (against PGD, white box)",25,not available,2019-04-01,"{'Australian National University', 'University of Canberra'}"
+MUXConv: Information Multiplexing in Convolutional Neural Networks@@@MUXNet-m,69,not available,2020-03-31,{'Michigan State University'}
+SGAS: Sequential Greedy Architecture Search@@@SGAS,20,not available,2019-11-30,"{'Leibniz University of Hanover', 'King Abdullah University of Science and Technology', 'Intel'}"
+Noisy Differentiable Architecture Search@@@NoisyDARTS,8,not available,2020-05-07,"{'Tsinghua University', 'Xiaomi'}"
+Searching for A Robust Neural Architecture in Four GPU Hours@@@GDAS (FRC),70,not available,2019-10-10,"{'University of Technology, Sydney'}"
+PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search@@@PC-DARTS-CIFAR,13,not available,2019-07-12,"{'Huawei', 'Tongji University', 'Shanghai Jiao Tong University'}"
+Learning Implicitly Recurrent CNNs Through Parameter Sharing@@@Soft Parameter Sharing,56,not available,2019-02-26,"{'Federal University of Rio de Janeiro', 'University of Chicago'}"
+Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search@@@FairDARTS-a,8,not available,2019-11-27,"{'Tsinghua University', 'Xiaomi'}"
+One-Shot Neural Architecture Search via Self-Evaluated Template Network@@@SETN (T=1K) + CutOut,70,not available,2019-10-13,"{'University of Technology, Sydney'}"
+AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search@@@AlphaX-1 (cutout NASNet),11,not available,2019-03-26,"{'University of California, San Diego', 'Microsoft'}"
+Searching for A Robust Neural Architecture in Four GPU Hours@@@GDAS,70,not available,2019-10-10,"{'University of Technology, Sydney'}"
+Neural Architecture Transfer@@@NAT-M1,3,not available,2020-05-12,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Neural Architecture Transfer@@@NAT-M2,3,not available,2020-05-12,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Neural Architecture Transfer@@@NAT-M3,3,not available,2020-05-12,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Neural Architecture Transfer@@@NAT-M4,3,not available,2020-05-12,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+SCAN: Learning to Classify Images without Labels@@@SCAN,34,not available,2020-05-25,set()
+SCAN: Learning to Classify Images without Labels@@@SCAN (Avg),34,not available,2020-05-25,set()
+Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction@@@MCR2,16,not available,2020-06-15,"{'ShanghaiTech University', 'Tsinghua University', 'Agency for Science, Technology and Research', 'MediaTek', 'University of Macau'}"
+Deep Comprehensive Correlation Mining for Image Clustering@@@DCCM,21,not available,2019-04-15,"{'Peking University', 'SenseTime', 'Chinese Academy of Sciences'}"
+Deep Adaptive Image Clustering@@@DAC,35,not available,2017-10-01,{'Chinese Academy of Sciences'}
+Balanced Self-Paced Learning for Generative Adversarial Clustering Network@@@ClusterGAN,51,not available,2019-06-01,"{'Xidian University', 'University of Pittsburgh'}"
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@GAN,2,not available,2015-11-19,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Unsupervised Deep Embedding for Clustering Analysis@@@DEC,71,not available,2015-11-19,"{'University of Washington', 'Facebook'}"
+Auto-Encoding Variational Bayes@@@VAE,52,not available,2013-12-20,"{'University of California, Berkeley'}"
+Joint Unsupervised Learning of Deep Representations and Image Clusters@@@JULE,49,not available,2016-04-13,"{'Virginia Tech', 'Facebook'}"
+Sharpness-Aware Minimization for Efficiently Improving Generalization@@@EffNet-L2 (SAM),53,not available,2020-10-03,{'Google'}
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-H/14,3,not available,2020-10-22,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale@@@ViT-L/16,3,not available,2020-10-22,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Big Transfer (BiT): General Visual Representation Learning@@@BiT-L (ResNet),3,not available,2019-12-24,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Sample-Efficient Neural Architecture Search by Learning Action Space for Monte Carlo Tree Search@@@LaNet,11,not available,2019-01-01,"{'University of California, San Diego', 'Microsoft'}"
+GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism@@@GPIPE + transfer learning,4,not available,2018-11-16,{'Google'}
+TResNet: High Performance GPU-Dedicated Architecture@@@TResNet-XL,54,not available,2020-03-30,set()
+Big Transfer (BiT): General Visual Representation Learning@@@BiT-M (ResNet),3,not available,2019-12-24,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks@@@EfficientNet-B7,4,not available,2019-05-28,{'Google'}
+"SplitNet: Divide and Co-training@@@PyramidNet-272, S=4",10,not available,2020-11-30,{'Alibaba Group'}
+FMix: Enhancing Mixed Sample Data Augmentation@@@PyramidNet + ShakeDrop + Fast AA + FMix,26,not available,2020-02-27,{'University of Southampton'}
+Sharpness-Aware Minimization for Efficiently Improving Generalization@@@PyramidNet (SAM),53,not available,2020-10-03,{'Google'}
+ColorNet -- Estimating Colorfulness in Natural Images@@@ColorNet,72,not available,2019-08-22,"{'Trinity College, Dublin'}"
+"SplitNet: Divide and Co-training@@@WRN-40-10, S=4",10,not available,2020-11-30,{'Alibaba Group'}
+Rethinking Recurrent Neural Networks and other Improvements for Image Classification@@@E2E-3M,90,not available,2020-07-30,{'University of Coimbra'}
+"SplitNet: Divide and Co-training@@@WRN-28-10, S=4",10,not available,2020-11-30,{'Alibaba Group'}
+"SplitNet: Divide and Co-training@@@Shake-Shake 26 2x96d, S=4",10,not available,2020-11-30,{'Alibaba Group'}
+Fast AutoAugment@@@PyramidNet+ShakeDrop (Fast AA),36,not available,2019-05-01,set()
+Noisy Differentiable Architecture Search@@@NoisyDARTS-A-t,8,not available,2020-05-07,"{'Tsinghua University', 'Xiaomi'}"
+SpinalNet: Deep Neural Network with Gradual Input@@@Wide-ResNet-101,22,not available,2020-07-07,set()
+EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning@@@EnAET,13,not available,2019-11-21,"{'Huawei', 'Tongji University', 'Shanghai Jiao Tong University'}"
+ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware@@@Proxyless-G + c/o,5,not available,2018-12-02,"{'East China Normal University', 'Shanghai Jiao Tong University', 'Massachusetts Institute of Technology'}"
+Squeeze-and-Excitation Networks@@@SENet + ShakeShake + Cutout,73,not available,2017-09-05,{'University of Oxford'}
+Fixup Initialization: Residual Learning Without Normalization@@@WRN + fixup init + mixup + cutout,1,not available,2019-01-27,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Noisy Differentiable Architecture Search@@@NoisyDARTS-a,8,not available,2020-05-07,"{'Tsinghua University', 'Xiaomi'}"
+batchboost: regularization for stabilizing training with resistance to underfitting & overfitting@@@DenseNet-BC-190 + batchboost,101,not available,2020-01-21,set()
+Learning Implicitly Recurrent CNNs Through Parameter Sharing@@@Shared WRN,56,not available,2019-02-26,"{'Federal University of Rio de Janeiro', 'University of Chicago'}"
+Manifold Mixup: Better Representations by Interpolating Hidden States@@@Manifold Mixup WRN 28-10,1,not available,2018-06-13,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+mixup: Beyond Empirical Risk Minimization@@@DenseNet-BC-190 + Mixup,1,not available,2017-10-25,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Averaging Weights Leads to Wider Optima and Better Generalization@@@ShakeShake-2x64d + SWA,9,not available,2018-03-14,"{'Cornell University', 'Carnegie Mellon University', 'Salesforce.com', 'National Research University – Higher School of Economics', 'Moscow State University'}"
+CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features@@@PyramidNet-200 + CutMix,17,not available,2019-05-13,"{'Yonsei University', 'Naver Corporation', 'KAIST'}"
+Averaging Weights Leads to Wider Optima and Better Generalization@@@WRN-28-10 + SWA,9,not available,2018-03-14,"{'Cornell University', 'Carnegie Mellon University', 'Salesforce.com', 'National Research University – Higher School of Economics', 'Moscow State University'}"
+Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems@@@Wide ResNet+cutout,31,not available,2019-07-16,"{'University of California, San Diego', 'University of Sydney', 'University of South Australia'}"
+Deep Pyramidal Residual Networks@@@Deep pyramidal residual network,17,not available,2016-10-10,"{'Yonsei University', 'Naver Corporation', 'KAIST'}"
+Deep Competitive Pathway Networks@@@CoPaNet-R-164,91,not available,2017-09-29,set()
+Densely Connected Convolutional Networks@@@DenseNet (DenseNet-BC-190),28,not available,2016-08-25,"{'Tsinghua University', 'Cornell University', 'Facebook'}"
+"Selective Kernel Networks@@@SKNet-29 (ResNeXt-29, 16×32d)",55,not available,2019-03-15,"{'Tsinghua University', 'Nanjing University', 'Nanjing University of Science and Technology'}"
+Fractional Max-Pooling@@@Fractional MP,102,not available,2014-12-18,{'University of Warwick'}
+Neural Architecture Search with Reinforcement Learning@@@Neural Architecture Search,4,not available,2016-11-05,{'Google'}
+Training Neural Networks with Local Error Signals@@@VGG11B(2x) + LocalLearning + CO,92,not available,2019-01-20,{'Columbia University'}
+Learning Identity Mappings with Residual Gates@@@Residual Gates + WRN,56,not available,2016-11-04,"{'Federal University of Rio de Janeiro', 'University of Chicago'}"
+Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet@@@SimpleNetv2,27,not available,2018-02-17,set()
+Wide Residual Networks@@@Wide ResNet,93,not available,2016-05-23,set()
+Regularizing Neural Networks via Adversarial Model Perturbation@@@PreActResNet18+AMP,74,not available,2020-10-10,set()
+Striving for Simplicity: The All Convolutional Net@@@ACN,3,not available,2014-12-21,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Large-Scale Evolution of Image Classifiers@@@Evolution ensemble,4,not available,2017-03-03,{'Google'}
+"Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures@@@SimpleNetv1",27,not available,2016-08-22,set()
+Identity Mappings in Deep Residual Networks@@@ResNet-1001,57,not available,2016-03-16,{'Microsoft'}
+SRM : A Style-based Recalibration Module for Convolutional Neural Networks@@@SRM-ResNet-56,75,not available,2019-03-26,set()
+MixMatch: A Holistic Approach to Semi-Supervised Learning@@@MixMatch,2,not available,2019-05-06,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Sparse Networks from Scratch: Faster Training without Losing Performance@@@WRN-22-8 (Sparse Momentum),94,not available,2019-07-10,{'University of Washington'}
+Encoding the latent posterior of Bayesian Neural Networks for uncertainty quantification@@@LP-BNN (ours) + cutout,95,not available,2020-12-04,{'University of Notre Dame'}
+Deep Networks with Stochastic Depth@@@Stochastic Depth,28,not available,2016-03-30,"{'Tsinghua University', 'Cornell University', 'Facebook'}"
+Large-Scale Evolution of Image Classifiers@@@Evolution,4,not available,2017-03-03,{'Google'}
+Efficient Architecture Search by Network Transformation@@@RL+NT,5,not available,2017-07-16,"{'East China Normal University', 'Shanghai Jiao Tong University', 'Massachusetts Institute of Technology'}"
+Deep Residual Networks with Exponential Linear Unit@@@ResNet+ELU,37,not available,2016-04-14,{'Beijing University of Posts and Telecommunications'}
+Deep Complex Networks@@@Deep Complex,38,not available,2017-05-27,{'Stanford University'}
+Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods@@@Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods,103,not available,2020-01-24,{'Pace University'}
+All you need is a good init@@@Fitnet4-LSUV,96,not available,2015-11-19,{'Czech Technical University in Prague'}
+Mish: A Self Regularized Non-Monotonic Activation Function@@@ResNet 9 + Mish,104,not available,2019-08-23,set()
+Adaptively Connected Neural Networks@@@Standard ACNet,76,not available,2019-04-07,"{'Sun Yat-sen University', 'University of California, Los Angeles'}"
+"Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree@@@Tree+Max-Avg pooling",11,not available,2015-09-30,"{'University of California, San Diego', 'Microsoft'}"
+On the Relationship between Self-Attention and Convolutional Layers@@@SA quadratic embedding,77,not available,2019-11-08,{'École Polytechnique Fédérale de Lausanne'}
+Spatially-sparse convolutional neural networks@@@SSCNN,102,not available,2014-09-22,{'University of Warwick'}
+Scalable Bayesian Optimization Using Deep Neural Networks@@@Tuned CNN,14,not available,2015-02-19,"{'Université de Sherbrooke', 'Lawrence Berkeley National Laboratory', 'Massachusetts Institute of Technology', 'Intel', 'Harvard University', 'University of Toronto'}"
+Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)@@@Exponential Linear Units,3,not available,2015-11-23,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Batch-normalized Maxout Network in Network@@@BNM NiN,91,not available,2015-11-09,set()
+Universum Prescription: Regularization using Unlabeled Data@@@Universum Prescription,29,not available,2015-11-11,{'New York University'}
+Competitive Multi-scale Convolution@@@CMsC,97,not available,2015-11-18,{'University of Adelaide'}
+@@@RCNN-96,,,,set()
+Learning Activation Functions to Improve Deep Neural Networks@@@NiN+APL,58,not available,2014-12-21,"{'Adobe Systems', 'University of California, Irvine', 'University of Michigan'}"
+@@@cifar.torch,,,,set()
+Training Very Deep Networks@@@VDN,15,not available,2015-07-22,{'Dalle Molle Institute for Artificial Intelligence Research'}
+Stacked What-Where Auto-encoders@@@SWWAE,29,not available,2015-06-08,{'New York University'}
+Mish: A Self Regularized Non-Monotonic Activation Function@@@ResNet v2-20 (Mish activation),104,not available,2019-08-23,set()
+@@@MLR DNN,,,,set()
+Deeply-Supervised Nets@@@DSN,11,not available,2014-09-18,"{'University of California, San Diego', 'Microsoft'}"
+BinaryConnect: Training Deep Neural Networks with binary weights during propagations@@@BinaryConnect,1,not available,2015-11-02,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities@@@CLS-GAN,13,not available,2017-01-23,"{'Huawei', 'Tongji University', 'Shanghai Jiao Tong University'}"
+On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units@@@MIM,97,not available,2015-08-03,{'University of Adelaide'}
+SpinalNet: Deep Neural Network with Gradual Input@@@VGG-19(Spinal FC),22,not available,2020-07-07,set()
+Spectral Representations for Convolutional Neural Networks@@@Spectral Representations for Convolutional Neural Networks,14,not available,2015-06-11,"{'Université de Sherbrooke', 'Lawrence Berkeley National Laboratory', 'Massachusetts Institute of Technology', 'Intel', 'Harvard University', 'University of Toronto'}"
+RMDL: Random Multimodel Deep Learning for Classification@@@RMDL (30 RDLs),39,not available,2018-05-03,{'University of Virginia'}
+Network In Network@@@Network in Network,23,not available,2013-12-16,"{'Microsoft', 'University of Washington'}"
+@@@ELC,,,,set()
+Deep Networks with Internal Selective Attention through Feedback Connections@@@Deep Networks with Internal Selective Attention through Feedback Connections,15,not available,2014-07-11,{'Dalle Molle Institute for Artificial Intelligence Research'}
+@@@DropConnect,,,,set()
+Maxout Networks@@@Maxout Network (k=2),2+1,not available,2013-02-18,"{'Lawrence Livermore National Laboratory', 'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'Aalto University', 'Sharif University of Technology', 'University of Toronto', 'Stanford University'}"
+Improving Deep Neural Networks with Probabilistic Maxout Units@@@DNN+Probabilistic Maxout,3,not available,2013-12-20,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Practical Bayesian Optimization of Machine Learning Algorithms@@@GP EI,14,not available,2012-06-13,"{'Université de Sherbrooke', 'Lawrence Berkeley National Laboratory', 'Massachusetts Institute of Technology', 'Intel', 'Harvard University', 'University of Toronto'}"
+APAC: Augmented PAttern Classification with Neural Networks@@@APAC,78,not available,2015-05-13,set()
+Dynamic Routing Between Capsules@@@ensemble of 7 models,2,not available,2017-10-26,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Deep Convolutional Neural Networks as Generic Feature Extractors@@@DCNN+GFE,59,not available,2017-10-06,set()
+ImageNet Classification with Deep Convolutional Neural Networks@@@DCNN,2,not available,2012-12-01,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+Multi-column Deep Neural Networks for Image Classification@@@MCDNN,15,not available,2012-02-13,{'Dalle Molle Institute for Artificial Intelligence Research'}
+Empirical Evaluation of Rectified Activations in Convolutional Network@@@RReLU,60,not available,2015-05-05,set()
+ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks@@@ReNet,1,not available,2015-05-03,"{'École Polytechnique de Montréal', 'Microsoft', 'Jewish General Hospital', 'Google', 'Carnegie Mellon University', 'Facebook', 'Massachusetts Institute of Technology', 'Université de Montréal', 'Aalto University', 'Sharif University of Technology', 'Stanford University'}"
+An Analysis of Unsupervised Pre-training in Light of Recent Advances@@@An Analysis of Unsupervised Pre-training in Light of Recent Advances,40,not available,2014-12-20,{'University of Illinois at Urbana–Champaign'}
+Stochastic Pooling for Regularization of Deep Convolutional Neural Networks@@@Stochastic Pooling,98,not available,2013-01-16,{'New York University'}
+Improving neural networks by preventing co-adaptation of feature detectors@@@Improving neural networks by preventing co-adaptation of feature detectors,2,not available,2012-07-03,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+@@@Discriminative Learning of Sum-Product Networks,,,,set()
+Unsupervised Learning using Pretrained CNN and Associative Memory Bank@@@UL-Hopfield (ULH),99,not available,2018-05-02,{'Louisiana State University'}
+@@@Nonnegativity Constraints ,,,,set()
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@DCGAN,2,not available,2015-11-19,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+@@@Local Transformations,,,,set()
+Convolutional Kernel Networks@@@CKN,30,not available,2014-06-12,"{'Cornell University', 'Google', 'Carnegie Mellon University', 'Baidu', 'Princeton University'}"
+Discriminative Unsupervised Feature Learning with Convolutional Neural Networks@@@Discriminative Unsupervised Feature Learning with Convolutional Neural Networks,3,not available,2014-12-01,"{'Google', 'Massachusetts Institute of Technology', 'Johannes Kepler University of Linz', 'University of California, Los Angeles', 'University of Freiburg'}"
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks@@@1 Layer K-means,2,not available,2015-11-19,"{'Lawrence Livermore National Laboratory', 'Carnegie Mellon University', 'Google', 'Canadian Institute for Advanced Research', 'University of California, Berkeley', 'Facebook', 'Université de Montréal', 'OpenAI', 'University of Bremen', 'University of Toronto'}"
+@@@Hierarchical Kernel Descriptors,,,,set()
+@@@Smooth Pooling Regions,,,,set()
+Learning with Recursive Perceptual Representations@@@Learning with Recursive Perceptual Representations,6,not available,2012-12-01,"{'Ghent University', 'Microsoft', 'Google', 'University of California, Berkeley'}"
+@@@An Analysis of Single-Layer Networks in Unsupervised Feature Learning ,,,,set()
+PCANet: A Simple Deep Learning Baseline for Image Classification?@@@PCANet,16,not available,2014-04-14,"{'ShanghaiTech University', 'Tsinghua University', 'Agency for Science, Technology and Research', 'MediaTek', 'University of Macau'}"
+Enhanced Image Classification With a Fast-Learning Shallow Convolutional Neural Network@@@FLSCNN,31,not available,2015-03-16,"{'University of California, San Diego', 'University of Sydney', 'University of South Australia'}"
+Augmented Neural ODEs@@@ANODE,79,not available,2019-04-02,{'University of Oxford'}
+How Important is Weight Symmetry in Backpropagation?@@@Sign-symmetry,80,not available,2015-10-17,{'Massachusetts Institute of Technology'}
+Feature Space Singularity for Out-of-Distribution Detection@@@ResNet 34 + FSSD,61,not available,2020-11-30,{'China University of Geosciences'}
+Outlier Exposure with Confidence Control for Out-of-Distribution Detection@@@WRN 40-2 + OECC,62,not available,2019-06-08,{'University of Southern California'}
+Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 + OE,41,not available,2018-12-11,"{'Oregon State University', 'University of California, Berkeley', 'University of Illinois at Urbana–Champaign'}"
+Deep Anomaly Detection with Outlier Exposure@@@WRN 40-2 (MSP Baseline),41,not available,2018-12-11,"{'Oregon State University', 'University of California, Berkeley', 'University of Illinois at Urbana–Champaign'}"
+Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty@@@WRN 40-2 + Rotation Prediction,41,not available,2019-06-28,"{'Oregon State University', 'University of California, Berkeley', 'University of Illinois at Urbana–Champaign'}"
+Network Pruning via Transformable Architecture Search@@@TAS-pruned ResNet-110,70,not available,2019-05-23,"{'University of Technology, Sydney'}"
+Quantisation and Pruning for Neural Network Compression and Regularisation@@@MobileNet – Quantised,81,not available,2020-01-14,{'University of the Witwatersrand'}
+Quantisation and Pruning for Neural Network Compression and Regularisation@@@AlexNet – Quantised,81,not available,2020-01-14,{'University of the Witwatersrand'}
+Quantisation and Pruning for Neural Network Compression and Regularisation@@@ShuffleNet – Quantised,81,not available,2020-01-14,{'University of the Witwatersrand'}
+Deep Triplet Quantization@@@DTQ,42,not available,2019-02-01,"{'Tsinghua University', 'Microsoft'}"
+Masked Autoregressive Flow for Density Estimation@@@MAF,82,not available,2017-05-19,set()

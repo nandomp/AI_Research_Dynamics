@@ -1,0 +1,264 @@
+"title","authors","affiliations","paper_date","metric","year"
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Ikuya Yamada","",2020-10-02,"94.3",2020
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Akari Asai","University of Washington",2020-10-02,"94.3",2020
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Hiroyuki Shindo","Nara Institute of Science and Technology",2020-10-02,"94.3",2020
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Hideaki Takeda","National Institute of Informatics",2020-10-02,"94.3",2020
+"LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention@@@LUKE","Yuji Matsumoto","Nara Institute of Science and Technology",2020-10-02,"94.3",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE + document-context","Xinyu Wang","ShanghaiTech University",2020-10-10,"94.14",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE + document-context","Yong Jiang","ShanghaiTech University",2020-10-10,"94.14",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE + document-context","Nguyen Bach","Alibaba Group",2020-10-10,"94.14",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE + document-context","Tao Wang","Alibaba Group",2020-10-10,"94.14",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE + document-context","Zhongqiang Huang","Alibaba Group",2020-10-10,"94.14",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE + document-context","Fei Huang","Alibaba Group",2020-10-10,"94.14",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE + document-context","Kewei Tu","Alibaba Group",2020-10-10,"94.14",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Xinyu Wang","ShanghaiTech University",2020-10-10,"93.64",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Yong Jiang","ShanghaiTech University",2020-10-10,"93.64",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Nguyen Bach","Alibaba Group",2020-10-10,"93.64",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Tao Wang","Alibaba Group",2020-10-10,"93.64",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Zhongqiang Huang","Alibaba Group",2020-10-10,"93.64",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Fei Huang","Alibaba Group",2020-10-10,"93.64",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Kewei Tu","Alibaba Group",2020-10-10,"93.64",2020
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large + fine-tune","Alexei Baevski","Facebook",2019-03-19,"93.5",2019
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large + fine-tune","Sergey Edunov","Facebook",2019-03-19,"93.5",2019
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large + fine-tune","Yinhan Liu","Facebook",2019-03-19,"93.5",2019
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large + fine-tune","Luke Zettlemoyer","Facebook",2019-03-19,"93.5",2019
+"Cloze-driven Pretraining of Self-attention Networks@@@CNN Large + fine-tune","Michael Auli","Facebook",2019-03-19,"93.5",2019
+"Named Entity Recognition as Dependency Parsing@@@Biaffine-NER","Juntao Yu","Queen Mary University of London",2020-05-14,"93.5",2020
+"Named Entity Recognition as Dependency Parsing@@@Biaffine-NER","Bernd Bohnet","Google",2020-05-14,"93.5",2020
+"Named Entity Recognition as Dependency Parsing@@@Biaffine-NER","Massimo Poesio","Queen Mary University of London",2020-05-14,"93.5",2020
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT + BERT-L","Yijin Liu","",2019-06-06,"93.47",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT + BERT-L","Fandong Meng","Beijing Jiaotong University",2019-06-06,"93.47",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT + BERT-L","Jinchao Zhang","Beijing Jiaotong University",2019-06-06,"93.47",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT + BERT-L","Jinan Xu","Tencent",2019-06-06,"93.47",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT + BERT-L","Yufeng Chen","Tencent",2019-06-06,"93.47",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT + BERT-L","Jie Zhou","Tencent",2019-06-06,"93.47",2019
+"Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition@@@I-DARTS + Flair","Yufan Jiang","",2019-11-01,"93.47",2019
+"Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition@@@I-DARTS + Flair","Chi Hu","",2019-11-01,"93.47",2019
+"Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition@@@I-DARTS + Flair","Tong Xiao","",2019-11-01,"93.47",2019
+"Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition@@@I-DARTS + Flair","Chunliang Zhang","Northeastern University",2019-11-01,"93.47",2019
+"Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition@@@I-DARTS + Flair","Jingbo Zhu","Northeastern University",2019-11-01,"93.47",2019
+"CrossWeigh: Training Named Entity Tagger from Imperfect Annotations@@@CrossWeigh + Pooled Flair","Zihan Wang","University of Illinois at Urbana–Champaign",2019-09-03,"93.43",2019
+"CrossWeigh: Training Named Entity Tagger from Imperfect Annotations@@@CrossWeigh + Pooled Flair","Jingbo Shang","University of Illinois at Urbana–Champaign",2019-09-03,"93.43",2019
+"CrossWeigh: Training Named Entity Tagger from Imperfect Annotations@@@CrossWeigh + Pooled Flair","Liyuan Liu","University of Southern California",2019-09-03,"93.43",2019
+"CrossWeigh: Training Named Entity Tagger from Imperfect Annotations@@@CrossWeigh + Pooled Flair","Lihao Lu","",2019-09-03,"93.43",2019
+"CrossWeigh: Training Named Entity Tagger from Imperfect Annotations@@@CrossWeigh + Pooled Flair","Jiacheng Liu","",2019-09-03,"93.43",2019
+"CrossWeigh: Training Named Entity Tagger from Imperfect Annotations@@@CrossWeigh + Pooled Flair","Jiawei Han","University of Illinois at Urbana–Champaign",2019-09-03,"93.43",2019
+"Neural Architectures for Nested NER through Linearization@@@LSTM-CRF+ELMo+BERT+Flair","Jana Straková","Charles University in Prague",2019-08-19,"93.38",2019
+"Neural Architectures for Nested NER through Linearization@@@LSTM-CRF+ELMo+BERT+Flair","Milan Straka","Charles University in Prague",2019-08-19,"93.38",2019
+"Neural Architectures for Nested NER through Linearization@@@LSTM-CRF+ELMo+BERT+Flair","Jan Hajic","Charles University in Prague",2019-08-19,"93.38",2019
+"Neural Architectures for Nested NER through Linearization@@@LSTM-CRF+ELMo+BERT+Flair","Jan Hajic","Charles University in Prague",2019-08-19,"93.38",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical + BERT","Ying Luo","Shanghai Jiao Tong University",2019-11-06,"93.37",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical + BERT","Fengshun Xiao","Shanghai Jiao Tong University",2019-11-06,"93.37",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical + BERT","Hai Zhao","Shanghai Jiao Tong University",2019-11-06,"93.37",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Xiaoya Li","",2019-11-07,"93.33",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Xiaofei Sun","Stony Brook University",2019-11-07,"93.33",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Yuxian Meng","",2019-11-07,"93.33",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Junjun Liang","",2019-11-07,"93.33",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Fei Wu","Zhejiang University",2019-11-07,"93.33",2019
+"Dice Loss for Data-imbalanced NLP Tasks@@@BERT-MRC+DSC","Jiwei Li","",2019-11-07,"93.33",2019
+"Pooled Contextualized Embeddings for Named Entity Recognition@@@Flair embeddings + Pooling","Alan Akbik","IBM",2019-06-01,"93.18",2019
+"Pooled Contextualized Embeddings for Named Entity Recognition@@@Flair embeddings + Pooling","Tanja Bergmann","",2019-06-01,"93.18",2019
+"Pooled Contextualized Embeddings for Named Entity Recognition@@@Flair embeddings + Pooling","Roland Vollgraf","",2019-06-01,"93.18",2019
+"Contextual String Embeddings for Sequence Labeling@@@Flair embeddings","Alan Akbik","IBM",2018-08-01,"93.09",2018
+"Contextual String Embeddings for Sequence Labeling@@@Flair embeddings","Duncan A. J. Blythe","German Center for Neurodegenerative Diseases",2018-08-01,"93.09",2018
+"Contextual String Embeddings for Sequence Labeling@@@Flair embeddings","Roland Vollgraf","",2018-08-01,"93.09",2018
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Xiaoya Li","",2019-10-25,"93.04",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Jingrong Feng","",2019-10-25,"93.04",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Yuxian Meng","",2019-10-25,"93.04",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Qinghong Han","",2019-10-25,"93.04",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Fei Wu","Zhejiang University",2019-10-25,"93.04",2019
+"A Unified MRC Framework for Named Entity Recognition@@@BERT-MRC","Jiwei Li","",2019-10-25,"93.04",2019
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Large","Jacob Devlin","Google",2018-10-11,"92.8",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Large","Ming-Wei Chang","Google",2018-10-11,"92.8",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Large","Kenton Lee","Google",2018-10-11,"92.8",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Large","Kristina Toutanova","Google",2018-10-11,"92.8",2018
+"Towards Improving Neural Named Entity Recognition with Gazetteers@@@HSCRF + softdict","Tianyu Liu","",2019-07-01,"92.75",2019
+"Towards Improving Neural Named Entity Recognition with Gazetteers@@@HSCRF + softdict","Jin-Ge Yao","Microsoft",2019-07-01,"92.75",2019
+"Towards Improving Neural Named Entity Recognition with Gazetteers@@@HSCRF + softdict","Chin-Yew Lin","Microsoft",2019-07-01,"92.75",2019
+"TENER: Adapting Transformer Encoder for Named Entity Recognition@@@TENER","Hang Yan","Fudan University",2019-11-10,"92.62",2019
+"TENER: Adapting Transformer Encoder for Named Entity Recognition@@@TENER","Bocao Deng","Fudan University",2019-11-10,"92.62",2019
+"TENER: Adapting Transformer Encoder for Named Entity Recognition@@@TENER","Xiaonan Li","",2019-11-10,"92.62",2019
+"TENER: Adapting Transformer Encoder for Named Entity Recognition@@@TENER","Xipeng Qiu","",2019-11-10,"92.62",2019
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task","Kevin Clark","Stanford University",2018-09-22,"92.61",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task","Minh-Thang Luong","Google",2018-09-22,"92.61",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task","Christopher D. Manning","Stanford University",2018-09-22,"92.61",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task","Quoc V. Le","Carnegie Mellon University",2018-09-22,"92.61",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large","Kevin Clark","Stanford University",2018-09-22,"92.61",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large","Minh-Thang Luong","Google",2018-09-22,"92.61",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large","Christopher D. Manning","Stanford University",2018-09-22,"92.61",2018
+"Semi-Supervised Sequence Modeling with Cross-View Training@@@CVT + Multi-Task + Large","Quoc V. Le","Google",2018-09-22,"92.61",2018
+"Joint Learning of Named Entity Recognition and Entity Linking@@@Stack LSTM","Pedro Henrique Martins","",2019-07-18,"92.43",2019
+"Joint Learning of Named Entity Recognition and Entity Linking@@@Stack LSTM","Zita Marinho","",2019-07-18,"92.43",2019
+"Joint Learning of Named Entity Recognition and Entity Linking@@@Stack LSTM","André F. T. Martins","University of Lisbon",2019-07-18,"92.43",2019
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Base","Jacob Devlin","Google",2018-10-11,"92.4",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Base","Ming-Wei Chang","Google",2018-10-11,"92.4",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Base","Kenton Lee","Google",2018-10-11,"92.4",2018
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding@@@BERT Base","Kristina Toutanova","Google",2018-10-11,"92.4",2018
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Hui Chen","Tsinghua University",2019-07-12,"92.34",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Zijia Lin","Microsoft",2019-07-12,"92.34",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Guiguang Ding","Tsinghua University",2019-07-12,"92.34",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Jian-Guang Lou","Microsoft",2019-07-12,"92.34",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Yusen Zhang","Beijing Institute of Technology",2019-07-12,"92.34",2019
+"GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition@@@GRN","Börje F. Karlsson","Microsoft",2019-07-12,"92.34",2019
+"Evaluating the Utility of Hand-crafted Features in Sequence Labelling@@@Neural-CRF+AE","Minghao Wu","",2018-08-28,"92.29",2018
+"Evaluating the Utility of Hand-crafted Features in Sequence Labelling@@@Neural-CRF+AE","Fei Liu","Xerox",2018-08-28,"92.29",2018
+"Evaluating the Utility of Hand-crafted Features in Sequence Labelling@@@Neural-CRF+AE","Trevor Cohn","University of Melbourne",2018-08-28,"92.29",2018
+"Multi-Grained Named Entity Recognition@@@MGNER","Congying Xia","University of Illinois at Chicago",2019-06-20,"92.28",2019
+"Multi-Grained Named Entity Recognition@@@MGNER","Chenwei Zhang","University of Illinois at Chicago",2019-06-20,"92.28",2019
+"Multi-Grained Named Entity Recognition@@@MGNER","Tao Yang","Tencent",2019-06-20,"92.28",2019
+"Multi-Grained Named Entity Recognition@@@MGNER","Yaliang Li","Alibaba Group",2019-06-20,"92.28",2019
+"Multi-Grained Named Entity Recognition@@@MGNER","Nan Du","Tencent",2019-06-20,"92.28",2019
+"Multi-Grained Named Entity Recognition@@@MGNER","Xian Wu","Tencent",2019-06-20,"92.28",2019
+"Multi-Grained Named Entity Recognition@@@MGNER","Wei Fan","Tencent",2019-06-20,"92.28",2019
+"Multi-Grained Named Entity Recognition@@@MGNER","Fenglong Ma","Penn State College of Information Sciences and Technology",2019-06-20,"92.28",2019
+"Multi-Grained Named Entity Recognition@@@MGNER","Philip S. Yu","University of Illinois at Chicago",2019-06-20,"92.28",2019
+"Deep contextualized word representations@@@BiLSTM-CRF+ELMo","Matthew E. Peters","Allen Institute for Artificial Intelligence",2018-02-15,"92.22",2018
+"Deep contextualized word representations@@@BiLSTM-CRF+ELMo","Mark Neumann","Allen Institute for Artificial Intelligence",2018-02-15,"92.22",2018
+"Deep contextualized word representations@@@BiLSTM-CRF+ELMo","Mohit Iyyer","Allen Institute for Artificial Intelligence",2018-02-15,"92.22",2018
+"Deep contextualized word representations@@@BiLSTM-CRF+ELMo","Matt Gardner","Allen Institute for Artificial Intelligence",2018-02-15,"92.22",2018
+"Deep contextualized word representations@@@BiLSTM-CRF+ELMo","Christopher Clark","University of Washington",2018-02-15,"92.22",2018
+"Deep contextualized word representations@@@BiLSTM-CRF+ELMo","Kenton Lee","University of Washington",2018-02-15,"92.22",2018
+"Deep contextualized word representations@@@BiLSTM-CRF+ELMo","Luke Zettlemoyer","University of Washington",2018-02-15,"92.22",2018
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Kun Han","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Junwen Chen","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Hui Zhang","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Haiyang Xu","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Yiping Peng","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Yun Wang","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Ning Ding","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Hui Deng","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Yonghu Gao","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Tingwei Guo","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Hui Song","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Song Hui","",2019-08-02,"92.2",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER ELMO)","Xiangang Li","",2019-08-02,"92.2",2019
+"Generalizing Natural Language Analysis through Span-relation Representations@@@SpanRel","Zhengbao Jiang","Carnegie Mellon University",2019-11-10,"92.2",2019
+"Generalizing Natural Language Analysis through Span-relation Representations@@@SpanRel","Wei Xu","Ohio State University",2019-11-10,"92.2",2019
+"Generalizing Natural Language Analysis through Span-relation Representations@@@SpanRel","Jun Araki","Bosch",2019-11-10,"92.2",2019
+"Generalizing Natural Language Analysis through Span-relation Representations@@@SpanRel","Graham Neubig","University of California, San Diego",2019-11-10,"92.2",2019
+"Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling@@@LD-Net","Liyuan Liu","University of Illinois at Urbana–Champaign",2018-04-20,"92.03",2018
+"Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling@@@LD-Net","Xiang Ren","University of Southern California",2018-04-20,"92.03",2018
+"Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling@@@LD-Net","Jingbo Shang","University of Illinois at Urbana–Champaign",2018-04-20,"92.03",2018
+"Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling@@@LD-Net","Xiaotao Gu","University of Illinois at Urbana–Champaign",2018-04-20,"92.03",2018
+"Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling@@@LD-Net","Jian Peng","Illinois College",2018-04-20,"92.03",2018
+"Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling@@@LD-Net","Jiawei Han","University of Illinois at Urbana–Champaign",2018-04-20,"92.03",2018
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT","Yijin Liu","",2019-06-06,"91.96",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT","Fandong Meng","Tencent",2019-06-06,"91.96",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT","Jinchao Zhang","Beijing Jiaotong University",2019-06-06,"91.96",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT","Jinan Xu","Tencent",2019-06-06,"91.96",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT","Yufeng Chen","Tencent",2019-06-06,"91.96",2019
+"GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling@@@GCDT","Jie Zhou","Tencent",2019-06-06,"91.96",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical","Ying Luo","Shanghai Jiao Tong University",2019-11-06,"91.96",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical","Fengshun Xiao","Shanghai Jiao Tong University",2019-11-06,"91.96",2019
+"Hierarchical Contextualized Representation for Named Entity Recognition@@@Hierarchical","Hai Zhao","Shanghai Jiao Tong University",2019-11-06,"91.96",2019
+"Semi-supervised sequence tagging with bidirectional language models@@@TagLM","Matthew E. Peters","Allen Institute for Artificial Intelligence",2017-04-29,"91.93",2017
+"Semi-supervised sequence tagging with bidirectional language models@@@TagLM","Waleed Ammar","Carnegie Mellon University",2017-04-29,"91.93",2017
+"Semi-supervised sequence tagging with bidirectional language models@@@TagLM","Chandra Bhagavatula","Northwestern University",2017-04-29,"91.93",2017
+"Semi-supervised sequence tagging with bidirectional language models@@@TagLM","Russell Power","Allen Institute for Artificial Intelligence",2017-04-29,"91.93",2017
+"Evaluating the Utility of Hand-crafted Features in Sequence Labelling@@@CRF + AutoEncoder","Minghao Wu","",2018-08-28,"91.87",2018
+"Evaluating the Utility of Hand-crafted Features in Sequence Labelling@@@CRF + AutoEncoder","Fei Liu","Xerox",2018-08-28,"91.87",2018
+"Evaluating the Utility of Hand-crafted Features in Sequence Labelling@@@CRF + AutoEncoder","Trevor Cohn","University of Melbourne",2018-08-28,"91.87",2018
+"A Prism Module for Semantic Disentanglement in Name Entity Recognition@@@PRISM","Kun Liu","",2019-07-01,"91.8",2019
+"A Prism Module for Semantic Disentanglement in Name Entity Recognition@@@PRISM","Shen Li","Beijing Normal University",2019-07-01,"91.8",2019
+"A Prism Module for Semantic Disentanglement in Name Entity Recognition@@@PRISM","Daqi Zheng","",2019-07-01,"91.8",2019
+"A Prism Module for Semantic Disentanglement in Name Entity Recognition@@@PRISM","Zhengdong Lu","",2019-07-01,"91.8",2019
+"A Prism Module for Semantic Disentanglement in Name Entity Recognition@@@PRISM","Sheng Gao","Beijing University of Posts and Telecommunications",2019-07-01,"91.8",2019
+"A Prism Module for Semantic Disentanglement in Name Entity Recognition@@@PRISM","Si Li","Beijing University of Posts and Telecommunications",2019-07-01,"91.8",2019
+"@@@GraphIE (GCN+BiLSTM)","","",NA,"91.74",NA
+"Learning Better Internal Structure of Words for Sequence Labeling@@@IntNet + BiLSTM-CRF","Yingwei Xin","",2018-10-29,"91.64",2018
+"Learning Better Internal Structure of Words for Sequence Labeling@@@IntNet + BiLSTM-CRF","Vibhuti Mahajan","",2018-10-29,"91.64",2018
+"Learning Better Internal Structure of Words for Sequence Labeling@@@IntNet + BiLSTM-CRF","Ethan Hart","eBay",2018-10-29,"91.64",2018
+"Learning Better Internal Structure of Words for Sequence Labeling@@@IntNet + BiLSTM-CRF","Jean David Ruvini","",2018-10-29,"91.64",2018
+"Neural Reranking for Named Entity Recognition@@@Yang et al. ([2017a])","Jie Yang","Singapore University of Technology and Design",2017-07-17,"91.62",2017
+"Neural Reranking for Named Entity Recognition@@@Yang et al. ([2017a])","Yue Zhang","Singapore University of Technology and Design",2017-07-17,"91.62",2017
+"Neural Reranking for Named Entity Recognition@@@Yang et al. ([2017a])","Fei Dong","",2017-07-17,"91.62",2017
+"Sentence-State LSTM for Text Representation@@@S-LSTM","Yue Zhang","Singapore University of Technology and Design",2018-05-07,"91.57",2018
+"Sentence-State LSTM for Text Representation@@@S-LSTM","Qi Liu","University of Science and Technology of China",2018-05-07,"91.57",2018
+"Sentence-State LSTM for Text Representation@@@S-LSTM","Linfeng Song","University of Rochester",2018-05-07,"91.57",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Tao Gui","Fudan University",2018-11-09,"91.56",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Qi Zhang","Fudan University",2018-11-09,"91.56",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Lujun Zhao","Fudan University",2018-11-09,"91.56",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Yaosong Lin","Fudan University",2018-11-09,"91.56",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Minlong Peng","Fudan University",2018-11-09,"91.56",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Jingjing Gong","Fudan University",2018-11-09,"91.56",2018
+"Long Short-Term Memory with Dynamic Skip Connections@@@LSTM with dynamic skip","Xuanjing Huang","Fudan University",2018-11-09,"91.56",2018
+"Robust Multilingual Part-of-Speech Tagging via Adversarial Training@@@Adversarial Bi-LSTM","Michihiro Yasunaga","Yale University",2017-11-14,"91.56",2017
+"Robust Multilingual Part-of-Speech Tagging via Adversarial Training@@@Adversarial Bi-LSTM","Jungo Kasai","University of Washington",2017-11-14,"91.56",2017
+"Robust Multilingual Part-of-Speech Tagging via Adversarial Training@@@Adversarial Bi-LSTM","Dragomir R. Radev","Yale University",2017-11-14,"91.56",2017
+"Hybrid semi-Markov CRF for Neural Sequence Labeling@@@HSCRF","Zhi-Xiu Ye","University of Science and Technology of China",2018-05-10,"91.38",2018
+"Hybrid semi-Markov CRF for Neural Sequence Labeling@@@HSCRF","Zhen-Hua Ling","University of Science and Technology of China",2018-05-10,"91.38",2018
+"NCRF++: An Open-source Neural Sequence Labeling Toolkit@@@NCRF++","Jie Yang","Brigham and Women's Hospital",2018-06-14,"91.35",2018
+"NCRF++: An Open-source Neural Sequence Labeling Toolkit@@@NCRF++","Yue Zhang","Singapore University of Technology and Design",2018-06-14,"91.35",2018
+"Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks@@@Yang et al.","Zhilin Yang","Carnegie Mellon University",2017-03-18,"91.26",2017
+"Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks@@@Yang et al.","Ruslan Salakhutdinov","Carnegie Mellon University",2017-03-18,"91.26",2017
+"Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks@@@Yang et al.","William W. Cohen","Carnegie Mellon University",2017-03-18,"91.26",2017
+"Empower Sequence Labeling with Task-Aware Neural Language Model@@@LM-LSTM-CRF","Liyuan Liu","University of Illinois at Urbana–Champaign",2017-09-13,"91.24",2017
+"Empower Sequence Labeling with Task-Aware Neural Language Model@@@LM-LSTM-CRF","Jingbo Shang","University of Illinois at Urbana–Champaign",2017-09-13,"91.24",2017
+"Empower Sequence Labeling with Task-Aware Neural Language Model@@@LM-LSTM-CRF","Frank F. Xu","Shanghai Jiao Tong University",2017-09-13,"91.24",2017
+"Empower Sequence Labeling with Task-Aware Neural Language Model@@@LM-LSTM-CRF","Xiang Ren","University of Southern California",2017-09-13,"91.24",2017
+"Empower Sequence Labeling with Task-Aware Neural Language Model@@@LM-LSTM-CRF","Huan Gui","Facebook",2017-09-13,"91.24",2017
+"Empower Sequence Labeling with Task-Aware Neural Language Model@@@LM-LSTM-CRF","Jian Peng","University of Illinois at Urbana–Champaign",2017-09-13,"91.24",2017
+"Empower Sequence Labeling with Task-Aware Neural Language Model@@@LM-LSTM-CRF","Jiawei Han","University of Illinois at Urbana–Champaign",2017-09-13,"91.24",2017
+"A Deep Neural Network Model for the Task of Named Entity Recognition@@@Bi-LSTM-CNN-CRF","Mohammed Attia","Dublin City University",2018-02-01,"91.22",2018
+"A Deep Neural Network Model for the Task of Named Entity Recognition@@@Bi-LSTM-CNN-CRF","Younes Samih","University of Düsseldorf",2018-02-01,"91.22",2018
+"A Deep Neural Network Model for the Task of Named Entity Recognition@@@Bi-LSTM-CNN-CRF","Wolfgang Maier","University of Freiburg",2018-02-01,"91.22",2018
+"End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF@@@BLSTM-CNN-CRF","Xuezhe Ma","Carnegie Mellon University",2016-03-04,"91.21",2016
+"End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF@@@BLSTM-CNN-CRF","Eduard Hovy","Carnegie Mellon University",2016-03-04,"91.21",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@Bi-LSTM + Logic rules","Zhiting Hu","Carnegie Mellon University",2016-03-21,"91.18",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@Bi-LSTM + Logic rules","Xuezhe Ma","Carnegie Mellon University",2016-03-21,"91.18",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@Bi-LSTM + Logic rules","Zhengzhong Liu","Carnegie Mellon University",2016-03-21,"91.18",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@Bi-LSTM + Logic rules","Eduard Hovy","Carnegie Mellon University",2016-03-21,"91.18",2016
+"Harnessing Deep Neural Networks with Logic Rules@@@Bi-LSTM + Logic rules","Eric P. Xing","Carnegie Mellon University",2016-03-21,"91.18",2016
+"Neural Architectures for Named Entity Recognition@@@LSTM-CRF","Guillaume Lample","Carnegie Mellon University",2016-03-04,"90.94",2016
+"Neural Architectures for Named Entity Recognition@@@LSTM-CRF","Miguel Ballesteros","Pompeu Fabra University",2016-03-04,"90.94",2016
+"Neural Architectures for Named Entity Recognition@@@LSTM-CRF","Sandeep Subramanian","Carnegie Mellon University",2016-03-04,"90.94",2016
+"Neural Architectures for Named Entity Recognition@@@LSTM-CRF","Kazuya Kawakami","Google",2016-03-04,"90.94",2016
+"Neural Architectures for Named Entity Recognition@@@LSTM-CRF","Chris Dyer","Carnegie Mellon University",2016-03-04,"90.94",2016
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Dinghan Shen","Duke University",2018-05-24,"86.28",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Guoyin Wang","Duke University",2018-05-24,"86.28",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Wenlin Wang","Duke University",2018-05-24,"86.28",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Martin Renqiang Min","Princeton University",2018-05-24,"86.28",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Qinliang Su","Duke University",2018-05-24,"86.28",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Zhang Yizhe","University of Notre Dame",2018-05-24,"86.28",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Yizhe Zhang","University of Notre Dame",2018-05-24,"86.28",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Chunyuan Li","Duke University",2018-05-24,"86.28",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Ricardo Henao","Duke University",2018-05-24,"86.28",2018
+"Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms@@@SWEM-CRF","Lawrence Carin","Duke University",2018-05-24,"86.28",2018
+"Variational Sequential Labelers for Semi-Supervised Learning@@@VSL-GG-Hier","Mingda Chen","Toyota Technological Institute at Chicago",2019-06-23,"84.7",2019
+"Variational Sequential Labelers for Semi-Supervised Learning@@@VSL-GG-Hier","Qingming Tang","Toyota Technological Institute at Chicago",2019-06-23,"84.7",2019
+"Variational Sequential Labelers for Semi-Supervised Learning@@@VSL-GG-Hier","Karen Livescu","Toyota Technological Institute at Chicago",2019-06-23,"84.7",2019
+"Variational Sequential Labelers for Semi-Supervised Learning@@@VSL-GG-Hier","Kevin Gimpel","Toyota Technological Institute at Chicago",2019-06-23,"84.7",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Kun Han","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Junwen Chen","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Hui Zhang","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Haiyang Xu","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Yiping Peng","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Yun Wang","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Ning Ding","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Hui Deng","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Yonghu Gao","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Tingwei Guo","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Hui Song","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Song Hui","",2019-08-02,"84.6",2019
+"DELTA: A DEep learning based Language Technology plAtform@@@DELTA (NER BLSTM-CRF)","Xiangang Li","",2019-08-02,"84.6",2019
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Xinyu Wang","ShanghaiTech University",2020-10-10,"92.5",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Yong Jiang","ShanghaiTech University",2020-10-10,"92.5",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Nguyen Bach","Alibaba Group",2020-10-10,"92.5",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Tao Wang","Alibaba Group",2020-10-10,"92.5",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Zhongqiang Huang","Alibaba Group",2020-10-10,"92.5",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Fei Huang","Alibaba Group",2020-10-10,"92.5",2020
+"Automated Concatenation of Embeddings for Structured Prediction@@@ACE","Kewei Tu","Alibaba Group",2020-10-10,"92.5",2020
+"More Embeddings, Better Sequence Labelers?@@@Wang et al., 2020","Xinyu Wang","ShanghaiTech University",2020-09-17,"92.0",2020
+"More Embeddings, Better Sequence Labelers?@@@Wang et al., 2020","Yong Jiang","ShanghaiTech University",2020-09-17,"92.0",2020
+"More Embeddings, Better Sequence Labelers?@@@Wang et al., 2020","Nguyen Bach","Alibaba Group",2020-09-17,"92.0",2020
+"More Embeddings, Better Sequence Labelers?@@@Wang et al., 2020","Tao Wang","Alibaba Group",2020-09-17,"92.0",2020
+"More Embeddings, Better Sequence Labelers?@@@Wang et al., 2020","Zhongqiang Huang","Alibaba Group",2020-09-17,"92.0",2020
+"More Embeddings, Better Sequence Labelers?@@@Wang et al., 2020","Fei Huang","Alibaba Group",2020-09-17,"92.0",2020
+"More Embeddings, Better Sequence Labelers?@@@Wang et al., 2020","Kewei Tu","Alibaba Group",2020-09-17,"92.0",2020
+"AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network@@@AIN","Xinyu Wang","ShanghaiTech University",2020-09-17,"91.71",2020
+"AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network@@@AIN","Yong Jiang","ShanghaiTech University",2020-09-17,"91.71",2020
+"AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network@@@AIN","Nguyen Bach","Alibaba Group",2020-09-17,"91.71",2020
+"AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network@@@AIN","Tao Wang","Alibaba Group",2020-09-17,"91.71",2020
+"AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network@@@AIN","Zhongqiang Huang","Alibaba Group",2020-09-17,"91.71",2020
+"AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network@@@AIN","Fei Huang","",2020-09-17,"91.71",2020
+"AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network@@@AIN","Kewei Tu","Alibaba Group",2020-09-17,"91.71",2020

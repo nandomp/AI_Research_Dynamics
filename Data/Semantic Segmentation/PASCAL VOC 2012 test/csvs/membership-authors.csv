@@ -1,0 +1,242 @@
+"author","community"
+"Chenxi Liu",1
+"Liang-Chieh Chen",1
+"Florian Schroff",1
+"Hartwig Adam",1
+"Wei Hua",1
+"Alan L. Yuille",1
+"Li Fei-Fei",1
+"Jifeng Dai",3
+"Kaiming He",3
+"Jian Sun",3
+"Hang Zhang",2
+"Han Zhang",2
+"Chenguang Wang",2
+"Junyuan Xie",2
+"Shuai Zheng",6
+"Sadeep Jayasumana",6
+"Bernardino Romera-Paredes",6
+"Vibhav Vineet",6
+"Zhizhong Su",6
+"Dalong Du",6
+"Chang Huang",6
+"Philip H. S. Torr",6
+"Hang Zhang",2
+"Kristin J. Dana",2
+"Jianping Shi",2
+"Zhongyue Zhang",2
+"Xiaogang Wang",2
+"Ambrish Tyagi",2
+"Amit K Agruwul",2
+"Amit Agrawal",2
+"Hang Zhang",2
+"Kristin J. Dana",2
+"Jianping Shi",2
+"Zhongyue Zhang",2
+"Xiaogang Wang",2
+"Ambrish Tyagi",2
+"Amit K Agruwul",2
+"Amit Agrawal",2
+"Xiong Zhang",10
+"Hongmin Xu",10
+"Hong Mo",10
+"Jianchao Tan",10
+"Cheng Yang",10
+"Wenqi Ren",10
+"Liang-Chieh Chen",1
+"George Papandreou",1
+"Iasonas Kokkinos",1
+"Kevin Murphy",1
+"Alan L. Yuille",1
+"Sachin Mehta",14
+"Hannaneh Hajishirzi",14
+"Mohammad Rastegari",14
+"Jun Fu",4
+"Jing Liu",4
+"Haijie Tian",4
+"Yong Li",4
+"Yongjun Bao",4
+"Zhiwei Fang",4
+"Hanqing Lu",4
+"Zhiyuan Zhang",19
+"Binh-Son Hua",19
+"Sai-Kit Yeung",19
+"Liang-Chieh Chen",1
+"Yukun Zhu",1
+"George Papandreou",1
+"Florian Schroff",1
+"Hartwig Adam",1
+"Liang-Chieh Chen",1
+"Yukun Zhu",1
+"George Papandreou",1
+"Florian Schroff",1
+"Hartwig Adam",1
+"Sachin Mehta",14
+"Mohammad Rastegari",14
+"Anat Caspi",14
+"Linda G. Shapiro",14
+"Hannaneh Hajishirzi",14
+"Sachin Mehta",14
+"Mohammad Rastegari",14
+"Linda G. Shapiro",14
+"Hannaneh Hajishirzi",14
+"Zhenli Zhang",3
+"Xiangyu Zhang",3
+"Chao Peng",3
+"Xiangyang Xue",3
+"Jian Sun",3
+"Seong Joon Oh",7
+"Rodrigo Benenson",7
+"Anna Khoreva",7
+"Zeynep Akata",7
+"Mario Fritz",7
+"Bernt Schiele",7
+"Siddhartha Chandra",1
+"Iasonas Kokkinos",1
+"Jonathan Long",21
+"Evan Shelhamer",21
+"Trevor Darrell",21
+"Jonathan Long",21
+"Evan Shelhamer",21
+"Trevor Darrell",21
+"Chao Peng",3
+"Xiangyu Zhang",3
+"Gang Yu",3
+"Guiming Luo",3
+"Jian Sun",3
+"Changqian Yu",3
+"Jingbo Wang",3
+"Chao Peng",3
+"Changxin Gao",3
+"Gang Yu",3
+"Nong Sang",3
+"Changqian Yu",3
+"Jingbo Wang",3
+"Chao Peng",3
+"Changxin Gao",3
+"Gang Yu",3
+"Nong Sang",3
+"Vladimir Nekrasov",8
+"Chunhua Shen",8
+"Ian Reid",8
+"Vladimir Nekrasov",8
+"Chunhua Shen",8
+"Ian Reid",8
+"Vladimir Nekrasov",8
+"Chunhua Shen",8
+"Ian Reid",8
+"Vladimir Nekrasov",8
+"Chunhua Shen",8
+"Ian Reid",8
+"Fisher Yu",20
+"V. Koltun",20
+"Vladlen Koltun",20
+"Yuan Jianlong",9
+"Jianlong Yuan",9
+"Deng Zelu",9
+"Zelu Deng",9
+"Shu Wang",9
+"Zhenbo Luo",9
+"Xiaoxiao Li",12
+"Ziwei Liu",12
+"Ping Luo",12
+"Chen Change Loy",12
+"Xiaoou Tang",12
+"Yuhui Yuan",16
+"Xilin Chen",16
+"Jingdong Wang",16
+"Yuhui Yuan",16
+"Xilin Chen",16
+"Jingdong Wang",16
+"Wei Liu",18
+"Andrew Rabinovich",18
+"Alexander C. Berg",18
+"Hengshuang Zhao",2
+"Jianping Shi",2
+"Xiaojuan Qi",2
+"Xiaogang Wang",2
+"Jiaya Jia",2
+"Hengshuang Zhao",2
+"Jianping Shi",2
+"Xiaojuan Qi",2
+"Xiaogang Wang",2
+"Jiaya Jia",2
+"Guosheng Lin",8
+"Anton Milan",8
+"Chunhua Shen",8
+"Ian Reid",8
+"Bingfeng Zhang",13
+"Jimin Xiao",13
+"Yunchao Wei",13
+"Mingjie Sun",13
+"Kaizhu Huang",13
+"Liang-Chieh Chen",1
+"George Papandreou",1
+"Florian Schroff",1
+"Hartwig Adam",1
+"Barret Zoph",1
+"Golnaz Ghiasi",1
+"Tsung-Yi Lin",1
+"Yin Cui",1
+"Hanxiao Liu",1
+"Ekin D. Cubuk",1
+"Quoc V. Le",1
+"Liang-Chieh Chen",1
+"Maxwell D. Collins",1
+"Yukun Zhu",1
+"George Papandreou",1
+"Barret Zoph",1
+"Florian Schroff",1
+"Hartwig Adam",1
+"Jonathon Shlens",1
+"Wataru Shimoda",23
+"Keiji Yanai",23
+"Liang-Chieh Chen",1
+"George Papandreou",1
+"Iasonas Kokkinos",1
+"Kevin Murphy",1
+"Alan L. Yuille",1
+"Juntang Zhuang",15
+"Junlin Yang",15
+"Lin Gu",15
+"Nicha C. Dvornek",15
+"Anna Khoreva",7
+"Rodrigo Benenson",7
+"Jan Hosang",7
+"Matthias Hein",7
+"Bernt Schiele",7
+"Garrick Brazil",22
+"Xi Yin",22
+"Xiaoming Liu",22
+"Zilong Zhong",5
+"Zhong Qiu Lin",5
+"Rene Bidart",5
+"Xiaodan Hu",5
+"Ibrahim Ben Daya",5
+"Zhifeng Li",5
+"Wei-Shi Zheng",5
+"Jonathan Li",5
+"Alexander Wong",5
+"Zilong Zhong",5
+"Zhong Qiu Lin",5
+"Rene Bidart",5
+"Xiaodan Hu",5
+"Ibrahim Ben Daya",5
+"Zhifeng Li",5
+"Wei-Shi Zheng",5
+"Jonathan Li",5
+"Alexander Wong",5
+"Jun Fu",4
+"Jing Liu",4
+"Yuhang Wang",4
+"Jin Zhou",4
+"Changyong Wang",4
+"Hanqing Lu",4
+"Maoke Yang",11
+"Kun Yu",11
+"Chi Zhang",11
+"Zhiwei Li",11
+"Kuiyuan Yang",11
+"Zifeng Wu",8
+"Chunhua Shen",8
+"Anton van den Hengel",8

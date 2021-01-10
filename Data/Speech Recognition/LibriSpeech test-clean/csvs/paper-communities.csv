@@ -1,0 +1,36 @@
+title,communities,metric,paper_date,communities_name
+Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition@@@Conformer + Wav2vec 2.0 + SpecAugment-based Noisy Student Training with Libri-Light,2,1.4,2020-10-20,{'Google'}
+Improved Noisy Student Training for Automatic Speech Recognition@@@ContextNet + SpecAugment-based Noisy Student Training with Libri-Light,2,1.7,2020-05-19,{'Google'}
+ASAPP-ASR: Multistream CNN and Self-Attentive SRU for SOTA Speech Recognition@@@Multistream CNN with Self-Attentive SRU,9,1.75,2020-05-21,set()
+wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations@@@wav2vec 2.0 with Libri-Light,1,1.8,2020-06-20,"{'Nara Institute of Science and Technology', 'Facebook'}"
+ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(L),2,1.9,2020-05-07,{'Google'}
+ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(M),2,2,2020-05-07,{'Google'}
+Improving RNN Transducer Based ASR with Auxiliary Tasks@@@Transformer Transducer,11,2.0,2020-11-05,{'Carnegie Mellon University'}
+End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM + Pseudo-Labeling (ConvLM with Transformer Rescoring),4,2.03,2019-11-19,{'Facebook'}
+Iterative Pseudo-Labeling for Speech Recognition@@@Conv + Transformer AM + Iterative Pseudo-Labeling (n-gram LM + Transformer Rescoring),4,2.10,2020-05-19,{'Facebook'}
+"Faster, Simpler and More Accurate Hybrid ASR Systems Using Wordpieces@@@CTC + Transformer LM rescoring",1,2.10,2020-05-19,"{'Nara Institute of Science and Technology', 'Facebook'}"
+State-of-the-Art Speech Recognition Using Multi-Stream Self-Attention With Dilated 1D Convolutions@@@Multi-Stream Self-Attention With Dilated 1D Convolutions,9,2.20,2019-10-01,set()
+Transformer-based Acoustic Modeling for Hybrid Speech Recognition@@@Hybrid + Transformer LM rescoring,1,2.26,2019-10-22,"{'Nara Institute of Science and Technology', 'Facebook'}"
+RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation@@@Hybrid model with Transformer rescoring,6,2.3,2019-05-08,"{'RWTH Aachen University', 'Google'}"
+ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context@@@ContextNet(S),2,2.3,2020-05-07,{'Google'}
+End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures@@@Conv + Transformer AM (ConvLM  with Transformer Rescoring) (LS only),4,2.31,2019-11-19,{'Facebook'}
+SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS + SpecAugment ,2,2.5,2019-04-18,{'Google'}
+A Comparative Study on Transformer vs RNN in Speech Applications@@@Transformer,5,2.60,2019-09-13,set()
+SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition@@@LAS (no LM),2,2.7,2019-04-18,{'Google'}
+Espresso: A Fast End-to-end Neural Speech Recognition Toolkit@@@Espresso,3,2.8,2019-09-18,"{'University of Cambridge', 'Tencent', 'Johns Hopkins University'}"
+Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5 (+ Time/Freq Masks),10,2.84,2019-04-05,{'Nvidia'}
+Jasper: An End-to-End Convolutional Neural Acoustic Model@@@Jasper DR 10x5,10,2.95,2019-04-05,{'Nvidia'}
+Neural Network Language Modeling with Letter-based Features and Importance Sampling@@@tdnn + chain + rnnlm rescoring,3,3.06,2018-04-15,"{'University of Cambridge', 'Tencent', 'Johns Hopkins University'}"
+Fully Convolutional Speech Recognition@@@Convolutional Speech Recognition,4,3.26,2018-12-17,{'Facebook'}
+On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition@@@Model Unit Exploration,6,3.60,2019-02-05,"{'RWTH Aachen University', 'Google'}"
+Improved training of end-to-end attention models for speech recognition@@@Seq-to-seq attention,6,3.82,2018-05-08,"{'RWTH Aachen University', 'Google'}"
+@@@HMM-TDNN trained with MMI + data augmentation (speed) + iVectors + 3 regularizations,,,,set()
+@@@HMM-TDNN + iVectors,,,,set()
+Letter-Based Speech Recognition with Gated ConvNets@@@Gated ConvNets,4,4.8,2017-12-22,{'Facebook'}
+Deep Speech 2: End-to-End Speech Recognition in English and Mandarin@@@Deep Speech 2,7,5.33,2015-12-08,{'Baidu'}
+Improving End-to-End Speech Recognition with Policy Learning@@@CTC + policy learning,12,5.42,2017-12-19,{'Salesforce.com'}
+@@@HMM-DNN + pNorm*,,,,set()
+The PyTorch-Kaldi Speech Recognition Toolkit@@@Li-GRU,13,6.2,2018-11-19,{'Université de Montréal'}
+Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces@@@Snips,8,6.4,2018-05-25,set()
+Semi-Supervised Speech Recognition via Local Prior Matching@@@Local Prior Matching (Large Model),4,7.19,2020-02-24,{'Facebook'}
+@@@HMM-(SAT)GMM,,,,set()
