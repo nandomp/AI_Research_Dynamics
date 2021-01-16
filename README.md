@@ -79,7 +79,7 @@ about their behaviour as well as some aggregated results in terms of activity, p
    * Atari 2600 Montezuma's Revenge 
    * Atari 2600 Space Invaders 
 
-### Result
+## Results
 
 * (**/Baselines** folder) High quality plots comparing community, affiliation and author grouping dynamics (progress in accuracy over time) for all the benchmarks analysed
 
