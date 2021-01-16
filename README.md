@@ -9,9 +9,20 @@ about their behaviour as well as some aggregated results in terms of activity, p
 
 * We detect and characterise the dynamics of research communities at different levels of abstraction, including organisation, affiliation, trajectories, results and activity. 
 
+*Associated paper under revision.*
+
+## CODE
+
+* **benchmark_analyzer.ipynb**: Code for extracting benchmark data from Papers With Code and affiliation data from Scinapse
+
+* **SOTAfront_plots.R**: Code for ploting the results in the paper.
+
+* **hypotheses_testing.R**: Code for testing the hypotheses in the paper.
+
+
 ## DATA
 
-(Folder Data/)
+(Folder Data/) Papers, authors, results, community memberships, SOTA jumps and dates. 
 
 * Image Classification
     * ImageNet
@@ -68,11 +79,13 @@ about their behaviour as well as some aggregated results in terms of activity, p
    * Atari 2600 Montezuma's Revenge 
    * Atari 2600 Space Invaders 
 
+## BASELINES
 
-## CODE
+(/Baselines folder) High quality plots comparing community, affiliation and author grouping dynamics (progress in accuracy over time) for all the benchmarks analysed.
 
+## FIGURES
 
-
+(/Figures folder) High quality plots showing community grouping dynamics (progress in accuracy over time) for all the benchmarks analysed.
 
 
 
