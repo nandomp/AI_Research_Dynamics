@@ -13,7 +13,7 @@ about their behaviour as well as some aggregated results in terms of activity, p
 *Associated paper under revision.*
 
 
-![Alt text](./Figures/Image Classification - ImageNet.jpg)
+![Alt text](https://github.com/nandomp/AI_Research_Dynamics/blob/master/Figures/Image%20Classification%20-%20ImageNet.jpg)
 
 
 ## Code
