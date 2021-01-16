@@ -11,7 +11,7 @@ about their behaviour as well as some aggregated results in terms of activity, p
 
 *Associated paper under revision.*
 
-### Code
+## Code
 
 * **benchmark_analyzer.ipynb**: Code for extracting benchmark data from Papers With Code and affiliation data from Scinapse
 
