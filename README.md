@@ -11,60 +11,62 @@ about their behaviour as well as some aggregated results in terms of activity, p
 
 ## DATA
 
+(Folder Data/)
+
 * Image Classification
     * ImageNet
     * CIFAR-100
 
-Semantic Segmentation
-Cityscapes
-Pascal VOC 2012 test
+* Semantic Segmentation
+   * Cityscapes
+   * Pascal VOC 2012 test
 
-Object Detection
-COCO test-dev
-COCO Minival 
+* Object Detection
+   * COCO test-dev
+   * COCO Minival 
 
-Image Generation
-CIFAR-10
+* Image Generation
+   * CIFAR-10
 
-Pose Estimation
-MPPII Human Pose
+* Pose Estimation
+   * MPPII Human Pose
 
-Action Recognition
-Videos on UCF101
-Videos on HMDB-51
+* Action Recognition
+   * Videos on UCF101
+   * Videos on HMDB-51
 
-Image Super-Resolution
-Set5 - 4x upscaling 
+* Image Super-Resolution
+   * Set5 - 4x upscaling 
 
-Machine Translation
-WMT2014 Eng-Ger
-WMT2014 Eng-Fre
+* Machine Translation
+   * WMT2014 Eng-Ger
+   * WMT2014 Eng-Fre
 
-Question Answering
-SQuAD1.1 
-WikiQA
+* Question Answering
+   * SQuAD1.1 
+   * WikiQA
 
-Language Modelling
-Penn Treebank
-enwik8
+* Language Modelling
+   * Penn Treebank
+   * enwik8
 
-Sentiment Analysis
-SST-2 Binary classification 
-IMDb
+* Sentiment Analysis
+   * SST-2 Binary classification 
+   * IMDb
 
-Named Entity Recognition
-CoNLL 2003 (English) 
-Ontonotes v5 (English)
+* Named Entity Recognition
+   * CoNLL 2003 (English) 
+   * Ontonotes v5 (English)
 
-Speech Recognition
-LibriSpeech test-clean
+* Speech Recognition
+   * LibriSpeech test-clean
 
-Link Prediction
-WN18RR
+* Link Prediction
+   * WN18RR
 
-Atari
-Atari 2600 Montezuma's Revenge 
-Atari 2600 Space Invaders 
+* Atari
+   * Atari 2600 Montezuma's Revenge 
+   * Atari 2600 Space Invaders 
 
 
 ## CODE
