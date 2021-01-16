@@ -13,7 +13,7 @@ about their behaviour as well as some aggregated results in terms of activity, p
 *Associated paper under revision.*
 
 
-![Alt text](Figures/Image Classification - ImageNet.jpg "Title")
+![Alt text]("/Figures/Image Classification - ImageNet.jpg" "Title")
 
 
 ## Code
