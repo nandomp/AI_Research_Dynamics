@@ -11,7 +11,7 @@ about their behaviour as well as some aggregated results in terms of activity, p
 
 *Associated paper under revision.*
 
-## CODE
+### Code
 
 * **benchmark_analyzer.ipynb**: Code for extracting benchmark data from Papers With Code and affiliation data from Scinapse
 
@@ -20,9 +20,9 @@ about their behaviour as well as some aggregated results in terms of activity, p
 * **hypotheses_testing.R**: Code for testing the hypotheses in the paper.
 
 
-## DATA
+## Data
 
-(Folder Data/) Papers, authors, results, community memberships, SOTA jumps and dates. 
+(**Data/** folder) Papers, authors, results, community memberships, SOTA jumps and dates. 
 
 * Image Classification
     * ImageNet
@@ -79,13 +79,11 @@ about their behaviour as well as some aggregated results in terms of activity, p
    * Atari 2600 Montezuma's Revenge 
    * Atari 2600 Space Invaders 
 
-## BASELINES
+### Result
 
-(/Baselines folder) High quality plots comparing community, affiliation and author grouping dynamics (progress in accuracy over time) for all the benchmarks analysed.
+* (**/Baselines** folder) High quality plots comparing community, affiliation and author grouping dynamics (progress in accuracy over time) for all the benchmarks analysed
 
-## FIGURES
-
-(/Figures folder) High quality plots showing community grouping dynamics (progress in accuracy over time) for all the benchmarks analysed.
+* (**/Figures** folder) High quality plots showing community grouping dynamics (progress in accuracy over time) for all the benchmarks analysed.
 
 
 
