@@ -15,7 +15,7 @@ about their behaviour as well as some aggregated results in terms of activity, p
 
 The following R/Python code (as well the data and results) is based on the methodology explained in:
 
-*Research Community Dynamics behind Popular AI Benchmarks*  by  Fernando Martinez-Plumed, Pablo Barredo, Sean ́O h ́Eigeartaigh and Jose Hernandez-Orallo (submitted, 2021)
+*Research Community Dynamics behind Popular AI Benchmarks*  by  Fernando Martinez-Plumed, Pablo Barredo, Sean ́O h ́Eigeartaigh and Jose Hernandez-Orallo (Nature Machine Intelligence, 2021)
 
 LICENCE: GPL
 
